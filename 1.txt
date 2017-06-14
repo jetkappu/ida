@@ -34,13 +34,13 @@ msgstr ""
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashStore"
 msgid "[Kafra Employee]"
-msgstr ""
+msgstr "[Karyawan Kafra]"
 
 # mes "Welcome to the Kafra Corporation.";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashStore"
 msgid "Welcome to the Kafra Corporation."
-msgstr ""
+msgstr "Selamat datang di Kafra Corporation."
 
 # mes "Here, let me open your Storage for you.";
 #: npc/other/CashShop_Functions.txt
@@ -52,187 +52,187 @@ msgstr "Di sini, biarkan saya membuka Penyimpanan Anda untuk Anda."
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Nogg Road"
-msgstr ""
+msgstr "Nogg Road"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Mjolnir Dead Pit"
-msgstr ""
+msgstr "Pit Mati Mjolnir"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Umbala Dungeon"
-msgstr ""
+msgstr "Umbala Dungeon"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Einbroch Mine Dungeon"
-msgstr ""
+msgstr "Dikeleon tambang Einbroch"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Payon Dungeon"
-msgstr ""
+msgstr "Payon Dungeon"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Toy Dungeon"
-msgstr ""
+msgstr "Toy Dungeon"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Glast Heim Underprison"
-msgstr ""
+msgstr "Glast Heim Underprison"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Louyang Dungeon"
-msgstr ""
+msgstr "Louyang Dungeon"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Hermit's Checkers"
-msgstr ""
+msgstr "Hermit's Checkers"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Izlude Dungeon"
-msgstr ""
+msgstr "Izlude Dungeon"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Turtle Island Dungeon"
-msgstr ""
+msgstr "Turtle Island Dungeon"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Clock Tower B3f"
-msgstr ""
+msgstr "Clock Tower B3f"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Clock Tower 3f"
-msgstr ""
+msgstr "Clock Tower 3f"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Glast Heim Culvert 2f"
-msgstr ""
+msgstr "Glast Heim Culvert 2f"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Sphinx Dungeon 4f"
-msgstr ""
+msgstr "Sphinx Dungeon 4f"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Inside Pyramid 4f"
-msgstr ""
+msgstr "Inside Pyramid 4f"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Prontera Culvert 3f"
-msgstr ""
+msgstr "Prontera Culvert 3f"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Amatsu Dungeon 1f (Tatami Maze)"
-msgstr ""
+msgstr "Amatsu Dungeon 1f (Tatami Maze)"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Somatology Laboratory 1st floor"
-msgstr ""
+msgstr "Laboratorium Somatologi lantai 1"
 
 # switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Ayothya Ancient Shrine 2nd floor"
-msgstr ""
+msgstr "Ayothya Ancient Shrine lantai 2"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Thor Volcano 2f"
-msgstr ""
+msgstr "Gunung berapi Thor 2f"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Ice Dungeon Entrance"
-msgstr ""
+msgstr "Pintu Masuk Es Dungeon"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Nameless Island Entrance"
-msgstr ""
+msgstr "Pulau Nameless Entrance"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Niflheim"
-msgstr ""
+msgstr "Niflheim"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Labyrinth Forest 2f"
-msgstr ""
+msgstr "Hutan Labyrinth 2f"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Ruins of Juperos Entrance"
-msgstr ""
+msgstr "Reruntuhan pintu masuk Juperos"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Ant Hell 2f"
-msgstr ""
+msgstr "Semut Neraka 2f"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Kiel Hyre's Academy Entrance"
-msgstr ""
+msgstr "Pintu Masuk Akademi Kiel Hyre"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Thanatos Tower Entrance"
-msgstr ""
+msgstr "Pintu Masuk Thanatos Tower"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Abyss Lake Entrance"
-msgstr ""
+msgstr "Pintu Masuk Danau Abyss"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Rachel Sanctuary Entrance"
-msgstr ""
+msgstr "Pintu Masuk Rachel Sanctuary"
 
 # switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
 #: npc/other/CashShop_Functions.txt
