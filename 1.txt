@@ -1,0 +1,5000 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2017  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: fef66e035cb4575fe991c72e19d488e14d67552b\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2017-06-13 20:43+0700\n"
+"PO-Revision-Date: 2017-06-13 20:46+0700\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: id\n"
+
+# mes "[Kafra Employee]";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashStore"
+msgid "[Kafra Employee]"
+msgstr ""
+
+# mes "Welcome to the Kafra Corporation.";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashStore"
+msgid "Welcome to the Kafra Corporation."
+msgstr ""
+
+# mes "Here, let me open your Storage for you.";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashStore"
+msgid "Here, let me open your Storage for you."
+msgstr "Di sini, biarkan saya membuka Penyimpanan Anda untuk Anda."
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Nogg Road"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Mjolnir Dead Pit"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Umbala Dungeon"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Einbroch Mine Dungeon"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Payon Dungeon"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Toy Dungeon"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Glast Heim Underprison"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Louyang Dungeon"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Hermit's Checkers"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Izlude Dungeon"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Turtle Island Dungeon"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Clock Tower B3f"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Clock Tower 3f"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Glast Heim Culvert 2f"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Sphinx Dungeon 4f"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Inside Pyramid 4f"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Prontera Culvert 3f"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Amatsu Dungeon 1f (Tatami Maze)"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Somatology Laboratory 1st floor"
+msgstr ""
+
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Ayothya Ancient Shrine 2nd floor"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Thor Volcano 2f"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Ice Dungeon Entrance"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Nameless Island Entrance"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Niflheim"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Labyrinth Forest 2f"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Ruins of Juperos Entrance"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Ant Hell 2f"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Kiel Hyre's Academy Entrance"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Thanatos Tower Entrance"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Abyss Lake Entrance"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Rachel Sanctuary Entrance"
+msgstr ""
+
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Odin Temple 2f"
+msgstr ""
+
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Bio Lab (2nd Floor)"
+msgstr ""
+
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Ice Dungeon (3rd Floor)"
+msgstr ""
+
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Odin Temple (3rd Floor)"
+msgstr ""
+
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Thor Volcano (3rd Floor)"
+msgstr ""
+
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Abyss Lake (3rd Floor)"
+msgstr ""
+
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashDungeon"
+msgid "Juperos Ruins (2nd Floor)"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Prontera"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Izlude"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Geffen"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Payon"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Morroc"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Alberta"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Al de Baran"
+msgstr ""
+
+# switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Juno"
+msgstr ""
+
+# switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Lighthalzen"
+msgstr ""
+
+# switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Einbroch"
+msgstr ""
+
+# switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Einbech"
+msgstr ""
+
+# switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Hugel"
+msgstr ""
+
+# switch(select("Rachel", "Veins")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Rachel"
+msgstr ""
+
+# switch(select("Rachel", "Veins")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Veins"
+msgstr ""
+
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Amatsu"
+msgstr ""
+
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Kunlun"
+msgstr ""
+
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Ayotaya"
+msgstr ""
+
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Louyang"
+msgstr ""
+
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang", "Moscovia", "Dewata", "Brasilis")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Moscovia"
+msgstr ""
+
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang", "Moscovia", "Dewata", "Brasilis")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Dewata"
+msgstr ""
+
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang", "Moscovia", "Dewata", "Brasilis")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashCity"
+msgid "Brasilis"
+msgstr ""
+
+# switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Prontera"
+msgstr ""
+
+# switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Geffen"
+msgstr ""
+
+# switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Al de Baran"
+msgstr ""
+
+# switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Izlude"
+msgstr ""
+
+# switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Savepoint"
+msgstr ""
+
+# switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Payon"
+msgstr ""
+
+# switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Alberta"
+msgstr ""
+
+# switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Morroc"
+msgstr ""
+
+# switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Comodo"
+msgstr ""
+
+# switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Louyang"
+msgstr ""
+
+# switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Amatsu"
+msgstr ""
+
+# switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Kunlun Field"
+msgstr ""
+
+# switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Ayothaya"
+msgstr ""
+
+# switch(select("Lutie Field", "Umbala", "Niflheim", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Lutie Field"
+msgstr ""
+
+# switch(select("Lutie Field", "Umbala", "Niflheim", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Umbala"
+msgstr ""
+
+# switch(select("Lutie Field", "Umbala", "Niflheim", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Niflheim"
+msgstr ""
+
+# switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Juno"
+msgstr ""
+
+# switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Einbroch"
+msgstr ""
+
+# switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Lighthalzen"
+msgstr ""
+
+# switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Hugel"
+msgstr ""
+
+# switch(select("Rachel", "Veins", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Rachel"
+msgstr ""
+
+# switch(select("Rachel", "Veins", "Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashTele"
+msgid "Veins"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Neuschwanstein (aldeg_cas01)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Hohenschwangau (aldeg_cas02)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Nuernberg (aldeg_cas03)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Wuerzburg (aldeg_cas04)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Rothenburg (aldeg_cas05)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Repherion (gefg_cas01)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Eeyorbriggar (gefg_cas02)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Yesnelph (gefg_cas03)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Bergel (gefg_cas04)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Mersetzdeitz (gefg_cas05)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Bright Arbor (payg_cas01)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Sacred Altar (payg_cas02)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Holy Shadow (payg_cas03)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Scarlet Palace (payg_cas04)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Bamboo Grove Hill (payg_cas05)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Kriemhild (prtg_cas01)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Swanhild (prtg_cas02)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Fadhgridh (prtg_cas03)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Skoegul (prtg_cas04)"
+msgstr ""
+
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_CashSiegeTele"
+msgid "Gondul (prtg_cas05)"
+msgstr ""
+
+# mes "[Snowman]";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "[Snowman]"
+msgstr ""
+
+# mes "Merry Christmas!";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Merry Christmas!"
+msgstr ""
+
+# switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Restore Some HP/SP"
+msgstr ""
+
+# switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Strengthen My Body!"
+msgstr ""
+
+# switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Restore My SP Fully."
+msgstr ""
+
+# switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Return to Savepoint"
+msgstr ""
+
+# mes "Aha!";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Aha!"
+msgstr ""
+
+# mes "Quiet night~";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Quiet night~"
+msgstr ""
+
+# mes "Blessings.";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Blessings."
+msgstr ""
+
+# mes "Holy night~";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Holy night~"
+msgstr ""
+
+# mes "Hey!";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Hey!"
+msgstr ""
+
+# mes "White Christmas~";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "White Christmas~"
+msgstr ""
+
+# mes "Jingle Bells~";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Jingle Bells~"
+msgstr ""
+
+# mes "Jingle Bells~ Jingle Bells!";
+#: npc/other/CashShop_Functions.txt
+msgctxt "F_Snowball"
+msgid "Jingle Bells~ Jingle Bells!"
+msgstr ""
+
+# mapannounce("airplane", _("We are heading to Einbroch."), bc_map, "0x00ff00");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "We are heading to Einbroch."
+msgstr ""
+
+# mapannounce("airplane", _("We will arrive in Einbroch shortly."), bc_map, "0x00ff00");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "We will arrive in Einbroch shortly."
+msgstr ""
+
+# mapannounce("airplane", _("Welcome to Einbroch. Have a safe trip."), bc_map, "0x00ff00");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "Welcome to Einbroch. Have a safe trip."
+msgstr ""
+
+# mapannounce("airplane", _("Currently we are in Einbroch. The Airship will take off shortly."), bc_map, "0x00ff00");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "Currently we are in Einbroch. The Airship will take off shortly."
+msgstr ""
+
+# mapannounce("airplane", _("The Airship is now taking off. Our next destination is Lighthalzen."), bc_map, "0x70dbdb");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "The Airship is now taking off. Our next destination is Lighthalzen."
+msgstr ""
+
+# mapannounce("airplane", _("We are heading to Lighthalzen."), bc_map, "0x70dbdb");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "We are heading to Lighthalzen."
+msgstr ""
+
+# mapannounce("airplane", _("We will arrive in Lighthalzen shortly."), bc_map, "0x70dbdb");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "We will arrive in Lighthalzen shortly."
+msgstr ""
+
+# mapannounce("airplane", _("Welcome to Lighthalzen. Have a safe trip."), bc_map, "0x70dbdb");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "Welcome to Lighthalzen. Have a safe trip."
+msgstr ""
+
+# mapannounce("airplane", _("Currently we are in Lighthalzen. The Airship will leave shortly."), bc_map, "0x70dbdb");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "Currently we are in Lighthalzen. The Airship will leave shortly."
+msgstr ""
+
+# mapannounce("airplane", _("The Airship is leaving the ground. Our next destination is Einbroch."), bc_map, "0x00ff00");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "The Airship is leaving the ground. Our next destination is Einbroch."
+msgstr ""
+
+# mapannounce("airplane", _("The Airship is now taking off. Our next destination is Juno."), bc_map, "0xff8200");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "The Airship is now taking off. Our next destination is Juno."
+msgstr ""
+
+# mapannounce("airplane", _("We are heading to Juno."), bc_map, "0xff8200");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "We are heading to Juno."
+msgstr ""
+
+# mapannounce("airplane", _("We will arrive in Juno shortly."), bc_map, "0xff8200");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "We will arrive in Juno shortly."
+msgstr ""
+
+# mapannounce("airplane", _("Welcome to Juno. Have a safe trip."), bc_map, "0xff8200");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "Welcome to Juno. Have a safe trip."
+msgstr ""
+
+# mapannounce("airplane", _("Currently we are in Juno. The Airship will leave shortly."), bc_map, "0xff8200");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "Currently we are in Juno. The Airship will leave shortly."
+msgstr ""
+
+# mapannounce("airplane", _("The Airship is leaving the ground. Our next destination is Hugel."), bc_map, "0xca4bf3");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "The Airship is leaving the ground. Our next destination is Hugel."
+msgstr ""
+
+# mapannounce("airplane", _("We are heading to Hugel."), bc_map, "0xca4bf3");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "We are heading to Hugel."
+msgstr ""
+
+# mapannounce("airplane", _("We will arrive in Hugel shortly."), bc_map, "0xca4bf3");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "We will arrive in Hugel shortly."
+msgstr ""
+
+# mapannounce("airplane", _("Welcome to Hugel. Have a safe trip."), bc_map, "0xca4bf3");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "Welcome to Hugel. Have a safe trip."
+msgstr ""
+
+# mapannounce("airplane", _("Currently we are in Hugel. The Airship will leave shortly."), bc_map, "0xca4bf3");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "Currently we are in Hugel. The Airship will leave shortly."
+msgstr ""
+
+# mapannounce("airplane", _("The Airship is leaving the ground. Our next destination is Juno."), bc_map, "0xff8200");
+#: npc/airports/airships.txt
+msgctxt "Domestic_Airship"
+msgid "The Airship is leaving the ground. Our next destination is Juno."
+msgstr ""
+
+# mes("[Airship Crew]");
+#: npc/airports/airships.txt
+msgctxt "Airship Crew#ein-1"
+msgid "[Airship Crew]"
+msgstr ""
+
+# mes("If we've landed at\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Crew#ein-1"
+msgid ""
+"If we've landed at\ryour destination and\ryou'd like to leave the\rAirship, please use the\rstairs up ahead. Thank"
+"\ryou for your patronage."
+msgstr ""
+
+# mes("[Kid]");
+#: npc/airports/airships.txt
+msgctxt "Umbala Kid#ein_p"
+msgid "[Kid]"
+msgstr ""
+
+# mes("Wow, mom!");
+#: npc/airports/airships.txt
+msgctxt "Umbala Kid#ein_p"
+msgid "Wow, mom!"
+msgstr ""
+
+# mes("L-look at this!");
+#: npc/airports/airships.txt
+msgctxt "Umbala Kid#ein_p"
+msgid "L-look at this!"
+msgstr ""
+
+# mes("We're flying! W-we're...");
+#: npc/airports/airships.txt
+msgctxt "Umbala Kid#ein_p"
+msgid "We're flying! W-we're..."
+msgstr ""
+
+# mes("We're in the freakin' sky!");
+#: npc/airports/airships.txt
+msgctxt "Umbala Kid#ein_p"
+msgid "We're in the freakin' sky!"
+msgstr ""
+
+# mes("Makumalagu!");
+#: npc/airports/airships.txt
+msgctxt "Umbala Kid#ein_p"
+msgid "Makumalagu!"
+msgstr ""
+
+# mes("Saampa joojimbo");
+#: npc/airports/airships.txt
+msgctxt "Umbala Kid#ein_p"
+msgid "Saampa joojimbo"
+msgstr ""
+
+# mes("kaku na jedi Solo.");
+#: npc/airports/airships.txt
+msgctxt "Umbala Kid#ein_p"
+msgid "kaku na jedi Solo."
+msgstr ""
+
+# mes("Bwahahahahahahaah!");
+#: npc/airports/airships.txt
+msgctxt "Umbala Kid#ein_p"
+msgid "Bwahahahahahahaah!"
+msgstr ""
+
+# mes("[Lady]");
+#: npc/airports/airships.txt
+msgctxt "Umbala Lady#ein_p"
+msgid "[Lady]"
+msgstr ""
+
+# mes("Shush...");
+#: npc/airports/airships.txt
+msgctxt "Umbala Lady#ein_p"
+msgid "Shush..."
+msgstr ""
+
+# mes("Honey, behave~");
+#: npc/airports/airships.txt
+msgctxt "Umbala Lady#ein_p"
+msgid "Honey, behave~"
+msgstr ""
+
+# mes("Don't act so excited\r"
+#: npc/airports/airships.txt
+msgctxt "Umbala Lady#ein_p"
+msgid "Don't act so excited\rwhen we're out in a\rpublic place like this!"
+msgstr ""
+
+# mes("Chooktu!");
+#: npc/airports/airships.txt
+msgctxt "Umbala Lady#ein_p"
+msgid "Chooktu!"
+msgstr ""
+
+# mes("Sacraup matii!");
+#: npc/airports/airships.txt
+msgctxt "Umbala Lady#ein_p"
+msgid "Sacraup matii!"
+msgstr ""
+
+# mes("Shaka gurftalfi\r"
+#: npc/airports/airships.txt
+msgctxt "Umbala Lady#ein_p"
+msgid "Shaka gurftalfi\rhuntiki manjoo!"
+msgstr ""
+
+# mes("[Chrmlim]");
+#: npc/airports/airships.txt
+msgctxt "Umbala Man#ein_p"
+msgid "[Chrmlim]"
+msgstr ""
+
+# mes("Hey there~");
+#: npc/airports/airships.txt
+msgctxt "Umbala Man#ein_p"
+msgid "Hey there~"
+msgstr ""
+
+# mes("From that look on\r"
+#: npc/airports/airships.txt
+msgctxt "Umbala Man#ein_p"
+msgid "From that look on\ryour face, I see that\ryou can understand\rme. ^333333*Whew...!*^000000"
+msgstr ""
+
+# mes("I've been helping the\r"
+#: npc/airports/airships.txt
+msgctxt "Umbala Man#ein_p"
+msgid ""
+"I've been helping the\rAirship enterprise by\rhaving the Airship Crewmen\rtrain in Umbala to overcome\rany "
+"acrophobia they might have through bungee jumping. Neat, eh?"
+msgstr ""
+
+# mes("But...");
+#: npc/airports/airships.txt
+msgctxt "Umbala Man#ein_p"
+msgid "But..."
+msgstr ""
+
+# mes("Some of them couldn't\r"
+#: npc/airports/airships.txt
+msgctxt "Umbala Man#ein_p"
+msgid ""
+"Some of them couldn't\rovercome their fear of\rheights. And a few even\rended up, um, ^333333in Nifflheim^000000."
+msgstr ""
+
+# mes("Bajoo ga\r"
+#: npc/airports/airships.txt
+msgctxt "Umbala Man#ein_p"
+msgid "Bajoo ga\rnukta Airship."
+msgstr ""
+
+# mes("...");
+#: npc/airports/airships.txt
+msgctxt "Umbala Man#ein_p"
+msgid "..."
+msgstr ""
+
+# mes("......");
+#: npc/airports/airships.txt
+msgctxt "Umbala Man#ein_p"
+msgid "......"
+msgstr ""
+
+# mes("Shabala moow bajama\r"
+#: npc/airports/airships.txt
+msgctxt "Umbala Man#ein_p"
+msgid "Shabala moow bajama\rAirship kulaha googoona\rsalu. Dama, kookoo na nu\ryukuta. Um, fashuku na ret!"
+msgstr ""
+
+# mes("[Airship Staff]");
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid "[Airship Staff]"
+msgstr ""
+
+# mes("Welcome\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid "Welcome\rto the Airship."
+msgstr ""
+
+# mes("How may I help you?");
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid "How may I help you?"
+msgstr ""
+
+# select("Do you have a passenger named Thierry?");
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid "Do you have a passenger named Thierry?"
+msgstr ""
+
+# mes("I am sorry, but I do not think that we have a passenger by that name.");
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid "I am sorry, but I do not think that we have a passenger by that name."
+msgstr ""
+
+# switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid "Using the Airship"
+msgstr ""
+
+# switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid "Captain's Cabin"
+msgstr ""
+
+# switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid "Facilities"
+msgstr ""
+
+# switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid "Cancel"
+msgstr ""
+
+# mes("When you see a broadcast\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid ""
+"When you see a broadcast\rannouncing that we have\rarrived at your destination,\rplease use one of the exits"
+"\rlocated at the north and\rsouth ends of the Airship."
+msgstr ""
+
+# mes("If you happen to miss\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid ""
+"If you happen to miss\ryour stop, don't worry.\rThe Airship is constantly\ren route and you'll get\ranother chance "
+"to arrive\rto your intended destination."
+msgstr ""
+
+# mes("The Captain's Cabin\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid ""
+"The Captain's Cabin\ris located at the front\rof the Airship. There, you\rcan meet the captain and\rthe pilot of the "
+"Airship."
+msgstr ""
+
+# mes("The Airship provides\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid ""
+"The Airship provides\rvarious Mini Games for\rthe entertainment of all\rour passengers. We invite\ryou to try your "
+"luck and skills\rin the Airship's Mini Games~"
+msgstr ""
+
+# mes("Well, I hope you\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane"
+msgid "Well, I hope you\ryour flight aboard\rour Airships. Thank\ryou and have a good day."
+msgstr ""
+
+# mes("[Zerta]");
+#: npc/airports/airships.txt
+msgctxt "Zerta#01airplane"
+msgid "[Zerta]"
+msgstr ""
+
+# mes("Oh, hello adventurer.\r"
+#: npc/airports/airships.txt
+msgctxt "Zerta#01airplane"
+msgid ""
+"Oh, hello adventurer.\rI am currently on a\rsacred journey, offering\rprayer for the sake of the\rRune-Midgard "
+"continent."
+msgstr ""
+
+# mes("[Maelin]");
+#: npc/airports/airships.txt
+msgctxt "Maelin#01airplane"
+msgid "[Maelin]"
+msgstr ""
+
+# mes("Um, this Airship is\r"
+#: npc/airports/airships.txt
+msgctxt "Maelin#01airplane"
+msgid ""
+"Um, this Airship is\rto Lutie, isn't it? I've\rwaiting so long,\rbut I haven't heard any\rbroadcast about Lutie."
+msgstr ""
+
+# mes("[Aanos]");
+#: npc/airports/airships.txt
+msgctxt "Aanos#01airplane"
+msgid "[Aanos]"
+msgstr ""
+
+# mes("Oh wooow~");
+#: npc/airports/airships.txt
+msgctxt "Aanos#01airplane"
+msgid "Oh wooow~"
+msgstr ""
+
+# mes("The sky looks\r"
+#: npc/airports/airships.txt
+msgctxt "Aanos#01airplane"
+msgid "The sky looks\rso different and\rpretty from up there!\r"
+msgstr ""
+
+# mes("[Pilot]");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "[Pilot]"
+msgstr ""
+
+# mes("I wish that I could go drink a cold fresh beer.");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "I wish that I could go drink a cold fresh beer."
+msgstr ""
+
+# mes("Drinking is the goal of my life! Drinking gives me energy!");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "Drinking is the goal of my life! Drinking gives me energy!"
+msgstr ""
+
+# mes("I am nothing without drinks!");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "I am nothing without drinks!"
+msgstr ""
+
+# mes("But! Driving under the influence is not good.");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "But! Driving under the influence is not good."
+msgstr ""
+
+# mes("But! That makes me want to drink more and more!");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "But! That makes me want to drink more and more!"
+msgstr ""
+
+# select("Do you know a passenger named Thierry?");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "Do you know a passenger named Thierry?"
+msgstr ""
+
+# mes("This uniform is\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "This uniform is\rreally dapper, but\rit's way too thick to\rwear around the Airship."
+msgstr ""
+
+# mes("...");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "..."
+msgstr ""
+
+# mes("......");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "......"
+msgstr ""
+
+# mes("No one ever really\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "No one ever really\rcomes into this room."
+msgstr ""
+
+# mes("And the captain IS a reindeer. I could just strip to my boxers.");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "And the captain IS a reindeer. I could just strip to my boxers."
+msgstr ""
+
+# mes("Wah!? Who is it!");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "Wah!? Who is it!"
+msgstr ""
+
+# mes("- ...He is not listening to you, at all. -");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "- ...He is not listening to you, at all. -"
+msgstr ""
+
+# mes("It's been sooo\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid ""
+"It's been sooo\rlong since I've\renjoyed a nice, cold\ralcoholic brew. But the\rjob requires me to be as\rclear "
+"headed as I can!"
+msgstr ""
+
+# mes("Always drink responsibly!");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "Always drink responsibly!"
+msgstr ""
+
+# mes("Still, I can't remember the\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid ""
+"Still, I can't remember the\rlast time I had a real vacation\ror even a day off. Yeap, some\rbooze, some chips, some "
+"TV\rand serius R&R is in order."
+msgstr ""
+
+# mes("Man, the weather\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "Man, the weather\ris really nice today."
+msgstr ""
+
+# mes("Bright, open skies make\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "Bright, open skies make\rfor some good visibility\rand safe, carefree flying."
+msgstr ""
+
+# mes("You know, our captain's a\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid ""
+"You know, our captain's a\rrespectable guy. Him and\rhis brother are actually well\rknown in the aircraft industry."
+msgstr ""
+
+# mes("Who knew reindeer made\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "Who knew reindeer made\rsuch good captains?"
+msgstr ""
+
+# mes("Just between you\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid ""
+"Just between you\rand me, I gotta tell\ryou, that Santa was onto\rsomething, getting reindeers\rand elves to work "
+"for him."
+msgstr ""
+
+# mes("The man must be a genius!");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "The man must be a genius!"
+msgstr ""
+
+# mes("You know, this whole\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "You know, this whole\rpiloting thing in the air,\rit's rather new, you know?"
+msgstr ""
+
+# mes("Yeah, they got this Airship\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "Yeah, they got this Airship\roperation in a hurry."
+msgstr ""
+
+# mes("Still, they where real\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid ""
+"Still, they where real\rserius, really thought\rahead. I mean, they had us\rtraining while the Airships\rwere still "
+"being invented."
+msgstr ""
+
+# mes("Isn't that freakin' crazy?!");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane"
+msgid "Isn't that freakin' crazy?!"
+msgstr ""
+
+# mes("[Fruitz]");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "[Fruitz]"
+msgstr ""
+
+# mes("Welcome to Fruitz's\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Welcome to Fruitz's\rShop where you can\rpurchase Apples or grind\rthem to make Apple Juice."
+msgstr ""
+
+# switch (select("Buy Apples.", "Make Apple Juice.", "Why are you here?", "Cancel.")) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Buy Apples."
+msgstr ""
+
+# switch (select("Buy Apples.", "Make Apple Juice.", "Why are you here?", "Cancel.")) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Make Apple Juice."
+msgstr ""
+
+# switch (select("Buy Apples.", "Make Apple Juice.", "Why are you here?", "Cancel.")) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Why are you here?"
+msgstr ""
+
+# switch (select("Buy Apples.", "Make Apple Juice.", "Why are you here?", "Cancel.")) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Cancel."
+msgstr ""
+
+# mes("Please enter the amount\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid ""
+"Please enter the amount\rof Apples that you wish to\rbuy. Each Apple is 15 zeny\rand you can buy a maximum\rof 500 "
+"at a time. Please enter\r '0' to cancel your order."
+msgstr ""
+
+# mes("Thanks for stopping\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Thanks for stopping\rby my shop. Farewell!"
+msgstr ""
+
+# mes("Come by anytime when\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Come by anytime when\ryou feel like having an\rApple to snack on~"
+msgstr ""
+
+# mes("You've entered a number\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid ""
+"You've entered a number\rhigher than the maximum\rvalue of 500. Please enter\rthe number of Apples you\rwish to "
+"purchase again."
+msgstr ""
+
+# mesf("A total of ^FF0000%d^000000 Apples\r"
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "Apple Merchant#airplane"
+msgid "A total of ^FF0000%d^000000 Apples\rwill cost you ^FF0000%d Zeny^000000."
+msgstr ""
+
+# mes("Would you like to continue?");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Would you like to continue?"
+msgstr ""
+
+# if (select("Yes", "No") == 2) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 2) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "No"
+msgstr ""
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "I'm sorry, but you don't\rhave enough money to\rpurchase that many Apples."
+msgstr ""
+
+# mes("Please check your zeny or\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Please check your zeny or\rpurchase fewer Apples."
+msgstr ""
+
+# mes("Hmmm, I don't think\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid ""
+"Hmmm, I don't think\ryou've got enough room in\ryour inventory to carry this\rmany Apples. Why don't you free up "
+"some of your inventory space?"
+msgstr ""
+
+# mes("Thanks for stopping by\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Thanks for stopping by\rmy shop. I hope you enjoy\rthe flavor of these Apples~!"
+msgstr ""
+
+# mes("Okay, I'll need\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Okay, I'll need\r^FF00003 Apples and 1 Empty Bottle^000000\rto make 1 Apple Juice for you."
+msgstr ""
+
+# mes("Would you like to proceed?");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Would you like to proceed?"
+msgstr ""
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "I'm sorry, but you don't\rhave enough materials to\rcreate a bottle of Apple Juice."
+msgstr ""
+
+# mes("Remember, I need 3 Apples\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Remember, I need 3 Apples\rand 1 Empty Bottle to do it."
+msgstr ""
+
+# mes("Thank you,\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Thank you,\rplease wait\rjust a moment."
+msgstr ""
+
+# mes("^3355FF*Grind grind*");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "^3355FF*Grind grind*"
+msgstr ""
+
+# mes("*Grind grind*");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "*Grind grind*"
+msgstr ""
+
+# mes("*Clang...!*^000000");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "*Clang...!*^000000"
+msgstr ""
+
+# mes("There you go~");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "There you go~"
+msgstr ""
+
+# mes("I hope you enjoy!");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "I hope you enjoy!"
+msgstr ""
+
+# mes("Please feel free to\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Please feel free to\rstop by for your Apple\rand Apple Juice needs\rat anytime, adventurer~"
+msgstr ""
+
+# mes("I used to be a wandering\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid ""
+"I used to be a wandering\rvagabond when, one day,\rI took a nap and something\rstruck my head and awoke\rme from my "
+"restful slumber."
+msgstr ""
+
+# mes("It turns out that I was\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "It turns out that I was\rsleeping beneath an apple\rtree and that an apple fell\rand hit me on the head."
+msgstr ""
+
+# mes("I was dying of hunger and\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "I was dying of hunger and\rwas about to eat that Apple..."
+msgstr ""
+
+# mes("But suddenly, Kain, my old\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid ""
+"But suddenly, Kain, my old\rfriend from the mining days,\rasked me to help him around\ron the Airship. So I did, and"
+"\rit was there where I found some\rpeople playing the Dice game."
+msgstr ""
+
+# mes("I was bored and curious\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid ""
+"I was bored and curious\rand ended up wagering that\rsingle Apple in a game of\rdice. But for some reason,\rI had "
+"this incredible lucky\rstreak. One apple became two..."
+msgstr ""
+
+# mes("Two became four and\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Two became four and\rbefore I knew it, I had\rcornered the Apple market!"
+msgstr ""
+
+# mes("I won so many Apples, I just\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "I won so many Apples, I just\rstarted my own business here\ron the Airship. Weird, huh?"
+msgstr ""
+
+# mes("So Apples are good\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "So Apples are good\rfor you. They were\rcertainly very good\rto me. Hahahahaah~!"
+msgstr ""
+
+# mes("Thank you for\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Thank you for\rusing my shop."
+msgstr ""
+
+# mes("Farewell~");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#airplane"
+msgid "Farewell~"
+msgstr ""
+
+# mapannounce("airplane_01", _("We are heading to Izlude."), bc_map, "0x00ff00");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "We are heading to Izlude."
+msgstr ""
+
+# mapannounce("airplane_01", _("We will arrive in Izlude shortly."), bc_map, "0x00ff00");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "We will arrive in Izlude shortly."
+msgstr ""
+
+# mapannounce("airplane_01", _("Welcome to Izlude. Have a safe trip."), bc_map, "0x00ff00");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "Welcome to Izlude. Have a safe trip."
+msgstr ""
+
+# mapannounce("airplane_01", _("We are currently in Izlude. The Airship will take off shortly."), bc_map, "0x00ff00");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "We are currently in Izlude. The Airship will take off shortly."
+msgstr ""
+
+# mapannounce("airplane_01", _("The Airship is now taking off. Our next destination is Juno."), bc_map, "0x70dbdb");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "The Airship is now taking off. Our next destination is Juno."
+msgstr ""
+
+# mapannounce("airplane_01", _("We are heading to Juno."), bc_map, "0x70dbdb");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "We are heading to Juno."
+msgstr ""
+
+# mapannounce("airplane_01", _("We will arrive in Juno shortly."), bc_map, "0x70dbdb");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "We will arrive in Juno shortly."
+msgstr ""
+
+# mapannounce("airplane_01", _("Welcome to Juno. Have a safe trip."), bc_map, "0x70dbdb");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "Welcome to Juno. Have a safe trip."
+msgstr ""
+
+# mapannounce("airplane_01", _("We are currently in Juno. The Airship will leave shortly."), bc_map, "0x70dbdb");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "We are currently in Juno. The Airship will leave shortly."
+msgstr ""
+
+# mapannounce("airplane_01", _("The Airship is leaving the ground. Our next destination is Rachel."), bc_map, "0xFF8200");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "The Airship is leaving the ground. Our next destination is Rachel."
+msgstr ""
+
+# mapannounce("airplane_01", _("We are heading to Rachel."), bc_map, "0xFF8200");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "We are heading to Rachel."
+msgstr ""
+
+# mapannounce("airplane_01", _("We will arrive in Rachel shortly."), bc_map, "0xFF8200");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "We will arrive in Rachel shortly."
+msgstr ""
+
+# mapannounce("airplane_01", _("Welcome to Rachel. Have a safe trip."), bc_map, "0xFF8200");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "Welcome to Rachel. Have a safe trip."
+msgstr ""
+
+# mapannounce("airplane_01", _("We are currently in Rachel. The Airship will take off shortly."), bc_map, "0xFF8200");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "We are currently in Rachel. The Airship will take off shortly."
+msgstr ""
+
+# mapannounce("airplane_01", _("The Airship is now taking off. Our next destination is Izlude."), bc_map, "0x00ff00");
+#: npc/airports/airships.txt
+msgctxt "International_Airship"
+msgid "The Airship is now taking off. Our next destination is Izlude."
+msgstr ""
+
+# mes("[Airship Staff]");
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid "[Airship Staff]"
+msgstr ""
+
+# mes("Welcome\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid "Welcome\rto the Airship."
+msgstr ""
+
+# mes("How may I help you?");
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid "How may I help you?"
+msgstr ""
+
+# switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid "Using the Airship"
+msgstr ""
+
+# switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid "Captain's Cabin"
+msgstr ""
+
+# switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid "Facilities"
+msgstr ""
+
+# switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid "Cancel"
+msgstr ""
+
+# mes("When you see a broadcast\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid ""
+"When you see a broadcast\rannouncing that we have\rarrived at your destination,\rplease use one of the exits"
+"\rlocated at the north and\rsouth ends of the Airship."
+msgstr ""
+
+# mes("If you happen to miss\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid "If you happen to miss\ryour stop, don't worry."
+msgstr ""
+
+# mes("The Airship is constantly\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid "The Airship is constantly\ren route and you'll get\ranother chance to arrive\rto your intended destination."
+msgstr ""
+
+# mes("The Captain's Cabin\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid ""
+"The Captain's Cabin\ris located at the front\rof the Airship. There, you\rcan meet the captain and\rthe pilot of the "
+"Airship."
+msgstr ""
+
+# mes("The Airship provides\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid ""
+"The Airship provides\rvarious Mini Games for\rthe entertainment of all\rour passengers. We invite\ryou to try your "
+"luck and skills\rin the Airship's Mini Games~"
+msgstr ""
+
+# mes("Well, I hope you\r"
+#: npc/airports/airships.txt
+msgctxt "Airship Staff#airplane01"
+msgid "Well, I hope you\ryour flight aboard\rour Airships. Thank\ryou and have a good day."
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("[Meltz]");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "[Meltz]"
+msgstr ""
+
+# mes("Welcome to Meltz's\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Welcome to Meltz's\rShop where you can\rpurchase Apples or grind\rthem to make Apple Juice."
+msgstr ""
+
+# switch (select("Buy Apples.", "Make Apple Juice.", "Cancel.")) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Buy Apples."
+msgstr ""
+
+# switch (select("Buy Apples.", "Make Apple Juice.", "Cancel.")) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Make Apple Juice."
+msgstr ""
+
+# switch (select("Buy Apples.", "Make Apple Juice.", "Cancel.")) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Cancel."
+msgstr ""
+
+# mes("Please enter the amount\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid ""
+"Please enter the amount\rof Apples that you wish to\rbuy. Each Apple is 15 zeny\rand you can buy a maximum\rof 500 "
+"at a time. Please enter\r'0' to cancel your order."
+msgstr ""
+
+# mes("Thanks for stopping\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Thanks for stopping\rby my shop. Farewell!"
+msgstr ""
+
+# mes("Come by anytime when\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Come by anytime when\ryou feel like having an\rApple to snack on~"
+msgstr ""
+
+# mes("You've entered a number\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid ""
+"You've entered a number\rhigher than the maximum\rvalue of 500. Please enter\rthe number of Apples you\rwish to "
+"purchase again."
+msgstr ""
+
+# mesf("A total of ^FF0000%d^000000 Apples\r"
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "Apple Merchant#air01"
+msgid "A total of ^FF0000%d^000000 Apples\rwill cost you ^FF0000%d Zeny^000000."
+msgstr ""
+
+# mes("Would you like to continue?");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Would you like to continue?"
+msgstr ""
+
+# if (select("Yes", "No") == 2) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 2) {
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "No"
+msgstr ""
+
+# mes("I'm sorry, you don't have\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "I'm sorry, you don't have\renough money with you."
+msgstr ""
+
+# mes("Please check your funds or\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Please check your funds or\rpurchase less Apples."
+msgstr ""
+
+# mes("Hmm, I don't think you've\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid ""
+"Hmm, I don't think you've\rgot enough room to carry\rthis many Apples. You might\rwant to free up your inventory"
+"\rspace."
+msgstr ""
+
+# mes("Thanks for stopping by\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Thanks for stopping by\rmy shop. I hope you enjoy\rthe flavor of these Apples~!"
+msgstr ""
+
+# mes("Okay, I'll need\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Okay, I'll need\r^FF00003 Apples and 1 Empty Bottle^000000\rto make 1 Apple Juice for you."
+msgstr ""
+
+# mes("Would you like to proceed?");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Would you like to proceed?"
+msgstr ""
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "I'm sorry, but you don't\rhave enough materials to\rcreate a bottle of Apple Juice."
+msgstr ""
+
+# mes("Remember, I need 3 Apples\r"
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Remember, I need 3 Apples\rand 1 Empty Bottle to do it."
+msgstr ""
+
+# mes("Thank you, please wait.");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Thank you, please wait."
+msgstr ""
+
+# mes("^3355FF*Grind* *Grind*");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "^3355FF*Grind* *Grind*"
+msgstr ""
+
+# mes("*Grind* *Grind*");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "*Grind* *Grind*"
+msgstr ""
+
+# mes("*Clang...!*^000000");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "*Clang...!*^000000"
+msgstr ""
+
+# mes("There you go~");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "There you go~"
+msgstr ""
+
+# mes("Please come again.");
+#: npc/airports/airships.txt
+msgctxt "Apple Merchant#air01"
+msgid "Please come again."
+msgstr ""
+
+# mes("[Pilot]");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "[Pilot]"
+msgstr ""
+
+# mes("Longitude, 131 degrees east.");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "Longitude, 131 degrees east."
+msgstr ""
+
+# mes("Latitude, 37 degrees north.");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "Latitude, 37 degrees north."
+msgstr ""
+
+# mes("We're right on course, captain.");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "We're right on course, captain."
+msgstr ""
+
+# mes("Looks like a really\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid ""
+"Looks like a really\rcloudy day. Always hard\rto navigate when the skies\raren't clear. Guess we'll\rneed to amp the "
+"radar."
+msgstr ""
+
+# mes("The Captain is a good\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid ""
+"The Captain is a good\rman and I can't think of\ra finer person to command\rthis ship. Still, he's pretty\rtough, a "
+"real slave driver."
+msgstr ""
+
+# mes("[^ff0000Tarlock^000000]");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "[^ff0000Tarlock^000000]"
+msgstr ""
+
+# mes("^ff0000Hey...!^000000");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "^ff0000Hey...!^000000"
+msgstr ""
+
+# mes("^ff0000Less chit-chat^000000");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "^ff0000Less chit-chat^000000"
+msgstr ""
+
+# mes("^ff0000and more piloting!^000000");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "^ff0000and more piloting!^000000"
+msgstr ""
+
+# mes("R-right away, sir!");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "R-right away, sir!"
+msgstr ""
+
+# mes("(See what I mean?)");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "(See what I mean?)"
+msgstr ""
+
+# mes("This uniform is\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "This uniform is\rreally dapper, but\rit's way too thick to\rwear around the Airship."
+msgstr ""
+
+# mes("...");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "..."
+msgstr ""
+
+# mes("......");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "......"
+msgstr ""
+
+# mes("No one ever really\r"
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "No one ever really\rcomes into this room."
+msgstr ""
+
+# mes("And the captain IS a reindeer.");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "And the captain IS a reindeer."
+msgstr ""
+
+# mes("I could just strip to my boxers.");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "I could just strip to my boxers."
+msgstr ""
+
+# mes("Oh...! Hello there!");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "Oh...! Hello there!"
+msgstr ""
+
+# mes("E-e-enjoying your flight?!");
+#: npc/airports/airships.txt
+msgctxt "Pilot#airplane_01"
+msgid "E-e-enjoying your flight?!"
+msgstr ""
+
+# mes("[Dianne]");
+#: npc/airports/airships.txt
+msgctxt "Dianne#01airplane_01"
+msgid "[Dianne]"
+msgstr ""
+
+# mes("It's so weird!");
+#: npc/airports/airships.txt
+msgctxt "Dianne#01airplane_01"
+msgid "It's so weird!"
+msgstr ""
+
+# mes("I went to visit the\r"
+#: npc/airports/airships.txt
+msgctxt "Dianne#01airplane_01"
+msgid "I went to visit the\rAirship Captain and\rall I saw was this\rweird reindeer. Oh!"
+msgstr ""
+
+# mes("Do you think that...");
+#: npc/airports/airships.txt
+msgctxt "Dianne#01airplane_01"
+msgid "Do you think that..."
+msgstr ""
+
+# mes("[Mendel]");
+#: npc/airports/airships.txt
+msgctxt "Mendel#01airplane_01"
+msgid "[Mendel]"
+msgstr ""
+
+# mes("As I expected, the\r"
+#: npc/airports/airships.txt
+msgctxt "Mendel#01airplane_01"
+msgid "As I expected, the\rin-flight meals are\rthree star quality at best."
+msgstr ""
+
+# mes("*Harrrumph* I really should\r"
+#: npc/airports/airships.txt
+msgctxt "Mendel#01airplane_01"
+msgid "*Harrrumph* I really should\rhave brought my chef so that\rI could enjoy a real meal."
+msgstr ""
+
+# mes("[Swordsman Shimizu]");
+#: npc/airports/airships.txt
+msgctxt "Swordsman Shimizu#air_01"
+msgid "[Swordsman Shimizu]"
+msgstr ""
+
+# mes("Finally, after five\r"
+#: npc/airports/airships.txt
+msgctxt "Swordsman Shimizu#air_01"
+msgid "Finally, after five\ryears of waiting..."
+msgstr ""
+
+# mes("I can have my revenge!");
+#: npc/airports/airships.txt
+msgctxt "Swordsman Shimizu#air_01"
+msgid "I can have my revenge!"
+msgstr ""
+
+# mes("I just...");
+#: npc/airports/airships.txt
+msgctxt "Swordsman Shimizu#air_01"
+msgid "I just..."
+msgstr ""
+
+# mes("Have to make sure that\r"
+#: npc/airports/airships.txt
+msgctxt "Swordsman Shimizu#air_01"
+msgid "Have to make sure that\rI don't keep missing my\rstop. But soon, very soon,\rvengeance will be mine!"
+msgstr ""
+
+# mes("[Nils]");
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "[Nils]"
+msgstr ""
+
+# mes("Welcome to the\r"
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "Welcome to the\r^ff0000RO Typing Challenge^000000."
+msgstr ""
+
+# mes("Would you like to play\r"
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "Would you like to play\ra quick typing game?"
+msgstr ""
+
+# switch (select("Play ^ff0000RO Typing Challenge^000000", "Information", "View Top Records", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "Play ^ff0000RO Typing Challenge^000000"
+msgstr ""
+
+# switch (select("Play ^ff0000RO Typing Challenge^000000", "Information", "View Top Records", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "Information"
+msgstr ""
+
+# switch (select("Play ^ff0000RO Typing Challenge^000000", "Information", "View Top Records", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "View Top Records"
+msgstr ""
+
+# switch (select("Play ^ff0000RO Typing Challenge^000000", "Information", "View Top Records", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "Cancel"
+msgstr ""
+
+# mes("Okay, we have\r"
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "Okay, we have\ra new challenger!"
+msgstr ""
+
+# mes("Enter the following\r"
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "Enter the following\rtext as quickly as you\rcan without making any\rmistakes! Let's start~!"
+msgstr ""
+
+# mesf("Your record is ^ff0000%d seconds^000000 and\r"
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "Nils#ein"
+msgid "Your record is ^ff0000%d seconds^000000 and\rthe total letters are %d."
+msgstr ""
+
+# mes("Hmmm, this record isn't\r"
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid ""
+"Hmmm, this record isn't\rhumanly possible unless you\rcopy and paste the whole\rsentence. Please play fairly\rnext "
+"time."
+msgstr ""
+
+# mesf("The previous top record was\r"
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "Nils#ein"
+msgid "The previous top record was\rmade by ^0000ff%s^000000\rwith the total ^0000ff%d^000000 letters."
+msgstr ""
+
+# mesf("However, ^ff0000%s^000000,\r"
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "Nils#ein"
+msgid "However, ^ff0000%s^000000,\ryou made the new top record\rthis time. Congratulations!"
+msgstr ""
+
+# mesf("^0000ff%s^000000\r"
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "Nils#ein"
+msgid ""
+"^0000ff%s^000000\ris the current\rrecord holder with\ra letter total of ^0000ff%d^000000\rcharacters. Try to beat"
+"\rthat record next time~"
+msgstr ""
+
+# mes("Oooh...");
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "Oooh..."
+msgstr ""
+
+# mes("I'm sorry, but\r"
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "I'm sorry, but\ryou entered the\rtext incorrectly..."
+msgstr ""
+
+# mes("The ^ff0000RO Typing Challenge^000000\r"
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid ""
+"The ^ff0000RO Typing Challenge^000000\ris a game where you enter\rthe given text as quickly as you\rcan. The name of "
+"the top player\ris recorded for posterity. If you\rwant fame, here's your chance!"
+msgstr ""
+
+# mes("I'd just like to let\r"
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid ""
+"I'd just like to let\ryou know that you type\rall the text that you see\rin the single input line that\ryou're "
+"given. So don't press\rthe enter key, just click 'OK.'"
+msgstr ""
+
+# mes("Feel free to take on the\r"
+#: npc/airports/airships.txt
+msgctxt "Nils#ein"
+msgid "Feel free to take on the\r^ff0000RO Typing Challenge^000000\ranytime. I'll be here~"
+msgstr ""
+
+# mes("[Clarice]");
+#: npc/airports/airships.txt
+msgctxt "Clarice"
+msgid "[Clarice]"
+msgstr ""
+
+# mes("Hi, I'm Clarice~");
+#: npc/airports/airships.txt
+msgctxt "Clarice"
+msgid "Hi, I'm Clarice~"
+msgstr ""
+
+# mes("How would you like\r"
+#: npc/airports/airships.txt
+msgctxt "Clarice"
+msgid "How would you like\rto wager some Apples\rin a friendly game of Dice?"
+msgstr ""
+
+# callfunc("applegamble", _("Clarice"));
+#: npc/airports/airships.txt
+msgctxt "Clarice"
+msgid "Clarice"
+msgstr ""
+
+# .@n$ = sprintf(_$("[%s]"), getarg(0));
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid "[%s]"
+msgstr ""
+
+# switch (select("Play Dice Game", "Learn Dice Game Rules", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Play Dice Game"
+msgstr ""
+
+# switch (select("Play Dice Game", "Learn Dice Game Rules", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Learn Dice Game Rules"
+msgstr ""
+
+# switch (select("Play Dice Game", "Learn Dice Game Rules", "Cancel")) {
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Cancel"
+msgstr ""
+
+# mes("I'm up for a game of\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid ""
+"I'm up for a game of\rdice whenever you feel\rlike it. Just talk to me if\ryou ever get hit with the\rsudden urge to "
+"gamble, kay?"
+msgstr ""
+
+# mes("The rules for the Dice game\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "The rules for the Dice game\rare pretty simple. First, you\rplace a bet by wagering Apples."
+msgstr ""
+
+# mes("You can bet a maximum of 50\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "You can bet a maximum of 50\rApples at a time. To keep things\rlegal, I can only accept Apples."
+msgstr ""
+
+# mes("But hey, if all that zeny\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid ""
+"But hey, if all that zeny\ris burning a hole in your\rpocket, head over to Fruitz\rand you can buy as many\rApples "
+"as you want, playah~"
+msgstr ""
+
+# mes("Now, we begin with me\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Now, we begin with me\rrolling two 6-sided dice."
+msgstr ""
+
+# mes("When it's your turn, you'll\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid ""
+"When it's your turn, you'll\rroll two 6-sided dice. After\rthat, both of us will have the\roption of rolling a third "
+"die."
+msgstr ""
+
+# mes("Now here's the important\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid ""
+"Now here's the important\rthing. If your total is higher\rthan 12, you'll bust, meaning\rthat you lose. Otherwise, "
+"the\rperson with the higher total\ris the winner. Got it?"
+msgstr ""
+
+# mes("Now, you'll be the first\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid ""
+"Now, you'll be the first\rto decide whether or not\ryou'll roll the third die. Then,\rdepending on your result, I'll"
+"\rroll my third die... Or maybe not."
+msgstr ""
+
+# mes("When you win, you'll\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "When you win, you'll\rreceive twice as many\rApples as you wagered."
+msgstr ""
+
+# mes("But if we happen to tie, you\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "But if we happen to tie, you\rget the Apples that you bet\rreturned to you. Fair, right?"
+msgstr ""
+
+# mes("Ooh, so you'll play with\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Ooh, so you'll play with\rme? Great! How many\rApples would you like to bet?"
+msgstr ""
+
+# mes("Remember, you can wager\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Remember, you can wager\rup to 50 Apples. If you'd like\rto cancel, please enter '0'."
+msgstr ""
+
+# mes("Changed your mind?");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Changed your mind?"
+msgstr ""
+
+# mes("I understand. Well then,\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "I understand. Well then,\rI hope we can play sometime."
+msgstr ""
+
+# mes("You can't bet more than\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid ""
+"You can't bet more than\r50 Apples. Remember, we\rneed to keep these stakes\rreasonable. Please enter\ra value no "
+"greater than 50."
+msgstr ""
+
+# mesf("So you'll be\r"
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid "So you'll be\rbetting ^FF0000%d^000000 Apples."
+msgstr ""
+
+# mes("Is that right?");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Is that right?"
+msgstr ""
+
+# if (select("Yes", "No") == 2) {
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 2) {
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "No"
+msgstr ""
+
+# mes("Mm, made a mistake?");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Mm, made a mistake?"
+msgstr ""
+
+# mes("Alright, please enter the\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Alright, please enter the\rnumber of Apples you\rwish to place in this bet"
+msgstr ""
+
+# mes("I'm sorry, but you\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid ""
+"I'm sorry, but you\rdon't seem to have\renough Apples for this\rbet... You can't gamble\rif you can't play, you know."
+msgstr ""
+
+# mes("Good!");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Good!"
+msgstr ""
+
+# mes("Now we can start\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Now we can start\rthis game! I'll roll first~"
+msgstr ""
+
+# mes("^3355FF*Rolling and rumbling*^000000");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "^3355FF*Rolling and rumbling*^000000"
+msgstr ""
+
+# mesf("I got a ^0000FF%d^000000 and a ^0000FF%d^000000.", .@table1, .@table2);
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid "I got a ^0000FF%d^000000 and a ^0000FF%d^000000."
+msgstr ""
+
+# mesf("That's a total of ^0000FF%d^000000.", .@tablesub);
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid "That's a total of ^0000FF%d^000000."
+msgstr ""
+
+# mesf("^FF0000%s^000000, now it's your turn.", strcharinfo(PC_NAME));
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid "^FF0000%s^000000, now it's your turn."
+msgstr ""
+
+# select("Cast Dice.");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Cast Dice."
+msgstr ""
+
+# mesf("^FF0000%s^000000, you have ^FF0000%d^000000 and ^FF0000%d^000000. The total is ^FF0000%d^000000.",
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid "^FF0000%s^000000, you have ^FF0000%d^000000 and ^FF0000%d^000000. The total is ^FF0000%d^000000."
+msgstr ""
+
+# mesf("Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid ""
+"Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. We are making an even "
+"game. Would you like to cast dice again?"
+msgstr ""
+
+# mesf("Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid ""
+"Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. ^FF0000%s^000000, you "
+"are currently winning this game. Would you like to cast dice again?"
+msgstr ""
+
+# mesf("Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid ""
+"Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. I am winning this game. "
+"Would you like to cast dice again?"
+msgstr ""
+
+# switch (select("Cast dice.", "Cancel.")) {
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Cast dice."
+msgstr ""
+
+# switch (select("Cast dice.", "Cancel.")) {
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Cancel."
+msgstr ""
+
+# mesf("^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid ""
+"^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. You lost this game. I am sorry but "
+"please try again."
+msgstr ""
+
+# mesf("^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid ""
+"^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. Even though you casted dice again, "
+"still your total is smaller than mine. You lost the game. I am sorry and please try again."
+msgstr ""
+
+# mesf("^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid ""
+"^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. I don't want to take any risk, "
+"let's end this game in a draw. Let's play again some other time~"
+msgstr ""
+
+# mes("Alright.");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Alright."
+msgstr ""
+
+# mes("Let me cast the dice again.");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Let me cast the dice again."
+msgstr ""
+
+# mesf("^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid "^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. Now it is my turn."
+msgstr ""
+
+# mes("I see, you don't want to take risk of losing the game. Okay, let me cast dice again.");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "I see, you don't want to take risk of losing the game. Okay, let me cast dice again."
+msgstr ""
+
+# mes("I see, you don't want to take risk of losing this game. "
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid ""
+"I see, you don't want to take risk of losing this game. Neither do I, let's end this game in a draw. Let's play "
+"again some other time~"
+msgstr ""
+
+# mes("It couldn't hurt to try.");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "It couldn't hurt to try."
+msgstr ""
+
+# mes("Well, I win this time.");
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "Well, I win this time."
+msgstr ""
+
+# mes("I'm sorry, let's try play\r"
+#: npc/airports/airships.txt
+msgctxt "applegamble"
+msgid "I'm sorry, let's try play\ragain sometime."
+msgstr ""
+
+# mesf("I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid ""
+"I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. I lost this game since my total exceeded 12. Let me "
+"give you my apples. Congratulations, that was a great game."
+msgstr ""
+
+# mesf("I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid ""
+"I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. With total ^FF0000%d^000000 you won this game, "
+"^FF0000%s^000000. Let me give you my apples. It was a great game and I hope we will play again some other time."
+msgstr ""
+
+# mesf("I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid ""
+"I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. With total ^FF0000%d^000000 this game came out even, "
+"^FF0000%s^000000. Let me give you your apple back. It was a great game and I hope we will play again some other time."
+msgstr ""
+
+# mesf("I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. "
+#: npc/airports/airships.txt
+#, c-format
+msgctxt "applegamble"
+msgid ""
+"I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. With total ^FF0000%d^000000 you lost this game, "
+"^FF0000%s^000000. I am sorry but please try again."
+msgstr ""
+
+# mes("[Airport Staff]");
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "[Airport Staff]"
+msgstr ""
+
+# mes("Welcome to the\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid ""
+"Welcome to the\rEinbroch Airport,\rwhere we offer nonstop\rflights to the cities of\rJuno, Lighthalzen and Hugel."
+msgstr ""
+
+# if (select("Board the Airship", "Cancel") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "Board the Airship"
+msgstr ""
+
+# if (select("Board the Airship", "Cancel") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "Cancel"
+msgstr ""
+
+# mes("The Airship boarding fee\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid ""
+"The Airship boarding fee\ris 1,200 zeny, but if you've\rgot a Free Ticket for Airship,\rthe fee will be waived. Will"
+"\ryou board the Airship?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "No"
+msgstr ""
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid ""
+"I'm sorry, but you don't\rhave a Free Ticket for\rAirship and you don't have\renough zeny for boarding\rthe Airship. "
+"Remember, the\rboarding fee is 1,200 zeny."
+msgstr ""
+
+# mes("Thank you and\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "Thank you and\rhave a nice day."
+msgstr ""
+
+# mes("[Arrival Staff]");
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "[Arrival Staff]"
+msgstr ""
+
+# mes("Welcome to Einbroch Airport.");
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Welcome to Einbroch Airport."
+msgstr ""
+
+# mes("If you are arriving from your\r"
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid ""
+"If you are arriving from your\rflight, let me guide you to the\rmain terminal. Otherwise, please board the Airship "
+"to depart to\rJuno, Lighthalzen and Hugel."
+msgstr ""
+
+# if (select("Exit to main terminal.", "Cancel.") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Exit to main terminal."
+msgstr ""
+
+# if (select("Exit to main terminal.", "Cancel.") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Cancel."
+msgstr ""
+
+# mes("Once you're in the main terminal, you will need to pay the fee again\r"
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid ""
+"Once you're in the main terminal, you will need to pay the fee again\rto board an Airship. You should\ronly exit if "
+"the city of Einbroch\ris your intended destination."
+msgstr ""
+
+# mes("Proceed to the main terminal?");
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Proceed to the main terminal?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "No"
+msgstr ""
+
+# mes("Alright, thank you\r"
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant flight~"
+msgstr ""
+
+# mes("[Airship Staff]");
+#: npc/airports/einbroch.txt
+msgctxt "Airship Staff#ein01"
+msgid "[Airship Staff]"
+msgstr ""
+
+# mes("Welcome to the\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airship Staff#ein01"
+msgid "Welcome to the\rEinbroch Airport."
+msgstr ""
+
+# mes("Please use this door to\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airship Staff#ein01"
+msgid ""
+"Please use this door to\rboard the Airship which stops\rover Juno, Lighthalzen and\rHugel in the Schwaltzvalt "
+"Republic."
+msgstr ""
+
+# mes("Otherwise, if Einbroch is\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airship Staff#ein01"
+msgid ""
+"Otherwise, if Einbroch is\ryour intended destination,\rplease head down the stairs\rand ask the Arrival Staff to lead"
+"\ryou to the main terminal. Thank\ryou, and enjoy your travels."
+msgstr ""
+
+# mes("To use the airship, you are required to pay 1,200 zeny or a Free Airship Ticket.");
+#: npc/airports/hugel.txt
+msgctxt "toairplane#hugel"
+msgid "To use the airship, you are required to pay 1,200 zeny or a Free Airship Ticket."
+msgstr ""
+
+# mes("Would you like to use the service?");
+#: npc/airports/hugel.txt
+msgctxt "toairplane#hugel"
+msgid "Would you like to use the service?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/hugel.txt
+msgctxt "toairplane#hugel"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/hugel.txt
+msgctxt "toairplane#hugel"
+msgid "No"
+msgstr ""
+
+# mes("I am sorry, but you do not have enough money.");
+#: npc/airports/hugel.txt
+msgctxt "toairplane#hugel"
+msgid "I am sorry, but you do not have enough money."
+msgstr ""
+
+# mes("Please remember, you are required to pay 1,200 zeny to use the service.");
+#: npc/airports/hugel.txt
+msgctxt "toairplane#hugel"
+msgid "Please remember, you are required to pay 1,200 zeny to use the service."
+msgstr ""
+
+# mes("Thank you, please come again.");
+#: npc/airports/hugel.txt
+msgctxt "toairplane#hugel"
+msgid "Thank you, please come again."
+msgstr ""
+
+# mes("[Airship Staff]");
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "[Airship Staff]"
+msgstr ""
+
+# mes("Welcome! Would you like\r"
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Welcome! Would you like\rto board the Airship that\rdeparts on the flight wich stops\rin Juno and Rachel?"
+msgstr ""
+
+# if (select("Board the Airship to Juno/Rachel.", "Cancel.") == 1) {
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Board the Airship to Juno/Rachel."
+msgstr ""
+
+# if (select("Board the Airship to Juno/Rachel.", "Cancel.") == 1) {
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Cancel."
+msgstr ""
+
+# mes("The boarding fee is\r"
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid ""
+"The boarding fee is\r1,200 zeny. However, this\rcharged is waived if you use\ra Free Ticket for Airship. Now,\rwould "
+"you still like to board?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "No"
+msgstr ""
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "I'm sorry, but you don't\rhave 1,200 zeny to pay\rfor the boarding fee."
+msgstr ""
+
+# mes("Thank you and\r"
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Thank you and\rplease come again."
+msgstr ""
+
+# mes("Have a good day~");
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Have a good day~"
+msgstr ""
+
+# mes("[Airport Staff]");
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "[Airport Staff]"
+msgstr ""
+
+# mes("Welcome to the\r"
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Welcome to the\rLighthalzen Airport,\rwhere we offer nonstop\rflights to Einbroch, Juno and Hugel."
+msgstr ""
+
+# if (select("Board the Airship.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Board the Airship."
+msgstr ""
+
+# if (select("Board the Airship.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Cancel."
+msgstr ""
+
+# mes("The boarding fee is\r"
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "The boarding fee is\r1,200 zeny, but you can\rwaive the fee if you redeem\ra Free Ticket for Airship."
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "No"
+msgstr ""
+
+# mes("[Airship Staff]");
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "[Airship Staff]"
+msgstr ""
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "I'm sorry, but you don't\rhave 1,200 zeny to pay\rfor the boarding fee."
+msgstr ""
+
+# mes("Thank you and\r"
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Thank you and\rplease come again."
+msgstr ""
+
+# mes("Have a good day~");
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Have a good day~"
+msgstr ""
+
+# mes("[Arrival Staff]");
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "[Arrival Staff]"
+msgstr ""
+
+# mes("Welcome to Lighthalzen Airport.");
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "Welcome to Lighthalzen Airport."
+msgstr ""
+
+# mes("Please let me guide you to the\r"
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid ""
+"Please let me guide you to the\rmain terminal if you are arriving from your flight. Otherwise, please\rboard the "
+"departing Airship to reach your intended destination."
+msgstr ""
+
+# if (select("Exit to main terminal.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "Exit to main terminal."
+msgstr ""
+
+# if (select("Exit to main terminal.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "Cancel."
+msgstr ""
+
+# mes("Once you're in the main terminal, you will need to pay the fee again\r"
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid ""
+"Once you're in the main terminal, you will need to pay the fee again\rto board an Airship. You should\ronly exit if "
+"Lighthalzen is your intended destination. Shall we\rproceed to the main terminal?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "No"
+msgstr ""
+
+# mes("Alright, thank you\r"
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant flight~"
+msgstr ""
+
+# mes("To use the airship, you are required to pay 1,200 zeny or a Free Airship Ticket.");
+#: npc/airports/rachel.txt
+msgctxt "toairplane#rachel"
+msgid "To use the airship, you are required to pay 1,200 zeny or a Free Airship Ticket."
+msgstr ""
+
+# mes("Would you like to use the service?");
+#: npc/airports/rachel.txt
+msgctxt "toairplane#rachel"
+msgid "Would you like to use the service?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/rachel.txt
+msgctxt "toairplane#rachel"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/rachel.txt
+msgctxt "toairplane#rachel"
+msgid "No"
+msgstr ""
+
+# mes("I am sorry, but you do not have enough money.");
+#: npc/airports/rachel.txt
+msgctxt "toairplane#rachel"
+msgid "I am sorry, but you do not have enough money."
+msgstr ""
+
+# mes("Please remember, you are required to pay 1,200 zeny to use the service.");
+#: npc/airports/rachel.txt
+msgctxt "toairplane#rachel"
+msgid "Please remember, you are required to pay 1,200 zeny to use the service."
+msgstr ""
+
+# mes("Thank you, please come again.");
+#: npc/airports/rachel.txt
+msgctxt "toairplane#rachel"
+msgid "Thank you, please come again."
+msgstr ""
+
+# mes("[Airport Staff]");
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "[Airport Staff]"
+msgstr ""
+
+# mes("Welcome to Juno Airport where we offer domestic flights to Einbroch, Lighthalzen and Hugel,\r"
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid ""
+"Welcome to Juno Airport where we offer domestic flights to Einbroch, Lighthalzen and Hugel,\rand international "
+"flights to Izlude and Rachel."
+msgstr ""
+
+# mes("How may I be of service?");
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "How may I be of service?"
+msgstr ""
+
+# if (select("Board the Airship.", "Cancel.") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Board the Airship."
+msgstr ""
+
+# if (select("Board the Airship.", "Cancel.") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Cancel."
+msgstr ""
+
+# mes("The boarding fee for all\r"
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid ""
+"The boarding fee for all\rflights is 1,200 zeny. If you\ruse a Free Ticket for Airship,\rthe boarding fee will be "
+"waived.So would you like to depart?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "No"
+msgstr ""
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "I'm sorry, but you don't\rhave 1,200 zeny to pay\rfor the boarding fee."
+msgstr ""
+
+# mes("Thank you and\r"
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Thank you and\rhave a nice day."
+msgstr ""
+
+# mes("[Airport Staff]");
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "[Airport Staff]"
+msgstr ""
+
+# mes("Welcome to Juno Airport. If you've just arrived from your\r"
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid ""
+"Welcome to Juno Airport. If you've just arrived from your\rflight, let me guide you to the main terminal. Otherwise, "
+"please\rboard the departing Airship to reach your intended destination."
+msgstr ""
+
+# if (select("Exit to main terminal", "Cancel") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Exit to main terminal"
+msgstr ""
+
+# if (select("Exit to main terminal", "Cancel") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Cancel"
+msgstr ""
+
+# mes("Once you're in the main terminal, you must pay the fee once again\r"
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid ""
+"Once you're in the main terminal, you must pay the fee once again\rto board a departing Airship. You should only "
+"exit if your intended\rdestination is Juno. Proceed to\rexit to the main terminal?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "No"
+msgstr ""
+
+# mes("Alright, thank you\r"
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant flight~"
+msgstr ""
+
+# mes("[Boarding Staff]");
+#: npc/airports/yuno.txt
+msgctxt "Domestic Boarding"
+msgid "[Boarding Staff]"
+msgstr ""
+
+# mes("Would you like to board the\r"
+#: npc/airports/yuno.txt
+msgctxt "Domestic Boarding"
+msgid ""
+"Would you like to board the\rAirship that flies to Einbroch,\rLighthalzen and Hugel? If so,\rplease let me guide you "
+"to that\rAirship's boarding area."
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Domestic Boarding"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Domestic Boarding"
+msgid "No"
+msgstr ""
+
+# mes("Very well, then.");
+#: npc/airports/yuno.txt
+msgctxt "Domestic Boarding"
+msgid "Very well, then."
+msgstr ""
+
+# mes("Thank you for your\r"
+#: npc/airports/yuno.txt
+msgctxt "Domestic Boarding"
+msgid "Thank you for your\rpatronage, and I hope\ryou enjoy your travels~"
+msgstr ""
+
+# mes("[Boarding Staff]");
+#: npc/airports/yuno.txt
+msgctxt "International Boarding"
+msgid "[Boarding Staff]"
+msgstr ""
+
+# mes("Would you like to board\r"
+#: npc/airports/yuno.txt
+msgctxt "International Boarding"
+msgid "Would you like to board\rthe Airship which flies to\rJuno, Izlude and Rachel?"
+msgstr ""
+
+# mes("If so, let me guide\r"
+#: npc/airports/yuno.txt
+msgctxt "International Boarding"
+msgid "If so, let me guide\ryou to the boarding area."
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "International Boarding"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "International Boarding"
+msgid "No"
+msgstr ""
+
+# mes("Alright, then.");
+#: npc/airports/yuno.txt
+msgctxt "International Boarding"
+msgid "Alright, then."
+msgstr ""
+
+# mes("Thank you for flying\r"
+#: npc/airports/yuno.txt
+msgctxt "International Boarding"
+msgid "Thank you for flying\rwith us, and I hope you\renjoy your travels on our\rstate of the art Airships."
+msgstr ""
+
+# mes("[Airship Staff]");
+#: npc/airports/yuno.txt
+msgctxt "Airship Staff#yuno01"
+msgid "[Airship Staff]"
+msgstr ""
+
+# mes("Welcome to Juno Airport.");
+#: npc/airports/yuno.txt
+msgctxt "Airship Staff#yuno01"
+msgid "Welcome to Juno Airport."
+msgstr ""
+
+# mes("Please use this door to\r"
+#: npc/airports/yuno.txt
+msgctxt "Airship Staff#yuno01"
+msgid ""
+"Please use this door to\rboard the Airship that will\rbe flying all the way to Izlude\rin the Rune-Midgarts Kingdom,"
+"\rand to Rachel in the Arunafeltz\rRepublic."
+msgstr ""
+
+# mes("Otherwise, if Juno is\r"
+#: npc/airports/yuno.txt
+msgctxt "Airship Staff#yuno01"
+msgid ""
+"Otherwise, if Juno is\ryour intended destination,\rplease head down the stairs\rand ask the Arrival Staff to lead"
+"\ryou to the main terminal. Thank\ryou, and enjoy your travels."
+msgstr ""
+
+# mes("[Airship Staff]");
+#: npc/airports/yuno.txt
+msgctxt "Airship Staff#yuno02"
+msgid "[Airship Staff]"
+msgstr ""
+
+# mes("Welcome to Juno Airport.");
+#: npc/airports/yuno.txt
+msgctxt "Airship Staff#yuno02"
+msgid "Welcome to Juno Airport."
+msgstr ""
+
+# mes("Please use this door to\r"
+#: npc/airports/yuno.txt
+msgctxt "Airship Staff#yuno02"
+msgid ""
+"Please use this door to\rboard the Airship which stops\rover Einbroch, Lighthalzen and\rHugel in the Schwaltzvalt "
+"Republic."
+msgstr ""
+
+# mes("Otherwise, if Juno is\r"
+#: npc/airports/yuno.txt
+msgctxt "Airship Staff#yuno02"
+msgid ""
+"Otherwise, if Juno is\ryour intended destination,\rplease head down the stairs\rand ask the Arrival Staff to lead"
+"\ryou to the main terminal. Thank\ryou, and enjoy your travels."
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("[Guillaume Army Officer]");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "[Guillaume Army Officer]"
+msgstr ""
+
+# mes("Let's show the power of the Guillaume Army to those stinky Croixs!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "Let's show the power of the Guillaume Army to those stinky Croixs!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "I want to join your army!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "End Conversation"
+msgstr ""
+
+# mes("I'm very pleased that you want to join us and fight the Croix Army, but I'm sorry: I can't send a rookie like you to die on the cruel battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid ""
+"I'm very pleased that you want to join us and fight the Croix Army, but I'm sorry: I can't send a rookie like you to "
+"die on the cruel battlefield."
+msgstr ""
+
+# mes("You seem to have just returned from the battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "You seem to have just returned from the battlefield."
+msgstr ""
+
+# mes("It's too early for you to go back. Go rest, and leave the enemies to us!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "It's too early for you to go back. Go rest, and leave the enemies to us!"
+msgstr ""
+
+# mes("I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Croixs already.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid ""
+"I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Croixs "
+"already."
+msgstr ""
+
+# mes("Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then."
+msgstr ""
+
+# mes("An elite corps is already standing by to be dispatched to the battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "An elite corps is already standing by to be dispatched to the battlefield."
+msgstr ""
+
+# mes("You definitely seem to be ready for battle!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "You definitely seem to be ready for battle!"
+msgstr ""
+
+# mes("Go show the Croixs what fear truly means!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "Go show the Croixs what fear truly means!"
+msgstr ""
+
+# mes("Today, our cry of victory shall echo all over the battlefield!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "Today, our cry of victory shall echo all over the battlefield!"
+msgstr ""
+
+# mes("Today, we shall be victorious!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01a"
+msgid "Today, we shall be victorious!"
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("[Croix Army Officer]");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "[Croix Army Officer]"
+msgstr ""
+
+# mes("Let's show the Guillaumes the power of the Croix Army!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "Let's show the Guillaumes the power of the Croix Army!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "I want to join your army!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "End Conversation"
+msgstr ""
+
+# mes("I'm very pleased that you want to join us and fight the Guillaume Army, but I'm sorry: I can't send a rookie like you to die on the cruel battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid ""
+"I'm very pleased that you want to join us and fight the Guillaume Army, but I'm sorry: I can't send a rookie like "
+"you to die on the cruel battlefield."
+msgstr ""
+
+# mes("You seem to have just returned from the battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "You seem to have just returned from the battlefield."
+msgstr ""
+
+# mes("It's too early for you to go back. Go rest, and leave the enemies to us!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "It's too early for you to go back. Go rest, and leave the enemies to us!"
+msgstr ""
+
+# mes("I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Guillaume already.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid ""
+"I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the "
+"Guillaume already."
+msgstr ""
+
+# mes("Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then."
+msgstr ""
+
+# mes("An elite corps is already standing by to be dispatched to the battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "An elite corps is already standing by to be dispatched to the battlefield."
+msgstr ""
+
+# mes("You definitely seem to be ready for battle!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "You definitely seem to be ready for battle!"
+msgstr ""
+
+# mes("Go show the Guillaumes what fear truly means!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "Go show the Guillaumes what fear truly means!"
+msgstr ""
+
+# mes("Today, our cry of victory shall echo all over the battlefield!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "Today, our cry of victory shall echo all over the battlefield!"
+msgstr ""
+
+# mes("Today, we shall be victorious!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#01b"
+msgid "Today, we shall be victorious!"
+msgstr ""
+
+# mes("[Guillaume Knight]");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#3"
+msgid "[Guillaume Knight]"
+msgstr ""
+
+# mes("The objective of the Flavius Battle is to score 2 points before your enemy by destroying their crystal.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#3"
+msgid "The objective of the Flavius Battle is to score 2 points before your enemy by destroying their crystal."
+msgstr ""
+
+# mes("The crystals for both armies are protected by special barricades that cannot be destroyed by direct attacks.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#3"
+msgid "The crystals for both armies are protected by special barricades that cannot be destroyed by direct attacks."
+msgstr ""
+
+# mes("But they can be removed by destroying the Guardians that protect the enemy army base.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#3"
+msgid "But they can be removed by destroying the Guardians that protect the enemy army base."
+msgstr ""
+
+# mes("The crystals are immune to every type of skill; your physical attacks are the only choice for destroying your enemy's crystal.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#3"
+msgid ""
+"The crystals are immune to every type of skill; your physical attacks are the only choice for destroying your "
+"enemy's crystal."
+msgstr ""
+
+# mes("Please remember: when you join a battle, you will be receiving a token which indicates the set duration for which you cannot participate in the same type of battle.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#3"
+msgid ""
+"Please remember: when you join a battle, you will be receiving a token which indicates the set duration for which "
+"you cannot participate in the same type of battle."
+msgstr ""
+
+# mes("You may check the duration by pressing the Alt+U keys.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#3"
+msgid "You may check the duration by pressing the Alt+U keys."
+msgstr ""
+
+# mes("Are you ready for battle? Then apply with the recruiter next to me!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#3"
+msgid "Are you ready for battle? Then apply with the recruiter next to me!"
+msgstr ""
+
+# mes("[Guillaume Knight]");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#4"
+msgid "[Guillaume Knight]"
+msgstr ""
+
+# mes("The objective of the Flavius Battle is to score 2 points before your enemy by destroying their crystal.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#4"
+msgid "The objective of the Flavius Battle is to score 2 points before your enemy by destroying their crystal."
+msgstr ""
+
+# mes("The crystals for both armies are protected by special barricades that cannot be destroyed by direct attacks.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#4"
+msgid "The crystals for both armies are protected by special barricades that cannot be destroyed by direct attacks."
+msgstr ""
+
+# mes("But they can be removed by destroying the Guardians that protect the enemy army base.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#4"
+msgid "But they can be removed by destroying the Guardians that protect the enemy army base."
+msgstr ""
+
+# mes("The crystals are immune to every type of skill; your physical attacks are the only choice for destroying your enemy's crystal.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#4"
+msgid ""
+"The crystals are immune to every type of skill; your physical attacks are the only choice for destroying your "
+"enemy's crystal."
+msgstr ""
+
+# mes("Please remember: when you join a battle, you will be receiving a token which indicates the set duration for which you cannot participate in the same type of battle.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#4"
+msgid ""
+"Please remember: when you join a battle, you will be receiving a token which indicates the set duration for which "
+"you cannot participate in the same type of battle."
+msgstr ""
+
+# mes("You may check the duration by pressing the Alt+U keys.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#4"
+msgid "You may check the duration by pressing the Alt+U keys."
+msgstr ""
+
+# mes("Are you ready for battle? Then apply with the recruiter next to me!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Guillaume Knight#4"
+msgid "Are you ready for battle? Then apply with the recruiter next to me!"
+msgstr ""
+
+# mes("[Croix Knight]");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#3"
+msgid "[Croix Knight]"
+msgstr ""
+
+# mes("The objective of the Flavius Battle is to score 2 points before your enemy by destroying their crystal.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#3"
+msgid "The objective of the Flavius Battle is to score 2 points before your enemy by destroying their crystal."
+msgstr ""
+
+# mes("The crystals for both armies are protected by special barricades that cannot be destroyed by direct attacks.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#3"
+msgid "The crystals for both armies are protected by special barricades that cannot be destroyed by direct attacks."
+msgstr ""
+
+# mes("But they can be removed by destroying the Guardians that protect the enemy army base.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#3"
+msgid "But they can be removed by destroying the Guardians that protect the enemy army base."
+msgstr ""
+
+# mes("The crystals are immune to every type of skill; your physical attacks are the only choice for destroying your enemy's crystal.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#3"
+msgid ""
+"The crystals are immune to every type of skill; your physical attacks are the only choice for destroying your "
+"enemy's crystal."
+msgstr ""
+
+# mes("Please remember: when you join a battle, you will be receiving a token which indicates the set duration for which you cannot participate in the same type of battle.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#3"
+msgid ""
+"Please remember: when you join a battle, you will be receiving a token which indicates the set duration for which "
+"you cannot participate in the same type of battle."
+msgstr ""
+
+# mes("You may check the duration by pressing the Alt+U keys.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#3"
+msgid "You may check the duration by pressing the Alt+U keys."
+msgstr ""
+
+# mes("Are you ready for battle? Then apply with the recruiter next to me!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#3"
+msgid "Are you ready for battle? Then apply with the recruiter next to me!"
+msgstr ""
+
+# mes("[Croix Knight]");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#4"
+msgid "[Croix Knight]"
+msgstr ""
+
+# mes("The objective of the Flavius Battle is to score 2 points before your enemy by destroying their crystal.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#4"
+msgid "The objective of the Flavius Battle is to score 2 points before your enemy by destroying their crystal."
+msgstr ""
+
+# mes("The crystals for both armies are protected by special barricades that cannot be destroyed by direct attacks.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#4"
+msgid "The crystals for both armies are protected by special barricades that cannot be destroyed by direct attacks."
+msgstr ""
+
+# mes("But they can be removed by destroying the Guardians that protect the enemy army base.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#4"
+msgid "But they can be removed by destroying the Guardians that protect the enemy army base."
+msgstr ""
+
+# mes("The crystals are immune to every type of skill; your physical attacks are the only choice for destroying your enemy's crystal.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#4"
+msgid ""
+"The crystals are immune to every type of skill; your physical attacks are the only choice for destroying your "
+"enemy's crystal."
+msgstr ""
+
+# mes("Please remember: when you join a battle, you will be receiving a token which indicates the set duration for which you cannot participate in the same type of battle.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#4"
+msgid ""
+"Please remember: when you join a battle, you will be receiving a token which indicates the set duration for which "
+"you cannot participate in the same type of battle."
+msgstr ""
+
+# mes("You may check the duration by pressing the Alt+U keys.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#4"
+msgid "You may check the duration by pressing the Alt+U keys."
+msgstr ""
+
+# mes("Are you ready for battle? Then apply with the recruiter next to me!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Croix Knight#4"
+msgid "Are you ready for battle? Then apply with the recruiter next to me!"
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("[Guillaume Army Officer]");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "[Guillaume Army Officer]"
+msgstr ""
+
+# mes("Let's show the power of the Guillaume Army to those stinky Croixs!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "Let's show the power of the Guillaume Army to those stinky Croixs!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "I want to join your army!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "End Conversation"
+msgstr ""
+
+# mes("I'm very pleased that you want to join us and fight the Croix Army, but I'm sorry: I can't send a rookie like you to die on the cruel battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid ""
+"I'm very pleased that you want to join us and fight the Croix Army, but I'm sorry: I can't send a rookie like you to "
+"die on the cruel battlefield."
+msgstr ""
+
+# mes("You seem to have just returned from the battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "You seem to have just returned from the battlefield."
+msgstr ""
+
+# mes("It's too early for you to go back. Go rest, and leave the enemies to us!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "It's too early for you to go back. Go rest, and leave the enemies to us!"
+msgstr ""
+
+# mes("I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Croixs already.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid ""
+"I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Croixs "
+"already."
+msgstr ""
+
+# mes("Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then."
+msgstr ""
+
+# mes("An elite corps is already standing by to be dispatched to the battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "An elite corps is already standing by to be dispatched to the battlefield."
+msgstr ""
+
+# mes("You definitely seem to be ready for battle!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "You definitely seem to be ready for battle!"
+msgstr ""
+
+# mes("Go show the Croixs what fear truly means!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "Go show the Croixs what fear truly means!"
+msgstr ""
+
+# mes("Today, our cry of victory shall echo all over the battlefield!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "Today, our cry of victory shall echo all over the battlefield!"
+msgstr ""
+
+# mes("Today, we shall be victorious!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02a"
+msgid "Today, we shall be victorious!"
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("[Croix Army Officer]");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "[Croix Army Officer]"
+msgstr ""
+
+# mes("Let's show the power of the Croix Army to those stinky Guillaumes!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "Let's show the power of the Croix Army to those stinky Guillaumes!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "I want to join your army!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "End Conversation"
+msgstr ""
+
+# mes("I'm very pleased that you want to join us and fight the Guillaume Army, but I'm sorry: I can't send a rookie like you to die on the cruel battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid ""
+"I'm very pleased that you want to join us and fight the Guillaume Army, but I'm sorry: I can't send a rookie like "
+"you to die on the cruel battlefield."
+msgstr ""
+
+# mes("You seem to have just returned from the battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "You seem to have just returned from the battlefield."
+msgstr ""
+
+# mes("It's too early for you to go back. Go rest, and leave the enemies to us!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "It's too early for you to go back. Go rest, and leave the enemies to us!"
+msgstr ""
+
+# mes("I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Guillaume already.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid ""
+"I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the "
+"Guillaume already."
+msgstr ""
+
+# mes("Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then."
+msgstr ""
+
+# mes("An elite corps is already standing by to be dispatched to the battlefield.");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "An elite corps is already standing by to be dispatched to the battlefield."
+msgstr ""
+
+# mes("You definitely seem to be ready for battle!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "You definitely seem to be ready for battle!"
+msgstr ""
+
+# mes("Go show the Guillaumes what fear truly means!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "Go show the Guillaumes what fear truly means!"
+msgstr ""
+
+# mes("Today, our cry of victory shall echo all over the battlefield!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "Today, our cry of victory shall echo all over the battlefield!"
+msgstr ""
+
+# mes("Today, we shall be victorious!");
+#: npc/battleground/flavius/flavius_enter.txt
+msgctxt "Flavius Officer#02b"
+msgid "Today, we shall be victorious!"
+msgstr ""
+
+# waitingroom(_("Battle Station"), 11, "start#bat_b01::OnReadyCheck", 1, 0, 80);
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Lieutenant Ator"
+msgid "Battle Station"
+msgstr ""
+
+# waitingroom(_("Battle Station"), 11, "start#bat_b01::OnReadyCheck", 1, 0, 80);
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Lieutenant Thelokus"
+msgid "Battle Station"
+msgstr ""
+
+# mapannounce("bat_b01", _("Guillaume's Crystal has been destroyed."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "OBJ#bat_b01_a"
+msgid "Guillaume's Crystal has been destroyed."
+msgstr ""
+
+# bg_monster($@FlaviusBG1_id2, "bat_b01", 328, 150, _("Blue Crystal"), 1914, "OBJ#bat_b01_b::OnMyMobDead");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "OBJ#bat_b01_b"
+msgid "Blue Crystal"
+msgstr ""
+
+# mapannounce("bat_b01", _("Croix's Crystal has been destroyed."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "OBJ#bat_b01_b"
+msgid "Croix's Crystal has been destroyed."
+msgstr ""
+
+# bg_monster($@FlaviusBG1_id1, "bat_b01", 108, 159, _("Guillaume Camp Guardian"), 1949, "guardian#bat_b01_a::OnMyMobDead");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "guardian#bat_b01_a"
+msgid "Guillaume Camp Guardian"
+msgstr ""
+
+# mapannounce("bat_b01", _("The Guardian protecting Guillaume's Crystal has been slain."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "guardian#bat_b01_a"
+msgid "The Guardian protecting Guillaume's Crystal has been slain."
+msgstr ""
+
+# bg_monster($@FlaviusBG1_id2, "bat_b01", 307, 160, _("Croix Camp Guardian"), 1949, "guardian#bat_b01_b::OnMyMobDead");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "guardian#bat_b01_b"
+msgid "Croix Camp Guardian"
+msgstr ""
+
+# mapannounce("bat_b01", _("The Guardian protecting Croix's Crystal has been slain."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "guardian#bat_b01_b"
+msgid "The Guardian protecting Croix's Crystal has been slain."
+msgstr ""
+
+# mes("[Battle Therapist]");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Battle Therapist#b01_a"
+msgid "[Battle Therapist]"
+msgstr ""
+
+# mes("Just close your eyes,\r"
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Battle Therapist#b01_a"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+# mes("You can be free from pain.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Battle Therapist#b01_a"
+msgid "You can be free from pain."
+msgstr ""
+
+# mes("[Battle Therapist]");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Battle Therapist#b01_b"
+msgid "[Battle Therapist]"
+msgstr ""
+
+# mes("Just close your eyes,\r"
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Battle Therapist#b01_b"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+# mes("You can be free from pain.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Battle Therapist#b01_b"
+msgid "You can be free from pain."
+msgstr ""
+
+# mes("[Axl Rose]");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "[Axl Rose]"
+msgstr ""
+
+# mes("Blessed Guillaume!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "Blessed Guillaume!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, c-format
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mes("You lost, but you're dedicated to this battle.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "You lost, but you're dedicated to this battle."
+msgstr ""
+
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr ""
+
+# mes("Just take this defeat as a lesson, next time you will definitely win.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "Just take this defeat as a lesson, next time you will definitely win."
+msgstr ""
+
+# mes("[Swandery]");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Croix Vintenar#b01_b"
+msgid "[Swandery]"
+msgstr ""
+
+# mes("Blessed Croix!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Croix Vintenar#b01_b"
+msgid "Blessed Croix!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Croix Vintenar#b01_b"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, c-format
+msgctxt "Croix Vintenar#b01_b"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mesf("Oh, %s. Don't be sad.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, c-format
+msgctxt "Croix Vintenar#b01_b"
+msgid "Oh, %s. Don't be sad."
+msgstr ""
+
+# mes("Even though we didn't win, we did our best.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Croix Vintenar#b01_b"
+msgid "Even though we didn't win, we did our best."
+msgstr ""
+
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Croix Vintenar#b01_b"
+msgid "This is a Royal gift from Croix, and please don't forget this battle. We will win the next one."
+msgstr ""
+
+# mapannounce("bat_b01", _("Guillaume Vintenar Axl Rose : Let's attack to destroy that Crystal!"), bc_map, "0xFF9900");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "countdown#bat_b01"
+msgid "Guillaume Vintenar Axl Rose : Let's attack to destroy that Crystal!"
+msgstr ""
+
+# mapannounce("bat_b01", _("Croix Vintenar Swandery : Even though Guillaume is struggling to win against us, the victory is ours. Let's show them our power."), bc_map, "0xFF99CC");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "countdown#bat_b01"
+msgid ""
+"Croix Vintenar Swandery : Even though Guillaume is struggling to win against us, the victory is ours. Let's show "
+"them our power."
+msgstr ""
+
+# mapannounce("bat_b01", _("Marollo VII : Guillaume Marollo, Croix Marollo! And their followers!"), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "countdown#bat_b01"
+msgid "Marollo VII : Guillaume Marollo, Croix Marollo! And their followers!"
+msgstr ""
+
+# mapannounce("bat_b01", _("Marollo VII : Both camps are competitive, so it's hard to judge which team is superior."), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "countdown#bat_b01"
+msgid "Marollo VII : Both camps are competitive, so it's hard to judge which team is superior."
+msgstr ""
+
+# mapannounce("bat_b01", _("Marollo VII : This battle of Flavian is such a waste of time. I will decide victory and defeat by your progress."), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "countdown#bat_b01"
+msgid ""
+"Marollo VII : This battle of Flavian is such a waste of time. I will decide victory and defeat by your progress."
+msgstr ""
+
+# mapannounce("bat_b01", _("Marollo VII : If you can't accept the results, try again in another valley battle!"), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "countdown#bat_b01"
+msgid "Marollo VII : If you can't accept the results, try again in another valley battle!"
+msgstr ""
+
+# mapannounce("bat_b01", _("Axl Rose, Swandery : Yes, sir."), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "countdown#bat_b01"
+msgid "Axl Rose, Swandery : Yes, sir."
+msgstr ""
+
+# mes("[Axl Rose]");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_aover"
+msgid "[Axl Rose]"
+msgstr ""
+
+# mes("Blessed Guillaume!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_aover"
+msgid "Blessed Guillaume!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_aover"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, c-format
+msgctxt "Vintenar#bat_b01_aover"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mes("You lost, but you're dedicated to this battle.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_aover"
+msgid "You lost, but you're dedicated to this battle."
+msgstr ""
+
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_aover"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr ""
+
+# mes("Just take this defeat as a lesson, next time you will definitely win.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_aover"
+msgid "Just take this defeat as a lesson, next time you will definitely win."
+msgstr ""
+
+# mes("Why are you here, Croix mercenary? I am definitely sure of victory against foolish Croix such as you. Ha!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_aover"
+msgid "Why are you here, Croix mercenary? I am definitely sure of victory against foolish Croix such as you. Ha!"
+msgstr ""
+
+# mes("[Swandery]");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_bover"
+msgid "[Swandery]"
+msgstr ""
+
+# mesf("Oh, %s. Don't be sad.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, c-format
+msgctxt "Vintenar#bat_b01_bover"
+msgid "Oh, %s. Don't be sad."
+msgstr ""
+
+# mes("Even though we didn't win, we did our best.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_bover"
+msgid "Even though we didn't win, we did our best."
+msgstr ""
+
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_bover"
+msgid "This is a Royal gift from Croix, and please don't forget this battle. We will win the next one."
+msgstr ""
+
+# mes("Blessed Croix!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_bover"
+msgid "Blessed Croix!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_bover"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, c-format
+msgctxt "Vintenar#bat_b01_bover"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mes("Why do you come here as a Guillaume? You will be sent to where you should be!");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Vintenar#bat_b01_bover"
+msgid "Why do you come here as a Guillaume? You will be sent to where you should be!"
+msgstr ""
+
+# mes("Cancelled.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Release all#b01"
+msgid "Cancelled."
+msgstr ""
+
+# mes("May I help you?");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Release all#b01"
+msgid "May I help you?"
+msgstr ""
+
+# switch(select("Release all.", "Cancel.")) {
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Release all#b01"
+msgid "Release all."
+msgstr ""
+
+# switch(select("Release all.", "Cancel.")) {
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Release all#b01"
+msgid "Cancel."
+msgstr ""
+
+# mes("Bye.");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Release all#b01"
+msgid "Bye."
+msgstr ""
+
+# waitingroom(_("Battle Station"), 11, "start#bat_b02::OnReadyCheck", 1, 0, 80);
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Lieutenant Huvas"
+msgid "Battle Station"
+msgstr ""
+
+# waitingroom(_("Battle Station"), 11, "start#bat_b02::OnReadyCheck", 1, 0, 80);
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Lieutenant Yukon"
+msgid "Battle Station"
+msgstr ""
+
+# mapannounce("bat_b02", _("Guillaume's Crystal has been destroyed."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "OBJ#bat_b02_a"
+msgid "Guillaume's Crystal has been destroyed."
+msgstr ""
+
+# bg_monster($@FlaviusBG2_id2, "bat_b02", 328, 150, _("Blue Crystal"), 1914, "OBJ#bat_b02_b::OnMyMobDead");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "OBJ#bat_b02_b"
+msgid "Blue Crystal"
+msgstr ""
+
+# mapannounce("bat_b02", _("Croix's Crystal has been destroyed."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "OBJ#bat_b02_b"
+msgid "Croix's Crystal has been destroyed."
+msgstr ""
+
+# bg_monster($@FlaviusBG2_id1, "bat_b02", 108, 159, _("Guillaume Camp Guardian"), 1949, "guardian#bat_b02_a::OnMyMobDead");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "guardian#bat_b02_a"
+msgid "Guillaume Camp Guardian"
+msgstr ""
+
+# mapannounce("bat_b02", _("The Guardian protecting Guillaume's Crystal has been slain."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "guardian#bat_b02_a"
+msgid "The Guardian protecting Guillaume's Crystal has been slain."
+msgstr ""
+
+# bg_monster($@FlaviusBG2_id2, "bat_b02", 307, 160, _("Croix Camp Guardian"), 1949, "guardian#bat_b02_b::OnMyMobDead");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "guardian#bat_b02_b"
+msgid "Croix Camp Guardian"
+msgstr ""
+
+# mapannounce("bat_b02", _("The Guardian protecting Croix's Crystal has been slain."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "guardian#bat_b02_b"
+msgid "The Guardian protecting Croix's Crystal has been slain."
+msgstr ""
+
+# mes("[Battle Therapist]");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Battle Therapist#b02_a"
+msgid "[Battle Therapist]"
+msgstr ""
+
+# mes("Just close your eyes,\r"
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Battle Therapist#b02_a"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+# mes("You can be free from pain.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Battle Therapist#b02_a"
+msgid "You can be free from pain."
+msgstr ""
+
+# mes("[Battle Therapist]");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Battle Therapist#b02_b"
+msgid "[Battle Therapist]"
+msgstr ""
+
+# mes("Just close your eyes,\r"
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Battle Therapist#b02_b"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+# mes("You can be free from pain.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Battle Therapist#b02_b"
+msgid "You can be free from pain."
+msgstr ""
+
+# mes("[Axl Rose]");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "[Axl Rose]"
+msgstr ""
+
+# mes("Blessed Guillaume!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "Blessed Guillaume!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius02.txt
+#, c-format
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mes("You lost, but you're dedicated to this battle.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "You lost, but you're dedicated to this battle."
+msgstr ""
+
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr ""
+
+# mes("Just take this defeat as a lesson, next time you will definitely win.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "Just take this defeat as a lesson, next time you will definitely win."
+msgstr ""
+
+# mes("[Swandery]");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Croix Vintenar#b02_b"
+msgid "[Swandery]"
+msgstr ""
+
+# mes("Blessed Croix!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Croix Vintenar#b02_b"
+msgid "Blessed Croix!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Croix Vintenar#b02_b"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius02.txt
+#, c-format
+msgctxt "Croix Vintenar#b02_b"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mesf("Oh, %s. Don't be sad.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius02.txt
+#, c-format
+msgctxt "Croix Vintenar#b02_b"
+msgid "Oh, %s. Don't be sad."
+msgstr ""
+
+# mes("Even though we didn't win, we did our best.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Croix Vintenar#b02_b"
+msgid "Even though we didn't win, we did our best."
+msgstr ""
+
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Croix Vintenar#b02_b"
+msgid "This is a Royal gift from Croix, and please don't forget this battle. We will win the next one."
+msgstr ""
+
+# mapannounce("bat_b02", _("Guillaume Vintenar Axl Rose : Let's attack to destroy that Crystal!"), bc_map, "0xFF9900");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "countdown#bat_b02"
+msgid "Guillaume Vintenar Axl Rose : Let's attack to destroy that Crystal!"
+msgstr ""
+
+# mapannounce("bat_b02", _("Croix Vintenar Swandery : Even though Guillaume is struggling to win against us, the victory is ours. Let's show them our power."), bc_map, "0xFF99CC");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "countdown#bat_b02"
+msgid ""
+"Croix Vintenar Swandery : Even though Guillaume is struggling to win against us, the victory is ours. Let's show "
+"them our power."
+msgstr ""
+
+# mapannounce("bat_b02", _("Marollo VII : Guillaume Marollo, Croix Marollo! And their followers!"), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "countdown#bat_b02"
+msgid "Marollo VII : Guillaume Marollo, Croix Marollo! And their followers!"
+msgstr ""
+
+# mapannounce("bat_b02", _("Marollo VII : Both camps are competitive, so it's hard to judge which team is superior."), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "countdown#bat_b02"
+msgid "Marollo VII : Both camps are competitive, so it's hard to judge which team is superior."
+msgstr ""
+
+# mapannounce("bat_b02", _("Marollo VII : This battle of Flavian is such a waste of time. I will decide victory and defeat by your progress."), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "countdown#bat_b02"
+msgid ""
+"Marollo VII : This battle of Flavian is such a waste of time. I will decide victory and defeat by your progress."
+msgstr ""
+
+# mapannounce("bat_b02", _("Marollo VII : If you can't accept the results, try again in another valley battle!"), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "countdown#bat_b02"
+msgid "Marollo VII : If you can't accept the results, try again in another valley battle!"
+msgstr ""
+
+# mapannounce("bat_b02", _("Axl Rose, Swandery : Yes, sir."), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "countdown#bat_b02"
+msgid "Axl Rose, Swandery : Yes, sir."
+msgstr ""
+
+# mes("[Axl Rose]");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_aover"
+msgid "[Axl Rose]"
+msgstr ""
+
+# mes("Blessed Guillaume!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_aover"
+msgid "Blessed Guillaume!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_aover"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius02.txt
+#, c-format
+msgctxt "Vintenar#bat_b02_aover"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mes("You lost, but you're dedicated to this battle.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_aover"
+msgid "You lost, but you're dedicated to this battle."
+msgstr ""
+
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_aover"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr ""
+
+# mes("Just take this defeat as a lesson, next time you will definitely win.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_aover"
+msgid "Just take this defeat as a lesson, next time you will definitely win."
+msgstr ""
+
+# mes("Why are you here, Croix mercenary? I am definitely sure of victory against foolish Croix such as you. Ha!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_aover"
+msgid "Why are you here, Croix mercenary? I am definitely sure of victory against foolish Croix such as you. Ha!"
+msgstr ""
+
+# mes("[Swandery]");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_bover"
+msgid "[Swandery]"
+msgstr ""
+
+# mesf("Oh, %s. Don't be sad.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius02.txt
+#, c-format
+msgctxt "Vintenar#bat_b02_bover"
+msgid "Oh, %s. Don't be sad."
+msgstr ""
+
+# mes("Even though we didn't win, we did our best.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_bover"
+msgid "Even though we didn't win, we did our best."
+msgstr ""
+
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_bover"
+msgid "This is a Royal gift from Croix, and please don't forget this battle. We will win the next one."
+msgstr ""
+
+# mes("Blessed Croix!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_bover"
+msgid "Blessed Croix!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_bover"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius02.txt
+#, c-format
+msgctxt "Vintenar#bat_b02_bover"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mes("Why do you come here as a Guillaume? You will be sent to where you should be!");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Vintenar#bat_b02_bover"
+msgid "Why do you come here as a Guillaume? You will be sent to where you should be!"
+msgstr ""
+
+# mes("Cancelled.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Release all#b02"
+msgid "Cancelled."
+msgstr ""
+
+# mes("May I help you?");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Release all#b02"
+msgid "May I help you?"
+msgstr ""
+
+# switch(select("Release all.", "Cancel.")) {
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Release all#b02"
+msgid "Release all."
+msgstr ""
+
+# switch(select("Release all.", "Cancel.")) {
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Release all#b02"
+msgid "Cancel."
+msgstr ""
+
+# mes("Bye.");
+#: npc/battleground/flavius/flavius02.txt
+msgctxt "Release all#b02"
+msgid "Bye."
+msgstr ""
+
+# mes("[Guillaume Mercenary Officer]");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#1"
+msgid "[Guillaume Mercenary Officer]"
+msgstr ""
+
+# mes("It seems you have recently participated in a KVM battle. You must wait 5 minutes before signing up again.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#1"
+msgid "It seems you have recently participated in a KVM battle. You must wait 5 minutes before signing up again."
+msgstr ""
+
+# mes("Let them know the real might of Guillaume!");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#1"
+msgid "Let them know the real might of Guillaume!"
+msgstr ""
+
+# switch(select("I will fight with you.", "End Conversation.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#1"
+msgid "I will fight with you."
+msgstr ""
+
+# switch(select("I will fight with you.", "End Conversation.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#1"
+msgid "End Conversation."
+msgstr ""
+
+# mes("Show them how strong we are.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#1"
+msgid "Show them how strong we are."
+msgstr ""
+
+# mes("Today, everyone will hear the shout of triumph from Guillaume!");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#1"
+msgid "Today, everyone will hear the shout of triumph from Guillaume!"
+msgstr ""
+
+# mes("We will win!");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#1"
+msgid "We will win!"
+msgstr ""
+
+# mes("[Guillaume Knight]");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "[Guillaume Knight]"
+msgstr ""
+
+# mes("Hello.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "Hello."
+msgstr ""
+
+# mes("What do you want to know?");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "What do you want to know?"
+msgstr ""
+
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "Apply for KVM."
+msgstr ""
+
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "What is KVM?"
+msgstr ""
+
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "How do I participate in KVM?"
+msgstr ""
+
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "I want to know my Kreiger Points."
+msgstr ""
+
+# mes("Applications are not available yet.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "Applications are not available yet."
+msgstr ""
+
+# mes("To apply, you need to go to a KVM Mercenary Officer.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "To apply, you need to go to a KVM Mercenary Officer."
+msgstr ""
+
+# mes("KVM is the abbreviation of Kreiger Von Midgard.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "KVM is the abbreviation of Kreiger Von Midgard."
+msgstr ""
+
+# mes("Adventurer, are you aware that the way to the new world has been opened?");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "Adventurer, are you aware that the way to the new world has been opened?"
+msgstr ""
+
+# mes("We, the Guillaume Administration, have several plans to advance to the new world.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "We, the Guillaume Administration, have several plans to advance to the new world."
+msgstr ""
+
+# mes("And KVM is one of them.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "And KVM is one of them."
+msgstr ""
+
+# mes("It means that we, one of many countries in the Midgard continent,");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "It means that we, one of many countries in the Midgard continent,"
+msgstr ""
+
+# mes("have decided to employ many adventurers for the immediate advance to the new world.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "have decided to employ many adventurers for the immediate advance to the new world."
+msgstr ""
+
+# mes("Therefore, to select the best adventurers, we are holding the KVM.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "Therefore, to select the best adventurers, we are holding the KVM."
+msgstr ""
+
+# mes("We exspect responses from many adventurers.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "We exspect responses from many adventurers."
+msgstr ""
+
+# mes("And we will give them rewards for their participation!");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "And we will give them rewards for their participation!"
+msgstr ""
+
+# mes("As for the rewards, please contact a KVM Logistic Officer.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "As for the rewards, please contact a KVM Logistic Officer."
+msgstr ""
+
+# mes("Basically, KVM is a 5 on 5 battle.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "Basically, KVM is a 5 on 5 battle."
+msgstr ""
+
+# mes("First, you apply with a KVM receptionist, in a group or individually.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "First, you apply with a KVM receptionist, in a group or individually."
+msgstr ""
+
+# mes("Group applications are for when you intend to enter the KVM with your party members,");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "Group applications are for when you intend to enter the KVM with your party members,"
+msgstr ""
+
+# mes("and a personal application is for when you intend to enter the KVM individually.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "and a personal application is for when you intend to enter the KVM individually."
+msgstr ""
+
+# mes("Please apply with a KVM officer, and he will contact you later when you are in Prontera.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "Please apply with a KVM officer, and he will contact you later when you are in Prontera."
+msgstr ""
+
+# mes("Then you enter and follow the instructions in the battlefield.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "Then you enter and follow the instructions in the battlefield."
+msgstr ""
+
+# mes("However, please be advised that unless you are in the KVM office, he cannot contact you.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "However, please be advised that unless you are in the KVM office, he cannot contact you."
+msgstr ""
+
+# mes("Your Kreiger Points are:");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Guillaume Knight#kvm"
+msgid "Your Kreiger Points are:"
+msgstr ""
+
+# mesf("%d.", kvm_point);
+#: npc/battleground/kvm/kvm_enter.txt
+#, c-format
+msgctxt "Guillaume Knight#kvm"
+msgid "%d."
+msgstr ""
+
+# mes("[Croix Mercenary Officer]");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#2"
+msgid "[Croix Mercenary Officer]"
+msgstr ""
+
+# mes("It seems you have recently participated in a KVM battle. You must wait 5 minutes before signing up again.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#2"
+msgid "It seems you have recently participated in a KVM battle. You must wait 5 minutes before signing up again."
+msgstr ""
+
+# mes("Let them know the real might of Croix!");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#2"
+msgid "Let them know the real might of Croix!"
+msgstr ""
+
+# switch(select("I will fight with you.", "End Conversation.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#2"
+msgid "I will fight with you."
+msgstr ""
+
+# switch(select("I will fight with you.", "End Conversation.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#2"
+msgid "End Conversation."
+msgstr ""
+
+# mes("Show them how strong we are.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#2"
+msgid "Show them how strong we are."
+msgstr ""
+
+# mes("Today, everyone will hear the shout of triumph from Croix!");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#2"
