@@ -2342,7 +2342,8 @@ msgctxt "applegamble"
 msgid ""
 "I'm up for a game of\rdice whenever you feel\rlike it. Just talk to me if\ryou ever get hit with the\rsudden urge to "
 "gamble, kay?"
-msgstr ""
+msgstr "Aku siap untuk permainan setiap kali Anda merasakannya. Berbicaralah padaku jika Anda pernah tertabrak dengan dorongan untuk "
+"Berjudi, kay?"
 
 # mes("The rules for the Dice game\r"
 #: npc/airports/airships.txt
