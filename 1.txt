@@ -238,637 +238,637 @@ msgstr "Pintu Masuk Rachel Sanctuary"
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Odin Temple 2f"
-msgstr ""
+msgstr "Kuil Odin 2f"
 
 # switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Bio Lab (2nd Floor)"
-msgstr ""
+msgstr "Bio Lab (Lantai 2)"
 
 # switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Ice Dungeon (3rd Floor)"
-msgstr ""
+msgstr "Ice Dungeon (Lantai 3)"
 
 # switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Odin Temple (3rd Floor)"
-msgstr ""
+msgstr "Kuil Odin (Lantai 3)"
 
 # switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Thor Volcano (3rd Floor)"
-msgstr ""
+msgstr "Gunung Api Thor (Lantai 3)"
 
 # switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Abyss Lake (3rd Floor)"
-msgstr ""
+msgstr "Danau Abyss (Lantai 3)"
 
 # switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashDungeon"
 msgid "Juperos Ruins (2nd Floor)"
-msgstr ""
+msgstr "Reruntuhan Juperos (Lantai 2)"
 
 # switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Prontera"
-msgstr ""
+msgstr "Prontera"
 
 # switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Izlude"
-msgstr ""
+msgstr "Izlude"
 
 # switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Geffen"
-msgstr ""
+msgstr "Geffen"
 
 # switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Payon"
-msgstr ""
+msgstr "Payon"
 
 # switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Morroc"
-msgstr ""
+msgstr "Morroc"
 
 # switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Alberta"
-msgstr ""
+msgstr "Alberta"
 
 # switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Al de Baran"
-msgstr ""
+msgstr "Al de Baran"
 
 # switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Juno"
-msgstr ""
+msgstr "Juno"
 
 # switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Lighthalzen"
-msgstr ""
+msgstr "Lighthalzen"
 
 # switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Einbroch"
-msgstr ""
+msgstr "Einbroch"
 
 # switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Einbech"
-msgstr ""
+msgstr "Einbech"
 
 # switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Hugel"
-msgstr ""
+msgstr "Hugel"
 
 # switch(select("Rachel", "Veins")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Rachel"
-msgstr ""
+msgstr "Rachel"
 
 # switch(select("Rachel", "Veins")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Veins"
-msgstr ""
+msgstr "Veins"
 
 # switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Amatsu"
-msgstr ""
+msgstr "Amatsu"
 
 # switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Kunlun"
-msgstr ""
+msgstr "Kunlun"
 
 # switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Ayotaya"
-msgstr ""
+msgstr "Ayotaya"
 
 # switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Louyang"
-msgstr ""
+msgstr "Louyang"
 
 # switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang", "Moscovia", "Dewata", "Brasilis")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Moscovia"
-msgstr ""
+msgstr "Moscovia"
 
 # switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang", "Moscovia", "Dewata", "Brasilis")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Dewata"
-msgstr ""
+msgstr "Dewata"
 
 # switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang", "Moscovia", "Dewata", "Brasilis")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashCity"
 msgid "Brasilis"
-msgstr ""
+msgstr "Brasilis"
 
 # switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Prontera"
-msgstr ""
+msgstr "Prontera"
 
 # switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Geffen"
-msgstr ""
+msgstr "Geffen"
 
 # switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Al de Baran"
-msgstr ""
+msgstr "Al de Baran"
 
 # switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Izlude"
-msgstr ""
+msgstr "Izlude"
 
 # switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Savepoint"
-msgstr ""
+msgstr "Savepoint"
 
 # switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Payon"
-msgstr ""
+msgstr "Payon"
 
 # switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Alberta"
-msgstr ""
+msgstr "Alberta"
 
 # switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Morroc"
-msgstr ""
+msgstr "Morroc"
 
 # switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Comodo"
-msgstr ""
+msgstr "Comodo"
 
 # switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Louyang"
-msgstr ""
+msgstr "Louyang"
 
 # switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Amatsu"
-msgstr ""
+msgstr "Amatsu"
 
 # switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Kunlun Field"
-msgstr ""
+msgstr "Lapangan Kunlun"
 
 # switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Ayothaya"
-msgstr ""
+msgstr "Ayothaya"
 
 # switch(select("Lutie Field", "Umbala", "Niflheim", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Lutie Field"
-msgstr ""
+msgstr "Lutie Field"
 
 # switch(select("Lutie Field", "Umbala", "Niflheim", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Umbala"
-msgstr ""
+msgstr "Umbala"
 
 # switch(select("Lutie Field", "Umbala", "Niflheim", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Niflheim"
-msgstr ""
+msgstr "Niflheim"
 
 # switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Juno"
-msgstr ""
+msgstr "Juno"
 
 # switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Einbroch"
-msgstr ""
+msgstr "Einbroch"
 
 # switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Lighthalzen"
-msgstr ""
+msgstr "Lighthalzen"
 
 # switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Hugel"
-msgstr ""
+msgstr "Hugel"
 
 # switch(select("Rachel", "Veins", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Rachel"
-msgstr ""
+msgstr "Rachel"
 
 # switch(select("Rachel", "Veins", "Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashTele"
 msgid "Veins"
-msgstr ""
+msgstr "Veins"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Neuschwanstein (aldeg_cas01)"
-msgstr ""
+msgstr "Neuschwanstein (aldeg_cas01)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Hohenschwangau (aldeg_cas02)"
-msgstr ""
+msgstr "Hohenschwangau (aldeg_cas02)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Nuernberg (aldeg_cas03)"
-msgstr ""
+msgstr "Nuernberg (aldeg_cas03)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Wuerzburg (aldeg_cas04)"
-msgstr ""
+msgstr "Wuerzburg (aldeg_cas04)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Rothenburg (aldeg_cas05)"
-msgstr ""
+msgstr "Rothenburg (aldeg_cas05)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Repherion (gefg_cas01)"
-msgstr ""
+msgstr "Repherion (gefg_cas01)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Eeyorbriggar (gefg_cas02)"
-msgstr ""
+msgstr "Eeyorbriggar (gefg_cas02)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Yesnelph (gefg_cas03)"
-msgstr ""
+msgstr "Yesnelph (gefg_cas03)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Bergel (gefg_cas04)"
-msgstr ""
+msgstr "Bergel (gefg_cas04)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Mersetzdeitz (gefg_cas05)"
-msgstr ""
+msgstr "Mersetzdeitz (gefg_cas05)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Bright Arbor (payg_cas01)"
-msgstr ""
+msgstr "Terang Bright (payg_cas01)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Sacred Altar (payg_cas02)"
-msgstr ""
+msgstr "Altar Suci (payg_cas02)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Holy Shadow (payg_cas03)"
-msgstr ""
+msgstr "Bayangan Suci (payg_cas03)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Scarlet Palace (payg_cas04)"
-msgstr ""
+msgstr "Istana Scarlet (payg_cas04)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Bamboo Grove Hill (payg_cas05)"
-msgstr ""
+msgstr "Bukit Bambu Bambu (payg_cas05)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Kriemhild (prtg_cas01)"
-msgstr ""
+msgstr "Kriemhild (prtg_cas01)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Swanhild (prtg_cas02)"
-msgstr ""
+msgstr "Swanhild (prtg_cas02)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Fadhgridh (prtg_cas03)"
-msgstr ""
+msgstr "Fadhgridh (prtg_cas03)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Skoegul (prtg_cas04)"
-msgstr ""
+msgstr "Skoegul (prtg_cas04)"
 
 # switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_CashSiegeTele"
 msgid "Gondul (prtg_cas05)"
-msgstr ""
+msgstr "Gondul (prtg_cas05)"
 
 # mes "[Snowman]";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "[Snowman]"
-msgstr ""
+msgstr "[Snowman]"
 
 # mes "Merry Christmas!";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Merry Christmas!"
-msgstr ""
+msgstr "Selamat Natal !"
 
 # switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Restore Some HP/SP"
-msgstr ""
+msgstr "Restore Some HP/SP"
 
 # switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Strengthen My Body!"
-msgstr ""
+msgstr "Perkuat tubuhku !"
 
 # switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Restore My SP Fully."
-msgstr ""
+msgstr "Kembalikan My SP Sepenuhnya."
 
 # switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Return to Savepoint"
-msgstr ""
+msgstr "Kembali ke Savepoint"
 
 # mes "Aha!";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Aha!"
-msgstr ""
+msgstr "Aha!"
 
 # mes "Quiet night~";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Quiet night~"
-msgstr ""
+msgstr "Malam yang tenang ~"
 
 # mes "Blessings.";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Blessings."
-msgstr ""
+msgstr "Berkat."
 
 # mes "Holy night~";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Holy night~"
-msgstr ""
+msgstr "Malam suci ~"
 
 # mes "Hey!";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Hey!"
-msgstr ""
+msgstr "Hey!"
 
 # mes "White Christmas~";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "White Christmas~"
-msgstr ""
+msgstr "Natal Putih ~"
 
 # mes "Jingle Bells~";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Jingle Bells~"
-msgstr ""
+msgstr "Jingle Bells~"
 
 # mes "Jingle Bells~ Jingle Bells!";
 #: npc/other/CashShop_Functions.txt
 msgctxt "F_Snowball"
 msgid "Jingle Bells~ Jingle Bells!"
-msgstr ""
+msgstr "Jingle Bells~ Jingle Bells!"
 
 # mapannounce("airplane", _("We are heading to Einbroch."), bc_map, "0x00ff00");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "We are heading to Einbroch."
-msgstr ""
+msgstr "Kami menuju ke Einbroch."
 
 # mapannounce("airplane", _("We will arrive in Einbroch shortly."), bc_map, "0x00ff00");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "We will arrive in Einbroch shortly."
-msgstr ""
+msgstr "Kami akan segera tiba di Einbroch."
 
 # mapannounce("airplane", _("Welcome to Einbroch. Have a safe trip."), bc_map, "0x00ff00");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "Welcome to Einbroch. Have a safe trip."
-msgstr ""
+msgstr "Selamat datang di Einbroch. Semoga selamat sampai tujuan."
 
 # mapannounce("airplane", _("Currently we are in Einbroch. The Airship will take off shortly."), bc_map, "0x00ff00");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "Currently we are in Einbroch. The Airship will take off shortly."
-msgstr ""
+msgstr "Saat ini kita berada di Einbroch. Pesawat akan segera lepas landas."
 
 # mapannounce("airplane", _("The Airship is now taking off. Our next destination is Lighthalzen."), bc_map, "0x70dbdb");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "The Airship is now taking off. Our next destination is Lighthalzen."
-msgstr ""
+msgstr "Pesawat sekarang lepas landas. Tujuan kami berikutnya adalah Lighthalzen."
 
 # mapannounce("airplane", _("We are heading to Lighthalzen."), bc_map, "0x70dbdb");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "We are heading to Lighthalzen."
-msgstr ""
+msgstr "Kami menuju Lighthalzen."
 
 # mapannounce("airplane", _("We will arrive in Lighthalzen shortly."), bc_map, "0x70dbdb");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "We will arrive in Lighthalzen shortly."
-msgstr ""
+msgstr "Kami akan segera tiba di Lighthalzen."
 
 # mapannounce("airplane", _("Welcome to Lighthalzen. Have a safe trip."), bc_map, "0x70dbdb");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "Welcome to Lighthalzen. Have a safe trip."
-msgstr ""
+msgstr "Selamat Datang di Lighthalzen. Semoga selamat sampai tujuan."
 
 # mapannounce("airplane", _("Currently we are in Lighthalzen. The Airship will leave shortly."), bc_map, "0x70dbdb");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "Currently we are in Lighthalzen. The Airship will leave shortly."
-msgstr ""
+msgstr "Saat ini kita berada di Lighthalzen. Pesawat akan segera berangkat"
 
 # mapannounce("airplane", _("The Airship is leaving the ground. Our next destination is Einbroch."), bc_map, "0x00ff00");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "The Airship is leaving the ground. Our next destination is Einbroch."
-msgstr ""
+msgstr "Pesawat terbang meninggalkan tanah. Tujuan kami selanjutnya adalah Einbroch."
 
 # mapannounce("airplane", _("The Airship is now taking off. Our next destination is Juno."), bc_map, "0xff8200");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "The Airship is now taking off. Our next destination is Juno."
-msgstr ""
+msgstr "Pesawat sekarang lepas landas. Tujuan kami selanjutnya adalah Juno."
 
 # mapannounce("airplane", _("We are heading to Juno."), bc_map, "0xff8200");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "We are heading to Juno."
-msgstr ""
+msgstr "Kami menuju Juno."
 
 # mapannounce("airplane", _("We will arrive in Juno shortly."), bc_map, "0xff8200");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "We will arrive in Juno shortly."
-msgstr ""
+msgstr "Kami akan segera sampai di Juno."
 
 # mapannounce("airplane", _("Welcome to Juno. Have a safe trip."), bc_map, "0xff8200");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "Welcome to Juno. Have a safe trip."
-msgstr ""
+msgstr "Selamat datang di Juno. Semoga selamat sampai tujuan."
 
 # mapannounce("airplane", _("Currently we are in Juno. The Airship will leave shortly."), bc_map, "0xff8200");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "Currently we are in Juno. The Airship will leave shortly."
-msgstr ""
+msgstr "Saat ini kita berada di Juno. Pesawat akan segera berangkat."
 
 # mapannounce("airplane", _("The Airship is leaving the ground. Our next destination is Hugel."), bc_map, "0xca4bf3");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "The Airship is leaving the ground. Our next destination is Hugel."
-msgstr ""
+msgstr "Pesawat terbang meninggalkan tanah. Tujuan kami selanjutnya adalah Hugel."
 
 # mapannounce("airplane", _("We are heading to Hugel."), bc_map, "0xca4bf3");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "We are heading to Hugel."
-msgstr ""
+msgstr "Kami menuju Hugel."
 
 # mapannounce("airplane", _("We will arrive in Hugel shortly."), bc_map, "0xca4bf3");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "We will arrive in Hugel shortly."
-msgstr ""
+msgstr "Kami akan segera tiba di Hugel."
 
 # mapannounce("airplane", _("Welcome to Hugel. Have a safe trip."), bc_map, "0xca4bf3");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "Welcome to Hugel. Have a safe trip."
-msgstr ""
+msgstr "Selamat datang di Hugel Semoga selamat sampai tujuan."
 
 # mapannounce("airplane", _("Currently we are in Hugel. The Airship will leave shortly."), bc_map, "0xca4bf3");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "Currently we are in Hugel. The Airship will leave shortly."
-msgstr ""
+msgstr "Saat ini kita berada di Hugel. Pesawat akan segera berangkat."
 
 # mapannounce("airplane", _("The Airship is leaving the ground. Our next destination is Juno."), bc_map, "0xff8200");
 #: npc/airports/airships.txt
 msgctxt "Domestic_Airship"
 msgid "The Airship is leaving the ground. Our next destination is Juno."
-msgstr ""
+msgstr "Pesawat terbang meninggalkan tanah. Tujuan kami selanjutnya adalah Juno."
 
 # mes("[Airship Crew]");
 #: npc/airports/airships.txt
 msgctxt "Airship Crew#ein-1"
 msgid "[Airship Crew]"
-msgstr ""
+msgstr "[Airship Crew]"
 
 # mes("If we've landed at\r"
 #: npc/airports/airships.txt
