@@ -876,121 +876,122 @@ msgctxt "Airship Crew#ein-1"
 msgid ""
 "If we've landed at\ryour destination and\ryou'd like to leave the\rAirship, please use the\rstairs up ahead. Thank"
 "\ryou for your patronage."
-msgstr ""
+msgstr ""Jika kita mendarat di tempat tujuan dan ingin meninggalkan Perwalian, mohon gunakan di atas depan Terima kasih"
+"Untuk patronase Anda.""
 
 # mes("[Kid]");
 #: npc/airports/airships.txt
 msgctxt "Umbala Kid#ein_p"
 msgid "[Kid]"
-msgstr ""
+msgstr "[Kid]"
 
 # mes("Wow, mom!");
 #: npc/airports/airships.txt
 msgctxt "Umbala Kid#ein_p"
 msgid "Wow, mom!"
-msgstr ""
+msgstr "Wow, ibu!"
 
 # mes("L-look at this!");
 #: npc/airports/airships.txt
 msgctxt "Umbala Kid#ein_p"
 msgid "L-look at this!"
-msgstr ""
+msgstr "L-lihat ini!"
 
 # mes("We're flying! W-we're...");
 #: npc/airports/airships.txt
 msgctxt "Umbala Kid#ein_p"
 msgid "We're flying! W-we're..."
-msgstr ""
+msgstr "Kita terbang W-kita ..."
 
 # mes("We're in the freakin' sky!");
 #: npc/airports/airships.txt
 msgctxt "Umbala Kid#ein_p"
 msgid "We're in the freakin' sky!"
-msgstr ""
+msgstr "Kami berada di langit yang aneh!"
 
 # mes("Makumalagu!");
 #: npc/airports/airships.txt
 msgctxt "Umbala Kid#ein_p"
 msgid "Makumalagu!"
-msgstr ""
+msgstr "Makumalagu!"
 
 # mes("Saampa joojimbo");
 #: npc/airports/airships.txt
 msgctxt "Umbala Kid#ein_p"
 msgid "Saampa joojimbo"
-msgstr ""
+msgstr "Saampa joojimbo"
 
 # mes("kaku na jedi Solo.");
 #: npc/airports/airships.txt
 msgctxt "Umbala Kid#ein_p"
 msgid "kaku na jedi Solo."
-msgstr ""
+msgstr "kaku na jedi Solo."
 
 # mes("Bwahahahahahahaah!");
 #: npc/airports/airships.txt
 msgctxt "Umbala Kid#ein_p"
 msgid "Bwahahahahahahaah!"
-msgstr ""
+msgstr "Bwahahahahahahaah!"
 
 # mes("[Lady]");
 #: npc/airports/airships.txt
 msgctxt "Umbala Lady#ein_p"
 msgid "[Lady]"
-msgstr ""
+msgstr "[Wanita]"
 
 # mes("Shush...");
 #: npc/airports/airships.txt
 msgctxt "Umbala Lady#ein_p"
 msgid "Shush..."
-msgstr ""
+msgstr "Mendiamkan..."
 
 # mes("Honey, behave~");
 #: npc/airports/airships.txt
 msgctxt "Umbala Lady#ein_p"
 msgid "Honey, behave~"
-msgstr ""
+msgstr "Sayang, berperilaku ~"
 
 # mes("Don't act so excited\r"
 #: npc/airports/airships.txt
 msgctxt "Umbala Lady#ein_p"
 msgid "Don't act so excited\rwhen we're out in a\rpublic place like this!"
-msgstr ""
+msgstr "Jangan bertindak begitu gembira \ ketika kita berada di tempat publik seperti ini!"
 
 # mes("Chooktu!");
 #: npc/airports/airships.txt
 msgctxt "Umbala Lady#ein_p"
 msgid "Chooktu!"
-msgstr ""
+msgstr "Chooktu!"
 
 # mes("Sacraup matii!");
 #: npc/airports/airships.txt
 msgctxt "Umbala Lady#ein_p"
 msgid "Sacraup matii!"
-msgstr ""
+msgstr "Sacraup matii!"
 
 # mes("Shaka gurftalfi\r"
 #: npc/airports/airships.txt
 msgctxt "Umbala Lady#ein_p"
 msgid "Shaka gurftalfi\rhuntiki manjoo!"
-msgstr ""
+msgstr "Shaka gurftalfi\rhuntiki manjoo!"
 
 # mes("[Chrmlim]");
 #: npc/airports/airships.txt
 msgctxt "Umbala Man#ein_p"
 msgid "[Chrmlim]"
-msgstr ""
+msgstr "[Chrmlim]"
 
 # mes("Hey there~");
 #: npc/airports/airships.txt
 msgctxt "Umbala Man#ein_p"
 msgid "Hey there~"
-msgstr ""
+msgstr "Hei ada ~"
 
 # mes("From that look on\r"
 #: npc/airports/airships.txt
 msgctxt "Umbala Man#ein_p"
 msgid "From that look on\ryour face, I see that\ryou can understand\rme. ^333333*Whew...!*^000000"
-msgstr ""
+msgstr "Dari tampilan itu di wajah Anda, saya melihat bahwa Anda bisa mengerti. ^ 333333 * Wah ...! * ^ 000000"
 
 # mes("I've been helping the\r"
 #: npc/airports/airships.txt
@@ -998,7 +999,8 @@ msgctxt "Umbala Man#ein_p"
 msgid ""
 "I've been helping the\rAirship enterprise by\rhaving the Airship Crewmen\rtrain in Umbala to overcome\rany "
 "acrophobia they might have through bungee jumping. Neat, eh?"
-msgstr ""
+msgstr "Saya telah membantu perusahaan Periklanan oleh \ memiliki kereta awak kapal di Umbala untuk mengatasi kerugian "
+"Acrophobia mereka mungkin melalui bungee jumping. Neat, eh?"
 
 # mes("But...");
 #: npc/airports/airships.txt
