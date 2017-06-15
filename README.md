@@ -9,7 +9,7 @@ Build Status:
 
 Project Info:  
 ![Language](https://img.shields.io/badge/language-C-yellow.svg)
-[![License](https://img.shields.io/badge/license-GPLv3-663399.svg)]
+![License](https://img.shields.io/badge/license-GPLv3-663399.svg)
 
 
 Table of Contents
