@@ -1,0 +1,5000 @@
+
+# mes "to do business.";
+#: npc/cities/alberta.txt
+msgctxt "Shakir"
+msgid "to do business."
+msgstr ""
+
+# mes "With the Discount skill, we can buy goods really cheap from the stores in towns and load them into the cart we rent.";
+#: npc/cities/alberta.txt
+msgctxt "Shakir"
+msgid ""
+"With the Discount skill, we can buy goods really cheap from the stores in towns and load them into the cart we rent."
+msgstr ""
+
+# mes "Then afterwards, we can travel anywhere, and sells our goods to make a profit!";
+#: npc/cities/alberta.txt
+msgctxt "Shakir"
+msgid "Then afterwards, we can travel anywhere, and sells our goods to make a profit!"
+msgstr ""
+
+# mes "This way, business is more convenient and safe. Don't fall asleep, although it's too easy to do that.";
+#: npc/cities/alberta.txt
+msgctxt "Shakir"
+msgid "This way, business is more convenient and safe. Don't fall asleep, although it's too easy to do that."
+msgstr ""
+
+# mes "[Sonya]";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid "[Sonya]"
+msgstr ""
+
+# mes "Hey, you know, this one time I was walking through the forest and I saw this little green stem moving around.";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid "Hey, you know, this one time I was walking through the forest and I saw this little green stem moving around."
+msgstr ""
+
+# mes "I went to see what it was and when I went to touch it. The stem actually slapped my hand!";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid "I went to see what it was and when I went to touch it. The stem actually slapped my hand!"
+msgstr ""
+
+# mes "It startled me, so I jumped back a bit and then I realized it wasn't a stem, but a very small animal.";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid "It startled me, so I jumped back a bit and then I realized it wasn't a stem, but a very small animal."
+msgstr ""
+
+# mes "I was lucky I didn't upset it. Even the smallest animal can be dangerous if angered.";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid "I was lucky I didn't upset it. Even the smallest animal can be dangerous if angered."
+msgstr ""
+
+# mes "You know those lazy looking bears that live in the forest on the way to Payon?";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid "You know those lazy looking bears that live in the forest on the way to Payon?"
+msgstr ""
+
+# mes "Just for fun, I threw a rock at it and all of sudden it rushed at me! I was sooooo scared, I started to run away, then BAM!!!";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid ""
+"Just for fun, I threw a rock at it and all of sudden it rushed at me! I was sooooo scared, I started to run away, "
+"then BAM!!!"
+msgstr ""
+
+# mes "It ran into a low tree branch and knocked itself out! I swear, I'll never provoke an animal for fun again!";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid "It ran into a low tree branch and knocked itself out! I swear, I'll never provoke an animal for fun again!"
+msgstr ""
+
+# mes "I once saw a pack of wolves take on one of those huge, lazy bears!";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid "I once saw a pack of wolves take on one of those huge, lazy bears!"
+msgstr ""
+
+# mes "Wolves are much more cooperative than they may seem. If one of them is attacked, then any nearby wolves will run to help.";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid ""
+"Wolves are much more cooperative than they may seem. If one of them is attacked, then any nearby wolves will run to "
+"help."
+msgstr ""
+
+# mes "I'd think twice if you ever want to fight one when others of its kind are around. Be careful: don't get ganged up on!";
+#: npc/cities/alberta.txt
+msgctxt "Sonya"
+msgid ""
+"I'd think twice if you ever want to fight one when others of its kind are around. Be careful: don't get ganged up on!"
+msgstr ""
+
+# mes "[Grandmother Alma]";
+#: npc/cities/alberta.txt
+msgctxt "Grandmother Alma"
+msgid "[Grandmother Alma]"
+msgstr ""
+
+# mes "Some time ago,";
+#: npc/cities/alberta.txt
+msgctxt "Grandmother Alma"
+msgid "Some time ago,"
+msgstr ""
+
+# mes "a derelict ship";
+#: npc/cities/alberta.txt
+msgctxt "Grandmother Alma"
+msgid "a derelict ship"
+msgstr ""
+
+# mes "drifted into";
+#: npc/cities/alberta.txt
+msgctxt "Grandmother Alma"
+msgid "drifted into"
+msgstr ""
+
+# mes "Alberta harbour.";
+#: npc/cities/alberta.txt
+msgctxt "Grandmother Alma"
+msgid "Alberta harbour."
+msgstr ""
+
+# mes "Hoping to save any survivors, some of the townspeople ventured into the ship. However, they all ran out terrified, saying that corpses were walking around inside the ship.";
+#: npc/cities/alberta.txt
+msgctxt "Grandmother Alma"
+msgid ""
+"Hoping to save any survivors, some of the townspeople ventured into the ship. However, they all ran out terrified, "
+"saying that corpses were walking around inside the ship."
+msgstr ""
+
+# mes "The ship was also packed with dangerous marine organisms, and they couldn't get inside, even if they wanted to.";
+#: npc/cities/alberta.txt
+msgctxt "Grandmother Alma"
+msgid "The ship was also packed with dangerous marine organisms, and they couldn't get inside, even if they wanted to."
+msgstr ""
+
+# mes "We couldn't do anything about that ominous looking ship, and just left it as it was. Nowadays, exploration teams try to enter that ship and wipe out its monsters.";
+#: npc/cities/alberta.txt
+msgctxt "Grandmother Alma"
+msgid ""
+"We couldn't do anything about that ominous looking ship, and just left it as it was. Nowadays, exploration teams try "
+"to enter that ship and wipe out its monsters."
+msgstr ""
+
+# mes "So it might be a good experience for a young person like yourself to be a recruit. But, it's still not worth risking your life if you're not strong enough.";
+#: npc/cities/alberta.txt
+msgctxt "Grandmother Alma"
+msgid ""
+"So it might be a good experience for a young person like yourself to be a recruit. But, it's still not worth risking "
+"your life if you're not strong enough."
+msgstr ""
+
+# mes "[Fisk]";
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "[Fisk]"
+msgstr ""
+
+# mes "Ahoy mate,";
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "Ahoy mate,"
+msgstr ""
+
+# mes "where'd ya";
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "where'd ya"
+msgstr ""
+
+# mes "wanna go?";
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "wanna go?"
+msgstr ""
+
+# switch(select("Sunken Ship -> 250 zeny.","Izlude Marina -> 500 zeny.","Never mind.")) {
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "Sunken Ship -> 250 zeny."
+msgstr ""
+
+# switch(select("Sunken Ship -> 250 zeny.","Izlude Marina -> 500 zeny.","Never mind.")) {
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "Izlude Marina -> 500 zeny."
+msgstr ""
+
+# switch(select("Sunken Ship -> 250 zeny.","Izlude Marina -> 500 zeny.","Never mind.")) {
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "Never mind."
+msgstr ""
+
+# mes "Hey now, don't try to cheat me! I said 250 zeny!";
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "Hey now, don't try to cheat me! I said 250 zeny!"
+msgstr ""
+
+# mes "Ain't no way yer getting there without the 500 zeny first!";
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "Ain't no way yer getting there without the 500 zeny first!"
+msgstr ""
+
+# mes "Alright...";
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "Alright..."
+msgstr ""
+
+# mes "Landlubber.";
+#: npc/cities/alberta.txt
+msgctxt "Fisk"
+msgid "Landlubber."
+msgstr ""
+
+# mes "[Fisk]";
+#: npc/cities/alberta.txt
+msgctxt "Fisk#a2t"
+msgid "[Fisk]"
+msgstr ""
+
+# mes "So you wanna head back to the mainland in Alberta, eh?";
+#: npc/cities/alberta.txt
+msgctxt "Fisk#a2t"
+msgid "So you wanna head back to the mainland in Alberta, eh?"
+msgstr ""
+
+# if(select("Yes please.","I changed my mind.")==1)
+#: npc/cities/alberta.txt
+msgctxt "Fisk#a2t"
+msgid "Yes please."
+msgstr ""
+
+# if(select("Yes please.","I changed my mind.")==1)
+#: npc/cities/alberta.txt
+msgctxt "Fisk#a2t"
+msgid "I changed my mind."
+msgstr ""
+
+# mes "[Paul]";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "[Paul]"
+msgstr ""
+
+# mes "Good day~";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "Good day~"
+msgstr ""
+
+# mes "Would you like";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "Would you like"
+msgstr ""
+
+# mes "to join the";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "to join the"
+msgstr ""
+
+# mes "exploration team";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "exploration team"
+msgstr ""
+
+# mes "of the Sunken Ship?";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "of the Sunken Ship?"
+msgstr ""
+
+# mes "Oh! Before you join, I must warn you. If you're not that strong, you may not want to go.";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "Oh! Before you join, I must warn you. If you're not that strong, you may not want to go."
+msgstr ""
+
+# mes "So, want";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "So, want"
+msgstr ""
+
+# mes "to sign up?";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "to sign up?"
+msgstr ""
+
+# mes "The admission";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "The admission"
+msgstr ""
+
+# mes "fee is only";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "fee is only"
+msgstr ""
+
+# mes "200 Zeny.";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "200 Zeny."
+msgstr ""
+
+# switch(select("Sign me up!","Uh, no thanks.")) {
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "Sign me up!"
+msgstr ""
+
+# switch(select("Sign me up!","Uh, no thanks.")) {
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "Uh, no thanks."
+msgstr ""
+
+# mes "It seems you don't have the money, my friend. But please come back when you're able to pay.";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "It seems you don't have the money, my friend. But please come back when you're able to pay."
+msgstr ""
+
+# mes "Alright, well...";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "Alright, well..."
+msgstr ""
+
+# mes "I'll be around";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "I'll be around"
+msgstr ""
+
+# mes "if you change";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "if you change"
+msgstr ""
+
+# mes "your mind.";
+#: npc/cities/alberta.txt
+msgctxt "Paul"
+msgid "your mind."
+msgstr ""
+
+# mes "[Phelix]";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "[Phelix]"
+msgstr ""
+
+# mes "Wait a moment!!";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Wait a moment!!"
+msgstr ""
+
+# mes "You have brought too many things!";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "You have brought too many things!"
+msgstr ""
+
+# mes "You cannot accept any more items!";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "You cannot accept any more items!"
+msgstr ""
+
+# mes "Please reduce the amount of items,";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Please reduce the amount of items,"
+msgstr ""
+
+# mes "then come see me again.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "then come see me again."
+msgstr ""
+
+# mes "The hell are you doing here?";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "The hell are you doing here?"
+msgstr ""
+
+# mes "There is nothing you can get for free on this ship, if you want somethin', work for it!!";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "There is nothing you can get for free on this ship, if you want somethin', work for it!!"
+msgstr ""
+
+# mes "Hmm, so why don't you bring me 10 jellopies and I will give 1 potion. How's that sound?";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Hmm, so why don't you bring me 10 jellopies and I will give 1 potion. How's that sound?"
+msgstr ""
+
+# mes "Or if that's too hard for your pansy ass, 3 jellopies for 1 Carrot.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Or if that's too hard for your pansy ass, 3 jellopies for 1 Carrot."
+msgstr ""
+
+# mes "If you're interested in my offer, get me the stuff I mentioned.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "If you're interested in my offer, get me the stuff I mentioned."
+msgstr ""
+
+# mes "Hmm.. you want to exchange jellopies for Red Potions or some Carrots eh? Well.. which one?";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Hmm.. you want to exchange jellopies for Red Potions or some Carrots eh? Well.. which one?"
+msgstr ""
+
+# switch(select("Red Potions please.","Carrots please.")) {
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Red Potions please."
+msgstr ""
+
+# switch(select("Red Potions please.","Carrots please.")) {
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Carrots please."
+msgstr ""
+
+# mes "Alright...";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Alright..."
+msgstr ""
+
+# mes "Let's see";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Let's see"
+msgstr ""
+
+# mes "what'cha got...";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "what'cha got..."
+msgstr ""
+
+# mes "Hey! Weren't you listening?. I said 10 jellopies for 1 Red Potion.. are ya deaf?";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Hey! Weren't you listening?. I said 10 jellopies for 1 Red Potion.. are ya deaf?"
+msgstr ""
+
+# mes "Hmm, not bad...";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Hmm, not bad..."
+msgstr ""
+
+# mes "How many potions";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "How many potions"
+msgstr ""
+
+# mes "do you want to get?";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "do you want to get?"
+msgstr ""
+
+# switch(select("As many as I can, please.","I want this many.","Never mind, I like my jellopy.")) {
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "As many as I can, please."
+msgstr ""
+
+# switch(select("As many as I can, please.","I want this many.","Never mind, I like my jellopy.")) {
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "I want this many."
+msgstr ""
+
+# switch(select("As many as I can, please.","I want this many.","Never mind, I like my jellopy.")) {
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Never mind, I like my jellopy."
+msgstr ""
+
+# mes "I'm not giving you more then 100 at a time so don't bother, OK? If you don't want any, just say '0'.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "I'm not giving you more then 100 at a time so don't bother, OK? If you don't want any, just say '0'."
+msgstr ""
+
+# mes "Right now, the most you can get is " + .@max + " but remember, 100 at most, you want to break my back?.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Right now, the most you can get is "
+msgstr ""
+
+# mes "Right now, the most you can get is " + .@max + " but remember, 100 at most, you want to break my back?.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid " but remember, 100 at most, you want to break my back?."
+msgstr ""
+
+# mes "Much obliged, come again anytime.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Much obliged, come again anytime."
+msgstr ""
+
+# mes "Hey, what'd I say? 100 at a time at most, you're trying to kill me aren't you!";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Hey, what'd I say? 100 at a time at most, you're trying to kill me aren't you!"
+msgstr ""
+
+# mes "Hmm, it looks like you don't have enough. Go get more jellopies if you want anything else from me.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Hmm, it looks like you don't have enough. Go get more jellopies if you want anything else from me."
+msgstr ""
+
+# mes "No problem,";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "No problem,"
+msgstr ""
+
+# mes "see you next time.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "see you next time."
+msgstr ""
+
+# mes "There you go! As I promised. Don't go suckin' them all down at once.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "There you go! As I promised. Don't go suckin' them all down at once."
+msgstr ""
+
+# mes "Alright, let's see what ya got...";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Alright, let's see what ya got..."
+msgstr ""
+
+# mes "Hmm, look pansy ass, I said 3 jellopies for 1 Carrot.. got it?";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Hmm, look pansy ass, I said 3 jellopies for 1 Carrot.. got it?"
+msgstr ""
+
+# mes "Not too bad pansy...";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Not too bad pansy..."
+msgstr ""
+
+# mes "How many do you want?";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "How many do you want?"
+msgstr ""
+
+# switch(select("As many as I can get, please","I want this many.","Never mind, I like my jellopy.")) {
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "As many as I can get, please"
+msgstr ""
+
+# mes "Right I'm not giving you more then 100 at a time so don't bother, okay? If you don't want any, just say '0'.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Right I'm not giving you more then 100 at a time so don't bother, okay? If you don't want any, just say '0'."
+msgstr ""
+
+# mes "Alright then, see you next time.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Alright then, see you next time."
+msgstr ""
+
+# mes "Hey pansy ass, I said 100 at most, no more then that! I'm not going to break my back for the likes of you!";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Hey pansy ass, I said 100 at most, no more then that! I'm not going to break my back for the likes of you!"
+msgstr ""
+
+# mes "Seems you don't have enough. Go get some more if you want anything else.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Seems you don't have enough. Go get some more if you want anything else."
+msgstr ""
+
+# mes "Catch'ya later.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "Catch'ya later."
+msgstr ""
+
+# mes "There you go~! As I promised. Try not to stuff yer face.";
+#: npc/cities/alberta.txt
+msgctxt "Phelix"
+msgid "There you go~! As I promised. Try not to stuff yer face."
+msgstr ""
+
+# mes "[Munster]";
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid "[Munster]"
+msgstr ""
+
+# mes "My family used to live in Geffen. So I guess it was natural that we studied forging and eventually became Blacksmiths. Then, we finally moved to this town,";
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid ""
+"My family used to live in Geffen. So I guess it was natural that we studied forging and eventually became "
+"Blacksmiths. Then, we finally moved to this town,"
+msgstr ""
+
+# mes "Al De Baran.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid "Al De Baran."
+msgstr ""
+
+# if (select("About ^3355FFItem Upgrade^000000", "Quit") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid "About ^3355FFItem Upgrade^000000"
+msgstr ""
+
+# if (select("About ^3355FFItem Upgrade^000000", "Quit") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid "Quit"
+msgstr ""
+
+# mes "My father was a famous blacksmith in Geffen, and he taught me a lot about forging equipment.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid "My father was a famous blacksmith in Geffen, and he taught me a lot about forging equipment."
+msgstr ""
+
+# mes "One of the fundamentals is that the success probability of upgrading an item depends on the level of the weapon.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid ""
+"One of the fundamentals is that the success probability of upgrading an item depends on the level of the weapon."
+msgstr ""
+
+# mes "For level 1 weapons, you may upgrade up to + 7 without the risk of breaking the weapon. Level 2 weapons can be upgraded to +6. Level 3 weapons can be upgraded to +5 safely.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid ""
+"For level 1 weapons, you may upgrade up to + 7 without the risk of breaking the weapon. Level 2 weapons can be "
+"upgraded to +6. Level 3 weapons can be upgraded to +5 safely."
+msgstr ""
+
+# mes "For level 4 weapons, you can upgrade + 4 without too much risk. As for armors, you can upgrade them to +4. But if the upgrade for the equipment fails, it will be destroyed!";
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid ""
+"For level 4 weapons, you can upgrade + 4 without too much risk. As for armors, you can upgrade them to +4. But if "
+"the upgrade for the equipment fails, it will be destroyed!"
+msgstr ""
+
+# mes "Hmm...";
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid "Hmm..."
+msgstr ""
+
+# mes "If you get a chance, try to visit my father's workshop here in Al de Baran. If I may say so, he's a pretty talented Blacksmith.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forger Munster#alde"
+msgid ""
+"If you get a chance, try to visit my father's workshop here in Al de Baran. If I may say so, he's a pretty talented "
+"Blacksmith."
+msgstr ""
+
+# mes "[Quatro]";
+#: npc/cities/aldebaran.txt
+msgctxt "Smithing Guy#alde"
+msgid "[Quatro]"
+msgstr ""
+
+# mes "Have you heard that a famous Blacksmith moved here from Geffen?";
+#: npc/cities/aldebaran.txt
+msgctxt "Smithing Guy#alde"
+msgid "Have you heard that a famous Blacksmith moved here from Geffen?"
+msgstr ""
+
+# if (select("Famous Blacksmith?", "End Conversation") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Smithing Guy#alde"
+msgid "Famous Blacksmith?"
+msgstr ""
+
+# if (select("Famous Blacksmith?", "End Conversation") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Smithing Guy#alde"
+msgid "End Conversation"
+msgstr ""
+
+# mes "From what I've heard, he's one of those Blacksmiths that can upgrade your weapons and armor. When you upgrade a weapon, its attack strength is increased.";
+#: npc/cities/aldebaran.txt
+msgctxt "Smithing Guy#alde"
+msgid ""
+"From what I've heard, he's one of those Blacksmiths that can upgrade your weapons and armor. When you upgrade a "
+"weapon, its attack strength is increased."
+msgstr ""
+
+# mes "For each upgrade level, attack strength increases by 2 for level 1 weapons. On level 2 weapons, 3 attack strength is added.";
+#: npc/cities/aldebaran.txt
+msgctxt "Smithing Guy#alde"
+msgid ""
+"For each upgrade level, attack strength increases by 2 for level 1 weapons. On level 2 weapons, 3 attack strength is "
+"added."
+msgstr ""
+
+# mes "On level 3 weapons, 5 attack strength is added for each level, and for level 4 weapons, 7 attack strength is added for each level.";
+#: npc/cities/aldebaran.txt
+msgctxt "Smithing Guy#alde"
+msgid ""
+"On level 3 weapons, 5 attack strength is added for each level, and for level 4 weapons, 7 attack strength is added "
+"for each level."
+msgstr ""
+
+# mes "This Blacksmith's family lives here, since his wife is sick and weak. Because of her condition, she needs to take medicinal herbs that grow near Al de Baran.";
+#: npc/cities/aldebaran.txt
+msgctxt "Smithing Guy#alde"
+msgid ""
+"This Blacksmith's family lives here, since his wife is sick and weak. Because of her condition, she needs to take "
+"medicinal herbs that grow near Al de Baran."
+msgstr ""
+
+# mes "They also have a dutiful son who's always helping out with the family business. I'm sure that kid will grow up to become a good Blacksmith like his father.";
+#: npc/cities/aldebaran.txt
+msgctxt "Smithing Guy#alde"
+msgid ""
+"They also have a dutiful son who's always helping out with the family business. I'm sure that kid will grow up to "
+"become a good Blacksmith like his father."
+msgstr ""
+
+# mes "[Miller]";
+#: npc/cities/aldebaran.txt
+msgctxt "Young Man#alde"
+msgid "[Miller]"
+msgstr ""
+
+# mes "Aren't level 4 weapons cool!";
+#: npc/cities/aldebaran.txt
+msgctxt "Young Man#alde"
+msgid "Aren't level 4 weapons cool!"
+msgstr ""
+
+# mes "I can't believe such powerful";
+#: npc/cities/aldebaran.txt
+msgctxt "Young Man#alde"
+msgid "I can't believe such powerful"
+msgstr ""
+
+# mes "weapons exist!";
+#: npc/cities/aldebaran.txt
+msgctxt "Young Man#alde"
+msgid "weapons exist!"
+msgstr ""
+
+# mes "Well, they're rarely seen in the open market, but boss monsters will drop them by a low chance if you happen to be able to kill them.";
+#: npc/cities/aldebaran.txt
+msgctxt "Young Man#alde"
+msgid ""
+"Well, they're rarely seen in the open market, but boss monsters will drop them by a low chance if you happen to be "
+"able to kill them."
+msgstr ""
+
+# mes "[Joanne]";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "[Joanne]"
+msgstr ""
+
+# mes "I enjoy gathering shells from the sea. It's really fun and relaxing~";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "I enjoy gathering shells from the sea. It's really fun and relaxing~"
+msgstr ""
+
+# if (select("Shell Gathering?", "End Conversation") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "Shell Gathering?"
+msgstr ""
+
+# if (select("Shell Gathering?", "End Conversation") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "End Conversation"
+msgstr ""
+
+# mes "When you see bubbles popping up from the sand or muddy puddles, try digging into the ground a bit. You might find some shells underneath the ground!";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid ""
+"When you see bubbles popping up from the sand or muddy puddles, try digging into the ground a bit. You might find "
+"some shells underneath the ground!"
+msgstr ""
+
+# mes "Have you heard";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "Have you heard"
+msgstr ""
+
+# mes "of Ambernite?";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "of Ambernite?"
+msgstr ""
+
+# mes "That shell monster";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "That shell monster"
+msgstr ""
+
+# mes "is pretty tough~";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "is pretty tough~"
+msgstr ""
+
+# mes "It's usually seen at the beach near the west province of Prontera. If you ever try attacking it without being prepared, you might be in trouble.";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid ""
+"It's usually seen at the beach near the west province of Prontera. If you ever try attacking it without being "
+"prepared, you might be in trouble."
+msgstr ""
+
+# mes "Ambernite is";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "Ambernite is"
+msgstr ""
+
+# mes "pretty strong!";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "pretty strong!"
+msgstr ""
+
+# mes "So look out for it!";
+#: npc/cities/aldebaran.txt
+msgctxt "Shell Gathering Lady#ald"
+msgid "So look out for it!"
+msgstr ""
+
+# mes "[Panama]";
+#: npc/cities/aldebaran.txt
+msgctxt "Canal Guy#alde"
+msgid "[Panama]"
+msgstr ""
+
+# mes "Al De Baran is known world wide as the City of Canals. The waterways really add a sophisticated, romantic touch to our fair city.";
+#: npc/cities/aldebaran.txt
+msgctxt "Canal Guy#alde"
+msgid ""
+"Al De Baran is known world wide as the City of Canals. The waterways really add a sophisticated, romantic touch to "
+"our fair city."
+msgstr ""
+
+# switch(select("About the Canals", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Canal Guy#alde"
+msgid "About the Canals"
+msgstr ""
+
+# switch(select("About the Canals", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Canal Guy#alde"
+msgid "End Conversation"
+msgstr ""
+
+# mes "Well, a canal is an artificial waterway used for travel,";
+#: npc/cities/aldebaran.txt
+msgctxt "Canal Guy#alde"
+msgid "Well, a canal is an artificial waterway used for travel,"
+msgstr ""
+
+# mes "shipping, or irrigation.";
+#: npc/cities/aldebaran.txt
+msgctxt "Canal Guy#alde"
+msgid "shipping, or irrigation."
+msgstr ""
+
+# mes "However, the canals over here are just for show. If we needed to transport anything, we just use the Kafra Corporation Teleport service!";
+#: npc/cities/aldebaran.txt
+msgctxt "Canal Guy#alde"
+msgid ""
+"However, the canals over here are just for show. If we needed to transport anything, we just use the Kafra "
+"Corporation Teleport service!"
+msgstr ""
+
+# mes "I have that you will enjoy your stay in Al De Baran.";
+#: npc/cities/aldebaran.txt
+msgctxt "Canal Guy#alde"
+msgid "I have that you will enjoy your stay in Al De Baran."
+msgstr ""
+
+# mes "[Isenberg]";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "[Isenberg]"
+msgstr ""
+
+# mes "Mt. Mjolnir and Payon Forest.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "Mt. Mjolnir and Payon Forest."
+msgstr ""
+
+# mes "Both of those places are tough";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "Both of those places are tough"
+msgstr ""
+
+# mes "to travel through.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "to travel through."
+msgstr ""
+
+# switch(select("Mt.Mjolnir?", "Payon Forest...?", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "Mt.Mjolnir?"
+msgstr ""
+
+# switch(select("Mt.Mjolnir?", "Payon Forest...?", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "Payon Forest...?"
+msgstr ""
+
+# switch(select("Mt.Mjolnir?", "Payon Forest...?", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "End Conversation"
+msgstr ""
+
+# mes "To arrive here from Prontera or Geffen, you've got to cross the Mjolnir Mountains.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "To arrive here from Prontera or Geffen, you've got to cross the Mjolnir Mountains."
+msgstr ""
+
+# mes "If you've made it here by foot without using the Kafra Teleportation service,";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "If you've made it here by foot without using the Kafra Teleportation service,"
+msgstr ""
+
+# mes "then good job!";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "then good job!"
+msgstr ""
+
+# mes "The Mjolnir Mountains are really steep, and it's full of aggressive and hostile monsters. So it's always a risk to travel through there alone.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid ""
+"The Mjolnir Mountains are really steep, and it's full of aggressive and hostile monsters. So it's always a risk to "
+"travel through there alone."
+msgstr ""
+
+# mes "If you wish to visit Alberta or the city of Payon, you must first travel through the Payon Forest.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "If you wish to visit Alberta or the city of Payon, you must first travel through the Payon Forest."
+msgstr ""
+
+# mes "The Payon Forest is a winding, intricate maze where it's easy to get lost. Unless you concentrate and keep track of your path, you might be stuck wandering in that dangerous place.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid ""
+"The Payon Forest is a winding, intricate maze where it's easy to get lost. Unless you concentrate and keep track of "
+"your path, you might be stuck wandering in that dangerous place."
+msgstr ""
+
+# mes "Payon, the Archer Village, was built deep inside this steep and rugged forest so that it may be protected from outside invaders. So I guess that a good decision on their part.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid ""
+"Payon, the Archer Village, was built deep inside this steep and rugged forest so that it may be protected from "
+"outside invaders. So I guess that a good decision on their part."
+msgstr ""
+
+# mes "The huge mountains surrounding this town";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "The huge mountains surrounding this town"
+msgstr ""
+
+# mes "blocks people from outside to come into this town.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "blocks people from outside to come into this town."
+msgstr ""
+
+# mes "That may be a part of the reason how we have been able to";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "That may be a part of the reason how we have been able to"
+msgstr ""
+
+# mes "keep this beautiful canal and mysterious alchemy";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "keep this beautiful canal and mysterious alchemy"
+msgstr ""
+
+# mes "without any influence from outside.";
+#: npc/cities/aldebaran.txt
+msgctxt "Forest Guy#alde"
+msgid "without any influence from outside."
+msgstr ""
+
+# mes "[Epthiel]";
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid "[Epthiel]"
+msgstr ""
+
+# mes "Some weapons or armor have Slots where you can insert Cards obtained from monsters.";
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid "Some weapons or armor have Slots where you can insert Cards obtained from monsters."
+msgstr ""
+
+# switch(select("About the number of Slots", "Relation between Cards and Slots", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid "About the number of Slots"
+msgstr ""
+
+# switch(select("About the number of Slots", "Relation between Cards and Slots", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid "Relation between Cards and Slots"
+msgstr ""
+
+# switch(select("About the number of Slots", "Relation between Cards and Slots", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid "End Conversation"
+msgstr ""
+
+# mes "Items dropped by monsters possess more Slots than ordinary weapons or armor sold in NPC shops.";
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid "Items dropped by monsters possess more Slots than ordinary weapons or armor sold in NPC shops."
+msgstr ""
+
+# mes "I guess you can assume that an item with more Slots is more valuable than the same item with fewer Slots.";
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid "I guess you can assume that an item with more Slots is more valuable than the same item with fewer Slots."
+msgstr ""
+
+# mes "Once a Card is inserted into a Slot, it is impossible to remove it. So please be careful when you insert Cards into weapons or armor.";
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid ""
+"Once a Card is inserted into a Slot, it is impossible to remove it. So please be careful when you insert Cards into "
+"weapons or armor."
+msgstr ""
+
+# mes "Also, when you mouse over equipment in the Item Window or Vending Window, the name of the item will be followed by the number of its Slots in brackets.";
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid ""
+"Also, when you mouse over equipment in the Item Window or Vending Window, the name of the item will be followed by "
+"the number of its Slots in brackets."
+msgstr ""
+
+# mes "For example, a Shield with 1 Slot, when moused over, would display the name 'Shield [1].'";
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid "For example, a Shield with 1 Slot, when moused over, would display the name 'Shield [1].'"
+msgstr ""
+
+# mes "You may also right-click an item, and check the Card Slot window below the item description window for the number of Slots.";
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid ""
+"You may also right-click an item, and check the Card Slot window below the item description window for the number of "
+"Slots."
+msgstr ""
+
+# mes "[Epithiel]";
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid "[Epithiel]"
+msgstr ""
+
+# mes "Have you ever obtained a card from a monster?";
+#: npc/cities/aldebaran.txt
+msgctxt "Slot Guy#alde"
+msgid "Have you ever obtained a card from a monster?"
+msgstr ""
+
+# mes "[Joy]";
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid "[Joy]"
+msgstr ""
+
+# mes "Level 1 weapons, which are the lowest grade, need a metal named ^3355FFPhracon^000000 in order to be upgraded.";
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid "Level 1 weapons, which are the lowest grade, need a metal named ^3355FFPhracon^000000 in order to be upgraded."
+msgstr ""
+
+# switch(select("About Phracon", "Advice about Phracon", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid "About Phracon"
+msgstr ""
+
+# switch(select("About Phracon", "Advice about Phracon", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid "Advice about Phracon"
+msgstr ""
+
+# switch(select("About Phracon", "Advice about Phracon", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid "End Conversation"
+msgstr ""
+
+# mes "Phracon is a pretty common metal and can be found all over the Rune-Midgard continent.";
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid "Phracon is a pretty common metal and can be found all over the Rune-Midgard continent."
+msgstr ""
+
+# mes "Although it lacks the strength of other metals, it's easy to find and obtain. You can get Phracons by killing monsters or by buying them in Forging Shops in towns.";
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid ""
+"Although it lacks the strength of other metals, it's easy to find and obtain. You can get Phracons by killing "
+"monsters or by buying them in Forging Shops in towns."
+msgstr ""
+
+# mes "When you no longer need Phracons because you are using higher level weapons, you can sell them for some zeny!";
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid "When you no longer need Phracons because you are using higher level weapons, you can sell them for some zeny!"
+msgstr ""
+
+# mes "Well, I hear lots of monsters carry Phracons and will drop them once killed. Why don't you go hunting for them?";
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid "Well, I hear lots of monsters carry Phracons and will drop them once killed. Why don't you go hunting for them?"
+msgstr ""
+
+# mes "It shouldn't be too difficult. Once I found a Phracon that dropped after killing a Bebe Savage! But if you're desperate, you can always buy them at the Forging Shop.";
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid ""
+"It shouldn't be too difficult. Once I found a Phracon that dropped after killing a Bebe Savage! But if you're "
+"desperate, you can always buy them at the Forging Shop."
+msgstr ""
+
+# mes "Good luck with finding Phracons!";
+#: npc/cities/aldebaran.txt
+msgctxt "Phracon Guy#alde"
+msgid "Good luck with finding Phracons!"
+msgstr ""
+
+# mes "[Chemirre]";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "[Chemirre]"
+msgstr ""
+
+# mes "Alchemists, one of the 2nd Jobs, are able to create items out of several materials using knowledge from the ancient age of Al De Baran.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid ""
+"Alchemists, one of the 2nd Jobs, are able to create items out of several materials using knowledge from the ancient "
+"age of Al De Baran."
+msgstr ""
+
+# switch(select("About Alchemy in Payon", "Definition of Alchemy", ". . . . .", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "About Alchemy in Payon"
+msgstr ""
+
+# switch(select("About Alchemy in Payon", "Definition of Alchemy", ". . . . .", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "Definition of Alchemy"
+msgstr ""
+
+# switch(select("About Alchemy in Payon", "Definition of Alchemy", ". . . . .", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid ". . . . ."
+msgstr ""
+
+# switch(select("About Alchemy in Payon", "Definition of Alchemy", ". . . . .", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "End Conversation"
+msgstr ""
+
+# mes "Most people don't know that there was an oriental form of Alchemy that developed in Payon.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "Most people don't know that there was an oriental form of Alchemy that developed in Payon."
+msgstr ""
+
+# mes "These Payon Alchemists were able to create Gold out of different materials. However, Payon Alchemy never advanced as much as the Alchemy in Al De Baran.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid ""
+"These Payon Alchemists were able to create Gold out of different materials. However, Payon Alchemy never advanced as "
+"much as the Alchemy in Al De Baran."
+msgstr ""
+
+# mes "Materials for Alchemy in Payon were scarse and interest in that field eventually waned. Now, you can only study Alchemy here in Al De Baran.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid ""
+"Materials for Alchemy in Payon were scarse and interest in that field eventually waned. Now, you can only study "
+"Alchemy here in Al De Baran."
+msgstr ""
+
+# mes "Still, I can't help but wonder what secrets were lost after the Payon art of Alchemy disappeared from the face of the Earth...";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid ""
+"Still, I can't help but wonder what secrets were lost after the Payon art of Alchemy disappeared from the face of "
+"the Earth..."
+msgstr ""
+
+# mes "Alchemists specialize in chemical research in order to create useful items out of various things.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "Alchemists specialize in chemical research in order to create useful items out of various things."
+msgstr ""
+
+# mes "I also hear that they create all sorts of Potions, and can even summon certain monsters! It seems that their studies have all sorts of nifty applications.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid ""
+"I also hear that they create all sorts of Potions, and can even summon certain monsters! It seems that their studies "
+"have all sorts of nifty applications."
+msgstr ""
+
+# mes "You are bored, aren't you?";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "You are bored, aren't you?"
+msgstr ""
+
+# mes "Alright then, I will tell you a story about monster cards and item slots.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "Alright then, I will tell you a story about monster cards and item slots."
+msgstr ""
+
+# mes "As you already know, if you ever have obtained a monster card before,";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "As you already know, if you ever have obtained a monster card before,"
+msgstr ""
+
+# mes "you can only insert a monster card to an item";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "you can only insert a monster card to an item"
+msgstr ""
+
+# mes "that satisfies the card's location requirement.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "that satisfies the card's location requirement."
+msgstr ""
+
+# mes "For instance, let's say, you have obtained a Poring Card.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "For instance, let's say, you have obtained a Poring Card."
+msgstr ""
+
+# mes "When you right click on the card, you will see";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "When you right click on the card, you will see"
+msgstr ""
+
+# mes "its ability as LUK+2 and Perfect Dodge+1";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "its ability as LUK+2 and Perfect Dodge+1"
+msgstr ""
+
+# mes "and its location as 'Armor'. ";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "and its location as 'Armor'. "
+msgstr ""
+
+# mes "If you try to insert this card to a dagger with many slots,";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "If you try to insert this card to a dagger with many slots,"
+msgstr ""
+
+# mes "it is not going to work because the card only can be inserted to";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "it is not going to work because the card only can be inserted to"
+msgstr ""
+
+# mes "armor items.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "armor items."
+msgstr ""
+
+# mes "Almost every armor items that are being sold";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "Almost every armor items that are being sold"
+msgstr ""
+
+# mes "in town shops do not have slots on them.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "in town shops do not have slots on them."
+msgstr ""
+
+# mes "That means, you can only obtain";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "That means, you can only obtain"
+msgstr ""
+
+# mes "slotted armors by hunting monsters.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "slotted armors by hunting monsters."
+msgstr ""
+
+# mes "Ah, let me tell you how you can insert a card to an item.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "Ah, let me tell you how you can insert a card to an item."
+msgstr ""
+
+# mes "If you want to insert a card on your equipped armor,";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "If you want to insert a card on your equipped armor,"
+msgstr ""
+
+# mes "you must unequip the armor first.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "you must unequip the armor first."
+msgstr ""
+
+# mes "And then, double click a card that you want to use.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "And then, double click a card that you want to use."
+msgstr ""
+
+# mes "Then a list of armor, that you can insert the card, will be displayed.";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "Then a list of armor, that you can insert the card, will be displayed."
+msgstr ""
+
+# mes "It is not that complicated, is it?";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "It is not that complicated, is it?"
+msgstr ""
+
+# mes "You can talk about Rune Midgard's alchemy";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "You can talk about Rune Midgard's alchemy"
+msgstr ""
+
+# mes "without talking about the Al De Baran Alchemist Guild!";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "without talking about the Al De Baran Alchemist Guild!"
+msgstr ""
+
+# mes "Long Live Alchemists!";
+#: npc/cities/aldebaran.txt
+msgctxt "Alchemy Guy#alde"
+msgid "Long Live Alchemists!"
+msgstr ""
+
+# mes "[Bebe]";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "[Bebe]"
+msgstr ""
+
+# mes "A while ago I went out for a walk toward Mt. Mjolnir with my pet Savage Bebe. His name is NukNuk!";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "A while ago I went out for a walk toward Mt. Mjolnir with my pet Savage Bebe. His name is NukNuk!"
+msgstr ""
+
+# mes "We got attacked, but luckily we weren't hurt.";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "We got attacked, but luckily we weren't hurt."
+msgstr ""
+
+# switch(select("Attacked?", "About Mt.Mjolnir", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "Attacked?"
+msgstr ""
+
+# switch(select("Attacked?", "About Mt.Mjolnir", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "About Mt.Mjolnir"
+msgstr ""
+
+# switch(select("Attacked?", "About Mt.Mjolnir", "End Conversation")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "End Conversation"
+msgstr ""
+
+# mes "I was walking up a narrow path, and out of the blue, a giant and ugly plant started to attack me and NukNuk!";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "I was walking up a narrow path, and out of the blue, a giant and ugly plant started to attack me and NukNuk!"
+msgstr ""
+
+# mes "I was so surprised, so me and NukNuk had to run away. I threw rocks at it, but I don't think I hurt it. It must have been really strong!";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid ""
+"I was so surprised, so me and NukNuk had to run away. I threw rocks at it, but I don't think I hurt it. It must have "
+"been really strong!"
+msgstr ""
+
+# mes "What really surprised me was the plant that attacked me was a huge flower with the face of a person! So, look out for those. They're dangerous!";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid ""
+"What really surprised me was the plant that attacked me was a huge flower with the face of a person! So, look out "
+"for those. They're dangerous!"
+msgstr ""
+
+# mes "Even though people are fascinated by the scenic beauty of Mt. Mjolnir, it's full of dangerous monsters!";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "Even though people are fascinated by the scenic beauty of Mt. Mjolnir, it's full of dangerous monsters!"
+msgstr ""
+
+# mes "There are Flowers, Insects, Bees, Butterflies and Moths that are big enough to kill you if you're not careful!";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "There are Flowers, Insects, Bees, Butterflies and Moths that are big enough to kill you if you're not careful!"
+msgstr ""
+
+# mes "Then again, most of these monsters won't hurt you if you don't attack first. But some of them will attack you once they see you!";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid ""
+"Then again, most of these monsters won't hurt you if you don't attack first. But some of them will attack you once "
+"they see you!"
+msgstr ""
+
+# mes "By the way, where is my NukNuk...?";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "By the way, where is my NukNuk...?"
+msgstr ""
+
+# mes "NukNuk! Come out!";
+#: npc/cities/aldebaran.txt
+msgctxt "Little Kid#alde"
+msgid "NukNuk! Come out!"
+msgstr ""
+
+# mes "[Stromme]";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid "[Stromme]"
+msgstr ""
+
+# mes "Even to a strong Swordman, the Insects or Mt. Mjolnir pose a considerable threat. You've got to know your enemy before engaging it in battle!";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid ""
+"Even to a strong Swordman, the Insects or Mt. Mjolnir pose a considerable threat. You've got to know your enemy "
+"before engaging it in battle!"
+msgstr ""
+
+# if (select("About Insects", "End Conversation") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid "About Insects"
+msgstr ""
+
+# if (select("About Insects", "End Conversation") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid "End Conversation"
+msgstr ""
+
+# mes "Honey Bees, Butterflies and Moths seem like simple creatures, but that doesn't mean you should underestimate them.";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid ""
+"Honey Bees, Butterflies and Moths seem like simple creatures, but that doesn't mean you should underestimate them."
+msgstr ""
+
+# mes "These Insects have evolved over time, and can counter attacks from threats like you adventurers!";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid "These Insects have evolved over time, and can counter attacks from threats like you adventurers!"
+msgstr ""
+
+# mes "There are also carnivorous Insects, such as praying Spiders, praying Mantises, and the millipede like Argiopes.";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid "There are also carnivorous Insects, such as praying Spiders, praying Mantises, and the millipede like Argiopes."
+msgstr ""
+
+# mes "These monsters have mutated and are too strong for a person at certain levels. You should especially watch out for Argiopes.";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid ""
+"These monsters have mutated and are too strong for a person at certain levels. You should especially watch out for "
+"Argiopes."
+msgstr ""
+
+# mes "Luckily, their eyesight is pretty bad, so it won't notice you if you walk a safe distance away from it.";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid "Luckily, their eyesight is pretty bad, so it won't notice you if you walk a safe distance away from it."
+msgstr ""
+
+# mes "No matter how harmless and pretty insects are,";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid "No matter how harmless and pretty insects are,"
+msgstr ""
+
+# mes "take heed to not touch them.";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid "take heed to not touch them."
+msgstr ""
+
+# mes "They are extremely strong unlike their innocent looking.";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid "They are extremely strong unlike their innocent looking."
+msgstr ""
+
+# mes "Don't belittle the livings in the Mt. Mjolnir.";
+#: npc/cities/aldebaran.txt
+msgctxt "Insect Guy#alde"
+msgid "Don't belittle the livings in the Mt. Mjolnir."
+msgstr ""
+
+# mes "[Sylvia]";
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid "[Sylvia]"
+msgstr ""
+
+# mes "I came all the way here from Prontera because I heard the Kafra Main Office was somewhere here in Al De Baran.";
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid "I came all the way here from Prontera because I heard the Kafra Main Office was somewhere here in Al De Baran."
+msgstr ""
+
+# mes "It shouldn't be that hard to find, but I'm awful at following directions. I always get lost, no matter how hard I try!";
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid ""
+"It shouldn't be that hard to find, but I'm awful at following directions. I always get lost, no matter how hard I "
+"try!"
+msgstr ""
+
+# mes "If that wasn't bad enough, I left my Magnifiers back in Prontera, so now I have to find someone to help me with these weapons I've got to appraise!";
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid ""
+"If that wasn't bad enough, I left my Magnifiers back in Prontera, so now I have to find someone to help me with "
+"these weapons I've got to appraise!"
+msgstr ""
+
+# if (select("Appraise?", "That's very nice.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid "Appraise?"
+msgstr ""
+
+# if (select("Appraise?", "That's very nice.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid "That's very nice."
+msgstr ""
+
+# mes "Equipment that is dropped by monsters can't be equipped right away.";
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid "Equipment that is dropped by monsters can't be equipped right away."
+msgstr ""
+
+# mes "If you right-click the equippable item in the Item Inventory, you'll see that it is Unidentified and that Appraisal is needed. What to do?";
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid ""
+"If you right-click the equippable item in the Item Inventory, you'll see that it is Unidentified and that Appraisal "
+"is needed. What to do?"
+msgstr ""
+
+# mes "Well, in that case, you've gotta use ^3355FF Magnifier^000000!";
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid "Well, in that case, you've gotta use ^3355FF Magnifier^000000!"
+msgstr ""
+
+# mes "Even without a Blacksmith, Alchemist or Merchant in your party, you can appraise your equipment! Of course, a Magnifier is consumed each time you use one...";
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid ""
+"Even without a Blacksmith, Alchemist or Merchant in your party, you can appraise your equipment! Of course, a "
+"Magnifier is consumed each time you use one..."
+msgstr ""
+
+# mes "Hey...";
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid "Hey..."
+msgstr ""
+
+# mes "Was that a hint of sarcasm in your voice when you said that?";
+#: npc/cities/aldebaran.txt
+msgctxt "Sylvia#alde"
+msgid "Was that a hint of sarcasm in your voice when you said that?"
+msgstr ""
+
+# mes "[Issei]";
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid "[Issei]"
+msgstr ""
+
+# mes "Al De Baran is such a wonderful place with its romantic canals and classic architecture. I love nothing more than to stroll through this city with my beautiful girlfriend.";
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid ""
+"Al De Baran is such a wonderful place with its romantic canals and classic architecture. I love nothing more than to "
+"stroll through this city with my beautiful girlfriend."
+msgstr ""
+
+# if (select("You have a girlfriend?", "End Conversation.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid "You have a girlfriend?"
+msgstr ""
+
+# if (select("You have a girlfriend?", "End Conversation.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid "End Conversation."
+msgstr ""
+
+# mes "Hey...";
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid "Hey..."
+msgstr ""
+
+# mes "Is that so hard to believe?! Yeah, ask anyone! She really exists! Although, sometimes, just sometimes mind you, she gets too excited about weapons and armor.";
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid ""
+"Is that so hard to believe?! Yeah, ask anyone! She really exists! Although, sometimes, just sometimes mind you, she "
+"gets too excited about weapons and armor."
+msgstr ""
+
+# mes "I mean, instead of enjoying a romantic dinner, she'll just go on about how equipment dropped from monsters is higher quality than those sold in shops...";
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid ""
+"I mean, instead of enjoying a romantic dinner, she'll just go on about how equipment dropped from monsters is higher "
+"quality than those sold in shops..."
+msgstr ""
+
+# mes "I mean, why should I care if equipment dropped by monsters tend to have more Slots?! I can't even kill a Poring!";
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid ""
+"I mean, why should I care if equipment dropped by monsters tend to have more Slots?! I can't even kill a Poring!"
+msgstr ""
+
+# mes "As you can see,";
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid "As you can see,"
+msgstr ""
+
+# mes "I'm a lover,";
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid "I'm a lover,"
+msgstr ""
+
+# mes " not a fighter.";
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid " not a fighter."
+msgstr ""
+
+# mes "So, you don't think of me stupid, do you?";
+#: npc/cities/aldebaran.txt
+msgctxt "Issei#alde"
+msgid "So, you don't think of me stupid, do you?"
+msgstr ""
+
+# mes "[Joo Jahk]";
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid "[Joo Jahk]"
+msgstr ""
+
+# mes "I'm a tourist";
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid "I'm a tourist"
+msgstr ""
+
+# mes "from Payon,";
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid "from Payon,"
+msgstr ""
+
+# mes "the City of Forests.";
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid "the City of Forests."
+msgstr ""
+
+# mes "The tempature here in Al De Baran is very cool, probably because of the waterways. Do you think the water in the canals is drinkable?";
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid ""
+"The tempature here in Al De Baran is very cool, probably because of the waterways. Do you think the water in the "
+"canals is drinkable?"
+msgstr ""
+
+# mes "Well, it's too late for me, since I already drank some. Still, I'm a little worried...";
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid "Well, it's too late for me, since I already drank some. Still, I'm a little worried..."
+msgstr ""
+
+# if (select("Continue.", "End conversation.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid "Continue."
+msgstr ""
+
+# if (select("Continue.", "End conversation.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid "End conversation."
+msgstr ""
+
+# mes "On one of my travels around Rune-Midgard, I've heard from a really high level Mage that physical attacks, or magic with Neutral Property, won't damage Spiritual Property monsters.";
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid ""
+"On one of my travels around Rune-Midgard, I've heard from a really high level Mage that physical attacks, or magic "
+"with Neutral Property, won't damage Spiritual Property monsters."
+msgstr ""
+
+# mes "Maybe that advice will come in handy, now that you know that. Always remember the importance of the Properties of your skills and weapons when battling monsters.";
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid ""
+"Maybe that advice will come in handy, now that you know that. Always remember the importance of the Properties of "
+"your skills and weapons when battling monsters."
+msgstr ""
+
+# mes "On the other hand, the water I drank did taste pretty good. Hopefully it didn't have anything too weird in it...";
+#: npc/cities/aldebaran.txt
+msgctxt "Joo Jahk#alde"
+msgid ""
+"On the other hand, the water I drank did taste pretty good. Hopefully it didn't have anything too weird in it..."
+msgstr ""
+
+# mes "[Gavin]";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "[Gavin]"
+msgstr ""
+
+# mes "Welcome!";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "Welcome!"
+msgstr ""
+
+# mes "The town of";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "The town of"
+msgstr ""
+
+# mes "Al De Baran";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "Al De Baran"
+msgstr ""
+
+# mes "welcomes you!";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "welcomes you!"
+msgstr ""
+
+# mes "Well, that might be an exaggeration. After all, it's just me that's welcoming you.";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "Well, that might be an exaggeration. After all, it's just me that's welcoming you."
+msgstr ""
+
+# mes "Hey there!";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "Hey there!"
+msgstr ""
+
+# if (select("Now, tell me about monsters.", "End conversation.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "Now, tell me about monsters."
+msgstr ""
+
+# if (select("Now, tell me about monsters.", "End conversation.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "End conversation."
+msgstr ""
+
+# mes "Monsters...?";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "Monsters...?"
+msgstr ""
+
+# mes "Aren't we straying off topic a little bit? Ah, you must be one of those adventurers!";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "Aren't we straying off topic a little bit? Ah, you must be one of those adventurers!"
+msgstr ""
+
+# mes "Can't get your mind off the job, eh? Alright, now there was some monster that I saw just recently...";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "Can't get your mind off the job, eh? Alright, now there was some monster that I saw just recently..."
+msgstr ""
+
+# mes "Ah, now I remember! Just a few days ago, I saw a really interesting looking monster! It was a Poring with Angel's wings!";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid ""
+"Ah, now I remember! Just a few days ago, I saw a really interesting looking monster! It was a Poring with Angel's "
+"wings!"
+msgstr ""
+
+# mes "I swear! He was jumping around somewhere near Mt. Mjolnir with some ordinary Porings. I think he was, like, their leader.";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid ""
+"I swear! He was jumping around somewhere near Mt. Mjolnir with some ordinary Porings. I think he was, like, their "
+"leader."
+msgstr ""
+
+# mes "Awww...";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "Awww..."
+msgstr ""
+
+# mes "Don't be too disappointed that there's only one person in your welcome wagon!";
+#: npc/cities/aldebaran.txt
+msgctxt "Citizen#alde"
+msgid "Don't be too disappointed that there's only one person in your welcome wagon!"
+msgstr ""
+
+# mes "[Nastasia]";
+#: npc/cities/aldebaran.txt
+msgctxt "Town Girl#alde"
+msgid "[Nastasia]"
+msgstr ""
+
+# mes "Somewhere in the world there is an ^3355FFAssassin Guild^000000, where they teach people the subtle art of assassination.";
+#: npc/cities/aldebaran.txt
+msgctxt "Town Girl#alde"
+msgid ""
+"Somewhere in the world there is an ^3355FFAssassin Guild^000000, where they teach people the subtle art of "
+"assassination."
+msgstr ""
+
+# mes "But isn't killing illegal? And do they even collect educational tutition?";
+#: npc/cities/aldebaran.txt
+msgctxt "Town Girl#alde"
+msgid "But isn't killing illegal? And do they even collect educational tutition?"
+msgstr ""
+
+# if (select("Continue conversation.", "End Conversation.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Town Girl#alde"
+msgid "Continue conversation."
+msgstr ""
+
+# if (select("Continue conversation.", "End Conversation.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Town Girl#alde"
+msgid "End Conversation."
+msgstr ""
+
+# mes "Although Assassins benefit from being very quick and having lots of AGI, they should still have some DEX.";
+#: npc/cities/aldebaran.txt
+msgctxt "Town Girl#alde"
+msgid "Although Assassins benefit from being very quick and having lots of AGI, they should still have some DEX."
+msgstr ""
+
+# mes "DEX is especially important if you want to hit monsters with wings. Those monsters are quick moving and fast in attacking.";
+#: npc/cities/aldebaran.txt
+msgctxt "Town Girl#alde"
+msgid ""
+"DEX is especially important if you want to hit monsters with wings. Those monsters are quick moving and fast in "
+"attacking."
+msgstr ""
+
+# mes "In general, if you want to hit monsters that are as fast, or even faster, than you are, you're going to need some DEX.";
+#: npc/cities/aldebaran.txt
+msgctxt "Town Girl#alde"
+msgid ""
+"In general, if you want to hit monsters that are as fast, or even faster, than you are, you're going to need some "
+"DEX."
+msgstr ""
+
+# mes "It's usually said that in this world, nothing is free. Still, if you don't have to pay money to learn to be an Assassin...";
+#: npc/cities/aldebaran.txt
+msgctxt "Town Girl#alde"
+msgid ""
+"It's usually said that in this world, nothing is free. Still, if you don't have to pay money to learn to be an "
+"Assassin..."
+msgstr ""
+
+# mes "[Bell Keeper]";
+#: npc/cities/aldebaran.txt
+msgctxt "Bell Keeper#A"
+msgid "[Bell Keeper]"
+msgstr ""
+
+# mes "I have been charged by the Committee of 'Heaven on Earth' to guard this entrance of the Clock Tower.";
+#: npc/cities/aldebaran.txt
+msgctxt "Bell Keeper#A"
+msgid "I have been charged by the Committee of 'Heaven on Earth' to guard this entrance of the Clock Tower."
+msgstr ""
+
+# if (select("About Clock Tower.", "Quit.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Bell Keeper#A"
+msgid "About Clock Tower."
+msgstr ""
+
+# if (select("About Clock Tower.", "Quit.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Bell Keeper#A"
+msgid "Quit."
+msgstr ""
+
+# mes "Every floor of this tower is connected to each other by a certain device we like to call 'Warp Gear.'";
+#: npc/cities/aldebaran.txt
+msgctxt "Bell Keeper#A"
+msgid "Every floor of this tower is connected to each other by a certain device we like to call 'Warp Gear.'"
+msgstr ""
+
+# mes "Even though there are interconnecting warps everywhere in the Clock Tower, beware the 'Random Warp.'";
+#: npc/cities/aldebaran.txt
+msgctxt "Bell Keeper#A"
+msgid "Even though there are interconnecting warps everywhere in the Clock Tower, beware the 'Random Warp.'"
+msgstr ""
+
+# mes "The 'Random Warp' will transport you to an unknown spot. Be advised if you don't want to suddenly be separated from your party...";
+#: npc/cities/aldebaran.txt
+msgctxt "Bell Keeper#A"
+msgid ""
+"The 'Random Warp' will transport you to an unknown spot. Be advised if you don't want to suddenly be separated from "
+"your party..."
+msgstr ""
+
+# mes "Remember, Random Warps are shown in green on the mini-map. So keep your eyes peeled for that, as well as for those dangerous Clocks.";
+#: npc/cities/aldebaran.txt
+msgctxt "Bell Keeper#A"
+msgid ""
+"Remember, Random Warps are shown in green on the mini-map. So keep your eyes peeled for that, as well as for those "
+"dangerous Clocks."
+msgstr ""
+
+# mes "Please take heed that this Clock Tower is filled with extremely dangerous monsters.";
+#: npc/cities/aldebaran.txt
+msgctxt "Bell Keeper#A"
+msgid "Please take heed that this Clock Tower is filled with extremely dangerous monsters."
+msgstr ""
+
+# mes "[RS125]";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "[RS125]"
+msgstr ""
+
+# mes "I may sound unhuman rather robotic";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "I may sound unhuman rather robotic"
+msgstr ""
+
+# mes "however, I hope you will not be afraid of me. I am as humane as you are.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "however, I hope you will not be afraid of me. I am as humane as you are."
+msgstr ""
+
+# mes "I may have a machine heart and I may disturb you with loud noises from the heart,";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "I may have a machine heart and I may disturb you with loud noises from the heart,"
+msgstr ""
+
+# mes "that will never stop me from running for future of Al De Baran.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "that will never stop me from running for future of Al De Baran."
+msgstr ""
+
+# if (select("Listen to his story.", "End Conversation") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "Listen to his story."
+msgstr ""
+
+# if (select("Listen to his story.", "End Conversation") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "End Conversation"
+msgstr ""
+
+# mes "It's been 3 years already.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "It's been 3 years already."
+msgstr ""
+
+# mes "My brother 996 used to be a short track athlete in the Al De Baran city field team.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "My brother 996 used to be a short track athlete in the Al De Baran city field team."
+msgstr ""
+
+# mes "Back then, people gave him a nickname, 'Al De Baran's Pco Peco',";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "Back then, people gave him a nickname, 'Al De Baran's Pco Peco',"
+msgstr ""
+
+# mes "for his amazingly fast legs...";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "for his amazingly fast legs..."
+msgstr ""
+
+# mes "He became so popular for his exciting play,";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "He became so popular for his exciting play,"
+msgstr ""
+
+# mes "so everytime when the 'Al De Baran Turbo Track' was held once every 4 years,";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "so everytime when the 'Al De Baran Turbo Track' was held once every 4 years,"
+msgstr ""
+
+# mes "many people from all over the continent came to this city only to see my brother.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "many people from all over the continent came to this city only to see my brother."
+msgstr ""
+
+# mes "I was his manager at the time and I was so stressed out because of his fans.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "I was his manager at the time and I was so stressed out because of his fans."
+msgstr ""
+
+# mes "However, there is nothing last forever...";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "However, there is nothing last forever..."
+msgstr ""
+
+# mes "One day, a girl from Payon beat my brother from a game.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "One day, a girl from Payon beat my brother from a game."
+msgstr ""
+
+# mes "My brother couldn't accept the fact that he lost the game";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "My brother couldn't accept the fact that he lost the game"
+msgstr ""
+
+# mes "so he did too much of practice and had a serious heart attack.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "so he did too much of practice and had a serious heart attack."
+msgstr ""
+
+# mes "He is still in bed.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "He is still in bed."
+msgstr ""
+
+# mes "I am my brother's only hope and the future of Al De Baran!";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "I am my brother's only hope and the future of Al De Baran!"
+msgstr ""
+
+# mes "Please wish me luck, I will beat her, 'Breezy Havana' from Payon!";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "Please wish me luck, I will beat her, 'Breezy Havana' from Payon!"
+msgstr ""
+
+# mes "I want to travel around the world one of thesedays.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "I want to travel around the world one of thesedays."
+msgstr ""
+
+# mes "If I can see the ocean from the port of Alberta, it must be so wonderful.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "If I can see the ocean from the port of Alberta, it must be so wonderful."
+msgstr ""
+
+# mes "After the next year's athletic competition, I will go on a round-the-world tour with my brother.";
+#: npc/cities/aldebaran.txt
+msgctxt "RS125#alde"
+msgid "After the next year's athletic competition, I will go on a round-the-world tour with my brother."
+msgstr ""
+
+# mes "[Threatening-Looking Man]";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "[Threatening-Looking Man]"
+msgstr ""
+
+# mes "Hey, you don't come inside someone else's house without permission.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "Hey, you don't come inside someone else's house without permission."
+msgstr ""
+
+# mes "This is ridiculous!";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "This is ridiculous!"
+msgstr ""
+
+# mes "How dare you to come inside of my house and talk to me as if that is a normal thing to do?";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "How dare you to come inside of my house and talk to me as if that is a normal thing to do?"
+msgstr ""
+
+# mes "Hahahaha...chill out, I was just joking.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "Hahahaha...chill out, I was just joking."
+msgstr ""
+
+# if (select("Continue", "Quit") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "Continue"
+msgstr ""
+
+# if (select("Continue", "Quit") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "Quit"
+msgstr ""
+
+# mes "You may know this already, but";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "You may know this already, but"
+msgstr ""
+
+# mes "we have a system called, the mercenary system in this world.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "we have a system called, the mercenary system in this world."
+msgstr ""
+
+# mes "Yes, I am a mercenary soldier.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "Yes, I am a mercenary soldier."
+msgstr ""
+
+# mes "It is simple. You just pay for someone to aid you in fight.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "It is simple. You just pay for someone to aid you in fight."
+msgstr ""
+
+# mes "Better mercenary soldier you want, more money you have to pay, you know?";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "Better mercenary soldier you want, more money you have to pay, you know?"
+msgstr ""
+
+# mes "Let's stop talking about boring stuffs.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "Let's stop talking about boring stuffs."
+msgstr ""
+
+# mes "I will tell you how you can find a good mercenary soldier.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "I will tell you how you can find a good mercenary soldier."
+msgstr ""
+
+# mes "Check its nose if it is clean and wet.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "Check its nose if it is clean and wet."
+msgstr ""
+
+# mes "A good mercenary soldier must have the wet nose";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "A good mercenary soldier must have the wet nose"
+msgstr ""
+
+# mes "because it shows that the soldier is at his best in health condition.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "because it shows that the soldier is at his best in health condition."
+msgstr ""
+
+# mes "If the nose is dry, that means that he caught a cold.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "If the nose is dry, that means that he caught a cold."
+msgstr ""
+
+# mes "And don't forget to check the soldier's ankle.";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "And don't forget to check the soldier's ankle."
+msgstr ""
+
+# mes "The best mercenary soldier has thin ankles and a white neck!";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "The best mercenary soldier has thin ankles and a white neck!"
+msgstr ""
+
+# mes "If he has long hair, it's better! If the hair is permed and wavy, that's perfect!";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "If he has long hair, it's better! If the hair is permed and wavy, that's perfect!"
+msgstr ""
+
+# mes "Lastly, you have to check whether he is ready to serve you with quality service!";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "Lastly, you have to check whether he is ready to serve you with quality service!"
+msgstr ""
+
+# mes "That means, he must do his best in aiding you in fight!";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "That means, he must do his best in aiding you in fight!"
+msgstr ""
+
+# mes "Get out, now!";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "Get out, now!"
+msgstr ""
+
+# mes "If you a cop, show me a warrent,";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "If you a cop, show me a warrent,"
+msgstr ""
+
+# mes "if you are a member of my family, prove it with your birth mark!";
+#: npc/cities/aldebaran.txt
+msgctxt "Threatening-Looking Man"
+msgid "if you are a member of my family, prove it with your birth mark!"
+msgstr ""
+
+# mes "[Friendly-Looking Man]";
+#: npc/cities/aldebaran.txt
+msgctxt "Friendly-Looking Man#ald"
+msgid "[Friendly-Looking Man]"
+msgstr ""
+
+# mes "You don't have to listen to a guy right next to my room.";
+#: npc/cities/aldebaran.txt
+msgctxt "Friendly-Looking Man#ald"
+msgid "You don't have to listen to a guy right next to my room."
+msgstr ""
+
+# mes "Two years ago, he was in a mercenary training center and fell off from a tree";
+#: npc/cities/aldebaran.txt
+msgctxt "Friendly-Looking Man#ald"
+msgid "Two years ago, he was in a mercenary training center and fell off from a tree"
+msgstr ""
+
+# mes "while trying to gather a nut from it.";
+#: npc/cities/aldebaran.txt
+msgctxt "Friendly-Looking Man#ald"
+msgid "while trying to gather a nut from it."
+msgstr ""
+
+# mes "He keeps talking to himself loud and it gives me a headache...";
+#: npc/cities/aldebaran.txt
+msgctxt "Friendly-Looking Man#ald"
+msgid "He keeps talking to himself loud and it gives me a headache..."
+msgstr ""
+
+# mes "Gosh!";
+#: npc/cities/aldebaran.txt
+msgctxt "Friendly-Looking Man#ald"
+msgid "Gosh!"
+msgstr ""
+
+# mes "[Fussy Man]";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "[Fussy Man]"
+msgstr ""
+
+# mes "Aaaaarrrggghhh...I AM IN TROUBLE!";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "Aaaaarrrggghhh...I AM IN TROUBLE!"
+msgstr ""
+
+# mes "My little chicken has left me!";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "My little chicken has left me!"
+msgstr ""
+
+# mes "Oh, my god! Oh, my god!";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "Oh, my god! Oh, my god!"
+msgstr ""
+
+# if (select("What do you call the chicken?", ". . . . .") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "What do you call the chicken?"
+msgstr ""
+
+# if (select("What do you call the chicken?", ". . . . .") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid ". . . . ."
+msgstr ""
+
+# mes "I used to call it 'Amazing Picky'...";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "I used to call it 'Amazing Picky'..."
+msgstr ""
+
+# mes "*Sob* What should I do! How could this happen!";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "*Sob* What should I do! How could this happen!"
+msgstr ""
+
+# mes "Please, please help me to find my sweet little chicken!";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "Please, please help me to find my sweet little chicken!"
+msgstr ""
+
+# if (select("What? That is such a boring name!", ". . . . .") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "What? That is such a boring name!"
+msgstr ""
+
+# mes "Don't be so ridiculous!";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "Don't be so ridiculous!"
+msgstr ""
+
+# mes "'Amazing Picky' is the most wonderful and the most unique name";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "'Amazing Picky' is the most wonderful and the most unique name"
+msgstr ""
+
+# mes "in this world, and my chicken deserves the name!";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "in this world, and my chicken deserves the name!"
+msgstr ""
+
+# mes "You don't care, do you?";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "You don't care, do you?"
+msgstr ""
+
+# mes "I am only child in my family, so I have been thinking of my little chicken as my brother!";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "I am only child in my family, so I have been thinking of my little chicken as my brother!"
+msgstr ""
+
+# mes "I want my chicken back...*Sob*";
+#: npc/cities/aldebaran.txt
+msgctxt "Fussy Man#alde"
+msgid "I want my chicken back...*Sob*"
+msgstr ""
+
+# mes "[Master]";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "[Master]"
+msgstr ""
+
+# mes "The Kafra Corporation Headquarters is located here in Al De Baran.";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "The Kafra Corporation Headquarters is located here in Al De Baran."
+msgstr ""
+
+# mes "Do you know";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Do you know"
+msgstr ""
+
+# mes "what that means?";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "what that means?"
+msgstr ""
+
+# mes "That means those cute Kafra Employees come here for their lunch breaks! Isn't that great?!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "That means those cute Kafra Employees come here for their lunch breaks! Isn't that great?!"
+msgstr ""
+
+# mes "Alright, then!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Alright, then!"
+msgstr ""
+
+# mes "Pop Quiz Time!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Pop Quiz Time!"
+msgstr ""
+
+# mes "Who's your";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Who's your"
+msgstr ""
+
+# mes "favorite Kafra girl?";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "favorite Kafra girl?"
+msgstr ""
+
+# mes "Oh, and don't worry. I know that girls have some kind of opinion about how pretty other girls are.";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Oh, and don't worry. I know that girls have some kind of opinion about how pretty other girls are."
+msgstr ""
+
+# if (select("Awesome!", "No way, I ain't a perv.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Awesome!"
+msgstr ""
+
+# if (select("Awesome!", "No way, I ain't a perv.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "No way, I ain't a perv."
+msgstr ""
+
+# mes "Alright, here we go!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Alright, here we go!"
+msgstr ""
+
+# mes "Choose your favorite Kafra Lady!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Choose your favorite Kafra Lady!"
+msgstr ""
+
+# mes "The original Kafra Mascot, the classic blue haired lady! Candidate Number One: ^3355FFPavianne^000000!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "The original Kafra Mascot, the classic blue haired lady! Candidate Number One: ^3355FFPavianne^000000!"
+msgstr ""
+
+# mes "Her graceful ponytail takes mens' breath away! The fan favorite amongst teen males! Candidate Number Two: ^5533FFBlossom^000000!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid ""
+"Her graceful ponytail takes mens' breath away! The fan favorite amongst teen males! Candidate Number Two: "
+"^5533FFBlossom^000000!"
+msgstr ""
+
+# mes "Her long, straight hair, like silk from the East, is her charm point. Direct from Payon, it's Candidate Number Three: ^555555Jasmine^000000!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid ""
+"Her long, straight hair, like silk from the East, is her charm point. Direct from Payon, it's Candidate Number "
+"Three: ^555555Jasmine^000000!"
+msgstr ""
+
+# mes "A tomboy with bright orange, shortly cut hair. Candidate Number Four: ^1133DDRoxie^000000!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "A tomboy with bright orange, shortly cut hair. Candidate Number Four: ^1133DDRoxie^000000!"
+msgstr ""
+
+# mes "Intelligent, sophisticated and never seen without her luxurious glasses. It's Candidate Number Five: ^33FF55Leilah^000000!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid ""
+"Intelligent, sophisticated and never seen without her luxurious glasses. It's Candidate Number Five: "
+"^33FF55Leilah^000000!"
+msgstr ""
+
+# mes "Pretty, cute and fresh faced. Although She looks young and immature,She's the best staff!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Pretty, cute and fresh faced. Although She looks young and immature,She's the best staff!"
+msgstr ""
+
+# mes "Candidate Number (6) ^AAAA00Curly Sue^000000 !!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Candidate Number (6) ^AAAA00Curly Sue^000000 !!"
+msgstr ""
+
+# switch(select("(1) Pavianne", "(2) Blossom", "(3) Jasmine", "(4) Roxie", "(5) Leilah", "(6) Curly Sue")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "(1) Pavianne"
+msgstr ""
+
+# switch(select("(1) Pavianne", "(2) Blossom", "(3) Jasmine", "(4) Roxie", "(5) Leilah", "(6) Curly Sue")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "(2) Blossom"
+msgstr ""
+
+# switch(select("(1) Pavianne", "(2) Blossom", "(3) Jasmine", "(4) Roxie", "(5) Leilah", "(6) Curly Sue")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "(3) Jasmine"
+msgstr ""
+
+# switch(select("(1) Pavianne", "(2) Blossom", "(3) Jasmine", "(4) Roxie", "(5) Leilah", "(6) Curly Sue")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "(4) Roxie"
+msgstr ""
+
+# switch(select("(1) Pavianne", "(2) Blossom", "(3) Jasmine", "(4) Roxie", "(5) Leilah", "(6) Curly Sue")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "(5) Leilah"
+msgstr ""
+
+# switch(select("(1) Pavianne", "(2) Blossom", "(3) Jasmine", "(4) Roxie", "(5) Leilah", "(6) Curly Sue")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "(6) Curly Sue"
+msgstr ""
+
+# mes "Oh~";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Oh~"
+msgstr ""
+
+# mes "So you're a lover of classics. I respect that very much.";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "So you're a lover of classics. I respect that very much."
+msgstr ""
+
+# mes "I'll also guess that you tend to enjoy the original movie more than sequels, and dislike bad imitations. Am I right?";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid ""
+"I'll also guess that you tend to enjoy the original movie more than sequels, and dislike bad imitations. Am I right?"
+msgstr ""
+
+# mes "Hmmm...";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Hmmm..."
+msgstr ""
+
+# mes "Blossom strikes me as the girl-next-door type. So I guess that's the type of girl you're attracted to, eh?";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Blossom strikes me as the girl-next-door type. So I guess that's the type of girl you're attracted to, eh?"
+msgstr ""
+
+# mes "So...";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "So..."
+msgstr ""
+
+# mes "Long, luxurious hair is important to you, hmm? I suppose it such hair makes a woman look quite elegant.";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Long, luxurious hair is important to you, hmm? I suppose it such hair makes a woman look quite elegant."
+msgstr ""
+
+# mes "Ah, so you tend to like active, spontaneous types. I can understand that...";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Ah, so you tend to like active, spontaneous types. I can understand that..."
+msgstr ""
+
+# mes "Since Roxie isn't exactly the demure housewife type, you probably have an open mind when it comes to defining femininity, right?";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid ""
+"Since Roxie isn't exactly the demure housewife type, you probably have an open mind when it comes to defining "
+"femininity, right?"
+msgstr ""
+
+# mes "Ah, so you like the intellectual type. That's good, that's good.";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Ah, so you like the intellectual type. That's good, that's good."
+msgstr ""
+
+# mes "Still, that Leilah can be cold as stone sometimes. I've seen her shrug off many young men and crush even more hearts!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid ""
+"Still, that Leilah can be cold as stone sometimes. I've seen her shrug off many young men and crush even more hearts!"
+msgstr ""
+
+# mes "Say whaaat?!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "Say whaaat?!"
+msgstr ""
+
+# mes "She's too young!";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid "She's too young!"
+msgstr ""
+
+# mes "But I worked so hard on this delightful survey! Come now, be a sport! Admiring a pretty woman is like appreciating fine art.";
+#: npc/cities/aldebaran.txt
+msgctxt "Master#alde"
+msgid ""
+"But I worked so hard on this delightful survey! Come now, be a sport! Admiring a pretty woman is like appreciating "
+"fine art."
+msgstr ""
+
+# mes "[Kafra Pavianne]";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "[Kafra Pavianne]"
+msgstr ""
+
+# mes "Welcome! I'm Pavianne,";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "Welcome! I'm Pavianne,"
+msgstr ""
+
+# mes "one of the senior Kafra Employees. The Kafra Corporation Service is always trying to satisfy 100 % of our customers' expectations.";
+#: npc/cities/aldebaran.txt
+#, no-c-format
+msgctxt "Kafra Service#alde"
+msgid ""
+"one of the senior Kafra Employees. The Kafra Corporation Service is always trying to satisfy 100 % of our customers' "
+"expectations."
+msgstr ""
+
+# mes "Due to a change in customer support policy, we no longer accept Kafra Passes. However, we are offering refunds for our customers who still possess these passes.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid ""
+"Due to a change in customer support policy, we no longer accept Kafra Passes. However, we are offering refunds for "
+"our customers who still possess these passes."
+msgstr ""
+
+# if (select("Sell Kafra Pass", "Alright, bye~") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "Sell Kafra Pass"
+msgstr ""
+
+# if (select("Sell Kafra Pass", "Alright, bye~") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "Alright, bye~"
+msgstr ""
+
+# mes "I'm sorry,";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "I'm sorry,"
+msgstr ""
+
+# mes "but you don't";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "but you don't"
+msgstr ""
+
+# mes "have any Kafra Passes.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "have any Kafra Passes."
+msgstr ""
+
+# mes "Let's see...";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "Let's see..."
+msgstr ""
+
+# mes "You have 1 Kafra Pass.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "You have 1 Kafra Pass."
+msgstr ""
+
+# mes "You can sell that pass to us for 2000 zeny. Would you like to sell this Kafra Pass back to the Kafra Corporation?";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid ""
+"You can sell that pass to us for 2000 zeny. Would you like to sell this Kafra Pass back to the Kafra Corporation?"
+msgstr ""
+
+# mes "You have "+ countitem(Kapras_Pass) +" Kafra Passes.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "You have "
+msgstr ""
+
+# mes "If you want to sell them to us, you will receive "+ .@kafrapassmoney +" zeny. Would you like to sell these back to the Kafra Corporation?";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "If you want to sell them to us, you will receive "
+msgstr ""
+
+# mes "If you want to sell them to us, you will receive "+ .@kafrapassmoney +" zeny. Would you like to sell these back to the Kafra Corporation?";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid " zeny. Would you like to sell these back to the Kafra Corporation?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "No"
+msgstr ""
+
+# mes "I'm sorry, but you don't have any Kafra Passes.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "I'm sorry, but you don't have any Kafra Passes."
+msgstr ""
+
+# mes "Thank you.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "Thank you."
+msgstr ""
+
+# mes "Thank you,";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "Thank you,"
+msgstr ""
+
+# mes "have a good day.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#alde"
+msgid "have a good day."
+msgstr ""
+
+# mes "[Kafra Blossom]";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "[Kafra Blossom]"
+msgstr ""
+
+# mes "Welcome to the";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "Welcome to the"
+msgstr ""
+
+# mes "Kafra Corporation.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "Kafra Corporation."
+msgstr ""
+
+# mes "The Kafra Employees are";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "The Kafra Employees are"
+msgstr ""
+
+# mes "always here to serve you.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "always here to serve you."
+msgstr ""
+
+# mes "We appreciate your continued use of the Kafra Service. Please feel free to ask me if you have any questions.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "We appreciate your continued use of the Kafra Service. Please feel free to ask me if you have any questions."
+msgstr ""
+
+# switch(select("How does Kafra Storage work?", "How do you teleport people?")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "How does Kafra Storage work?"
+msgstr ""
+
+# switch(select("How does Kafra Storage work?", "How do you teleport people?")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "How do you teleport people?"
+msgstr ""
+
+# mes "Well, adventurers like yourself can place items into Kafra Storage, so that you don't have to carry all of your stuff around.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid ""
+"Well, adventurers like yourself can place items into Kafra Storage, so that you don't have to carry all of your "
+"stuff around."
+msgstr ""
+
+# mes "Now, the Kafra Storage Window is separated into three tabs into which items are automatically sorted.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "Now, the Kafra Storage Window is separated into three tabs into which items are automatically sorted."
+msgstr ""
+
+# mes "The ^3355FFItem^000000, ^3355FFEquip^000000, and ^3355FFEtc^000000 tabs work just like the tabs in your character Item Inventory.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid ""
+"The ^3355FFItem^000000, ^3355FFEquip^000000, and ^3355FFEtc^000000 tabs work just like the tabs in your character "
+"Item Inventory."
+msgstr ""
+
+# mes "Multiple items of the same type will only take up one Slot in the Item and Etc. tabs. For example, 324 Jellopies would take up only one Slot, and 22 Red Potions would take another Slot.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid ""
+"Multiple items of the same type will only take up one Slot in the Item and Etc. tabs. For example, 324 Jellopies "
+"would take up only one Slot, and 22 Red Potions would take another Slot."
+msgstr ""
+
+# mes "However, in the Equip tab, each and every single item takes up its own Slot. I guess that's because each and every single equipment can be uniquely upgraded by forging or through Cards.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid ""
+"However, in the Equip tab, each and every single item takes up its own Slot. I guess that's because each and every "
+"single equipment can be uniquely upgraded by forging or through Cards."
+msgstr ""
+
+# mes "There's a total of 300 Slots for all three item categories in the Kafra Storage, so it might be helpful to remember that.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid ""
+"There's a total of 300 Slots for all three item categories in the Kafra Storage, so it might be helpful to remember "
+"that."
+msgstr ""
+
+# mes "Oh, I get that question all the time. '^CC0066Oh Blossom, how do you do it?^000000' Well...";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "Oh, I get that question all the time. '^CC0066Oh Blossom, how do you do it?^000000' Well..."
+msgstr ""
+
+# mes "Well, I couldn't really go too much into detail, of course. That's confidential information. But I can tell you our teleportation works through a mix of magic and technology.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid ""
+"Well, I couldn't really go too much into detail, of course. That's confidential information. But I can tell you our "
+"teleportation works through a mix of magic and technology."
+msgstr ""
+
+# mes "Also, the Kafra girls alone can't teleport our customers. We just receive and process your teleportation request.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid ""
+"Also, the Kafra girls alone can't teleport our customers. We just receive and process your teleportation request."
+msgstr ""
+
+# mes "Behind the scenes, skilled professionals and technicians are working 24 hours a day to ensure that you teleport quickly and safely to your destination.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid ""
+"Behind the scenes, skilled professionals and technicians are working 24 hours a day to ensure that you teleport "
+"quickly and safely to your destination."
+msgstr ""
+
+# mes "Anyway, I hope you enjoy your visit here in the Kafra Corporation Headquarters.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "Anyway, I hope you enjoy your visit here in the Kafra Corporation Headquarters."
+msgstr ""
+
+# mes "...";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "..."
+msgstr ""
+
+# mes "......";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "......"
+msgstr ""
+
+# mes "Oh Mansoo...";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#2alde"
+msgid "Oh Mansoo..."
+msgstr ""
+
+# mes "[Kafra Jasmine]";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "[Kafra Jasmine]"
+msgstr ""
+
+# mes "Welcome!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "Welcome!"
+msgstr ""
+
+# mes "The Kafra service is";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "The Kafra service is"
+msgstr ""
+
+# mes "always on your side.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "always on your side."
+msgstr ""
+
+# mes "Thank you for coming all the way to visit us at the Kafra Corporation Headquarters here in Al De Baran!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "Thank you for coming all the way to visit us at the Kafra Corporation Headquarters here in Al De Baran!"
+msgstr ""
+
+# mes "The Kafra Service is always behind our customers with a dependable reputation that has been established over five thousand, eight hundred years...";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid ""
+"The Kafra Service is always behind our customers with a dependable reputation that has been established over five "
+"thousand, eight hundred years..."
+msgstr ""
+
+# switch(select("What?! I can't believe that!", "Ahh~ Shut Up!", "Your service is great!")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "What?! I can't believe that!"
+msgstr ""
+
+# switch(select("What?! I can't believe that!", "Ahh~ Shut Up!", "Your service is great!")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "Ahh~ Shut Up!"
+msgstr ""
+
+# switch(select("What?! I can't believe that!", "Ahh~ Shut Up!", "Your service is great!")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "Your service is great!"
+msgstr ""
+
+# mes "["+ strcharinfo(PC_NAME) +"]";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "["
+msgstr ""
+
+# mes "What?!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "What?!"
+msgstr ""
+
+# mes "I can't";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "I can't"
+msgstr ""
+
+# mes "believe that!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "believe that!"
+msgstr ""
+
+# mes "FIVE THOUSAND AND EIGHT HUNDRED YEARS?! THAT'S INSANE!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "FIVE THOUSAND AND EIGHT HUNDRED YEARS?! THAT'S INSANE!"
+msgstr ""
+
+# mes "Arrrrghh! Shut up and listen! It took me a week to memorize all this! My memory isn't as good as the other Kafra Employees...!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid ""
+"Arrrrghh! Shut up and listen! It took me a week to memorize all this! My memory isn't as good as the other Kafra "
+"Employees...!"
+msgstr ""
+
+# mes "Now, um...";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "Now, um..."
+msgstr ""
+
+# mes "As I was saying, the Kafra Corporation was founded eight thousand, five hundred years ago by, um, Emilio Alexander Kafra... Inventor of the word 'Kafra?'";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid ""
+"As I was saying, the Kafra Corporation was founded eight thousand, five hundred years ago by, um, Emilio Alexander "
+"Kafra... Inventor of the word 'Kafra?'"
+msgstr ""
+
+# mes "He...";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "He..."
+msgstr ""
+
+# mes "He was a great man. He... Argh! I can't remember!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "He was a great man. He... Argh! I can't remember!"
+msgstr ""
+
+# mes "Oh no...!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "Oh no...!"
+msgstr ""
+
+# mes "This can't be the right story! Five million, eight hundred years?! It's impossible!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "This can't be the right story! Five million, eight hundred years?! It's impossible!"
+msgstr ""
+
+# mes "Listen...";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "Listen..."
+msgstr ""
+
+# mes "Punk.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "Punk."
+msgstr ""
+
+# mes "I was a member of the Kafra Garrison before joining the Kafra Service Team. My specialty was ^990000Magnum Break^000000, so if you know what's good for you, don't mess with me.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid ""
+"I was a member of the Kafra Garrison before joining the Kafra Service Team. My specialty was ^990000Magnum "
+"Break^000000, so if you know what's good for you, don't mess with me."
+msgstr ""
+
+# mes "I'm trying my best to live as quietly and as femininely as I can, so don't make me break your knuckles! You got it?!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid ""
+"I'm trying my best to live as quietly and as femininely as I can, so don't make me break your knuckles! You got it?!"
+msgstr ""
+
+# mes "Hooray!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid "Hooray!"
+msgstr ""
+
+# mes "That's great news to hear. We're always working hard to make sure that our customers are satisfied with the services that we provide.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Jasmine#alde"
+msgid ""
+"That's great news to hear. We're always working hard to make sure that our customers are satisfied with the services "
+"that we provide."
+msgstr ""
+
+# mes "[Kafra Roxie]";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "[Kafra Roxie]"
+msgstr ""
+
+# mes "Welcome~!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "Welcome~!"
+msgstr ""
+
+# mes "The Kafra Corporation will always support Rune-Midgard's adventurers with our excellent services.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "The Kafra Corporation will always support Rune-Midgard's adventurers with our excellent services."
+msgstr ""
+
+# mes "My name is Roxie!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "My name is Roxie!"
+msgstr ""
+
+# mes "I hope you enjoy";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "I hope you enjoy"
+msgstr ""
+
+# mes "your visit here in";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "your visit here in"
+msgstr ""
+
+# mes "Kafra Corporation's";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "Kafra Corporation's"
+msgstr ""
+
+# mes "Headquarters.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "Headquarters."
+msgstr ""
+
+# mes "I'm here to answer any of your questions regarding Kafra Corporations policies, as well as take note of any of your feedback.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"I'm here to answer any of your questions regarding Kafra Corporations policies, as well as take note of any of your "
+"feedback."
+msgstr ""
+
+# switch(select("Kafra Policies", "I love Kafra!")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "Kafra Policies"
+msgstr ""
+
+# switch(select("Kafra Policies", "I love Kafra!")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "I love Kafra!"
+msgstr ""
+
+# mes "So, you'd like more details on our policies and eligibility for our services? What would you like me to explain?";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"So, you'd like more details on our policies and eligibility for our services? What would you like me to explain?"
+msgstr ""
+
+# switch(select("Kafra Storage", "Cart Rental", "Actually, never mind.")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "Kafra Storage"
+msgstr ""
+
+# switch(select("Kafra Storage", "Cart Rental", "Actually, never mind.")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "Cart Rental"
+msgstr ""
+
+# switch(select("Kafra Storage", "Cart Rental", "Actually, never mind.")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "Actually, never mind."
+msgstr ""
+
+# mes "As you probably already know, our customers must have at least Basic Skill level 6 in order to use the Kafra Storage.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"As you probably already know, our customers must have at least Basic Skill level 6 in order to use the Kafra Storage."
+msgstr ""
+
+# mes "As for the reason for this certain policy, we've had problems with young, fresh faced Novices that would put everything into their Storage.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"As for the reason for this certain policy, we've had problems with young, fresh faced Novices that would put "
+"everything into their Storage."
+msgstr ""
+
+# mes "Now you remember your days as a Novice. Everything was new and exciting, but zeny was scarce. Well, a lot of Novices would even put their weapons and armor in Kafra Storage.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"Now you remember your days as a Novice. Everything was new and exciting, but zeny was scarce. Well, a lot of Novices "
+"would even put their weapons and armor in Kafra Storage."
+msgstr ""
+
+# mes "However, by this time, they've already spent what little zeny they had to open their Storage. But they don't have enough to access their Storage again!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"However, by this time, they've already spent what little zeny they had to open their Storage. But they don't have "
+"enough to access their Storage again!"
+msgstr ""
+
+# mes "So, these weaponless, armorless Novices must fight monsters with their bare hands until they gather the zeny to open their Kafra Storage again!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"So, these weaponless, armorless Novices must fight monsters with their bare hands until they gather the zeny to open "
+"their Kafra Storage again!"
+msgstr ""
+
+# mes "It's a silly mistake, to be sure, but we here at Kafra Corporation value human life, and decided on the Basic Skill Level 6 Requirement to prevent this kind of mishap.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"It's a silly mistake, to be sure, but we here at Kafra Corporation value human life, and decided on the Basic Skill "
+"Level 6 Requirement to prevent this kind of mishap."
+msgstr ""
+
+# mes "As you may know, the Kafra Corporation has a special relationship with the Merchant Guild, as well as the Blacksmith and Alchemist guilds in Rune-Midgard.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"As you may know, the Kafra Corporation has a special relationship with the Merchant Guild, as well as the Blacksmith "
+"and Alchemist guilds in Rune-Midgard."
+msgstr ""
+
+# mes "The Kafra Corporation only rents Carts to Merchants, Blacksmiths and Alchemists since these job associations have a special contract with us.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"The Kafra Corporation only rents Carts to Merchants, Blacksmiths and Alchemists since these job associations have a "
+"special contract with us."
+msgstr ""
+
+# mes "Also, it'd be really impractical to rent carts out to people who couldn't create or sell goods.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "Also, it'd be really impractical to rent carts out to people who couldn't create or sell goods."
+msgstr ""
+
+# mes "As for Super Novices, well, we're really not supposed to rent carts to them since the Super Novice Society in Al De Baran doesn't have a contract with us.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"As for Super Novices, well, we're really not supposed to rent carts to them since the Super Novice Society in Al De "
+"Baran doesn't have a contract with us."
+msgstr ""
+
+# mes "If a Kafra Employee rented a Cart to a Super Novice, she'd probably get in big trouble with Leilah...";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "If a Kafra Employee rented a Cart to a Super Novice, she'd probably get in big trouble with Leilah..."
+msgstr ""
+
+# mes "Oh, alright~!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "Oh, alright~!"
+msgstr ""
+
+# mes "If you have any questions,";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "If you have any questions,"
+msgstr ""
+
+# mes "please let me know!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "please let me know!"
+msgstr ""
+
+# mes "Thank you!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid "Thank you!"
+msgstr ""
+
+# mes "It's great to know that we're appreciated by our customers! All of us are working hard to make sure that our service meets your standards of excellence~";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#3alde"
+msgid ""
+"It's great to know that we're appreciated by our customers! All of us are working hard to make sure that our service "
+"meets your standards of excellence~"
+msgstr ""
+
+# mes "[Kafra Curly Sue]";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid "[Kafra Curly Sue]"
+msgstr ""
+
+# mes "Hello, hello!!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid "Hello, hello!!"
+msgstr ""
+
+# mes "I'm Curly Sue,";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid "I'm Curly Sue,"
+msgstr ""
+
+# mes "the newest member";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid "the newest member"
+msgstr ""
+
+# mes "of the Kafra Staff!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid "of the Kafra Staff!"
+msgstr ""
+
+# mes "I may still need to learn more about serving our customers, but I'm always doing my best!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid "I may still need to learn more about serving our customers, but I'm always doing my best!"
+msgstr ""
+
+# if (select("Where's your mommy, kid?", "End conversation.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid "Where's your mommy, kid?"
+msgstr ""
+
+# if (select("Where's your mommy, kid?", "End conversation.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid "End conversation."
+msgstr ""
+
+# mes "Waaaaaaah~!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid "Waaaaaaah~!"
+msgstr ""
+
+# mes "I'm not a kid!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid "I'm not a kid!"
+msgstr ""
+
+# mes "Here at Kafra Corporation, we are all doing our very best to give you the excellent service that you expect from us.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra Service#4alde"
+msgid ""
+"Here at Kafra Corporation, we are all doing our very best to give you the excellent service that you expect from us."
+msgstr ""
+
+# mes "[Kafra]";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#04"
+msgid "[Kafra]"
+msgstr ""
+
+# mes "Welcome, ^6666FF" + strcharinfo(PC_NAME) + "^000000. This is where you can trade in your special reserve points for useful items and cool prizes.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#04"
+msgid "Welcome, ^6666FF"
+msgstr ""
+
+# mes "Each Kafra will allow you to trade in reserve points of varying amounts. I can trade in reserve points starting from ^2222FF100 pts up to 3000 pts^000000.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#04"
+msgid ""
+"Each Kafra will allow you to trade in reserve points of varying amounts.  I can trade in reserve points starting "
+"from ^2222FF100 pts up to 3000 pts^000000."
+msgstr ""
+
+# mes "The amount of special reserve points that you have is: ^FF0000"+RESRVPTS+"^000000 pts. Please make a choice based on your point total.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#04"
+msgid "The amount of special reserve points that you have is: ^FF0000"
+msgstr ""
+
+# mes "The amount of special reserve points that you have is: ^FF0000"+RESRVPTS+"^000000 pts. Please make a choice based on your point total.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#04"
+msgid "^000000 pts.  Please make a choice based on your point total."
+msgstr ""
+
+# mes "I'm sorry but you do not have enough reserve points for that selection.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#04"
+msgid "I'm sorry but you do not have enough reserve points for that selection."
+msgstr ""
+
+# mes "Here you are.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#04"
+msgid "Here you are."
+msgstr ""
+
+# mes "^0000FF"+ .@ordinal$ + " Lottery Opportunity!!^000000";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#04"
+msgid "^0000FF"
+msgstr ""
+
+# mes "^0000FF"+ .@ordinal$ + " Lottery Opportunity!!^000000";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#04"
+msgid " Lottery Opportunity!!^000000"
+msgstr ""
+
+# mes "Please come back anytime when you have more reserve points.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#04"
+msgid "Please come back anytime when you have more reserve points."
+msgstr ""
+
+# mes "[Kafra]";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "[Kafra]"
+msgstr ""
+
+# mes "Welcome ^5577FF"+strcharinfo(PC_NAME)+"^000000. We are currently having a special event for our customers.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "Welcome ^5577FF"
+msgstr ""
+
+# mes "You can get free gifts by using your ^FF5533special reserve points^000000 in the ^3355FFSpecial Kafra Gift Event^000000!!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid ""
+"You can get free gifts by using your ^FF5533special reserve points^000000 in the ^3355FFSpecial Kafra Gift "
+"Event^000000!!"
+msgstr ""
+
+# mes "Would you like to use your points?";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "Would you like to use your points?"
+msgstr ""
+
+# if (select("Yes I would.","Maybe next time.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "Yes I would."
+msgstr ""
+
+# if (select("Yes I would.","Maybe next time.") == 1) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "Maybe next time."
+msgstr ""
+
+# mes "You have the following amount of special reserve points: ^5544FF"+RESRVPTS+"^000000.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "You have the following amount of special reserve points: ^5544FF"
+msgstr ""
+
+# mes "You have the following amount of special reserve points: ^5544FF"+RESRVPTS+"^000000.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "^000000."
+msgstr ""
+
+# mes "Make a choice and test your luck!";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "Make a choice and test your luck!"
+msgstr ""
+
+# switch (select("5000pts = 1st Lottery Chance!","7000pts = 2nd Lottery Chance!","10000pts = 3rd Lottery Chance!","Cancel")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "5000pts = 1st Lottery Chance!"
+msgstr ""
+
+# switch (select("5000pts = 1st Lottery Chance!","7000pts = 2nd Lottery Chance!","10000pts = 3rd Lottery Chance!","Cancel")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "7000pts = 2nd Lottery Chance!"
+msgstr ""
+
+# switch (select("5000pts = 1st Lottery Chance!","7000pts = 2nd Lottery Chance!","10000pts = 3rd Lottery Chance!","Cancel")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "10000pts = 3rd Lottery Chance!"
+msgstr ""
+
+# switch (select("5000pts = 1st Lottery Chance!","7000pts = 2nd Lottery Chance!","10000pts = 3rd Lottery Chance!","Cancel")) {
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "Cancel"
+msgstr ""
+
+# mes "I'm sorry dear but you do not have enough points for this selection.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "I'm sorry dear but you do not have enough points for this selection."
+msgstr ""
+
+# mes "No problem. Collect more and more special reserve points by using the Kafra Services found throughout Rune Midgard.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid ""
+"No problem.  Collect more and more special reserve points by using the Kafra Services found throughout Rune Midgard."
+msgstr ""
+
+# mes "Thank you for using Kafra Corp. services.";
+#: npc/cities/aldebaran.txt
+msgctxt "Kafra#05"
+msgid "Thank you for using Kafra Corp. services."
+msgstr ""
+
+# mes "[Kafra]";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "[Kafra]"
+msgstr ""
+
+# mes "You have the unique opportunity to win a prize sent down from the heavens themselves!!";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "You have the unique opportunity to win a prize sent down from the heavens themselves!!"
+msgstr ""
+
+# mes "Don't miss this one and only chance! Now dear, are you ready?";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "Don't miss this one and only chance! Now dear, are you ready?"
+msgstr ""
+
+# mes "How many times do you want the Lottery Machine to spin? You can choose up to 5 times.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "How many times do you want the Lottery Machine to spin? You can choose up to 5 times."
+msgstr ""
+
+# mes "Ok~ Let me check the results~ guess what it is?";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "Ok~ Let me check the results~ guess what it is?"
+msgstr ""
+
+# mes "^FF0000Lets see.... This is...!!^000000";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "^FF0000Lets see.... This is...!!^000000"
+msgstr ""
+
+# mes "WOW!!!!..... You win!!! 1st Prize~! Congratulations~~ You got the 1st prize~~";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "WOW!!!!..... You win!!! 1st Prize~! Congratulations~~ You got the 1st prize~~"
+msgstr ""
+
+# mes "Oh! WOW! You've won the 2nd prize! Congratulations!!";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "Oh! WOW! You've won the 2nd prize! Congratulations!!"
+msgstr ""
+
+# mes "Congratulations! You've won the 3rd prize.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "Congratulations! You've won the 3rd prize."
+msgstr ""
+
+# mes "You've won the 4th prize.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "You've won the 4th prize."
+msgstr ""
+
+# mes "You've won the 5th prize.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "You've won the 5th prize."
+msgstr ""
+
+# mes "[Lottery Machine]";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "[Lottery Machine]"
+msgstr ""
+
+# mes "Number of spins remaining: "+@input;
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "Number of spins remaining: "
+msgstr ""
+
+# mes "(rumble~rumble~rumble~)...";
+#: npc/cities/aldebaran.txt
+msgctxt "F_Lottery"
+msgid "(rumble~rumble~rumble~)..."
+msgstr ""
+
+# mes "[Gatekeeper Boy]";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "[Gatekeeper Boy]"
+msgstr ""
+
+# mes "Welcome to";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Welcome to"
+msgstr ""
+
+# mes "Kinase - Blue Gallino";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Kinase - Blue Gallino"
+msgstr ""
+
+# mes "The one of Local Speciality in Aldebaran.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "The one of Local Speciality in Aldebaran."
+msgstr ""
+
+# mes "You can't go through from "+getarg(0)+" Floor,";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "You can't go through from "
+msgstr ""
+
+# mes "Please go back.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Please go back."
+msgstr ""
+
+# switch(select("About Clock Tower", "About the "+getarg(0)+" Floor", "Move to the "+getarg(0)+" Floor", "End Dialogue")) {
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "About Clock Tower"
+msgstr ""
+
+# switch(select("About Clock Tower", "About the "+getarg(0)+" Floor", "Move to the "+getarg(0)+" Floor", "End Dialogue")) {
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "About the "
+msgstr ""
+
+# mes "Homeland of Alchemy,Aldebaran!";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Homeland of Alchemy,Aldebaran!"
+msgstr ""
+
+# mes "Long Time ago, there were";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Long Time ago, there were"
+msgstr ""
+
+# mes "3 Legendary Alchemists...They are";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "3 Legendary Alchemists...They are"
+msgstr ""
+
+# mes "Bruke Seimer";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Bruke Seimer"
+msgstr ""
+
+# mes "Philip Warisez";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Philip Warisez"
+msgstr ""
+
+# mes "And ..";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "And .."
+msgstr ""
+
+# mes "Romero Specialre!";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Romero Specialre!"
+msgstr ""
+
+# mes "This venerable architecture is";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "This venerable architecture is"
+msgstr ""
+
+# mes "their masterpiece.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "their masterpiece."
+msgstr ""
+
+# mes "I assume you would feel something unusual";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "I assume you would feel something unusual"
+msgstr ""
+
+# mes "While on the way to this floor,";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "While on the way to this floor,"
+msgstr ""
+
+# mes "Every feature of This Clocktower ";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Every feature of This Clocktower "
+msgstr ""
+
+# mes "Consists of Mysterious Ancient Magics.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Consists of Mysterious Ancient Magics."
+msgstr ""
+
+# mes "If you just wander around here,";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "If you just wander around here,"
+msgstr ""
+
+# mes " without any intention";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid " without any intention"
+msgstr ""
+
+# mes "By any means,";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "By any means,"
+msgstr ""
+
+# mes "You will meet with a mishap";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "You will meet with a mishap"
+msgstr ""
+
+# mes "by Gatekeeper Creatures.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "by Gatekeeper Creatures."
+msgstr ""
+
+# mes "Please be careful ..";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Please be careful .."
+msgstr ""
+
+# mes "Ancient Alchemists";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Ancient Alchemists"
+msgstr ""
+
+# mes "Sealed the Gate of 4th Floor using an Alchemistic Device ";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Sealed the Gate of 4th Floor using an Alchemistic Device "
+msgstr ""
+
+# mes "To keep something";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "To keep something"
+msgstr ""
+
+# mes "From Evil Creatures and Human Enemies.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "From Evil Creatures and Human Enemies."
+msgstr ""
+
+# mes "To go through this door";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "To go through this door"
+msgstr ""
+
+# mes "It needs a Key.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "It needs a Key."
+msgstr ""
+
+# mes "That Key has rumored to be possessed by Gatekeeper Creatures";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "That Key has rumored to be possessed by Gatekeeper Creatures"
+msgstr ""
+
+# mes "Prowling around here.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Prowling around here."
+msgstr ""
+
+# mes "The Key is the Intensiveness of Ancient Alchemy,";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "The Key is the Intensiveness of Ancient Alchemy,"
+msgstr ""
+
+# mes "By hearsay When used once,";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "By hearsay When used once,"
+msgstr ""
+
+# mes "It will be released from being spelled";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "It will be released from being spelled"
+msgstr ""
+
+# mes "And be disapeared.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "And be disapeared."
+msgstr ""
+
+# mes "If that key";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "If that key"
+msgstr ""
+
+# mes "Comes into your porssession,";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Comes into your porssession,"
+msgstr ""
+
+# mes "Please show me.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Please show me."
+msgstr ""
+
+# mes "The one who possesses the Key";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "The one who possesses the Key"
+msgstr ""
+
+# mes "Will have access to go through";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Will have access to go through"
+msgstr ""
+
+# mes "This Gate with his own will!";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "This Gate with his own will!"
+msgstr ""
+
+# mes "I will give you a chance.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "I will give you a chance."
+msgstr ""
+
+# mes ". . . . .";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid ". . . . ."
+msgstr ""
+
+# mes "Hmm! I already felt that you are not an Ordinary person,";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Hmm! I already felt that you are not an Ordinary person,"
+msgstr ""
+
+# mes "Now it seems to be successful in Speculation.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Now it seems to be successful in Speculation."
+msgstr ""
+
+# mes "Please,You may enter.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Please,You may enter."
+msgstr ""
+
+# mes "May God bless you ..";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "May God bless you .."
+msgstr ""
+
+# mes ". . . . . .";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid ". . . . . ."
+msgstr ""
+
+# mes "Unfortunately you don't have a privilege";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Unfortunately you don't have a privilege"
+msgstr ""
+
+# mes "To enter this Gate ..";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "To enter this Gate .."
+msgstr ""
+
+# mes "You won't be able to go through";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "You won't be able to go through"
+msgstr ""
+
+# mes "As long as Ancient Alchemists";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "As long as Ancient Alchemists"
+msgstr ""
+
+# mes " Don't grant you.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid " Don't grant you."
+msgstr ""
+
+# mes "This Clock Tower";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "This Clock Tower"
+msgstr ""
+
+# mes "Is the place where the 3 Ancient Legendary Alchemists";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Is the place where the 3 Ancient Legendary Alchemists"
+msgstr ""
+
+# mes "Has left their Spirits and Skills.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Has left their Spirits and Skills."
+msgstr ""
+
+# mes "Please Do not Scribble or Damage on the Interior.";
+#: npc/cities/aldebaran.txt
+msgctxt "F_ClockTowerGate"
+msgid "Please Do not Scribble or Damage on the Interior."
+msgstr ""
+
+# mes "[Walter Moers]";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "[Walter Moers]"
+msgstr ""
+
+# mes "Hey, there.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Hey, there."
+msgstr ""
+
+# mes "Have you ever heard that there";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Have you ever heard that there"
+msgstr ""
+
+# mes "are totally different countries";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "are totally different countries"
+msgstr ""
+
+# mes "than the Rune-Midgard Kingdom?";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "than the Rune-Midgard Kingdom?"
+msgstr ""
+
+# switch(select("About Amatsu...", "Go to Amatsu", "Cancel")) {
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "About Amatsu..."
+msgstr ""
+
+# switch(select("About Amatsu...", "Go to Amatsu", "Cancel")) {
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Go to Amatsu"
+msgstr ""
+
+# switch(select("About Amatsu...", "Go to Amatsu", "Cancel")) {
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Cancel"
+msgstr ""
+
+# mes "I heard that a drifting ship";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "I heard that a drifting ship"
+msgstr ""
+
+# mes "accidentally discovered it...";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "accidentally discovered it..."
+msgstr ""
+
+# mes "The ship was totally destroyed";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "The ship was totally destroyed"
+msgstr ""
+
+# mes "by a raging storm in heavy fog.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "by a raging storm in heavy fog."
+msgstr ""
+
+# mes " ";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid " "
+msgstr ""
+
+# mes "Anyway, the ship was wrecked";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Anyway, the ship was wrecked"
+msgstr ""
+
+# mes "on the beach. It was there";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "on the beach. It was there"
+msgstr ""
+
+# mes "he arrived at a town called Amatsu.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "he arrived at a town called Amatsu."
+msgstr ""
+
+# mes "The towners took pity on him";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "The towners took pity on him"
+msgstr ""
+
+# mes "and took care of his wounds.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "and took care of his wounds."
+msgstr ""
+
+# mes "He lived there until he finished making a map.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "He lived there until he finished making a map."
+msgstr ""
+
+# mes "He passed away when he returned";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "He passed away when he returned"
+msgstr ""
+
+# mes "to Rune-Midgard. Fortunately,";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "to Rune-Midgard. Fortunately,"
+msgstr ""
+
+# mes "the map was given to our king, Tristan III.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "the map was given to our king, Tristan III."
+msgstr ""
+
+# mes "King Tristan III announced";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "King Tristan III announced"
+msgstr ""
+
+# mes "that he would reward any";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "that he would reward any"
+msgstr ""
+
+# mes "person brave enough to venture to Amatsu, and spread copies of this map.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "person brave enough to venture to Amatsu, and spread copies of this map."
+msgstr ""
+
+# mes "Many brave and adventurous";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Many brave and adventurous"
+msgstr ""
+
+# mes "sea captains took the";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "sea captains took the"
+msgstr ""
+
+# mes "challenge. Great fortune could";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "challenge. Great fortune could"
+msgstr ""
+
+# mes "be made in trade with Amatsu, as well as the rewards from King Tristan III...";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "be made in trade with Amatsu, as well as the rewards from King Tristan III..."
+msgstr ""
+
+# mes "However, they all failed!";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "However, they all failed!"
+msgstr ""
+
+# mes "To overcome various currents";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "To overcome various currents"
+msgstr ""
+
+# mes "and bad weather, lots of";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "and bad weather, lots of"
+msgstr ""
+
+# mes "experience is required. But they were all blinded by their greed...";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "experience is required. But they were all blinded by their greed..."
+msgstr ""
+
+# mes "Finally, a great man discovered";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Finally, a great man discovered"
+msgstr ""
+
+# mes "the perfect sealane to Amatsu...";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "the perfect sealane to Amatsu..."
+msgstr ""
+
+# mes "Right! That is me. Sir Walter";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Right! That is me. Sir Walter"
+msgstr ""
+
+# mes "Moers. I started the trade with Amatsu! Hahaha! Well, that's all about Amatsu.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Moers. I started the trade with Amatsu! Hahaha! Well, that's all about Amatsu."
+msgstr ""
+
+# mes "I made good money from trades";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "I made good money from trades"
+msgstr ""
+
+# mes "for years, and now I'm interested";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "for years, and now I'm interested"
+msgstr ""
+
+# mes "in tourism. If you want to go to Amatsu, let me know~!";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "in tourism. If you want to go to Amatsu, let me know~!"
+msgstr ""
+
+# mes "Oh yeah? It's a long way to";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Oh yeah? It's a long way to"
+msgstr ""
+
+# mes "Amatsu. That's why we are";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Amatsu. That's why we are"
+msgstr ""
+
+# mes "charging a fare. You don't think that crossing oceans and currents is easy, do you?";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "charging a fare. You don't think that crossing oceans and currents is easy, do you?"
+msgstr ""
+
+# mes "10,000 zeny for a round-trip! I've";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "10,000 zeny for a round-trip! I've"
+msgstr ""
+
+# mes "got a stately room in a sturdy and";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "got a stately room in a sturdy and"
+msgstr ""
+
+# mes "safe trade ship for you. It is a ";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "safe trade ship for you. It is a "
+msgstr ""
+
+# mes "reasonable fare when you consider";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "reasonable fare when you consider"
+msgstr ""
+
+# mes "that this isn't a one way trip.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "that this isn't a one way trip."
+msgstr ""
+
+# mes "Shall we go now? You didn't forget";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Shall we go now? You didn't forget"
+msgstr ""
+
+# mes "the fare, right? Let's go.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "the fare, right? Let's go."
+msgstr ""
+
+# if (select("All Aboard!", "Cancel") == 1) {
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "All Aboard!"
+msgstr ""
+
+# mes "Alright, I will start the engine!";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Alright, I will start the engine!"
+msgstr ""
+
+# mes "Were you even listening to me?";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Were you even listening to me?"
+msgstr ""
+
+# mes "10,000 zeny. If you got";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "10,000 zeny. If you got"
+msgstr ""
+
+# mes "nothing, find some treasure";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "nothing, find some treasure"
+msgstr ""
+
+# mes "somewhere, like in a wrecked ship...Show me the money!";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "somewhere, like in a wrecked ship...Show me the money!"
+msgstr ""
+
+# mes "If you are an adventurer,";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "If you are an adventurer,"
+msgstr ""
+
+# mes "this is a great chance";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "this is a great chance"
+msgstr ""
+
+# mes "to experience a different culture...Well, it is up to you.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "to experience a different culture...Well, it is up to you."
+msgstr ""
+
+# mes "If you are tired of your daily";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "If you are tired of your daily"
+msgstr ""
+
+# mes "life, take a trip to a distant";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "life, take a trip to a distant"
+msgstr ""
+
+# mes "country across the ocean.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "country across the ocean."
+msgstr ""
+
+# mes "Someplace like, oh I don't know, Amatsu~";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Someplace like, oh I don't know, Amatsu~"
+msgstr ""
+
+# mes "[Walter Moers]";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "[Walter Moers]"
+msgstr ""
+
+# mes "You came... Did you enjoy";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "You came... Did you enjoy"
+msgstr ""
+
+# mes "your trip to Amatsu...?";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "your trip to Amatsu...?"
+msgstr ""
+
+# mes "Alright, I will take you";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "Alright, I will take you"
+msgstr ""
+
+# mes "back to Alberta.";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "back to Alberta."
+msgstr ""
+
+# if (select("Back to Alberta", "Cancel") == 1) {
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "Back to Alberta"
+msgstr ""
+
+# if (select("Back to Alberta", "Cancel") == 1) {
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "Cancel"
+msgstr ""
+
+# mes "Let's go then. You must have";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "Let's go then. You must have"
+msgstr ""
+
+# mes "so many things to talk about,";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "so many things to talk about,"
+msgstr ""
+
+# mes "right? All aboard now.";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "right? All aboard now."
+msgstr ""
+
+# mes "Well, take your time.";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "Well, take your time."
+msgstr ""
+
+# mes "The ship to Alberta is";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "The ship to Alberta is"
+msgstr ""
+
+# mes "always ready to depart...";
+#: npc/cities/amatsu.txt
+msgctxt "Sea Captain#ama2"
+msgid "always ready to depart..."
+msgstr ""
+
+# mes "[Yuuko]";
+#: npc/cities/amatsu.txt
+msgctxt "Well-side Maiden#ama"
+msgid "[Yuuko]"
+msgstr ""
+
+# mes "I usually come to this well to";
+#: npc/cities/amatsu.txt
+msgctxt "Well-side Maiden#ama"
+msgid "I usually come to this well to"
+msgstr ""
+
+# mes "draw water, but never when it's";
+#: npc/cities/amatsu.txt
+msgctxt "Well-side Maiden#ama"
+msgid "draw water, but never when it's"
+msgstr ""
+
+# mes "foggy or rainy. For some reason";
+#: npc/cities/amatsu.txt
+msgctxt "Well-side Maiden#ama"
+msgid "foggy or rainy. For some reason"
+msgstr ""
+
+# mes "whenever the weather is a";
+#: npc/cities/amatsu.txt
+msgctxt "Well-side Maiden#ama"
+msgid "whenever the weather is a"
+msgstr ""
+
+# mes "certain way, I feel like...";
+#: npc/cities/amatsu.txt
+msgctxt "Well-side Maiden#ama"
+msgid "certain way, I feel like..."
+msgstr ""
+
+# mes "...someone...or some thing is";
+#: npc/cities/amatsu.txt
+msgctxt "Well-side Maiden#ama"
+msgid "...someone...or some thing is"
+msgstr ""
+
+# mes "struggling to crawl out from";
+#: npc/cities/amatsu.txt
+msgctxt "Well-side Maiden#ama"
+msgid "struggling to crawl out from"
+msgstr ""
+
+# mes "the bottom of this well...";
+#: npc/cities/amatsu.txt
+msgctxt "Well-side Maiden#ama"
+msgid "the bottom of this well..."
+msgstr ""
+
+# mes "It really gives me the creeps.";
+#: npc/cities/amatsu.txt
+msgctxt "Well-side Maiden#ama"
+msgid "It really gives me the creeps."
+msgstr ""
+
+# mes "[John]";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "[John]"
+msgstr ""
+
+# mes "Yo~";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "Yo~"
+msgstr ""
+
+# mes "You're not from around here.";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "You're not from around here."
+msgstr ""
+
+# mes "Heh, another outsider.";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "Heh, another outsider."
+msgstr ""
+
+# mes "Just like me...";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "Just like me..."
+msgstr ""
+
+# mes "It's been five long years";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "It's been five long years"
+msgstr ""
+
+# mes "since I've started doing";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "since I've started doing"
+msgstr ""
+
+# mes "business here...";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "business here..."
+msgstr ""
+
+# mes "Af first, I thought, 'What";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "Af first, I thought, 'What"
+msgstr ""
+
+# mes "a great chance!' when the";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "a great chance!' when the"
+msgstr ""
+
+# mes "trade between the Rune-Midgard";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "trade between the Rune-Midgard"
+msgstr ""
+
+# mes "Kingdom and Amatsu started.";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "Kingdom and Amatsu started."
+msgstr ""
+
+# mes "I wanted to do something great";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "I wanted to do something great"
+msgstr ""
+
+# mes "and make the most of this";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "and make the most of this"
+msgstr ""
+
+# mes "new opportunity.";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "new opportunity."
+msgstr ""
+
+# mes "And so, I decided to go to";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "And so, I decided to go to"
+msgstr ""
+
+# mes "Amatsu so I could learn to make";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "Amatsu so I could learn to make"
+msgstr ""
+
+# mes "Amatsu cuisine. Then, I could";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "Amatsu cuisine. Then, I could"
+msgstr ""
+
+# mes "return to my hometown and make";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "return to my hometown and make"
+msgstr ""
+
+# mes "this exotic food for everyone.";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "this exotic food for everyone."
+msgstr ""
+
+# mes "But, I fell in love with Amatsu";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "But, I fell in love with Amatsu"
+msgstr ""
+
+# mes "and I ended up sticking around";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "and I ended up sticking around"
+msgstr ""
+
+# mes "here for the last five years.";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "here for the last five years."
+msgstr ""
+
+# mes "During all that time, I've";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "During all that time, I've"
+msgstr ""
+
+# mes "been learning Amatsu cuisine,";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "been learning Amatsu cuisine,"
+msgstr ""
+
+# mes "and cooking these dishes for";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "and cooking these dishes for"
+msgstr ""
+
+# mes "the towners, and enjoying myself";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "the towners, and enjoying myself"
+msgstr ""
+
+# mes "by talking to the locals,";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "by talking to the locals,"
+msgstr ""
+
+# mes "transfixed in this very spot.";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "transfixed in this very spot."
+msgstr ""
+
+# mes "But recently, across the street,";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "But recently, across the street,"
+msgstr ""
+
+# mes "the Sushi Master opened his shop.";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "the Sushi Master opened his shop."
+msgstr ""
+
+# mes "...";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "..."
+msgstr ""
+
+# mes "Now, my only customers are flies.";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "Now, my only customers are flies."
+msgstr ""
+
+# mes "I was hoping to fulfill my";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "I was hoping to fulfill my"
+msgstr ""
+
+# mes "dream of becoming a renowned chef";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "dream of becoming a renowned chef"
+msgstr ""
+
+# mes "in Amatsu, but...";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "in Amatsu, but..."
+msgstr ""
+
+# mes "I guess it's over...";
+#: npc/cities/amatsu.txt
+msgctxt "John#ama"
+msgid "I guess it's over..."
+msgstr ""
+
+# mes "[Mimi]";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "[Mimi]"
+msgstr ""
+
+# mes "Puhuhu~!";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "Puhuhu~!"
+msgstr ""
+
+# mes "Did you see Miss Amatsu near";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "Did you see Miss Amatsu near"
+msgstr ""
+
+# mes "the Harbor? Isn't she";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "the Harbor? Isn't she"
+msgstr ""
+
+# mes "preeeetty?";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "preeeetty?"
+msgstr ""
+
+# mes "I'm going to enter the Miss";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "I'm going to enter the Miss"
+msgstr ""
+
+# mes "Amatsu Contest when I'm older.";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "Amatsu Contest when I'm older."
+msgstr ""
+
+# mes "I'm sure that I'm the prettiest";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "I'm sure that I'm the prettiest"
+msgstr ""
+
+# mes "in this town but...";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "in this town but..."
+msgstr ""
+
+# mes "A lady can always use a little more makeup.";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "A lady can always use a little more makeup."
+msgstr ""
+
+# mes "[Kosake]";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "[Kosake]"
+msgstr ""
+
+# mes "*Hiccup*...My wife is just like,";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "*Hiccup*...My wife is just like,"
+msgstr ""
+
+# mes "...like a man...*Hiccup*...";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "...like a man...*Hiccup*..."
+msgstr ""
+
+# mes "I'm going to really...*Hiccup*...not go home this time...Hiccup";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "I'm going to really...*Hiccup*...not go home this time...Hiccup"
+msgstr ""
+
+# if (select("Stop drinking and go home", "Let's drink together") == 1) {
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "Stop drinking and go home"
+msgstr ""
+
+# if (select("Stop drinking and go home", "Let's drink together") == 1) {
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "Let's drink together"
+msgstr ""
+
+# mes "What?! Do you want me to get";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "What?! Do you want me to get"
+msgstr ""
+
+# mes "hit by my wife's big fist?";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "hit by my wife's big fist?"
+msgstr ""
+
+# mes "That's right! I said 'big fist!'";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "That's right! I said 'big fist!'"
+msgstr ""
+
+# mes "Sad to say, I married a woman";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "Sad to say, I married a woman"
+msgstr ""
+
+# mes "with man hands...";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "with man hands..."
+msgstr ""
+
+# mes "Big, strong hands that can kill a tiger.";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "Big, strong hands that can kill a tiger."
+msgstr ""
+
+# mes "[Druken Man]";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "[Druken Man]"
+msgstr ""
+
+# mes "It was in Ko...Koko-something";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "It was in Ko...Koko-something"
+msgstr ""
+
+# mes "town. She hit me because I";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "town. She hit me because I"
+msgstr ""
+
+# mes "lost some money...*Hiccup*";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "lost some money...*Hiccup*"
+msgstr ""
+
+# mes "Life~~ is~~ nothing~~~";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "Life~~ is~~ nothing~~~"
+msgstr ""
+
+# mes "What is zeny~~~~ ";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "What is zeny~~~~ "
+msgstr ""

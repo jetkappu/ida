@@ -1,0 +1,5000 @@
+msgid "Today, everyone will hear the shout of triumph from Croix!"
+msgstr ""
+
+# mes("We will win!");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "KVM Mercenary Officer#2"
+msgid "We will win!"
+msgstr ""
+
+# mes("[Croix Knight]");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "[Croix Knight]"
+msgstr ""
+
+# mes("Hello.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "Hello."
+msgstr ""
+
+# mes("What do you want to know?");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "What do you want to know?"
+msgstr ""
+
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "Apply for KVM."
+msgstr ""
+
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "What is KVM?"
+msgstr ""
+
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "How do I participate in KVM?"
+msgstr ""
+
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "I want to know my Kreiger Points."
+msgstr ""
+
+# mes("Applications are not available yet.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "Applications are not available yet."
+msgstr ""
+
+# mes("To apply, you need to go to a KVM Mercenary Officer.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "To apply, you need to go to a KVM Mercenary Officer."
+msgstr ""
+
+# mes("KVM is the abbreviation of Kreiger Von Midgard.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "KVM is the abbreviation of Kreiger Von Midgard."
+msgstr ""
+
+# mes("Adventurer, are you aware that the way to the new world has been opened?");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "Adventurer, are you aware that the way to the new world has been opened?"
+msgstr ""
+
+# mes("We, the Croix Administration, have several plans to advance to the new world.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "We, the Croix Administration, have several plans to advance to the new world."
+msgstr ""
+
+# mes("And KVM is one of them.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "And KVM is one of them."
+msgstr ""
+
+# mes("It means that we, one of many countries in the Midgard continent,");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "It means that we, one of many countries in the Midgard continent,"
+msgstr ""
+
+# mes("have decided to employ many adventurers for the immediate advance to the new world.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "have decided to employ many adventurers for the immediate advance to the new world."
+msgstr ""
+
+# mes("Therefore, to select the best adventurers, we are holding the KVM.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "Therefore, to select the best adventurers, we are holding the KVM."
+msgstr ""
+
+# mes("We exspect responses from many adventurers.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "We exspect responses from many adventurers."
+msgstr ""
+
+# mes("And we will give them rewards for their participation!");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "And we will give them rewards for their participation!"
+msgstr ""
+
+# mes("As for the rewards, please contact a KVM Logistic Officer.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "As for the rewards, please contact a KVM Logistic Officer."
+msgstr ""
+
+# mes("Basically, KVM is a 5 on 5 battle.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "Basically, KVM is a 5 on 5 battle."
+msgstr ""
+
+# mes("First, you apply with a KVM receptionist, in a group or individually.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "First, you apply with a KVM receptionist, in a group or individually."
+msgstr ""
+
+# mes("Group applications are for when you intend to enter the KVM with your party members,");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "Group applications are for when you intend to enter the KVM with your party members,"
+msgstr ""
+
+# mes("and a personal application is for when you intend to enter the KVM individually.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "and a personal application is for when you intend to enter the KVM individually."
+msgstr ""
+
+# mes("Please apply with a KVM officer, and he will contact you later when you are in Prontera.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "Please apply with a KVM officer, and he will contact you later when you are in Prontera."
+msgstr ""
+
+# mes("Then you enter and follow the instructions in the battlefield.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "Then you enter and follow the instructions in the battlefield."
+msgstr ""
+
+# mes("However, please be advised that unless you are in the KVM office, he cannot contact you.");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "However, please be advised that unless you are in the KVM office, he cannot contact you."
+msgstr ""
+
+# mes("Your Kreiger Points are:");
+#: npc/battleground/kvm/kvm_enter.txt
+msgctxt "Croix Knight#kvm"
+msgid "Your Kreiger Points are:"
+msgstr ""
+
+# mesf("%d.", kvm_point);
+#: npc/battleground/kvm/kvm_enter.txt
+#, c-format
+msgctxt "Croix Knight#kvm"
+msgid "%d."
+msgstr ""
+
+# mes("[Logistics]");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "[Logistics]"
+msgstr ""
+
+# mesf("Are those %ss I see?", getitemname(7773));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "Are those %ss I see?"
+msgstr ""
+
+# mes("We no longer accept that currency,\r"
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "We no longer accept that currency,\rbut I can exchange those for you."
+msgstr ""
+
+# mesf("So you have %d %ss?", .@pointstoadd, getitemname(7773));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "So you have %d %ss?"
+msgstr ""
+
+# mesf("Alright, all set, you now have ^580080%d^000000 KVM Points.", kvm_point);
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "Alright, all set, you now have ^580080%d^000000 KVM Points."
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("Hello?");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Hello?"
+msgstr ""
+
+# mes("I am in charge of distributing\r"
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid ""
+"I am in charge of distributing\rreward items for KVM points. Any\rwrong selection of items will not\rbe reversed. "
+"Please be carefull."
+msgstr ""
+
+# mes("Select the next step please.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Select the next step please."
+msgstr ""
+
+# switch(select("Read the KVM Catalogue.", "Purchase KVM Items.", "Confirm KVM Points.", "Explanation of KVM Rewards.", "Explanation of KVM Points.")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Read the KVM Catalogue."
+msgstr ""
+
+# switch(select("Read the KVM Catalogue.", "Purchase KVM Items.", "Confirm KVM Points.", "Explanation of KVM Rewards.", "Explanation of KVM Points.")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Purchase KVM Items."
+msgstr ""
+
+# switch(select("Read the KVM Catalogue.", "Purchase KVM Items.", "Confirm KVM Points.", "Explanation of KVM Rewards.", "Explanation of KVM Points.")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Confirm KVM Points."
+msgstr ""
+
+# switch(select("Read the KVM Catalogue.", "Purchase KVM Items.", "Confirm KVM Points.", "Explanation of KVM Rewards.", "Explanation of KVM Points.")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Explanation of KVM Rewards."
+msgstr ""
+
+# switch(select("Read the KVM Catalogue.", "Purchase KVM Items.", "Confirm KVM Points.", "Explanation of KVM Rewards.", "Explanation of KVM Points.")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Explanation of KVM Points."
+msgstr ""
+
+# mes("Here is the catalogue of KVM items.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Here is the catalogue of KVM items."
+msgstr ""
+
+# mes("Each weapon requires 2,000 points\r"
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid ""
+"Each weapon requires 2,000 points\rand each armor from 10 to 1,200\rpoints. So, be carefull when\rselecting a reward."
+msgstr ""
+
+# mes("Wich items do you want to see? As\r"
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid ""
+"Wich items do you want to see? As\rfor the detailed specification of\rthe items, please refer to the"
+"\r^3131FFCatalogue^000000."
+msgstr ""
+
+# switch(select("Weapon", "Armor/Accessory", "Mass-Production Armor/Accessory", "Popularized Armor/Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Weapon"
+msgstr ""
+
+# switch(select("Weapon", "Armor/Accessory", "Mass-Production Armor/Accessory", "Popularized Armor/Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Armor/Accessory"
+msgstr ""
+
+# switch(select("Weapon", "Armor/Accessory", "Mass-Production Armor/Accessory", "Popularized Armor/Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Mass-Production Armor/Accessory"
+msgstr ""
+
+# switch(select("Weapon", "Armor/Accessory", "Mass-Production Armor/Accessory", "Popularized Armor/Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Popularized Armor/Accessory"
+msgstr ""
+
+# mes("You have selected the Weapon Category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the Weapon Category."
+msgstr ""
+
+# mes("Please select a sub-category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Please select a sub-category."
+msgstr ""
+
+# switch(select("Dagger/Sword/Spear", "Staff/Mace/Axe/Shuriken", "Bow/Katar/Instrument/Whip", "Book/Knuckle", "Revolver/Rifle/Gun/Grenade Launcher")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Dagger/Sword/Spear"
+msgstr ""
+
+# switch(select("Dagger/Sword/Spear", "Staff/Mace/Axe/Shuriken", "Bow/Katar/Instrument/Whip", "Book/Knuckle", "Revolver/Rifle/Gun/Grenade Launcher")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Staff/Mace/Axe/Shuriken"
+msgstr ""
+
+# switch(select("Dagger/Sword/Spear", "Staff/Mace/Axe/Shuriken", "Bow/Katar/Instrument/Whip", "Book/Knuckle", "Revolver/Rifle/Gun/Grenade Launcher")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Bow/Katar/Instrument/Whip"
+msgstr ""
+
+# switch(select("Dagger/Sword/Spear", "Staff/Mace/Axe/Shuriken", "Bow/Katar/Instrument/Whip", "Book/Knuckle", "Revolver/Rifle/Gun/Grenade Launcher")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Book/Knuckle"
+msgstr ""
+
+# switch(select("Dagger/Sword/Spear", "Staff/Mace/Axe/Shuriken", "Bow/Katar/Instrument/Whip", "Book/Knuckle", "Revolver/Rifle/Gun/Grenade Launcher")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Revolver/Rifle/Gun/Grenade Launcher"
+msgstr ""
+
+# mes("You have selected the Dagger/Sword/Spear category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the Dagger/Sword/Spear category."
+msgstr ""
+
+# switch(select("Dagger", "One-handed Sword", "Two-handed Sword", "One-handed Spear", "Two-handed Spear")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Dagger"
+msgstr ""
+
+# switch(select("Dagger", "One-handed Sword", "Two-handed Sword", "One-handed Spear", "Two-handed Spear")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "One-handed Sword"
+msgstr ""
+
+# switch(select("Dagger", "One-handed Sword", "Two-handed Sword", "One-handed Spear", "Two-handed Spear")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Two-handed Sword"
+msgstr ""
+
+# switch(select("Dagger", "One-handed Sword", "Two-handed Sword", "One-handed Spear", "Two-handed Spear")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "One-handed Spear"
+msgstr ""
+
+# switch(select("Dagger", "One-handed Sword", "Two-handed Sword", "One-handed Spear", "Two-handed Spear")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Two-handed Spear"
+msgstr ""
+
+# mes("You have selected the 'One-handed Sword' category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'One-handed Sword' category."
+msgstr ""
+
+# mes("There are 3 One-handed Swords: Glorious Flamberge, Glorious Rapier and Glorious Holy Avenger.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 3 One-handed Swords: Glorious Flamberge, Glorious Rapier and Glorious Holy Avenger."
+msgstr ""
+
+# mes("If you want their details, please refer to the KVM Catalogue.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "If you want their details, please refer to the KVM Catalogue."
+msgstr ""
+
+# mes("Please select one of them.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Please select one of them."
+msgstr ""
+
+# switch(select("Glorious Flamberge", "Glorious Rapier", "Glorious Holy Avenger")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Flamberge"
+msgstr ""
+
+# switch(select("Glorious Flamberge", "Glorious Rapier", "Glorious Holy Avenger")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Rapier"
+msgstr ""
+
+# switch(select("Glorious Flamberge", "Glorious Rapier", "Glorious Holy Avenger")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Holy Avenger"
+msgstr ""
+
+# mes("You have selected the 'Staff/Mace/Axe/Shuriken' category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Staff/Mace/Axe/Shuriken' category."
+msgstr ""
+
+# switch(select("Staff", "Mace", "One-handed Axe", "Two-handed Axe", "Shuriken")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Staff"
+msgstr ""
+
+# switch(select("Staff", "Mace", "One-handed Axe", "Two-handed Axe", "Shuriken")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Mace"
+msgstr ""
+
+# switch(select("Staff", "Mace", "One-handed Axe", "Two-handed Axe", "Shuriken")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "One-handed Axe"
+msgstr ""
+
+# switch(select("Staff", "Mace", "One-handed Axe", "Two-handed Axe", "Shuriken")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Two-handed Axe"
+msgstr ""
+
+# switch(select("Staff", "Mace", "One-handed Axe", "Two-handed Axe", "Shuriken")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Shuriken"
+msgstr ""
+
+# mes("You have selected the 'Staff' category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Staff' category."
+msgstr ""
+
+# mes("There are 3 Staffs: a Two-handed Weapon Glorious Destruction Staff, a One-handed Glorious Arc Wand and a Glorious Healing Staff.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid ""
+"There are 3 Staffs: a Two-handed Weapon Glorious Destruction Staff, a One-handed Glorious Arc Wand and a Glorious "
+"Healing Staff."
+msgstr ""
+
+# switch(select("Glorious Destruction Staff", "Glorious Arc Wand", "Glorious Healing Staff")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Destruction Staff"
+msgstr ""
+
+# switch(select("Glorious Destruction Staff", "Glorious Arc Wand", "Glorious Healing Staff")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Arc Wand"
+msgstr ""
+
+# switch(select("Glorious Destruction Staff", "Glorious Arc Wand", "Glorious Healing Staff")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Healing Staff"
+msgstr ""
+
+# mes("You have selected the Bow/Katar/Instrument/Whip category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the Bow/Katar/Instrument/Whip category."
+msgstr ""
+
+# switch(select("Bow", "Katar", "Instrument", "Whip")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Bow"
+msgstr ""
+
+# switch(select("Bow", "Katar", "Instrument", "Whip")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Katar"
+msgstr ""
+
+# switch(select("Bow", "Katar", "Instrument", "Whip")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Instrument"
+msgstr ""
+
+# switch(select("Bow", "Katar", "Instrument", "Whip")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Whip"
+msgstr ""
+
+# mes("You have selected the 'Katar' category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Katar' category."
+msgstr ""
+
+# mes("There are 2 Katars: Glorious Bloody Roar and Glorious Jamadhar.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 2 Katars: Glorious Bloody Roar and Glorious Jamadhar."
+msgstr ""
+
+# switch(select("Glorious Bloody Roar", "Glorious Jamadhar")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Bloody Roar"
+msgstr ""
+
+# switch(select("Glorious Bloody Roar", "Glorious Jamadhar")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Jamadhar"
+msgstr ""
+
+# mes("You have selected the Book/Knuckle category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the Book/Knuckle category."
+msgstr ""
+
+# switch(select("Book", "Knuckle")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Book"
+msgstr ""
+
+# switch(select("Book", "Knuckle")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Knuckle"
+msgstr ""
+
+# mes("You have selected 'Book'.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected 'Book'."
+msgstr ""
+
+# mes("There are 2 Books: Glorious Tablet and Glorious Apocalypse.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 2 Books: Glorious Tablet and Glorious Apocalypse."
+msgstr ""
+
+# switch(select("Glorious Tablet", "Glorious Apocalypse")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Tablet"
+msgstr ""
+
+# switch(select("Glorious Tablet", "Glorious Apocalypse")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Apocalypse"
+msgstr ""
+
+# mes("You have selected the 'Knuckle' category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Knuckle' category."
+msgstr ""
+
+# mes("There are 2 Knuckles: Glorious Claw and Glorious Fist.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 2 Knuckles: Glorious Claw and Glorious Fist."
+msgstr ""
+
+# switch(select("Glorious Claw", "Glorious Fist")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Claw"
+msgstr ""
+
+# switch(select("Glorious Claw", "Glorious Fist")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Fist"
+msgstr ""
+
+# mes("You have selected the 'Revolver/Rifle/Gun/Grenade Launcher' category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Revolver/Rifle/Gun/Grenade Launcher' category."
+msgstr ""
+
+# switch(select("Revolver", "Rifle", "Gatling Gun", "Shotgun", "Grenade Launcher")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Revolver"
+msgstr ""
+
+# switch(select("Revolver", "Rifle", "Gatling Gun", "Shotgun", "Grenade Launcher")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Rifle"
+msgstr ""
+
+# switch(select("Revolver", "Rifle", "Gatling Gun", "Shotgun", "Grenade Launcher")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Gatling Gun"
+msgstr ""
+
+# switch(select("Revolver", "Rifle", "Gatling Gun", "Shotgun", "Grenade Launcher")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Shotgun"
+msgstr ""
+
+# switch(select("Revolver", "Rifle", "Gatling Gun", "Shotgun", "Grenade Launcher")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Grenade Launcher"
+msgstr ""
+
+# mes("You have selected the 'Armor/Accessory' category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Armor/Accessory' category."
+msgstr ""
+
+# switch(select("Armor", "Cloak", "Shoes", "Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Armor"
+msgstr ""
+
+# switch(select("Armor", "Cloak", "Shoes", "Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Cloak"
+msgstr ""
+
+# switch(select("Armor", "Cloak", "Shoes", "Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Shoes"
+msgstr ""
+
+# switch(select("Armor", "Cloak", "Shoes", "Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Accessory"
+msgstr ""
+
+# mes("You have selected the 'Mass-Production Armor/Accessory' category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Mass-Production Armor/Accessory' category."
+msgstr ""
+
+# switch(select("Mass-Production Armor", "Mass-Production Shoes", "Mass-Production Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Mass-Production Armor"
+msgstr ""
+
+# switch(select("Mass-Production Armor", "Mass-Production Shoes", "Mass-Production Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Mass-Production Shoes"
+msgstr ""
+
+# switch(select("Mass-Production Armor", "Mass-Production Shoes", "Mass-Production Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Mass-Production Accessory"
+msgstr ""
+
+# mes("You have selected the 'Popularized Armor/Accessory' category.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Popularized Armor/Accessory' category."
+msgstr ""
+
+# switch(select("Popularized Armor", "Popularized Shoes", "Popularized Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Popularized Armor"
+msgstr ""
+
+# switch(select("Popularized Armor", "Popularized Shoes", "Popularized Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Popularized Shoes"
+msgstr ""
+
+# switch(select("Popularized Armor", "Popularized Shoes", "Popularized Accessory")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Popularized Accessory"
+msgstr ""
+
+# mesf("%s, your current points are ^580080%d^000000 KVM Points.", .@name$, kvm_point);
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "%s, your current points are ^580080%d^000000 KVM Points."
+msgstr ""
+
+# mes("There are 3 categories in KVM Rewards: Weapon/Armor.Accessory.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 3 categories in KVM Rewards: Weapon/Armor.Accessory."
+msgstr ""
+
+# mes("Weapon rewards require 2,000 KVM points for each.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Weapon rewards require 2,000 KVM points for each."
+msgstr ""
+
+# mes("There are 3 types of Armor rewards and they require 840/630/580 KVM points fo each.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 3 types of Armor rewards and they require 840/630/580 KVM points fo each."
+msgstr ""
+
+# mes("Accessory rewards require 1,200 KVM points for each.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Accessory rewards require 1,200 KVM points for each."
+msgstr ""
+
+# mes("Kreiger Weapons are LV 4 Weapons, they can be upgraded and will have special effects: Slaughter, Destruction and Blessing.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid ""
+"Kreiger Weapons are LV 4 Weapons, they can be upgraded and will have special effects: Slaughter, Destruction and "
+"Blessing."
+msgstr ""
+
+# mes("When you can wear all 3 armors, you can have a special set of options.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "When you can wear all 3 armors, you can have a special set of options."
+msgstr ""
+
+# mes("Also, when Kreiger Accessory rewards are worn with medalsm it will bring you special set rewards.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Also, when Kreiger Accessory rewards are worn with medalsm it will bring you special set rewards."
+msgstr ""
+
+# mes("Finally, there are Mass-Production Armor and Accessory rewards.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Finally, there are Mass-Production Armor and Accessory rewards."
+msgstr ""
+
+# mes("Players whose Lvl is higher than 60 can equip Mass-Production Armors and there is a Lvl limit for Popularized Armor as well.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid ""
+"Players whose Lvl is higher than 60 can equip Mass-Production Armors and there is a Lvl limit for Popularized Armor "
+"as well."
+msgstr ""
+
+# mes("KVM Points are rewarded when you win, lose or draw in Kreiger Von Midgard (KVM).");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "KVM Points are rewarded when you win, lose or draw in Kreiger Von Midgard (KVM)."
+msgstr ""
+
+# mes("You can have special Rewards by using these points.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You can have special Rewards by using these points."
+msgstr ""
+
+# mesf("You have selected ^ff0000%s^000000.", getitemname(getarg(0)));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected ^ff0000%s^000000."
+msgstr ""
+
+# mesf("There is only one %s: %s.", callfunc("F_GetWeaponType",getarg(0)), getitemname(getarg(0)));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "There is only one %s: %s."
+msgstr ""
+
+# mesf("You have selected '%s'.", callfunc("F_GetArmorType",getarg(0)));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected '%s'."
+msgstr ""
+
+# mesf("The armor for one whose Lvl is more than 80 is: ^ff0000%s^000000.", getitemname(getarg(0)));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "The armor for one whose Lvl is more than 80 is: ^ff0000%s^000000."
+msgstr ""
+
+# mesf("You have selected 'Mass-Production %s'.", callfunc("F_GetArmorType",getarg(0)));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected 'Mass-Production %s'."
+msgstr ""
+
+# mesf("There is only one Mass-Production %s: ^ff0000%s^000000.", callfunc("F_GetArmorType",getarg(0)), getitemname(getarg(0)));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "There is only one Mass-Production %s: ^ff0000%s^000000."
+msgstr ""
+
+# mesf("You have selected 'Popularized %s'.", callfunc("F_GetArmorType",getarg(0)));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected 'Popularized %s'."
+msgstr ""
+
+# mesf("There is only one Popularized %s: ^ff0000%s^000000.", callfunc("F_GetArmorType",getarg(0)), getitemname(getarg(0)));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "There is only one Popularized %s: ^ff0000%s^000000."
+msgstr ""
+
+# mesf("It requires ^0000ff2,000^000000 KVM Points, and %s, your points are: ^580080%d^000000.", .@name$, kvm_point);
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "It requires ^0000ff2,000^000000 KVM Points, and %s, your points are: ^580080%d^000000."
+msgstr ""
+
+# mesf("It requires ^0000ff1,200^000000 KVM Points, and %s, your points are: ^580080%d^000000.", .@name$, kvm_point);
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "It requires ^0000ff1,200^000000 KVM Points, and %s, your points are: ^580080%d^000000."
+msgstr ""
+
+# mesf("It requires ^0000ff%d^000000 KVM Points, and %s, your points are: ^580080%d^000000.", .@prices[getarg(1)], .@name$, kvm_point);
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "It requires ^0000ff%d^000000 KVM Points, and %s, your points are: ^580080%d^000000."
+msgstr ""
+
+# mes("Are you sure you want this item?");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Are you sure you want this item?"
+msgstr ""
+
+# switch(select("No, I won't purchase it.", "Yes, I will purchase it.")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "No, I won't purchase it."
+msgstr ""
+
+# switch(select("No, I won't purchase it.", "Yes, I will purchase it.")) {
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Yes, I will purchase it."
+msgstr ""
+
+# mes("You have selected 'I won't purchase it'.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected 'I won't purchase it'."
+msgstr ""
+
+# mes("When purchasing an item, please be careful there are no refunds.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "When purchasing an item, please be careful there are no refunds."
+msgstr ""
+
+# mesf("You have purchased a %s.", getitemname(getarg(0)));
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You have purchased a %s."
+msgstr ""
+
+# mesf("Your KVM Points are reduced by ^0000ff%d^000000 points, your KVM Points are now ^580080%d^000000.", getarg(1), kvm_point);
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "Your KVM Points are reduced by ^0000ff%d^000000 points, your KVM Points are now ^580080%d^000000."
+msgstr ""
+
+# mesf("Your KVM Points are reduced by ^0000ff1,200^000000 points, your KVM Points are now ^580080%d^000000.", kvm_point);
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "Your KVM Points are reduced by ^0000ff1,200^000000 points, your KVM Points are now ^580080%d^000000."
+msgstr ""
+
+# mes("You need ^0000ff2,000^000000 KVM Points to purchase this item.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You need ^0000ff2,000^000000 KVM Points to purchase this item."
+msgstr ""
+
+# mes("You need ^0000ff1,200^000000 KVM Points to purchase this item.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "You need ^0000ff1,200^000000 KVM Points to purchase this item."
+msgstr ""
+
+# mesf("You need ^0000ff%d^000000 KVM Points to purchase this item.", .@prices[getarg(1)]);
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You need ^0000ff%d^000000 KVM Points to purchase this item."
+msgstr ""
+
+# mesf("However, your KVM Points are now ^580080%d^000000.", kvm_point);
+#: npc/battleground/kvm/kvm_item_pay.txt
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "However, your KVM Points are now ^580080%d^000000."
+msgstr ""
+
+# mes("Which are not enough to buy it.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "Which are not enough to buy it."
+msgstr ""
+
+# mes("When you get enough points, please come back again.");
+#: npc/battleground/kvm/kvm_item_pay.txt
+msgctxt "KVM Logistic Officer#a"
+msgid "When you get enough points, please come back again."
+msgstr ""
+
+# waitingroom(_("Battle Station 5 Players"), 6, "KvM01_BG::OnGuillaumeJoin", 1);
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Waiting Room#a::KvM01R_Guillaume"
+msgid "Battle Station 5 Players"
+msgstr ""
+
+# waitingroom(_("Battle Station 5 Players"), 6, "KvM01_BG::OnCroixJoin", 1);
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Waiting Room#b::KvM01R_Croix"
+msgid "Battle Station 5 Players"
+msgstr ""
+
+# mapannounce("bat_c01", sprintf(_$("The number of Guillaumes is %d."), .Guillaume_Count), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+#, c-format
+msgctxt "KvM01_BG"
+msgid "The number of Guillaumes is %d."
+msgstr ""
+
+# mapannounce("bat_c01", sprintf(_$("The number of Croixes is %d."), .Croix_Count), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+#, c-format
+msgctxt "KvM01_BG"
+msgid "The number of Croixes is %d."
+msgstr ""
+
+# mapannounce("bat_c01", _("In 1 minute, KVM will start."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "In 1 minute, KVM will start."
+msgstr ""
+
+# mapannounce("bat_c01", _("The maximum time for a KVM battle is 5 minutes."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "The maximum time for a KVM battle is 5 minutes."
+msgstr ""
+
+# mapannounce("bat_c01", _("Please prepare for the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Please prepare for the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("You can buff your people."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "You can buff your people."
+msgstr ""
+
+# mapannounce("bat_c01", _("30 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "30 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("15 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "15 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("10 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "10 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("5 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "5 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("KVM is now commencing."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "KVM is now commencing."
+msgstr ""
+
+# mapannounce("bat_c01", _("There are not enough players to start the battle"), bc_map, "0x696969");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "There are not enough players to start the battle"
+msgstr ""
+
+# mapannounce("bat_c01", _("1 minute remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "1 minute remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("30 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "30 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("15 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "15 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("10 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "10 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("5 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "5 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("The KVM battle is over."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "The KVM battle is over."
+msgstr ""
+
+# mapannounce("bat_c01", _("This battle has ended in a draw."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "This battle has ended in a draw."
+msgstr ""
+
+# mapannounce("bat_c01", _("Guillaume wins!"), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Guillaume wins!"
+msgstr ""
+
+# mapannounce("bat_c01", _("Congratulations to Guillaume members."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Congratulations to Guillaume members."
+msgstr ""
+
+# mapannounce("bat_c01", _("Everyone will be moved to the start point."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Everyone will be moved to the start point."
+msgstr ""
+
+# mapannounce("bat_c01", _("Croix wins!"), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Croix wins!"
+msgstr ""
+
+# mapannounce("bat_c01", _("Congratulations to Croix members."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Congratulations to Croix members."
+msgstr ""
+
+# mapannounce("bat_c01", _("Please apply with the Officer to acquire KVM points."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "Please apply with the Officer to acquire KVM points."
+msgstr ""
+
+# mapannounce("bat_c01", _("The Officer will grant you the points for 30 seconds."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "The Officer will grant you the points for 30 seconds."
+msgstr ""
+
+# mapannounce("bat_c01", _("In 30 seconds, the Officer will be sent away."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "In 30 seconds, the Officer will be sent away."
+msgstr ""
+
+# mapannounce("bat_c01", _("Unless you talk to the Officer, you cannot gain the points."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "Unless you talk to the Officer, you cannot gain the points."
+msgstr ""
+
+# mapannounce("bat_c01", _("Please be careful."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "Please be careful."
+msgstr ""
+
+# mapannounce("bat_c01", _("You will be sent back."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "You will be sent back."
+msgstr ""
+
+# mes("[KVM Officer]");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "[KVM Officer]"
+msgstr ""
+
+# mes("Good Game.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "Good Game."
+msgstr ""
+
+# mes("May the glory of KVM be with you.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "May the glory of KVM be with you."
+msgstr ""
+
+# mes("You aquire the winning points: 5");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "You aquire the winning points: 5"
+msgstr ""
+
+# mes("I am so sorry.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "I am so sorry."
+msgstr ""
+
+# mes("I wish you better luck next time.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "I wish you better luck next time."
+msgstr ""
+
+# mes("You aquire the losing points: 1");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "You aquire the losing points: 1"
+msgstr ""
+
+# mes("[KVM Officer]");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "[KVM Officer]"
+msgstr ""
+
+# mes("Good Game.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "Good Game."
+msgstr ""
+
+# mes("May the glory of KVM be with you.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "May the glory of KVM be with you."
+msgstr ""
+
+# mes("You aquire the winning points: 5");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "You aquire the winning points: 5"
+msgstr ""
+
+# mes("I am so sorry.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "I am so sorry."
+msgstr ""
+
+# mes("I wish you better luck next time.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "I wish you better luck next time."
+msgstr ""
+
+# mes("You aquire the losing points: 1");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "You aquire the losing points: 1"
+msgstr ""
+
+# waitingroom(_("Battle Station 5 Players"), 6, "KvM02_BG::OnGuillaumeJoin", 1);
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Waiting Room#a2::KvM02R_Guillaume"
+msgid "Battle Station 5 Players"
+msgstr ""
+
+# waitingroom(_("Battle Station 5 Players"), 6, "KvM02_BG::OnCroixJoin", 1);
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Waiting Room#b2::KvM02R_Croix"
+msgid "Battle Station 5 Players"
+msgstr ""
+
+# mapannounce("bat_c02", sprintf(_$("The number of Guillaumes is %d."), .Guillaume_Count), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+#, c-format
+msgctxt "KvM02_BG"
+msgid "The number of Guillaumes is %d."
+msgstr ""
+
+# mapannounce("bat_c02", sprintf(_$("The number of Croixes is %d."), .Croix_Count), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+#, c-format
+msgctxt "KvM02_BG"
+msgid "The number of Croixes is %d."
+msgstr ""
+
+# mapannounce("bat_c02", _("In 1 minute, KVM will start."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "In 1 minute, KVM will start."
+msgstr ""
+
+# mapannounce("bat_c02", _("The maximum time for a KVM battle is 5 minutes."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "The maximum time for a KVM battle is 5 minutes."
+msgstr ""
+
+# mapannounce("bat_c02", _("Please prepare for the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "Please prepare for the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c02", _("You can buff your people."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "You can buff your people."
+msgstr ""
+
+# mapannounce("bat_c02", _("30 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "30 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c02", _("15 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "15 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c02", _("10 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "10 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c02", _("5 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "5 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c02", _("KVM is now commencing."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "KVM is now commencing."
+msgstr ""
+
+# mapannounce("bat_c02", _("There are not enough players to start the battle"), bc_map, "0x808080");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "There are not enough players to start the battle"
+msgstr ""
+
+# mapannounce("bat_c02", _("1 minute remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "1 minute remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c02", _("30 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "30 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c02", _("15 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "15 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c02", _("10 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "10 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c02", _("5 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "5 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c02", _("The KVM battle is over."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "The KVM battle is over."
+msgstr ""
+
+# mapannounce("bat_c02", _("This battle has ended in a draw."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "This battle has ended in a draw."
+msgstr ""
+
+# mapannounce("bat_c02", _("Guillaume wins!"), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "Guillaume wins!"
+msgstr ""
+
+# mapannounce("bat_c02", _("Congratulations to Guillaume members."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "Congratulations to Guillaume members."
+msgstr ""
+
+# mapannounce("bat_c02", _("Everyone will be moved to the start point."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "Everyone will be moved to the start point."
+msgstr ""
+
+# mapannounce("bat_c02", _("Croix wins!"), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "Croix wins!"
+msgstr ""
+
+# mapannounce("bat_c02", _("Congratulations to Croix members."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG"
+msgid "Congratulations to Croix members."
+msgstr ""
+
+# mapannounce("bat_c02", _("Please apply with the Officer to acquire KVM points."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG_Out"
+msgid "Please apply with the Officer to acquire KVM points."
+msgstr ""
+
+# mapannounce("bat_c02", _("The Officer will grant you the points for 30 seconds."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG_Out"
+msgid "The Officer will grant you the points for 30 seconds."
+msgstr ""
+
+# mapannounce("bat_c02", _("In 30 seconds, the Officer will be sent away."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG_Out"
+msgid "In 30 seconds, the Officer will be sent away."
+msgstr ""
+
+# mapannounce("bat_c02", _("Unless you talk to the Officer, you cannot gain the points."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG_Out"
+msgid "Unless you talk to the Officer, you cannot gain the points."
+msgstr ""
+
+# mapannounce("bat_c02", _("Please be careful."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG_Out"
+msgid "Please be careful."
+msgstr ""
+
+# mapannounce("bat_c02", _("You will be sent back."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KvM02_BG_Out"
+msgid "You will be sent back."
+msgstr ""
+
+# mes("[KVM Officer]");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02A"
+msgid "[KVM Officer]"
+msgstr ""
+
+# mes("Good Game.");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02A"
+msgid "Good Game."
+msgstr ""
+
+# mes("May the glory of KVM be with you.");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02A"
+msgid "May the glory of KVM be with you."
+msgstr ""
+
+# mes("You aquire the winning points: 1");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02A"
+msgid "You aquire the winning points: 1"
+msgstr ""
+
+# mes("I am so sorry.");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02A"
+msgid "I am so sorry."
+msgstr ""
+
+# mes("I wish you better luck next time.");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02A"
+msgid "I wish you better luck next time."
+msgstr ""
+
+# mes("You aquire the losing points: 0");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02A"
+msgid "You aquire the losing points: 0"
+msgstr ""
+
+# mes("[KVM Officer]");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02B"
+msgid "[KVM Officer]"
+msgstr ""
+
+# mes("Good Game.");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02B"
+msgid "Good Game."
+msgstr ""
+
+# mes("May the glory of KVM be with you.");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02B"
+msgid "May the glory of KVM be with you."
+msgstr ""
+
+# mes("You aquire the winning points: 1");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02B"
+msgid "You aquire the winning points: 1"
+msgstr ""
+
+# mes("I am so sorry.");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02B"
+msgid "I am so sorry."
+msgstr ""
+
+# mes("I wish you better luck next time.");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02B"
+msgid "I wish you better luck next time."
+msgstr ""
+
+# mes("You aquire the losing points: 0");
+#: npc/battleground/kvm/kvm02.txt
+msgctxt "KVM Officer#KVM02B"
+msgid "You aquire the losing points: 0"
+msgstr ""
+
+# waitingroom(_("Battle Station 5 Players"), 6, "KvM03_BG::OnGuillaumeJoin", 1);
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Waiting Room#a3::KvM03R_Guillaume"
+msgid "Battle Station 5 Players"
+msgstr ""
+
+# waitingroom(_("Battle Station 5 Players"), 6, "KvM03_BG::OnCroixJoin", 1);
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Waiting Room#b3::KvM03R_Croix"
+msgid "Battle Station 5 Players"
+msgstr ""
+
+# mapannounce("bat_c03", sprintf(_$("The number of Guillaumes is %d."), .Guillaume_Count), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+#, c-format
+msgctxt "KvM03_BG"
+msgid "The number of Guillaumes is %d."
+msgstr ""
+
+# mapannounce("bat_c03", sprintf(_$("The number of Croixes is %d."), .Croix_Count), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+#, c-format
+msgctxt "KvM03_BG"
+msgid "The number of Croixes is %d."
+msgstr ""
+
+# mapannounce("bat_c03", _("In 1 minute, KVM will start."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "In 1 minute, KVM will start."
+msgstr ""
+
+# mapannounce("bat_c03", _("The maximum time for a KVM battle is 5 minutes."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "The maximum time for a KVM battle is 5 minutes."
+msgstr ""
+
+# mapannounce("bat_c03", _("Please prepare for the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "Please prepare for the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c03", _("You can buff your people."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "You can buff your people."
+msgstr ""
+
+# mapannounce("bat_c03", _("30 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "30 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c03", _("15 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "15 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c03", _("10 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "10 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c03", _("5 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "5 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c03", _("KVM is now commencing."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "KVM is now commencing."
+msgstr ""
+
+# mapannounce("bat_c03", _("There are not enough players to start the battle"), bc_map, "0xC0C0C0");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "There are not enough players to start the battle"
+msgstr ""
+
+# mapannounce("bat_c03", _("1 minute remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "1 minute remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c03", _("30 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "30 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c03", _("15 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "15 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c03", _("10 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "10 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c03", _("5 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "5 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c03", _("KVM has ended."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "KVM has ended."
+msgstr ""
+
+# mapannounce("bat_c03", _("This battle has ended in a draw."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "This battle has ended in a draw."
+msgstr ""
+
+# mapannounce("bat_c03", _("Guillaume wins!"), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "Guillaume wins!"
+msgstr ""
+
+# mapannounce("bat_c03", _("Congratulations to Guillaume members."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "Congratulations to Guillaume members."
+msgstr ""
+
+# mapannounce("bat_c03", _("Everyone will be moved to the start point."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "Everyone will be moved to the start point."
+msgstr ""
+
+# mapannounce("bat_c03", _("Croix wins!"), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "Croix wins!"
+msgstr ""
+
+# mapannounce("bat_c03", _("Congratulations to Croix members."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG"
+msgid "Congratulations to Croix members."
+msgstr ""
+
+# mapannounce("bat_c03", _("Please apply with the Officer to acquire KVM points."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG_Out"
+msgid "Please apply with the Officer to acquire KVM points."
+msgstr ""
+
+# mapannounce("bat_c03", _("The Officer will grant you the points for 30 seconds."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG_Out"
+msgid "The Officer will grant you the points for 30 seconds."
+msgstr ""
+
+# mapannounce("bat_c03", _("In 30 seconds, the Officer will be sent away."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG_Out"
+msgid "In 30 seconds, the Officer will be sent away."
+msgstr ""
+
+# mapannounce("bat_c03", _("Unless you talk to the Officer, you cannot gain the points."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG_Out"
+msgid "Unless you talk to the Officer, you cannot gain the points."
+msgstr ""
+
+# mapannounce("bat_c03", _("Please be careful."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG_Out"
+msgid "Please be careful."
+msgstr ""
+
+# mapannounce("bat_c03", _("You will be sent back."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KvM03_BG_Out"
+msgid "You will be sent back."
+msgstr ""
+
+# mes("[KVM Officer]");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03A"
+msgid "[KVM Officer]"
+msgstr ""
+
+# mes("Good Game.");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03A"
+msgid "Good Game."
+msgstr ""
+
+# mes("May the glory of KVM be with you.");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03A"
+msgid "May the glory of KVM be with you."
+msgstr ""
+
+# mes("You aquire the winning points: 2");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03A"
+msgid "You aquire the winning points: 2"
+msgstr ""
+
+# mes("I am so sorry.");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03A"
+msgid "I am so sorry."
+msgstr ""
+
+# mes("I wish you better luck next time.");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03A"
+msgid "I wish you better luck next time."
+msgstr ""
+
+# mes("You aquire the losing points: 1");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03A"
+msgid "You aquire the losing points: 1"
+msgstr ""
+
+# mes("[KVM Officer]");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03B"
+msgid "[KVM Officer]"
+msgstr ""
+
+# mes("Good Game.");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03B"
+msgid "Good Game."
+msgstr ""
+
+# mes("May the glory of KVM be with you.");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03B"
+msgid "May the glory of KVM be with you."
+msgstr ""
+
+# mes("You aquire the winning points: 2");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03B"
+msgid "You aquire the winning points: 2"
+msgstr ""
+
+# mes("I am so sorry.");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03B"
+msgid "I am so sorry."
+msgstr ""
+
+# mes("I wish you better luck next time.");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03B"
+msgid "I wish you better luck next time."
+msgstr ""
+
+# mes("You aquire the losing points: 1");
+#: npc/battleground/kvm/kvm03.txt
+msgctxt "KVM Officer#KVM03B"
+msgid "You aquire the losing points: 1"
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("[Guillaume Army Officer]");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "[Guillaume Army Officer]"
+msgstr ""
+
+# mes("Let's show the power of the Guillaume Army to those stinky Croixs!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "Let's show the power of the Guillaume Army to those stinky Croixs!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "I want to join your army!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "End Conversation"
+msgstr ""
+
+# mes("I'm very pleased that you want to join us and fight the Croix Army, but I'm sorry: I can't send a rookie like you to die on the cruel battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid ""
+"I'm very pleased that you want to join us and fight the Croix Army, but I'm sorry: I can't send a rookie like you to "
+"die on the cruel battlefield."
+msgstr ""
+
+# mes("You seem to have just returned from the battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "You seem to have just returned from the battlefield."
+msgstr ""
+
+# mes("It's too early for you to go back. Go rest, and leave the enemies to us!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "It's too early for you to go back. Go rest, and leave the enemies to us!"
+msgstr ""
+
+# mes("I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Croixs already.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid ""
+"I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Croixs "
+"already."
+msgstr ""
+
+# mes("Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then."
+msgstr ""
+
+# mes("An elite corps is already standing by to be dispatched to the battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "An elite corps is already standing by to be dispatched to the battlefield."
+msgstr ""
+
+# mes("You definitely seem to be ready for battle!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "You definitely seem to be ready for battle!"
+msgstr ""
+
+# mes("Go show the Croixs what fear truly means!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "Go show the Croixs what fear truly means!"
+msgstr ""
+
+# mes("Today, our cry of victory shall echo all over the battlefield!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "Today, our cry of victory shall echo all over the battlefield!"
+msgstr ""
+
+# mes("Today, we shall be victorious!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01a"
+msgid "Today, we shall be victorious!"
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("[Guillaume Army Officer]");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "[Guillaume Army Officer]"
+msgstr ""
+
+# mes("Let's show the power of the Guillaume Army to those stinky Croixs!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "Let's show the power of the Guillaume Army to those stinky Croixs!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "I want to join your army!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "End Conversation"
+msgstr ""
+
+# mes("I'm very pleased that you want to join us and fight the Croix Army, but I'm sorry: I can't send a rookie like you to die on the cruel battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid ""
+"I'm very pleased that you want to join us and fight the Croix Army, but I'm sorry: I can't send a rookie like you to "
+"die on the cruel battlefield."
+msgstr ""
+
+# mes("You seem to have just returned from the battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "You seem to have just returned from the battlefield."
+msgstr ""
+
+# mes("It's too early for you to go back. Go rest, and leave the enemies to us!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "It's too early for you to go back. Go rest, and leave the enemies to us!"
+msgstr ""
+
+# mes("I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Croixs already.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid ""
+"I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Croixs "
+"already."
+msgstr ""
+
+# mes("Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then."
+msgstr ""
+
+# mes("An elite corps is already standing by to be dispatched to the battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "An elite corps is already standing by to be dispatched to the battlefield."
+msgstr ""
+
+# mes("You definitely seem to be ready for battle!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "You definitely seem to be ready for battle!"
+msgstr ""
+
+# mes("Go show the Croixs what fear truly means!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "Go show the Croixs what fear truly means!"
+msgstr ""
+
+# mes("Today, our cry of victory shall echo all over the battlefield!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "Today, our cry of victory shall echo all over the battlefield!"
+msgstr ""
+
+# mes("Today, we shall be victorious!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02a"
+msgid "Today, we shall be victorious!"
+msgstr ""
+
+# mes("[Guillaume Knight]");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#1"
+msgid "[Guillaume Knight]"
+msgstr ""
+
+# mes("Tierra Gorge consists of two steep sides placed vertically, and has ration depots for the Guillaume and Croix Armies at the 11 and 7 o'clock directions.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#1"
+msgid ""
+"Tierra Gorge consists of two steep sides placed vertically, and has ration depots for the Guillaume and Croix Armies "
+"at the 11 and 7 o'clock directions."
+msgstr ""
+
+# mes("The battle starts at your army's ship, and the goal is to advance and destroy your enemy's rations depot faster than they can destroy yours.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#1"
+msgid ""
+"The battle starts at your army's ship, and the goal is to advance and destroy your enemy's rations depot faster than "
+"they can destroy yours."
+msgstr ""
+
+# mes("The healer of the battlefield will resurrect soldiers once every 25 seconds so that they can rejoin the battle.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#1"
+msgid "The healer of the battlefield will resurrect soldiers once every 25 seconds so that they can rejoin the battle."
+msgstr ""
+
+# mes("The army that captures the neutral flag in the center of the battlefield will be rewarded with extra regeneration points, meaning their soldiers will resurrect more than the other side, giving them an advantage.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#1"
+msgid ""
+"The army that captures the neutral flag in the center of the battlefield will be rewarded with extra regeneration "
+"points, meaning their soldiers will resurrect more than the other side, giving them an advantage."
+msgstr ""
+
+# mes("Those two rations depots are connected to each other through short and narrow paths, but the gates are blocked with barricades.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#1"
+msgid ""
+"Those two rations depots are connected to each other through short and narrow paths, but the gates are blocked with "
+"barricades."
+msgstr ""
+
+# mes("Think and move as quickly as you can. The victory of your army relies on your contribution.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#1"
+msgid "Think and move as quickly as you can. The victory of your army relies on your contribution."
+msgstr ""
+
+# mes("Please remember: when you join a battle, you will receive a token which indicates the set duration for which you cannot participate in the same type of battle.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#1"
+msgid ""
+"Please remember: when you join a battle, you will receive a token which indicates the set duration for which you "
+"cannot participate in the same type of battle."
+msgstr ""
+
+# mes("You may check the duration by pressing the Alt+U keys.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#1"
+msgid "You may check the duration by pressing the Alt+U keys."
+msgstr ""
+
+# mes("Are you ready to battle? Then apply with the recruiter next to me!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#1"
+msgid "Are you ready to battle? Then apply with the recruiter next to me!"
+msgstr ""
+
+# mes("[Guillaume Knight]");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#2"
+msgid "[Guillaume Knight]"
+msgstr ""
+
+# mes("Tierra Gorge consists of two steep sides placed vertically, and has ration depots for the Guillaume and Croix Armies at the 11 and 7 o'clock directions.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#2"
+msgid ""
+"Tierra Gorge consists of two steep sides placed vertically, and has ration depots for the Guillaume and Croix Armies "
+"at the 11 and 7 o'clock directions."
+msgstr ""
+
+# mes("The battle starts at your army's ship, and the goal is to advance and destroy your enemy's rations depot faster than they can destroy yours.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#2"
+msgid ""
+"The battle starts at your army's ship, and the goal is to advance and destroy your enemy's rations depot faster than "
+"they can destroy yours."
+msgstr ""
+
+# mes("The healer of the battlefield will resurrect soldiers once every 25 seconds so that they can rejoin the battle.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#2"
+msgid "The healer of the battlefield will resurrect soldiers once every 25 seconds so that they can rejoin the battle."
+msgstr ""
+
+# mes("The army that captures the neutral flag in the center of the battlefield will be rewarded with extra regeneration points, meaning their soldiers will resurrect more than the other side, giving them an advantage.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#2"
+msgid ""
+"The army that captures the neutral flag in the center of the battlefield will be rewarded with extra regeneration "
+"points, meaning their soldiers will resurrect more than the other side, giving them an advantage."
+msgstr ""
+
+# mes("Those two rations depots are connected to each other through short and narrow paths, but the gates are blocked with barricades.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#2"
+msgid ""
+"Those two rations depots are connected to each other through short and narrow paths, but the gates are blocked with "
+"barricades."
+msgstr ""
+
+# mes("Think and move as quickly as you can. The victory of your army relies on your contribution.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#2"
+msgid "Think and move as quickly as you can. The victory of your army relies on your contribution."
+msgstr ""
+
+# mes("Please remember: when you join a battle, you will receive a token which indicates the set duration for which you cannot participate in the same type of battle.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#2"
+msgid ""
+"Please remember: when you join a battle, you will receive a token which indicates the set duration for which you "
+"cannot participate in the same type of battle."
+msgstr ""
+
+# mes("You may check the duration by pressing the Alt+U keys.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#2"
+msgid "You may check the duration by pressing the Alt+U keys."
+msgstr ""
+
+# mes("Are you ready to battle? Then apply with the recruiter next to me!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Guillaume Knight#2"
+msgid "Are you ready to battle? Then apply with the recruiter next to me!"
+msgstr ""
+
+# mes("[Croix Knight]");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#1"
+msgid "[Croix Knight]"
+msgstr ""
+
+# mes("Tierra Gorge consists of two steep sides placed vertically, and has ration depots for the Guillaume and Croix Armies at the 11 and 7 o'clock directions.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#1"
+msgid ""
+"Tierra Gorge consists of two steep sides placed vertically, and has ration depots for the Guillaume and Croix Armies "
+"at the 11 and 7 o'clock directions."
+msgstr ""
+
+# mes("The battle starts at your army's ship, and the goal is to advance and destroy your enemy's rations depot faster than they can destroy yours.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#1"
+msgid ""
+"The battle starts at your army's ship, and the goal is to advance and destroy your enemy's rations depot faster than "
+"they can destroy yours."
+msgstr ""
+
+# mes("The healer of the battlefield will resurrect soldiers once every 25 seconds so that they can rejoin the battle.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#1"
+msgid "The healer of the battlefield will resurrect soldiers once every 25 seconds so that they can rejoin the battle."
+msgstr ""
+
+# mes("The army that captures the neutral flag in the center of the battlefield will be rewarded with extra regeneration points, meaning their soldiers will resurrect more than the other side, giving them an advantage.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#1"
+msgid ""
+"The army that captures the neutral flag in the center of the battlefield will be rewarded with extra regeneration "
+"points, meaning their soldiers will resurrect more than the other side, giving them an advantage."
+msgstr ""
+
+# mes("Those two rations depots are connected to each other through short and narrow paths, but the gates are blocked with barricades.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#1"
+msgid ""
+"Those two rations depots are connected to each other through short and narrow paths, but the gates are blocked with "
+"barricades."
+msgstr ""
+
+# mes("Think and move as quickly as you can. The victory of your army relies on your contribution.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#1"
+msgid "Think and move as quickly as you can. The victory of your army relies on your contribution."
+msgstr ""
+
+# mes("Please remember: when you join a battle, you will receive a token which indicates the set duration for which you cannot participate in the same type of battle.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#1"
+msgid ""
+"Please remember: when you join a battle, you will receive a token which indicates the set duration for which you "
+"cannot participate in the same type of battle."
+msgstr ""
+
+# mes("You may check the duration by pressing the Alt+U keys.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#1"
+msgid "You may check the duration by pressing the Alt+U keys."
+msgstr ""
+
+# mes("Are you ready to battle? Then apply with the recruiter next to me!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#1"
+msgid "Are you ready to battle? Then apply with the recruiter next to me!"
+msgstr ""
+
+# mes("[Croix Knight]");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#2"
+msgid "[Croix Knight]"
+msgstr ""
+
+# mes("Tierra Gorge consists of two steep sides placed vertically, and has ration depots for the Guillaume and Croix Armies at the 11 and 7 o'clock directions.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#2"
+msgid ""
+"Tierra Gorge consists of two steep sides placed vertically, and has ration depots for the Guillaume and Croix Armies "
+"at the 11 and 7 o'clock directions."
+msgstr ""
+
+# mes("The battle starts at your army's ship, and the goal is to advance and destroy your enemy's rations depot faster than they can destroy yours.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#2"
+msgid ""
+"The battle starts at your army's ship, and the goal is to advance and destroy your enemy's rations depot faster than "
+"they can destroy yours."
+msgstr ""
+
+# mes("The healer of the battlefield will resurrect soldiers once every 25 seconds so that they can rejoin the battle.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#2"
+msgid "The healer of the battlefield will resurrect soldiers once every 25 seconds so that they can rejoin the battle."
+msgstr ""
+
+# mes("The army that captures the neutral flag in the center of the battlefield will be rewarded with extra regeneration points, meaning their soldiers will resurrect more than the other side, giving them an advantage.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#2"
+msgid ""
+"The army that captures the neutral flag in the center of the battlefield will be rewarded with extra regeneration "
+"points, meaning their soldiers will resurrect more than the other side, giving them an advantage."
+msgstr ""
+
+# mes("Those two rations depots are connected to each other through short and narrow paths, but the gates are blocked with barricades.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#2"
+msgid ""
+"Those two rations depots are connected to each other through short and narrow paths, but the gates are blocked with "
+"barricades."
+msgstr ""
+
+# mes("Think and move as quickly as you can. The victory of your army relies on your contribution.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#2"
+msgid "Think and move as quickly as you can. The victory of your army relies on your contribution."
+msgstr ""
+
+# mes("Please remember: when you join a battle, you will receive a token which indicates the set duration for which you cannot participate in the same type of battle.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#2"
+msgid ""
+"Please remember: when you join a battle, you will receive a token which indicates the set duration for which you "
+"cannot participate in the same type of battle."
+msgstr ""
+
+# mes("You may check the duration by pressing the Alt+U keys.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#2"
+msgid "You may check the duration by pressing the Alt+U keys."
+msgstr ""
+
+# mes("Are you ready to battle? Then apply with the recruiter next to me!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Croix Knight#2"
+msgid "Are you ready to battle? Then apply with the recruiter next to me!"
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("[Croix Army Officer]");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "[Croix Army Officer]"
+msgstr ""
+
+# mes("Let's show the power of the Croix Army to those stinky Guillaumes!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "Let's show the power of the Croix Army to those stinky Guillaumes!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "I want to join your army!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "End Conversation"
+msgstr ""
+
+# mes("I'm very pleased that you want to join us and fight the Guillaume Army, but I'm sorry: I can't send a rookie like you to die on the cruel battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid ""
+"I'm very pleased that you want to join us and fight the Guillaume Army, but I'm sorry: I can't send a rookie like "
+"you to die on the cruel battlefield."
+msgstr ""
+
+# mes("You seem to have just returned from the battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "You seem to have just returned from the battlefield."
+msgstr ""
+
+# mes("It's too early for you to go back. Go rest, and leave the enemies to us!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "It's too early for you to go back. Go rest, and leave the enemies to us!"
+msgstr ""
+
+# mes("I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Guillaume already.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid ""
+"I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the "
+"Guillaume already."
+msgstr ""
+
+# mes("Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then."
+msgstr ""
+
+# mes("An elite corps is already standing by to be dispatched to the battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "An elite corps is already standing by to be dispatched to the battlefield."
+msgstr ""
+
+# mes("You definitely seem to be ready for battle!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "You definitely seem to be ready for battle!"
+msgstr ""
+
+# mes("Go show the Guillaumes what fear truly means!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "Go show the Guillaumes what fear truly means!"
+msgstr ""
+
+# mes("Today, our cry of victory shall echo all over the battlefield!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "Today, our cry of victory shall echo all over the battlefield!"
+msgstr ""
+
+# mes("Today, we shall be victorious!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#01b"
+msgid "Today, we shall be victorious!"
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("[Croix Army Officer]");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "[Croix Army Officer]"
+msgstr ""
+
+# mes("Let's show the power of the Croix Army to those stinky Guillaumes!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "Let's show the power of the Croix Army to those stinky Guillaumes!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "I want to join your army!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "End Conversation"
+msgstr ""
+
+# mes("I'm very pleased that you want to join us and fight the Guillaume Army, but I'm sorry: I can't send a rookie like you to die on the cruel battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid ""
+"I'm very pleased that you want to join us and fight the Guillaume Army, but I'm sorry: I can't send a rookie like "
+"you to die on the cruel battlefield."
+msgstr ""
+
+# mes("You seem to have just returned from the battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "You seem to have just returned from the battlefield."
+msgstr ""
+
+# mes("It's too early for you to go back. Go rest, and leave the enemies to us!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "It's too early for you to go back. Go rest, and leave the enemies to us!"
+msgstr ""
+
+# mes("I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Guillaume already.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid ""
+"I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the "
+"Guillaume already."
+msgstr ""
+
+# mes("Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then."
+msgstr ""
+
+# mes("An elite corps is already standing by to be dispatched to the battlefield.");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "An elite corps is already standing by to be dispatched to the battlefield."
+msgstr ""
+
+# mes("You definitely seem to be ready for battle!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "You definitely seem to be ready for battle!"
+msgstr ""
+
+# mes("Go show the Guillaumes what fear truly means!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "Go show the Guillaumes what fear truly means!"
+msgstr ""
+
+# mes("Today, our cry of victory shall echo all over the battlefield!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "Today, our cry of victory shall echo all over the battlefield!"
+msgstr ""
+
+# mes("Today, we shall be victorious!");
+#: npc/battleground/tierra/tierra_enter.txt
+msgctxt "Tierra Gorge Officer#02b"
+msgid "Today, we shall be victorious!"
+msgstr ""
+
+# bg_monster($@TierraBG1_id1, "bat_a01", 177, 345, _("Food Storage"), 1909, "OBJ#bat_a01_a::OnMyMobDead");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "OBJ#bat_a01_a"
+msgid "Food Storage"
+msgstr ""
+
+# mapannounce("bat_a01", _("Croix Vintenar Swandery: We destroyed Guillaume's Food Storage. We won that! Wow!"), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "OBJ#bat_a01_a"
+msgid "Croix Vintenar Swandery: We destroyed Guillaume's Food Storage. We won that! Wow!"
+msgstr ""
+
+# bg_monster($@TierraBG1_id2, "bat_a01", 167, 50, _("Food Depot"), 1910, "OBJ#bat_a01_b::OnMyMobDead");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "OBJ#bat_a01_b"
+msgid "Food Depot"
+msgstr ""
+
+# mapannounce("bat_a01", _("Guillaume Vintenar Axl Rose : We destroyed Croix's Food Storage. We won that! Wow!"), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "OBJ#bat_a01_b"
+msgid "Guillaume Vintenar Axl Rose : We destroyed Croix's Food Storage. We won that! Wow!"
+msgstr ""
+
+# bg_monster($@TierraBG1_id1, "bat_a01", .@i, 266, _("Barricade"), 1906, "barricade#bat_a01_a::OnMyMobDead");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "barricade#bat_a01_a"
+msgid "Barricade"
+msgstr ""
+
+# mapannounce("bat_a01", _("Guillaume Vintenar Axl Rose : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to rebuild the Barricade!"), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "barricade#bat_a01_a"
+msgid ""
+"Guillaume Vintenar Axl Rose : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to "
+"rebuild the Barricade!"
+msgstr ""
+
+# bg_monster($@TierraBG1_id2, "bat_a01", .@i, 129, _("Barricade"), 1906, "barricade#bat_a01_b::OnMyMobDead");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "barricade#bat_a01_b"
+msgid "Barricade"
+msgstr ""
+
+# mapannounce("bat_a01", _("Croix Vintenar Swandery : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to rebuild the Barricade!"), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "barricade#bat_a01_b"
+msgid ""
+"Croix Vintenar Swandery : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to rebuild "
+"the Barricade!"
+msgstr ""
+
+# monster("bat_a01", 273, 203, _("Neutrality Flag"), 1911, 1, "OBJ#bat_a01_n::OnMyMobDead");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "OBJ#bat_a01_n"
+msgid "Neutrality Flag"
+msgstr ""
+
+# mapannounce("bat_a01", _("Guillaume captured a Neutrality Flag, so they have an advantage."), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "OBJ#bat_a01_n"
+msgid "Guillaume captured a Neutrality Flag, so they have an advantage."
+msgstr ""
+
+# mapannounce("bat_a01", _("Croix captured a Neutrality Flag, so they have an advantage."), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "OBJ#bat_a01_n"
+msgid "Croix captured a Neutrality Flag, so they have an advantage."
+msgstr ""
+
+# bg_monster($@TierraBG1_id1, "bat_a01", 272, 204, _("Guillaume Camp Guardian"), 1949, "NOBJ_mob#bat_a01_a::OnMyMobDead");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "NOBJ_mob#bat_a01_a"
+msgid "Guillaume Camp Guardian"
+msgstr ""
+
+# bg_monster($@TierraBG1_id2, "bat_a01", 272, 204, _("Croix Camp Guardian"), 1949, "NOBJ_mob#bat_a01_a::OnMyMobDead");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "NOBJ_mob#bat_a01_b"
+msgid "Croix Camp Guardian"
+msgstr ""
+
+# mes("[Guillaume Blacksmith]");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "[Guillaume Blacksmith]"
+msgstr ""
+
+# mes("We are in urgency! The Barricade has been destroyed!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "We are in urgency! The Barricade has been destroyed!"
+msgstr ""
+
+# mes("We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 Gold.^000000");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid ""
+"We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 "
+"Gold.^000000"
+msgstr ""
+
+# mes("We have it all except for the 50 Stones!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "We have it all except for the 50 Stones!"
+msgstr ""
+
+# switch(select("Repair.", "Leave it.")) {
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "Repair."
+msgstr ""
+
+# switch(select("Repair.", "Leave it.")) {
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "Leave it."
+msgstr ""
+
+# mes("You brought enough stones! Let's go and repair.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "You brought enough stones! Let's go and repair."
+msgstr ""
+
+# mes("..");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid ".."
+msgstr ""
+
+# mes("....");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "...."
+msgstr ""
+
+# mes("......");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "......"
+msgstr ""
+
+# mes("........");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "........"
+msgstr ""
+
+# mes("..........");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid ".........."
+msgstr ""
+
+# mes("............");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "............"
+msgstr ""
+
+# mes("..............");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid ".............."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "Combine Stones and Gold in the proper percentage."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Now decorate with Metal Fragments.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it "
+"stronger. Now decorate with Metal Fragments."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it "
+"stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!"
+msgstr ""
+
+# mes("Wow! It's done.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "Wow! It's done."
+msgstr ""
+
+# mes("We are relieved.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "We are relieved."
+msgstr ""
+
+# mes("You don't have enough Stones!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "You don't have enough Stones!"
+msgstr ""
+
+# mes("^3131FFWe need 50 Stones.^000000");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "^3131FFWe need 50 Stones.^000000"
+msgstr ""
+
+# mes("We are busy, so please hurry.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "We are busy, so please hurry."
+msgstr ""
+
+# mes("There are enemies coming! Let's evacuate from here!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "There are enemies coming! Let's evacuate from here!"
+msgstr ""
+
+# mes("There the enemy is coming!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Blacksmith#a01"
+msgid "There the enemy is coming!"
+msgstr ""
+
+# mes("[Croix Blacksmith]");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "[Croix Blacksmith]"
+msgstr ""
+
+# mes("We are in urgency! The Barricade has been destroyed!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "We are in urgency! The Barricade has been destroyed!"
+msgstr ""
+
+# mes("We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 Gold.^000000");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid ""
+"We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 "
+"Gold.^000000"
+msgstr ""
+
+# mes("We have it all except for the 50 Stones!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "We have it all except for the 50 Stones!"
+msgstr ""
+
+# switch(select("Repair.", "Leave it.")) {
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "Repair."
+msgstr ""
+
+# switch(select("Repair.", "Leave it.")) {
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "Leave it."
+msgstr ""
+
+# mes("You brought enough stones! Let's go and repair.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "You brought enough stones! Let's go and repair."
+msgstr ""
+
+# mes("..");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid ".."
+msgstr ""
+
+# mes("....");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "...."
+msgstr ""
+
+# mes("......");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "......"
+msgstr ""
+
+# mes("........");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "........"
+msgstr ""
+
+# mes("..........");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid ".........."
+msgstr ""
+
+# mes("............");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "............"
+msgstr ""
+
+# mes("..............");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid ".............."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "Combine Stones and Gold in the proper percentage."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Now decorate with Metal Fragments.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it "
+"stronger. Now decorate with Metal Fragments."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it "
+"stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!"
+msgstr ""
+
+# mes("Wow! It's done.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "Wow! It's done."
+msgstr ""
+
+# mes("We are relieved.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "We are relieved."
+msgstr ""
+
+# mes("You don't have enough Stones!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "You don't have enough Stones!"
+msgstr ""
+
+# mes("^3131FFWe need 50 Stone.^000000");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "^3131FFWe need 50 Stone.^000000"
+msgstr ""
+
+# mes("We are busy, so please hurry.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "We are busy, so please hurry."
+msgstr ""
+
+# mes("There are enemies coming! Let's evacuate from here!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "There are enemies coming! Let's evacuate from here!"
+msgstr ""
+
+# mes("There, the enemy is coming!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Blacksmith#bat_a01"
+msgid "There, the enemy is coming!"
+msgstr ""
+
+# mes("[Battle Therapist]");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Battle Therapist#a01_a"
+msgid "[Battle Therapist]"
+msgstr ""
+
+# mes("Just close your eyes,\r"
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Battle Therapist#a01_a"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+# mes("You can be free from pain.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Battle Therapist#a01_a"
+msgid "You can be free from pain."
+msgstr ""
+
+# mes("[Battle Therapist]");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Battle Therapist#a01_b"
+msgid "[Battle Therapist]"
+msgstr ""
+
+# mes("Just close your eyes,\r"
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Battle Therapist#a01_b"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+# mes("You can be free from pain.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Battle Therapist#a01_b"
+msgid "You can be free from pain."
+msgstr ""
+
+# mes("[Valley Ghost]");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Valley Ghost#bat_a01_n"
+msgid "[Valley Ghost]"
+msgstr ""
+
+# mes("Boo...Boo...");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Valley Ghost#bat_a01_n"
+msgid "Boo...Boo..."
+msgstr ""
+
+# mes("[Axl Rose]");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Vintenar#a01_a"
+msgid "[Axl Rose]"
+msgstr ""
+
+# mes("Blessed Guillaume!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Vintenar#a01_a"
+msgid "Blessed Guillaume!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Vintenar#a01_a"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/tierra/tierra01.txt
+#, c-format
+msgctxt "Guillaume Vintenar#a01_a"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mes("You lost, but you're dedicated to this battle.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Vintenar#a01_a"
+msgid "You lost, but you're dedicated to this battle."
+msgstr ""
+
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Vintenar#a01_a"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr ""
+
+# mes("Just take this defeat as a lesson, and next time you will definitely win.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Guillaume Vintenar#a01_a"
+msgid "Just take this defeat as a lesson, and next time you will definitely win."
+msgstr ""
+
+# mesf("%s, it's a sign of victory.", strcharinfo(PC_NAME));
+#: npc/battleground/tierra/tierra01.txt
+#, c-format
+msgctxt "Guillaume Vintenar#a01_a"
+msgid "%s, it's a sign of victory."
+msgstr ""
+
+# mes("[Swandery]");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Vintenar#a01_b"
+msgid "[Swandery]"
+msgstr ""
+
+# mes("Blessed Croix!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Vintenar#a01_b"
+msgid "Blessed Croix!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Vintenar#a01_b"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/tierra/tierra01.txt
+#, c-format
+msgctxt "Croix Vintenar#a01_b"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mesf("Oh, %s Don't be sad.", strcharinfo(PC_NAME));
+#: npc/battleground/tierra/tierra01.txt
+#, c-format
+msgctxt "Croix Vintenar#a01_b"
+msgid "Oh, %s Don't be sad."
+msgstr ""
+
+# mes("Even though we didn't win, we did our best.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Vintenar#a01_b"
+msgid "Even though we didn't win, we did our best."
+msgstr ""
+
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Croix Vintenar#a01_b"
+msgid "This is a Royal gift from Croix, and please don't forget this battle. We will win the next one."
+msgstr ""
+
+# mapannounce("bat_a01", _("Guillaume Vintenar Axl Rose : Let's attack to burn down Croix's Food Depot!"), bc_map, "0xFF9900");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "countdown#bat_a01"
+msgid "Guillaume Vintenar Axl Rose : Let's attack to burn down Croix's Food Depot!"
+msgstr ""
+
+# mapannounce("bat_a01", _("Croix Vintenar Swandery : Master of Valhalla! Let us be gifted with unfailing faith and courage!"), bc_map, "0xFF99CC");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "countdown#bat_a01"
+msgid "Croix Vintenar Swandery : Master of Valhalla! Let us be gifted with unfailing faith and courage!"
+msgstr ""
+
+# mapannounce("bat_a01", _("Marollo VII : Guillaume Marollo, Croix Marollo! Marollo followers!"), bc_map, "0x99CC00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "countdown#bat_a01"
+msgid "Marollo VII : Guillaume Marollo, Croix Marollo! Marollo followers!"
+msgstr ""
+
+# mapannounce("bat_a01", _("Marollo VII : Both camps are competitive, so no camp would be destroyed easily. That means the Marollo kingdoms will never be defeated!"), bc_map, "0x99CC00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "countdown#bat_a01"
+msgid ""
+"Marollo VII : Both camps are competitive, so no camp would be destroyed easily. That means the Marollo kingdoms will "
+"never be defeated!"
+msgstr ""
+
+# mapannounce("bat_a01", _("Marollo VII : I think we'd better terminate the battle, and call it a draw."), bc_map, "0x99CC00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "countdown#bat_a01"
+msgid "Marollo VII : I think we'd better terminate the battle, and call it a draw."
+msgstr ""
+
+# mapannounce("bat_a01", _("Marollo VII : Hold your royalty and faith for a moment, and let's settle up the battle of Tierra Gorge."), bc_map, "0x99CC00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "countdown#bat_a01"
+msgid "Marollo VII : Hold your royalty and faith for a moment, and let's settle up the battle of Tierra Gorge."
+msgstr ""
+
+# mapannounce("bat_a01", _("Axl Rose, Swandery : Yes sir."), bc_map, "0x99CC00");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "countdown#bat_a01"
+msgid "Axl Rose, Swandery : Yes sir."
+msgstr ""
+
+# mes("Cancelled.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Release all#a01"
+msgid "Cancelled."
+msgstr ""
+
+# mes("May I help you?");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Release all#a01"
+msgid "May I help you?"
+msgstr ""
+
+# switch(select("Release all.", "Cancel.")) {
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Release all#a01"
+msgid "Release all."
+msgstr ""
+
+# switch(select("Release all.", "Cancel.")) {
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Release all#a01"
+msgid "Cancel."
+msgstr ""
+
+# mes("Bye.");
+#: npc/battleground/tierra/tierra01.txt
+msgctxt "Release all#a01"
+msgid "Bye."
+msgstr ""
+
+# bg_monster($@TierraBG2_id1, "bat_a02", 177, 345, _("Food Storage"), 1909, "OBJ#bat_a02_a::OnMyMobDead");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "OBJ#bat_a02_a"
+msgid "Food Storage"
+msgstr ""
+
+# mapannounce("bat_a02", _("Croix Vintenar Swandery: We destroyed Guillaume's Food Storage. We won that! Wow!"), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "OBJ#bat_a02_a"
+msgid "Croix Vintenar Swandery: We destroyed Guillaume's Food Storage. We won that! Wow!"
+msgstr ""
+
+# bg_monster($@TierraBG2_id2, "bat_a02", 167, 50, _("Food Depot"), 1910, "OBJ#bat_a02_b::OnMyMobDead");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "OBJ#bat_a02_b"
+msgid "Food Depot"
+msgstr ""
+
+# mapannounce("bat_a02", _("Guillaume Vintenar Axl Rose : We destroyed Croix's Food Storage. We won that! Wow!"), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "OBJ#bat_a02_b"
+msgid "Guillaume Vintenar Axl Rose : We destroyed Croix's Food Storage. We won that! Wow!"
+msgstr ""
+
+# bg_monster($@TierraBG2_id1, "bat_a02", .@i, 266, _("Barricade"), 1906, "barricade#bat_a02_a::OnMyMobDead");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "barricade#bat_a02_a"
+msgid "Barricade"
+msgstr ""
+
+# mapannounce("bat_a02", _("Guillaume Vintenar Axl Rose : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to rebuild the Barricade!"), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "barricade#bat_a02_a"
+msgid ""
+"Guillaume Vintenar Axl Rose : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to "
+"rebuild the Barricade!"
+msgstr ""
+
+# bg_monster($@TierraBG2_id2, "bat_a02", .@i, 129, _("Barricade"), 1906, "barricade#bat_a02_b::OnMyMobDead");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "barricade#bat_a02_b"
+msgid "Barricade"
+msgstr ""
+
+# mapannounce("bat_a02", _("Croix Vintenar Swandery : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to rebuild the Barricade!"), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "barricade#bat_a02_b"
+msgid ""
+"Croix Vintenar Swandery : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to rebuild "
+"the Barricade!"
+msgstr ""
+
+# monster("bat_a02", 273, 203, _("Neutrality Flag"), 1911, 1, "OBJ#bat_a02_n::OnMyMobDead");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "OBJ#bat_a02_n"
+msgid "Neutrality Flag"
+msgstr ""
+
+# mapannounce("bat_a02", _("Guillaume captured a Neutrality Flag, so they have an advantage."), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "OBJ#bat_a02_n"
+msgid "Guillaume captured a Neutrality Flag, so they have an advantage."
+msgstr ""
+
+# mapannounce("bat_a02", _("Croix captured a Neutrality Flag, so they have an advantage."), bc_map, "0xFFCE00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "OBJ#bat_a02_n"
+msgid "Croix captured a Neutrality Flag, so they have an advantage."
+msgstr ""
+
+# bg_monster($@TierraBG2_id1, "bat_a02", 272, 204, _("Guillaume Camp Guardian"), 1949, "NOBJ_mob#bat_a02_a::OnMyMobDead");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "NOBJ_mob#bat_a02_a"
+msgid "Guillaume Camp Guardian"
+msgstr ""
+
+# bg_monster($@TierraBG2_id2, "bat_a02", 272, 204, _("Croix Camp Guardian"), 1949, "NOBJ_mob#bat_a02_a::OnMyMobDead");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "NOBJ_mob#bat_a02_b"
+msgid "Croix Camp Guardian"
+msgstr ""
+
+# mes("[Guillaume Blacksmith]");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "[Guillaume Blacksmith]"
+msgstr ""
+
+# mes("We are in urgency! The Barricade has been destroyed!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "We are in urgency! The Barricade has been destroyed!"
+msgstr ""
+
+# mes("We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 Gold.^000000");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid ""
+"We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 "
+"Gold.^000000"
+msgstr ""
+
+# mes("We have it all except for the 50 Stones!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "We have it all except for the 50 Stones!"
+msgstr ""
+
+# switch(select("Repair.", "Leave it.")) {
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Repair."
+msgstr ""
+
+# switch(select("Repair.", "Leave it.")) {
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Leave it."
+msgstr ""
+
+# mes("You brought enough stones! Let's go and repair.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "You brought enough stones! Let's go and repair."
+msgstr ""
+
+# mes("..");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid ".."
+msgstr ""
+
+# mes("....");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "...."
+msgstr ""
+
+# mes("......");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "......"
+msgstr ""
+
+# mes("........");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "........"
+msgstr ""
+
+# mes("..........");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid ".........."
+msgstr ""
+
+# mes("............");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "............"
+msgstr ""
+
+# mes("..............");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid ".............."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Combine Stones and Gold in the proper percentage."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Now decorate with Metal Fragments.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it "
+"stronger. Now decorate with Metal Fragments."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it "
+"stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!"
+msgstr ""
+
+# mes("Wow! It's done.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Wow! It's done."
+msgstr ""
+
+# mes("We are relieved.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "We are relieved."
+msgstr ""
+
+# mes("You don't have enough Stones!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "You don't have enough Stones!"
+msgstr ""
+
+# mes("^3131FFWe need 50 Stones.^000000");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "^3131FFWe need 50 Stones.^000000"
+msgstr ""
+
+# mes("We are busy, so please hurry.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "We are busy, so please hurry."
+msgstr ""
+
+# mes("There are enemies coming! Let's evacuate from here!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "There are enemies coming! Let's evacuate from here!"
+msgstr ""
+
+# mes("There the enemy is coming!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Blacksmith#a02"
+msgid "There the enemy is coming!"
+msgstr ""
+
+# mes("[Croix Blacksmith]");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "[Croix Blacksmith]"
+msgstr ""
+
+# mes("We are in urgency! The Barricade has been destroyed!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "We are in urgency! The Barricade has been destroyed!"
+msgstr ""
+
+# mes("We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 Gold.^000000");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid ""
+"We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 "
+"Gold.^000000"
+msgstr ""
+
+# mes("We have it all except for the 50 Stones!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "We have it all except for the 50 Stones!"
+msgstr ""
+
+# switch(select("Repair.", "Leave it.")) {
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Repair."
+msgstr ""
+
+# switch(select("Repair.", "Leave it.")) {
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Leave it."
+msgstr ""
+
+# mes("You brought enough stones! Let's go and repair.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "You brought enough stones! Let's go and repair."
+msgstr ""
+
+# mes("..");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid ".."
+msgstr ""
+
+# mes("....");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "...."
+msgstr ""
+
+# mes("......");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "......"
+msgstr ""
+
+# mes("........");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "........"
+msgstr ""
+
+# mes("..........");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid ".........."
+msgstr ""
+
+# mes("............");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "............"
+msgstr ""
+
+# mes("..............");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid ".............."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Combine Stones and Gold in the proper percentage."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Now decorate with Metal Fragments.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it "
+"stronger. Now decorate with Metal Fragments."
+msgstr ""
+
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid ""
+"Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it "
+"stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!"
+msgstr ""
+
+# mes("Wow! It's done.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Wow! It's done."
+msgstr ""
+
+# mes("We are relieved.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "We are relieved."
+msgstr ""
+
+# mes("You don't have enough Stones!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "You don't have enough Stones!"
+msgstr ""
+
+# mes("^3131FFWe need 50 Stone.^000000");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "^3131FFWe need 50 Stone.^000000"
+msgstr ""
+
+# mes("We are busy, so please hurry.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "We are busy, so please hurry."
+msgstr ""
+
+# mes("There are enemies coming! Let's evacuate from here!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "There are enemies coming! Let's evacuate from here!"
+msgstr ""
+
+# mes("There, the enemy is coming!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "There, the enemy is coming!"
+msgstr ""
+
+# mes("[Battle Therapist]");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Battle Therapist#a02_a"
+msgid "[Battle Therapist]"
+msgstr ""
+
+# mes("Just close your eyes,\r"
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Battle Therapist#a02_a"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+# mes("You can be free from pain.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Battle Therapist#a02_a"
+msgid "You can be free from pain."
+msgstr ""
+
+# mes("[Battle Therapist]");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Battle Therapist#a02_b"
+msgid "[Battle Therapist]"
+msgstr ""
+
+# mes("Just close your eyes,\r"
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Battle Therapist#a02_b"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+# mes("You can be free from pain.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Battle Therapist#a02_b"
+msgid "You can be free from pain."
+msgstr ""
+
+# mes("[Valley Ghost]");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Valley Ghost#bat_a02_n"
+msgid "[Valley Ghost]"
+msgstr ""
+
+# mes("Boo...Boo...");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Valley Ghost#bat_a02_n"
+msgid "Boo...Boo..."
+msgstr ""
+
+# mes("[Axl Rose]");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "[Axl Rose]"
+msgstr ""
+
+# mes("Blessed Guillaume!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "Blessed Guillaume!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/tierra/tierra02.txt
+#, c-format
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mes("You lost, but you're dedicated to this battle.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "You lost, but you're dedicated to this battle."
+msgstr ""
+
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr ""
+
+# mes("Just take this defeat as a lesson, and next time you will definitely win.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "Just take this defeat as a lesson, and next time you will definitely win."
+msgstr ""
+
+# mesf("%s, it's a sign of victory.", strcharinfo(PC_NAME));
+#: npc/battleground/tierra/tierra02.txt
+#, c-format
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "%s, it's a sign of victory."
+msgstr ""
+
+# mes("[Swandery]");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Vintenar#a02_b"
+msgid "[Swandery]"
+msgstr ""
+
+# mes("Blessed Croix!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Vintenar#a02_b"
+msgid "Blessed Croix!"
+msgstr ""
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Vintenar#a02_b"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/tierra/tierra02.txt
+#, c-format
+msgctxt "Croix Vintenar#a02_b"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+# mesf("Oh, %s Don't be sad.", strcharinfo(PC_NAME));
+#: npc/battleground/tierra/tierra02.txt
+#, c-format
+msgctxt "Croix Vintenar#a02_b"
+msgid "Oh, %s Don't be sad."
+msgstr ""
+
+# mes("Even though we didn't win, we did our best.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Vintenar#a02_b"
+msgid "Even though we didn't win, we did our best."
+msgstr ""
+
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Croix Vintenar#a02_b"
+msgid "This is a Royal gift from Croix, and please don't forget this battle. We will win the next one."
+msgstr ""
+
+# mapannounce("bat_a02", _("Guillaume Vintenar Axl Rose : Let's attack to burn down Croix's Food Depot!"), bc_map, "0xFF9900");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "countdown#bat_a02"
+msgid "Guillaume Vintenar Axl Rose : Let's attack to burn down Croix's Food Depot!"
+msgstr ""
+
+# mapannounce("bat_a02", _("Croix Vintenar Swandery : Master of Valhalla! Let us be gifted with unfailing faith and courage!"), bc_map, "0xFF99CC");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "countdown#bat_a02"
+msgid "Croix Vintenar Swandery : Master of Valhalla! Let us be gifted with unfailing faith and courage!"
+msgstr ""
+
+# mapannounce("bat_a02", _("Marollo VII : Guillaume Marollo, Croix Marollo! Marollo followers!"), bc_map, "0x99CC00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "countdown#bat_a02"
+msgid "Marollo VII : Guillaume Marollo, Croix Marollo! Marollo followers!"
+msgstr ""
+
+# mapannounce("bat_a02", _("Marollo VII : Both camps are competitive, so no camp would be destroyed easily. That means the Marollo kingdoms will never be defeated!"), bc_map, "0x99CC00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "countdown#bat_a02"
+msgid ""
+"Marollo VII : Both camps are competitive, so no camp would be destroyed easily. That means the Marollo kingdoms will "
+"never be defeated!"
+msgstr ""
+
+# mapannounce("bat_a02", _("Marollo VII : I think we'd better terminate the battle, and call it a draw."), bc_map, "0x99CC00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "countdown#bat_a02"
+msgid "Marollo VII : I think we'd better terminate the battle, and call it a draw."
+msgstr ""
+
+# mapannounce("bat_a02", _("Marollo VII : Hold your royalty and faith for a moment, and let's settle up the battle of Tierra Gorge."), bc_map, "0x99CC00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "countdown#bat_a02"
+msgid "Marollo VII : Hold your royalty and faith for a moment, and let's settle up the battle of Tierra Gorge."
+msgstr ""
+
+# mapannounce("bat_a02", _("Axl Rose, Swandery : Yes sir."), bc_map, "0x99CC00");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "countdown#bat_a02"
+msgid "Axl Rose, Swandery : Yes sir."
+msgstr ""
+
+# mes("Cancelled.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Release all#a02"
+msgid "Cancelled."
+msgstr ""
+
+# mes("May I help you?");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Release all#a02"
+msgid "May I help you?"
+msgstr ""
+
+# switch(select("Release all.", "Cancel.")) {
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Release all#a02"
+msgid "Release all."
+msgstr ""
+
+# switch(select("Release all.", "Cancel.")) {
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Release all#a02"
+msgid "Cancel."
+msgstr ""
+
+# mes("Bye.");
+#: npc/battleground/tierra/tierra02.txt
+msgctxt "Release all#a02"
+msgid "Bye."
+msgstr ""
+
+# mes("[Prince Croix]");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "[Prince Croix]"
+msgstr ""
+
+# mes("Wise adventurer, why don't you lend us your power for victory?");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "Wise adventurer, why don't you lend us your power for victory?"
+msgstr ""
+
+# switch(select("What's the reason for the Battle?", "Tell me about General Guillaume")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "What's the reason for the Battle?"
+msgstr ""
+
+# switch(select("What's the reason for the Battle?", "Tell me about General Guillaume")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "Tell me about General Guillaume"
+msgstr ""
+
+# mes("Maroll's great king, Marcel Marollo VII, is very sick lately.");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "Maroll's great king, Marcel Marollo VII, is very sick lately."
+msgstr ""
+
+# mes("His Majesty has declared that he will be leaving the future of Maroll to me or the 3rd prince, General Guillaume.");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid ""
+"His Majesty has declared that he will be leaving the future of Maroll to me or the 3rd prince, General Guillaume."
+msgstr ""
+
+# mes("General Guillaume may have an advantage in this battle as he is the great general of Maroll, but that doesn't automatically mean he'll win.");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid ""
+"General Guillaume may have an advantage in this battle as he is the great general of Maroll, but that doesn't "
+"automatically mean he'll win."
+msgstr ""
+
+# mes("I want to win this battle so that I can bring prosperity to the people of Maroll. They've suffered enough from war...");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid ""
+"I want to win this battle so that I can bring prosperity to the people of Maroll. They've suffered enough from war..."
+msgstr ""
+
+# switch(select("Yes, I want to join you.", "End Conversation")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "Yes, I want to join you."
+msgstr ""
+
+# switch(select("Yes, I want to join you.", "End Conversation")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "End Conversation"
+msgstr ""
+
+# mes("Thank you so much. I feel like I can win with the help of adventurers like you.");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "Thank you so much. I feel like I can win with the help of adventurers like you."
+msgstr ""
+
+# mes("Now, please go downstairs and join your comrades in sharpening their skills to fight the enemy!");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "Now, please go downstairs and join your comrades in sharpening their skills to fight the enemy!"
+msgstr ""
+
+# mes("For Maroll!");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "For Maroll!"
+msgstr ""
+
+# mes("The 3rd Prince Guillaume is the great general of Maroll.");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "The 3rd Prince Guillaume is the great general of Maroll."
+msgstr ""
+
+# mes("It's a waste of time to explain to you how great a leader or warlord he is, since he commands the great military power of Maroll.");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid ""
+"It's a waste of time to explain to you how great a leader or warlord he is, since he commands the great military "
+"power of Maroll."
+msgstr ""
+
+# mes("Unfortunately, there's something he and his followers are unaware of:");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "Unfortunately, there's something he and his followers are unaware of:"
+msgstr ""
+
+# mes("Do the people of Maroll really want them to spend so much money on military power?");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "Do the people of Maroll really want them to spend so much money on military power?"
+msgstr ""
+
+# mes("We have suffered enough from wars.");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "We have suffered enough from wars."
+msgstr ""
+
+# mes("I believe weapons aren't the best way to bring prosperity to a nation.");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid "I believe weapons aren't the best way to bring prosperity to a nation."
+msgstr ""
+
+# mes("I do not wish to shed blood, but I have no choice but to fight for the possibility of peace and for the sake of my people.");
+#: npc/battleground/bg_common.txt
+msgctxt "Prince Croix"
+msgid ""
+"I do not wish to shed blood, but I have no choice but to fight for the possibility of peace and for the sake of my "
+"people."
+msgstr ""
+
+# mes("[General Guillaume]");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "[General Guillaume]"
+msgstr ""
+
+# mes("Hot-blooded adventurer, we need your ability to win this battle.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "Hot-blooded adventurer, we need your ability to win this battle."
+msgstr ""
+
+# switch(select("What's the reason for the Battle?", "Tell me about Prince Croix")) {
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "What's the reason for the Battle?"
+msgstr ""
+
+# switch(select("What's the reason for the Battle?", "Tell me about Prince Croix")) {
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "Tell me about Prince Croix"
+msgstr ""
+
+# mes("Our great king, Marcel Marollo VII, is very sick lately.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "Our great king, Marcel Marollo VII, is very sick lately."
+msgstr ""
+
+# mes("His Majesty has declared that he has chosen either me or Prince Croix as the next king amongst his 9 sons.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "His Majesty has declared that he has chosen either me or Prince Croix as the next king amongst his 9 sons."
+msgstr ""
+
+# mes("Two kings can't share a nation! Only the one victorious from His Majesty's appointed battle will be enthroned.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "Two kings can't share a nation! Only the one victorious from His Majesty's appointed battle will be enthroned."
+msgstr ""
+
+# mes("This is, however, not just a battle between us. This battle will determine the future of this country.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "This is, however, not just a battle between us. This battle will determine the future of this country."
+msgstr ""
+
+# mes("I pledge on my honor to prove that I'm the one who can protect this Maroll from outside threats.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "I pledge on my honor to prove that I'm the one who can protect this Maroll from outside threats."
+msgstr ""
+
+# switch(select("Yes, I want to join you.", "End Conversation")) {
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "Yes, I want to join you."
+msgstr ""
+
+# switch(select("Yes, I want to join you.", "End Conversation")) {
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "End Conversation"
+msgstr ""
+
+# mes("Welcome to my army, comrade.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "Welcome to my army, comrade."
+msgstr ""
+
+# mes("Your eyes tell me that you're a soldier that I can trust.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "Your eyes tell me that you're a soldier that I can trust."
+msgstr ""
+
+# mes("Now, go upstairs and apply for battle with your comrades.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "Now, go upstairs and apply for battle with your comrades."
+msgstr ""
+
+# mes("I'm sure they'll welcome you whole-heartedly!");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "I'm sure they'll welcome you whole-heartedly!"
+msgstr ""
+
+# mes("I'll be the one who will capture the flag!");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "I'll be the one who will capture the flag!"
+msgstr ""
+
+# mes("The 5th Prince Croix is currently titled as the Prime Minister of Maroll.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "The 5th Prince Croix is currently titled as the Prime Minister of Maroll."
+msgstr ""
+
+# mes("He thinks all national matters of a nation can be discussed and determined on a desk,\r"
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid ""
+"He thinks all national matters of a nation can be discussed and determined on a desk,\rand believes in peaceful co-"
+"existence with other countries."
+msgstr ""
+
+# mes("He's too ignorant to admit that so-called peace is built on countless lives that are sacrificed in "
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid ""
+"He's too ignorant to admit that so-called peace is built on countless lives that are sacrificed in wars while normal "
+"citizens and upper classes can live, oblivious to the horrors that allow them to live that way."
+msgstr ""
+
+# mes("He's too naive to understand the reality....");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "He's too naive to understand the reality...."
+msgstr ""
+
+# mes("I can't leave Maroll to someone like him who lives in a dream!");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "I can't leave Maroll to someone like him who lives in a dream!"
+msgstr ""
+
+# mes("His unrealistic beliefs will drown this country in poverty and make the people weak. If he becomes the king, "
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid ""
+"His unrealistic beliefs will drown this country in poverty and make the people weak. If he becomes the king, Maroll "
+"will never rest from the onslaughts of other countries."
+msgstr ""
+
+# mes("I want to teach him what makes this small country so powerful and prosperous. It's military power!");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "I want to teach him what makes this small country so powerful and prosperous. It's military power!"
+msgstr ""
+
+# switch(select("I want to join your army!", "End Conversation")) {
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "I want to join your army!"
+msgstr ""
+
+# mes("Now, go upstairs and apply for battle from your comrades.");
+#: npc/battleground/bg_common.txt
+msgctxt "General Guillaume"
+msgid "Now, go upstairs and apply for battle from your comrades."
+msgstr ""
+
+# mes("[Teleporter]");
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "[Teleporter]"
+msgstr ""
+
+# mes("Do you wish to leave the battlefield? Use my services to return to town.");
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "Do you wish to leave the battlefield? Use my services to return to town."
+msgstr ""
+
+# switch(select("Leave", "Don't Leave")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "Leave"
+msgstr ""
+
+# switch(select("Leave", "Don't Leave")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "Don't Leave"
+msgstr ""
+
+# setarray .@mapname$[0], _("Prontera"), "prontera";
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "Prontera"
+msgstr ""
+
+# setarray .@mapname$[0], _("Morroc"), "moc_ruins";
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "Morroc"
+msgstr ""
+
+# setarray .@mapname$[0], _("Al De Baran"), "aldebaran";
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "Al De Baran"
+msgstr ""
+
+# setarray .@mapname$[0], _("Geffen"), "geffen";
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "Geffen"
+msgstr ""
+
+# setarray .@mapname$[0], _("Payon"), "payon";
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "Payon"
+msgstr ""
+
+# setarray .@mapname$[0], _("Lighthalzen"), "lighthalzen";
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "Lighthalzen"
+msgstr ""
+
+# setarray .@mapname$[0], _("Rachel"), "rachel";
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "Rachel"
+msgstr ""
+
+# mesf("You will be sent back to %s.", .@mapname$[0]);
+#: npc/battleground/bg_common.txt
+#, c-format
+msgctxt "Teleporter#Battlefield"
+msgid "You will be sent back to %s."
+msgstr ""
+
+# mes("I'll be here whenever you're in need of my services.");
+#: npc/battleground/bg_common.txt
+msgctxt "Teleporter#Battlefield"
+msgid "I'll be here whenever you're in need of my services."
+msgstr ""
+
+# mes("[Maroll Battle Recruiter]");
+#: npc/battleground/bg_common.txt
+msgctxt "Maroll Battle Recruiter::BatRecruit"
+msgid "[Maroll Battle Recruiter]"
+msgstr ""
+
+# mes("Good day, adventurer.");
+#: npc/battleground/bg_common.txt
+msgctxt "Maroll Battle Recruiter::BatRecruit"
+msgid "Good day, adventurer."
+msgstr ""
+
+# mes("I'm a knight from a far country called Maroll Kingdom.");
+#: npc/battleground/bg_common.txt
+msgctxt "Maroll Battle Recruiter::BatRecruit"
+msgid "I'm a knight from a far country called Maroll Kingdom."
+msgstr ""
+
+# mes("The two princes of the kingdom are now battling for the throne of Maroll, and are in need of experienced soldiers like you.");
+#: npc/battleground/bg_common.txt
+msgctxt "Maroll Battle Recruiter::BatRecruit"
+msgid ""
+"The two princes of the kingdom are now battling for the throne of Maroll, and are in need of experienced soldiers "
+"like you."
+msgstr ""
+
+# mes("How would you like to lend your power to one of the princes in the Maroll Kingdom?");
+#: npc/battleground/bg_common.txt
+msgctxt "Maroll Battle Recruiter::BatRecruit"
+msgid "How would you like to lend your power to one of the princes in the Maroll Kingdom?"
+msgstr ""
+
+# switch(select("Join", "Don't Join")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Maroll Battle Recruiter::BatRecruit"
+msgid "Join"
+msgstr ""
+
+# switch(select("Join", "Don't Join")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Maroll Battle Recruiter::BatRecruit"
+msgid "Don't Join"
+msgstr ""
+
+# mes("May the war god bless you.");
+#: npc/battleground/bg_common.txt
+msgctxt "Maroll Battle Recruiter::BatRecruit"
+msgid "May the war god bless you."
+msgstr ""
+
+# mes("I'll always be stationed here for more soldiers. Feel free to come back whenever you're interested.");
+#: npc/battleground/bg_common.txt
+msgctxt "Maroll Battle Recruiter::BatRecruit"
+msgid "I'll always be stationed here for more soldiers. Feel free to come back whenever you're interested."
+msgstr ""
+
+# callfunc("repairmain", _("Repairman"));
+#: npc/battleground/bg_common.txt
+msgctxt "Repairman#bg"
+msgid "Repairman"
+msgstr ""
+
+# mes("The command has been cancelled.");
+#: npc/battleground/bg_common.txt
+msgctxt "Switch#batgnd"
+msgid "The command has been cancelled."
+msgstr ""
+
+# mes("May I help you?");
+#: npc/battleground/bg_common.txt
+msgctxt "Switch#batgnd"
+msgid "May I help you?"
+msgstr ""
+
+# switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Switch#batgnd"
+msgid "Close Battlefield"
+msgstr ""
+
+# switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Switch#batgnd"
+msgid "Open Battlefield"
+msgstr ""
+
+# switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Switch#batgnd"
+msgid "Reset a01"
+msgstr ""
+
+# switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Switch#batgnd"
+msgid "Reset b01"
+msgstr ""
+
+# switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Switch#batgnd"
+msgid "Reset a02"
+msgstr ""
+
+# switch(select("Close Battlefield", "Open Battlefield", "Reset a01", "Reset b01", "Reset a02", "Reset b02")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Switch#batgnd"
+msgid "Reset b02"
+msgstr ""
+
+# mes("Complete");
+#: npc/battleground/bg_common.txt
+msgctxt "Switch#batgnd"
+msgid "Complete"
+msgstr ""
+
+# mes("- Wait a minute !! -");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes("- Currently you're carrying -");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes("- too many items with you. -");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes("- Please try again -");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "- Please try again -"
+msgstr ""
+
+# mes("- after you loose some weight. -");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes("[Erundek]");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "[Erundek]"
+msgstr ""
+
+# mes("Do you have the battlefield badges?");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Do you have the battlefield badges?"
+msgstr ""
+
+# mes("I can exchange Bravery Badges and Valor Badges for reward items.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "I can exchange Bravery Badges and Valor Badges for reward items."
+msgstr ""
+
+# switch(select("Exchange Badges", "Check the Catalog")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Exchange Badges"
+msgstr ""
+
+# switch(select("Exchange Badges", "Check the Catalog")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Check the Catalog"
+msgstr ""
+
+# mes("Which type of items would you like to exchange?");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Which type of items would you like to exchange?"
+msgstr ""
+
+# mes("To check more information about the reward items, please use our ^3131FFCatalog^000000.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "To check more information about the reward items, please use our ^3131FFCatalog^000000."
+msgstr ""
+
+# switch(select("Weapon", "Armor", "Accessory", "Consumable")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Weapon"
+msgstr ""
+
+# switch(select("Weapon", "Armor", "Accessory", "Consumable")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Armor"
+msgstr ""
+
+# switch(select("Weapon", "Armor", "Accessory", "Consumable")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Accessory"
+msgstr ""
+
+# switch(select("Weapon", "Armor", "Accessory", "Consumable")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Consumable"
+msgstr ""
+
+# mes("You chose ^3131FFWeapon^000000.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "You chose ^3131FFWeapon^000000."
+msgstr ""
+
+# mes("The following weapons are available for exchange with the battlefield badges.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "The following weapons are available for exchange with the battlefield badges."
+msgstr ""
+
+# mes("Please note that items for ^3131FFBravery Badges are indicated as (BB)^000000, and ^3131FFValor Badges as (VB)^000000.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid ""
+"Please note that items for ^3131FFBravery Badges are indicated as (BB)^000000, and ^3131FFValor Badges as "
+"(VB)^000000."
+msgstr ""
+
+# switch(select("Dagger/OneSword/TwoSword/TwoSpear", "Staff/Mace/TwoAxe/Shuriken", "Bow/Katar/Music/Whip", "Book/Knuckle", "Revolver/Rifle/Gatling/Shotgun/Launcher")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Dagger/OneSword/TwoSword/TwoSpear"
+msgstr ""
+
+# switch(select("Dagger/OneSword/TwoSword/TwoSpear", "Staff/Mace/TwoAxe/Shuriken", "Bow/Katar/Music/Whip", "Book/Knuckle", "Revolver/Rifle/Gatling/Shotgun/Launcher")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Staff/Mace/TwoAxe/Shuriken"
+msgstr ""
+
+# switch(select("Dagger/OneSword/TwoSword/TwoSpear", "Staff/Mace/TwoAxe/Shuriken", "Bow/Katar/Music/Whip", "Book/Knuckle", "Revolver/Rifle/Gatling/Shotgun/Launcher")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Bow/Katar/Music/Whip"
+msgstr ""
+
+# switch(select("Dagger/OneSword/TwoSword/TwoSpear", "Staff/Mace/TwoAxe/Shuriken", "Bow/Katar/Music/Whip", "Book/Knuckle", "Revolver/Rifle/Gatling/Shotgun/Launcher")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Book/Knuckle"
+msgstr ""
+
+# switch(select("Dagger/OneSword/TwoSword/TwoSpear", "Staff/Mace/TwoAxe/Shuriken", "Bow/Katar/Music/Whip", "Book/Knuckle", "Revolver/Rifle/Gatling/Shotgun/Launcher")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Revolver/Rifle/Gatling/Shotgun/Launcher"
+msgstr ""
+
+# mes("The following items are available in the ^3131FFDagger, One-Handed Sword, Two-Handed Sword, and Two-Handed Spear^000000 category.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid ""
+"The following items are available in the ^3131FFDagger, One-Handed Sword, Two-Handed Sword, and Two-Handed "
+"Spear^000000 category."
+msgstr ""
+
+# mes("The following items are available in the ^3131FFStaff / Mace / Two-Handed Axe / Huuma Shuriken^000000 category.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "The following items are available in the ^3131FFStaff / Mace / Two-Handed Axe / Huuma Shuriken^000000 category."
+msgstr ""
+
+# mes("The following weapons are available in the ^3131FFBow / Katar / Musical Instrument / Whip^000000 category.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "The following weapons are available in the ^3131FFBow / Katar / Musical Instrument / Whip^000000 category."
+msgstr ""
+
+# mes("The following weapons are available in the ^3131FFBook / Knuckle^000000 category.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "The following weapons are available in the ^3131FFBook / Knuckle^000000 category."
+msgstr ""
+
+# mes("The following weapons are available in the ^3131FFRevolver / Rifle / Gatling Gun / Shotgun / Grenade Launcher^000000 category.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid ""
+"The following weapons are available in the ^3131FFRevolver / Rifle / Gatling Gun / Shotgun / Grenade Launcher^000000 "
+"category."
+msgstr ""
+
+# .@menu$ += getitemname(.@Weapons[.@i]) + ((.@Weapons[.@i+1]==7828) ? _("(BB)") : _("(VB)")) + ":";
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "(BB)"
+msgstr ""
+
+# .@menu$ += getitemname(.@Weapons[.@i]) + ((.@Weapons[.@i+1]==7828) ? _("(BB)") : _("(VB)")) + ":";
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "(VB)"
+msgstr ""
+
+# mesf("You chose ^3131FF%s%s^000000.", getitemname(.@Weapons[.@i]), .@type$);
+#: npc/battleground/bg_common.txt
+#, c-format
+msgctxt "Erundek"
+msgid "You chose ^3131FF%s%s^000000."
+msgstr ""
+
+# mesf("You can exchange for this item with ^FF0000100 %s^000000.", getitemname(.@Weapons[.@i+1]));
+#: npc/battleground/bg_common.txt
+#, c-format
+msgctxt "Erundek"
+msgid "You can exchange for this item with ^FF0000100 %s^000000."
+msgstr ""
+
+# mes("Would you like to exchange?");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Would you like to exchange?"
+msgstr ""
+
+# switch(select("Do not exchange", "Exchange")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Do not exchange"
+msgstr ""
+
+# switch(select("Do not exchange", "Exchange")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Exchange"
+msgstr ""
+
+# mesf("Would you like to spend ^FF0000100 %s^000000 and receive a ^3131FF%s%s^000000?",
+#: npc/battleground/bg_common.txt
+#, c-format
+msgctxt "Erundek"
+msgid "Would you like to spend ^FF0000100 %s^000000 and receive a ^3131FF%s%s^000000?"
+msgstr ""
+
+# mes("Remember, Battleground Reward Items are ^FF0000Character Bound^000000. Are you sure you want this item?");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Remember, Battleground Reward Items are ^FF0000Character Bound^000000. Are you sure you want this item?"
+msgstr ""
+
+# switch(select("Yes", "No")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Yes"
+msgstr ""
+
+# switch(select("Yes", "No")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "No"
+msgstr ""
+
+# mes("Thank you for exchanging.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Thank you for exchanging."
+msgstr ""
+
+# else mes("I'm sorry, but you don't have enough badges to exchange.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "I'm sorry, but you don't have enough badges to exchange."
+msgstr ""
+
+# mes("Do you need more time to check the items?");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Do you need more time to check the items?"
+msgstr ""
+
+# mes("You chose ^3131FFArmor^000000.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "You chose ^3131FFArmor^000000."
+msgstr ""
+
+# mes("The following armors are available for exchange with the battlefield badges.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "The following armors are available for exchange with the battlefield badges."
+msgstr ""
+
+# switch(select("Garments / Shoes", "Armor")) {
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Garments / Shoes"
+msgstr ""
+
+# mes("You chose ^3131FFAccessory^000000.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "You chose ^3131FFAccessory^000000."
+msgstr ""
+
+# mes("You can exchange the Medal of Honors with your Badges according to the job classes, as follows:");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "You can exchange the Medal of Honors with your Badges according to the job classes, as follows:"
+msgstr ""
+
+# mes("You chose ^3131FFConsumable^000000.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "You chose ^3131FFConsumable^000000."
+msgstr ""
+
+# mes("The following consumable items are available for exchange with the battlefield badges:");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "The following consumable items are available for exchange with the battlefield badges:"
+msgstr ""
+
+# mes("We have many items, so please take a look and purchase deliberately.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "We have many items, so please take a look and purchase deliberately."
+msgstr ""
+
+# mesf("You chose ^3131FF%s^000000.", getitemname(.@items[.@i]));
+#: npc/battleground/bg_common.txt
+#, c-format
+msgctxt "Erundek"
+msgid "You chose ^3131FF%s^000000."
+msgstr ""
+
+# case 2720: mes("This item is for Swordman and Taekwon Master Class only."); break;
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "This item is for Swordman and Taekwon Master Class only."
+msgstr ""
+
+# case 2721: mes("This item is for Thief Class only."); break;
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "This item is for Thief Class only."
+msgstr ""
+
+# case 2722: mes("This item is for Acolyte Class only."); break;
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "This item is for Acolyte Class only."
+msgstr ""
+
+# case 2723: mes("This item is for Magician Class only."); break;
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "This item is for Magician Class only."
+msgstr ""
+
+# case 2724: mes("This item is for Archer Class only."); break;
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "This item is for Archer Class only."
+msgstr ""
+
+# case 2725: mes("This item is for Merchant Class only."); break;
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "This item is for Merchant Class only."
+msgstr ""
+
+# case 2733: mes("This item is for Gunslinger only."); break;
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "This item is for Gunslinger only."
+msgstr ""
+
+# mesf("You can exchange for this item with ^FF0000%d %s or %d %s^000000.", .@items[.@i+1], getitemname(7828), .@items[.@i+1], getitemname(7829));
+#: npc/battleground/bg_common.txt
+#, c-format
+msgctxt "Erundek"
+msgid "You can exchange for this item with ^FF0000%d %s or %d %s^000000."
+msgstr ""
+
+# mes("Which Badge do you want to exchange?");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Which Badge do you want to exchange?"
+msgstr ""
+
+# mesf("You need ^3131FF%d Badges^000000 to exchange.", .@items[.@i+1]);
+#: npc/battleground/bg_common.txt
+#, c-format
+msgctxt "Erundek"
+msgid "You need ^3131FF%d Badges^000000 to exchange."
+msgstr ""
+
+# .@j = select("Bravery Badge", "Valor Badge", "Cancel");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Bravery Badge"
+msgstr ""
+
+# .@j = select("Bravery Badge", "Valor Badge", "Cancel");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Valor Badge"
+msgstr ""
+
+# .@j = select("Bravery Badge", "Valor Badge", "Cancel");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "Cancel"
+msgstr ""
+
+# mes("You cancelled the exchange.");
+#: npc/battleground/bg_common.txt
+msgctxt "Erundek"
+msgid "You cancelled the exchange."
+msgstr ""
+
+# else mesf("You do not have enough %ss.", getitemname(.@cost));
+#: npc/battleground/bg_common.txt
+#, c-format
+msgctxt "Erundek"
+msgid "You do not have enough %ss."
+msgstr ""
+
+# mes "[Fabian]";
+#: npc/cities/alberta.txt
+msgctxt "Fabian"
+msgid "[Fabian]"
+msgstr ""
+
+# mes "Man... When you travel all around the world, you'll hear of some crazy things.";
+#: npc/cities/alberta.txt
+msgctxt "Fabian"
+msgid "Man... When you travel all around the world, you'll hear of some crazy things."
+msgstr ""
+
+# mes "Once, I heard that there are Cards which contain the power of monsters. If someone happens to get their hands on a card, they'll be able to use that monster's power.";
+#: npc/cities/alberta.txt
+msgctxt "Fabian"
+msgid ""
+"Once, I heard that there are Cards which contain the power of monsters. If someone happens to get their hands on a "
+"card, they'll be able to use that monster's power."
+msgstr ""
+
+# mes "I'm guessing it's some sort of fad or scam, where they make you collect all the cards or whatever. I mean, how can a card really hold the power of a monster?!";
+#: npc/cities/alberta.txt
+msgctxt "Fabian"
+msgid ""
+"I'm guessing it's some sort of fad or scam, where they make you collect all the cards or whatever. I mean, how can a "
+"card really hold the power of a monster?!"
+msgstr ""
+
+# mes "Seriously...";
+#: npc/cities/alberta.txt
+msgctxt "Fabian"
+msgid "Seriously..."
+msgstr ""
+
+# mes "[Steiner]";
+#: npc/cities/alberta.txt
+msgctxt "Steiner"
+msgid "[Steiner]"
+msgstr ""
+
+# mes "Oh...!";
+#: npc/cities/alberta.txt
+msgctxt "Steiner"
+msgid "Oh...!"
+msgstr ""
+
+# mes "Welcome to Alberta,";
+#: npc/cities/alberta.txt
+msgctxt "Steiner"
+msgid "Welcome to Alberta,"
+msgstr ""
+
+# mes "young adventurer!";
+#: npc/cities/alberta.txt
+msgctxt "Steiner"
+msgid "young adventurer!"
+msgstr ""
+
+# mes "Pardon me if I seem distracted. I'm milling about, trying to make a plan. You see, I hear that there is a store in Geffen that sells armor that is resistant to magic.";
+#: npc/cities/alberta.txt
+msgctxt "Steiner"
+msgid ""
+"Pardon me if I seem distracted. I'm milling about, trying to make a plan. You see, I hear that there is a store in "
+"Geffen that sells armor that is resistant to magic."
+msgstr ""
+
+# mes "If I buy a lot of them in bulk, and then resell them here for a higher price...";
+#: npc/cities/alberta.txt
+msgctxt "Steiner"
+msgid "If I buy a lot of them in bulk, and then resell them here for a higher price..."
+msgstr ""
+
+# mes "[Chad]";
+#: npc/cities/alberta.txt
+msgctxt "Chad"
+msgid "[Chad]"
+msgstr ""
+
+# mes "People say the legendary weapon Gungnir never misses its target. I wonder if it's possibly true...";
+#: npc/cities/alberta.txt
+msgctxt "Chad"
+msgid "People say the legendary weapon Gungnir never misses its target. I wonder if it's possibly true..."
+msgstr ""
+
+# mes "People also say that babies are assembled by the storks before delivery, girls dig guys who act like jerks, and that Santa Claus exists! But only in Lutie.";
+#: npc/cities/alberta.txt
+msgctxt "Chad"
+msgid ""
+"People also say that babies are assembled by the storks before delivery, girls dig guys who act like jerks, and that "
+"Santa Claus exists! But only in Lutie."
+msgstr ""
+
+# mes "I wonder...";
+#: npc/cities/alberta.txt
+msgctxt "Chad"
+msgid "I wonder..."
+msgstr ""
+
+# mes "If any of that";
+#: npc/cities/alberta.txt
+msgctxt "Chad"
+msgid "If any of that"
+msgstr ""
+
+# mes "is possibly";
+#: npc/cities/alberta.txt
+msgctxt "Chad"
+msgid "is possibly"
+msgstr ""
+
+# mes "true...";
+#: npc/cities/alberta.txt
+msgctxt "Chad"
+msgid "true..."
+msgstr ""
+
+# mes "[Deagle]";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "[Deagle]"
+msgstr ""
+
+# mes "^666666*Hiccup*^000000";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "^666666*Hiccup*^000000"
+msgstr ""
+
+# mes "Wh-what are you";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "Wh-what are you"
+msgstr ""
+
+# mes "staring at? Get lost!!";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "staring at? Get lost!!"
+msgstr ""
+
+# switch(select("Say nothing.","Leave him alone.")) {
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "Say nothing."
+msgstr ""
+
+# switch(select("Say nothing.","Leave him alone.")) {
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "Leave him alone."
+msgstr ""
+
+# mes "Hahahaha ^666666*hiccup*^000000... You've got some nerve. I may look worthless now, but I used to be a sailor on the 'Going Mary.'";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid ""
+"Hahahaha ^666666*hiccup*^000000... You've got some nerve. I may look worthless now, but I used to be a sailor on the "
+"'Going Mary.'"
+msgstr ""
+
+# switch(select("Never heard of it.","Really? No kidding!")) {
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "Never heard of it."
+msgstr ""
+
+# switch(select("Never heard of it.","Really? No kidding!")) {
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "Really? No kidding!"
+msgstr ""
+
+# mes "Never heard of it?! Everybody knows th'notorious pirate ship 'Going Mary!' ^666666*Hiccup~*^000000";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "Never heard of it?! Everybody knows th'notorious pirate ship 'Going Mary!' ^666666*Hiccup~*^000000"
+msgstr ""
+
+# mes "Ah~ The ol'days. If only... If only we hadn't run into that STORM...^666666*hiccup*^000000";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "Ah~ The ol'days. If only... If only we hadn't run into that STORM...^666666*hiccup*^000000"
+msgstr ""
+
+# mes "AH~ Captain. I miss our cap'n more than anything... No foe survived before cap'n's sword.";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "AH~ Captain. I miss our cap'n more than anything... No foe survived before cap'n's sword."
+msgstr ""
+
+# mes "That's right! NOBODY meshes with the crew of the 'Going Mary!' And nobody can beat out cap'n in a sword fight!";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "That's right! NOBODY meshes with the crew of the 'Going Mary!' And nobody can beat out cap'n in a sword fight!"
+msgstr ""
+
+# mes "CAPTAIN~!!! ^666666*HICCUP~*^000000 He would swing his sword like this, then... THEN!!";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "CAPTAIN~!!! ^666666*HICCUP~*^000000 He would swing his sword like this, then... THEN!!"
+msgstr ""
+
+# mes "The bastard the captain was fighting, and anyone of his friends near him, were surrounded in flame!";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "The bastard the captain was fighting, and anyone of his friends near him, were surrounded in flame!"
+msgstr ""
+
+# mes "Man, that sword must have had some sort of mysterious power, or the captain was just that good...!";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "Man, that sword must have had some sort of mysterious power, or the captain was just that good...!"
+msgstr ""
+
+# mes "Phew~~ ^666666*Sob* *Sob...*^000000 God, I miss everyone! Now I'm depressed! Please, go away now.";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "Phew~~ ^666666*Sob* *Sob...*^000000 God, I miss everyone! Now I'm depressed! Please, go away now."
+msgstr ""
+
+# mes "That's right!";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "That's right!"
+msgstr ""
+
+# mes "Go AWAY~";
+#: npc/cities/alberta.txt
+msgctxt "Drunken Old Man"
+msgid "Go AWAY~"
+msgstr ""
+
+# mes "[Shakir]";
+#: npc/cities/alberta.txt
+msgctxt "Shakir"
+msgid "[Shakir]"
+msgstr ""
+
+# mes "We Merchants have our own negotiating skill when we sell goods. This skill can get us more money than when other people sell goods.";
+#: npc/cities/alberta.txt
+msgctxt "Shakir"
+msgid ""
+"We Merchants have our own negotiating skill when we sell goods. This skill can get us more money than when other "
+"people sell goods."
+msgstr ""
+
+# mes "It's more than just yelling 'You'll have to give more money please!' You need to have charisma, and master rhetoric!";
+#: npc/cities/alberta.txt
+msgctxt "Shakir"
+msgid ""
+"It's more than just yelling 'You'll have to give more money please!' You need to have charisma, and master rhetoric!"
+msgstr ""
+
+# mes "We can get up to 24 % more zeny with this incredible skill. But remember to train hard to acquire it!!";
+#: npc/cities/alberta.txt
+#, no-c-format
+msgctxt "Shakir"
+msgid "We can get up to 24 % more zeny with this incredible skill. But remember to train hard to acquire it!!"
+msgstr ""
+
+# mes "We Merchants can";
+#: npc/cities/alberta.txt
+msgctxt "Shakir"
+msgid "We Merchants can"
+msgstr ""
+
+# mes "open roadside stands";
+#: npc/cities/alberta.txt
+msgctxt "Shakir"
+msgid "open roadside stands"
+msgstr ""
