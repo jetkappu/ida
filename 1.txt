@@ -1507,37 +1507,37 @@ msgstr "Terima kasih, mohon tunggu sebentar!"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "^3355FF*Grind grind*"
-msgstr ""
+msgstr "^ 3355FF * menggiling menggiling *"
 
 # mes("*Grind grind*");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "*Grind grind*"
-msgstr ""
+msgstr "*Grind menggiling *"
 
 # mes("*Clang...!*^000000");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "*Clang...!*^000000"
-msgstr ""
+msgstr "*Clang...!*^000000"
 
 # mes("There you go~");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "There you go~"
-msgstr ""
+msgstr "Itu dia~"
 
 # mes("I hope you enjoy!");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "I hope you enjoy!"
-msgstr ""
+msgstr "Saya harap kamu menikmatinya!"
 
 # mes("Please feel free to\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "Please feel free to\rstop by for your Apple\rand Apple Juice needs\rat anytime, adventurer~"
-msgstr ""
+msgstr "Jangan ragu untuk \ mampir untuk Apple Apple Anda membutuhkan makanan kapan pun, petualang ~"
 
 # mes("I used to be a wandering\r"
 #: npc/airports/airships.txt
@@ -1545,19 +1545,20 @@ msgctxt "Apple Merchant#airplane"
 msgid ""
 "I used to be a wandering\rvagabond when, one day,\rI took a nap and something\rstruck my head and awoke\rme from my "
 "restful slumber."
-msgstr ""
+msgstr "Dulu saya sering berkeliaran di suatu hari, saya tidur siang dan ada sesuatu yang menarik kepala saya dan membangunkan saya dari "
+"Tidur nyenyak."
 
 # mes("It turns out that I was\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "It turns out that I was\rsleeping beneath an apple\rtree and that an apple fell\rand hit me on the head."
-msgstr ""
+msgstr "Ternyata saya \ tidur di bawah pohon apel dan sebuah apel jatuh dan menabrak saya di kepala."
 
 # mes("I was dying of hunger and\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "I was dying of hunger and\rwas about to eat that Apple..."
-msgstr ""
+msgstr "Aku sangat lapar dan akan makan apel itu ..."
 
 # mes("But suddenly, Kain, my old\r"
 #: npc/airports/airships.txt
@@ -1565,7 +1566,8 @@ msgctxt "Apple Merchant#airplane"
 msgid ""
 "But suddenly, Kain, my old\rfriend from the mining days,\rasked me to help him around\ron the Airship. So I did, and"
 "\rit was there where I found some\rpeople playing the Dice game."
-msgstr ""
+msgstr "Tapi tiba-tiba, Kain, teman lama saya dari masa tambang, \ meminta saya untuk membantunya berkeliling ke Airship. Jadi saya melakukannya, dan "
+"Ada di sana di mana saya menemukan beberapa orang bermain game Dice."
 
 # mes("I was bored and curious\r"
 #: npc/airports/airships.txt
@@ -1573,169 +1575,170 @@ msgctxt "Apple Merchant#airplane"
 msgid ""
 "I was bored and curious\rand ended up wagering that\rsingle Apple in a game of\rdice. But for some reason,\rI had "
 "this incredible lucky\rstreak. One apple became two..."
-msgstr ""
+msgstr "Aku merasa bosan dan penasaran akhirnya bertarung dengan Apple dalam permainan. Tapi untuk beberapa alasan, saya telah "
+"Satu permata yang luar biasa ini. Satu apel menjadi dua ..."
 
 # mes("Two became four and\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "Two became four and\rbefore I knew it, I had\rcornered the Apple market!"
-msgstr ""
+msgstr "Dua menjadi empat dan sebelum aku menyadarinya, aku telah menyudutkan pasar Apple!"
 
 # mes("I won so many Apples, I just\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "I won so many Apples, I just\rstarted my own business here\ron the Airship. Weird, huh?"
-msgstr ""
+msgstr "Saya memenangkan begitu banyak Apel, saya baru memulai bisnis saya sendiri di sini di Airship. Aneh, hah? ""
 
 # mes("So Apples are good\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "So Apples are good\rfor you. They were\rcertainly very good\rto me. Hahahahaah~!"
-msgstr ""
+msgstr "Jadi Apel bagus untukmu Mereka pasti sangat baik padaku. Hahahahaha ~!"
 
 # mes("Thank you for\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "Thank you for\rusing my shop."
-msgstr ""
+msgstr "Terimakasih telah menipu toko saya."
 
 # mes("Farewell~");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#airplane"
 msgid "Farewell~"
-msgstr ""
+msgstr "Selamat tinggal ~"
 
 # mapannounce("airplane_01", _("We are heading to Izlude."), bc_map, "0x00ff00");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "We are heading to Izlude."
-msgstr ""
+msgstr "Kami menuju ke Izlude."
 
 # mapannounce("airplane_01", _("We will arrive in Izlude shortly."), bc_map, "0x00ff00");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "We will arrive in Izlude shortly."
-msgstr ""
+msgstr "Kami akan segera tiba di Izlude."
 
 # mapannounce("airplane_01", _("Welcome to Izlude. Have a safe trip."), bc_map, "0x00ff00");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "Welcome to Izlude. Have a safe trip."
-msgstr ""
+msgstr "Selamat Datang di Izlude. Semoga selamat sampai tujuan."
 
 # mapannounce("airplane_01", _("We are currently in Izlude. The Airship will take off shortly."), bc_map, "0x00ff00");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "We are currently in Izlude. The Airship will take off shortly."
-msgstr ""
+msgstr "Kami saat ini berada di Izlude. Pesawat akan segera lepas landas."
 
 # mapannounce("airplane_01", _("The Airship is now taking off. Our next destination is Juno."), bc_map, "0x70dbdb");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "The Airship is now taking off. Our next destination is Juno."
-msgstr ""
+msgstr "Pesawat sekarang lepas landas. Tujuan kami selanjutnya adalah Juno."
 
 # mapannounce("airplane_01", _("We are heading to Juno."), bc_map, "0x70dbdb");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "We are heading to Juno."
-msgstr ""
+msgstr "Kami menuju Juno."
 
 # mapannounce("airplane_01", _("We will arrive in Juno shortly."), bc_map, "0x70dbdb");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "We will arrive in Juno shortly."
-msgstr ""
+msgstr "Kami akan segera sampai di Juno."
 
 # mapannounce("airplane_01", _("Welcome to Juno. Have a safe trip."), bc_map, "0x70dbdb");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "Welcome to Juno. Have a safe trip."
-msgstr ""
+msgstr "Selamat datang di Juno. Semoga selamat sampai tujuan."
 
 # mapannounce("airplane_01", _("We are currently in Juno. The Airship will leave shortly."), bc_map, "0x70dbdb");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "We are currently in Juno. The Airship will leave shortly."
-msgstr ""
+msgstr "Kami sedang di Juno. Pesawat akan segera berangkat."
 
 # mapannounce("airplane_01", _("The Airship is leaving the ground. Our next destination is Rachel."), bc_map, "0xFF8200");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "The Airship is leaving the ground. Our next destination is Rachel."
-msgstr ""
+msgstr "Pesawat terbang meninggalkan tanah. Tujuan kami selanjutnya adalah Rachel"
 
 # mapannounce("airplane_01", _("We are heading to Rachel."), bc_map, "0xFF8200");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "We are heading to Rachel."
-msgstr ""
+msgstr "Kami menuju ke Rachel."
 
 # mapannounce("airplane_01", _("We will arrive in Rachel shortly."), bc_map, "0xFF8200");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "We will arrive in Rachel shortly."
-msgstr ""
+msgstr "Kami akan segera sampai di Rachel."
 
 # mapannounce("airplane_01", _("Welcome to Rachel. Have a safe trip."), bc_map, "0xFF8200");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "Welcome to Rachel. Have a safe trip."
-msgstr ""
+msgstr "Selamat datang di Rachel. Semoga selamat sampai tujuan."
 
 # mapannounce("airplane_01", _("We are currently in Rachel. The Airship will take off shortly."), bc_map, "0xFF8200");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "We are currently in Rachel. The Airship will take off shortly."
-msgstr ""
+msgstr "Kami saat ini berada di Rachel. Pesawat akan segera lepas landas."
 
 # mapannounce("airplane_01", _("The Airship is now taking off. Our next destination is Izlude."), bc_map, "0x00ff00");
 #: npc/airports/airships.txt
 msgctxt "International_Airship"
 msgid "The Airship is now taking off. Our next destination is Izlude."
-msgstr ""
+msgstr "Pesawat sekarang lepas landas. Tujuan kami selanjutnya adalah Izlude."
 
 # mes("[Airship Staff]");
 #: npc/airports/airships.txt
 msgctxt "Airship Staff#airplane01"
 msgid "[Airship Staff]"
-msgstr ""
+msgstr "[Staf Angkatan Udara]"
 
 # mes("Welcome\r"
 #: npc/airports/airships.txt
 msgctxt "Airship Staff#airplane01"
 msgid "Welcome\rto the Airship."
-msgstr ""
+msgstr "Selamat datang di pesawat."
 
 # mes("How may I help you?");
 #: npc/airports/airships.txt
 msgctxt "Airship Staff#airplane01"
 msgid "How may I help you?"
-msgstr ""
+msgstr "Bagaimana saya bisa membantu Anda?"
 
 # switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "Airship Staff#airplane01"
 msgid "Using the Airship"
-msgstr ""
+msgstr "Menggunakan Airship"
 
 # switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "Airship Staff#airplane01"
 msgid "Captain's Cabin"
-msgstr ""
+msgstr "Kabin kapten"
 
 # switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "Airship Staff#airplane01"
 msgid "Facilities"
-msgstr ""
+msgstr "Fasilitas"
 
 # switch (select("Using the Airship", "Captain's Cabin", "Facilities", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "Airship Staff#airplane01"
 msgid "Cancel"
-msgstr ""
+msgstr "Membatalkan"
 
 # mes("When you see a broadcast\r"
 #: npc/airports/airships.txt
@@ -1743,19 +1746,20 @@ msgctxt "Airship Staff#airplane01"
 msgid ""
 "When you see a broadcast\rannouncing that we have\rarrived at your destination,\rplease use one of the exits"
 "\rlocated at the north and\rsouth ends of the Airship."
-msgstr ""
+msgstr "Bila Anda melihat siaran \ mengumumkan bahwa kita telah tiba di tempat tujuan Anda, \ rplease gunakan salah satu pintu keluar "
+"Terletak di utara dan ujung-ujung pesawat."
 
 # mes("If you happen to miss\r"
 #: npc/airports/airships.txt
 msgctxt "Airship Staff#airplane01"
 msgid "If you happen to miss\ryour stop, don't worry."
-msgstr ""
+msgstr "Jika Anda kebetulan melewatkan \ stop Anda, jangan khawatir."
 
 # mes("The Airship is constantly\r"
 #: npc/airports/airships.txt
 msgctxt "Airship Staff#airplane01"
 msgid "The Airship is constantly\ren route and you'll get\ranother chance to arrive\rto your intended destination."
-msgstr ""
+msgstr "Airship terus-menerus melakukan ren rute dan Anda akan mendapatkan \ kesempatan lagi untuk sampai ke tujuan yang Anda inginkan."
 
 # mes("The Captain's Cabin\r"
 #: npc/airports/airships.txt
@@ -1763,7 +1767,8 @@ msgctxt "Airship Staff#airplane01"
 msgid ""
 "The Captain's Cabin\ris located at the front\rof the Airship. There, you\rcan meet the captain and\rthe pilot of the "
 "Airship."
-msgstr ""
+msgstr "Kabin Kapten berada di depan pesawat. Di sana, Anda bisa bertemu kapten dan \ pilot dari "
+"Pesawat."
 
 # mes("The Airship provides\r"
 #: npc/airports/airships.txt
@@ -1771,73 +1776,74 @@ msgctxt "Airship Staff#airplane01"
 msgid ""
 "The Airship provides\rvarious Mini Games for\rthe entertainment of all\rour passengers. We invite\ryou to try your "
 "luck and skills\rin the Airship's Mini Games~"
-msgstr ""
+msgstr "The Airship menyediakan berbagai permainan mini untuk hiburan semua penumpang. Kami mengundang Anda untuk mencoba "
+"Keberuntungan dan keterampilan dalam Mini Games Aircraft ~"
 
 # mes("Well, I hope you\r"
 #: npc/airports/airships.txt
 msgctxt "Airship Staff#airplane01"
 msgid "Well, I hope you\ryour flight aboard\rour Airships. Thank\ryou and have a good day."
-msgstr ""
+msgstr "Nah, saya harap Anda \ penerbangan Anda di atas \ tour Airships. Terima kasih dan semoga harimu menyenangkan."
 
 # mes("- Wait a minute !! -");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "- Wait a minute !! -"
-msgstr ""
+msgstr "- Tunggu sebentar !! -"
 
 # mes("- Currently you're carrying -");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "- Currently you're carrying -"
-msgstr ""
+msgstr "- Saat ini kamu membawa -"
 
 # mes("- too many items with you. -");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "- too many items with you. -"
-msgstr ""
+msgstr "- terlalu banyak barang denganmu -"
 
 # mes("- Please try again -");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "- Please try again -"
-msgstr ""
+msgstr "- Silakan coba lagi -"
 
 # mes("- after you loose some weight. -");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "- after you loose some weight. -"
-msgstr ""
+msgstr "- setelah Anda menurunkan berat badan. -"
 
 # mes("[Meltz]");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "[Meltz]"
-msgstr ""
+msgstr "[Meltz]"
 
 # mes("Welcome to Meltz's\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Welcome to Meltz's\rShop where you can\rpurchase Apples or grind\rthem to make Apple Juice."
-msgstr ""
+msgstr "Selamat datang di Meltz \ Shop dimana Anda dapat \ membeli Apel atau menggilingnya untuk membuat Apple Juice."
 
 # switch (select("Buy Apples.", "Make Apple Juice.", "Cancel.")) {
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Buy Apples."
-msgstr ""
+msgstr "Beli Apel."
 
 # switch (select("Buy Apples.", "Make Apple Juice.", "Cancel.")) {
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Make Apple Juice."
-msgstr ""
+msgstr "Jadikan Juice Apple."
 
 # switch (select("Buy Apples.", "Make Apple Juice.", "Cancel.")) {
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Cancel."
-msgstr ""
+msgstr "Membatalkan."
 
 # mes("Please enter the amount\r"
 #: npc/airports/airships.txt
@@ -1845,19 +1851,20 @@ msgctxt "Apple Merchant#air01"
 msgid ""
 "Please enter the amount\rof Apples that you wish to\rbuy. Each Apple is 15 zeny\rand you can buy a maximum\rof 500 "
 "at a time. Please enter\r'0' to cancel your order."
-msgstr ""
+msgstr "Harap masukkan jumlah Apel yang ingin Anda \ beli. Setiap Apple 15 zeny dan Anda bisa membeli maksimal 500 rof "
+"Pada suatu waktu Silakan masukkan \ r'0 'untuk membatalkan pesanan Anda."
 
 # mes("Thanks for stopping\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Thanks for stopping\rby my shop. Farewell!"
-msgstr ""
+msgstr "Terima kasih telah berhenti di tokonya. Selamat tinggal!"
 
 # mes("Come by anytime when\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Come by anytime when\ryou feel like having an\rApple to snack on~"
-msgstr ""
+msgstr "Datang kapan saja kapan Anda merasa ingin bersenang-senang di ~ rApple"
 
 # mes("You've entered a number\r"
 #: npc/airports/airships.txt
@@ -1865,44 +1872,44 @@ msgctxt "Apple Merchant#air01"
 msgid ""
 "You've entered a number\rhigher than the maximum\rvalue of 500. Please enter\rthe number of Apples you\rwish to "
 "purchase again."
-msgstr ""
+msgstr "Anda telah memasukkan angka \ lebih tinggi dari nilai maksimum 500. Silakan masukkan \ jumlah Apel yang Anda"
 
 # mesf("A total of ^FF0000%d^000000 Apples\r"
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "Apple Merchant#air01"
 msgid "A total of ^FF0000%d^000000 Apples\rwill cost you ^FF0000%d Zeny^000000."
-msgstr ""
+msgstr "Sebanyak ^ FF0000% d ^ 000000 Apel \ akan dikenakan biaya ^ FF0000% d Zeny ^ 000000."
 
 # mes("Would you like to continue?");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Would you like to continue?"
-msgstr ""
+msgstr "Apakah Anda ingin melanjutkan?"
 
 # if (select("Yes", "No") == 2) {
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Yes"
-msgstr ""
+msgstr "iya nih"
 
 # if (select("Yes", "No") == 2) {
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("I'm sorry, you don't have\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "I'm sorry, you don't have\renough money with you."
-msgstr ""
+msgstr "Maaf, Anda tidak memiliki cukup uang dengan Anda."
 
 # mes("Please check your funds or\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Please check your funds or\rpurchase less Apples."
-msgstr ""
+msgstr "Silakan periksa dana Anda atau kurang membeli Apples."
 
 # mes("Hmm, I don't think you've\r"
 #: npc/airports/airships.txt
@@ -1910,91 +1917,92 @@ msgctxt "Apple Merchant#air01"
 msgid ""
 "Hmm, I don't think you've\rgot enough room to carry\rthis many Apples. You might\rwant to free up your inventory"
 "\rspace."
-msgstr ""
+msgstr "Hmm, saya tidak berpikir Anda sudah cukup banyak ruang untuk membawa banyak Apel ini. Anda mungkin ingin membebaskan inventaris Anda "
+"\ Rspace."
 
 # mes("Thanks for stopping by\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Thanks for stopping by\rmy shop. I hope you enjoy\rthe flavor of these Apples~!"
-msgstr ""
+msgstr "Terima kasih telah mampir ke toko militer. Saya harap Anda menikmati \ rasa dari Apel ini ~!"
 
 # mes("Okay, I'll need\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Okay, I'll need\r^FF00003 Apples and 1 Empty Bottle^000000\rto make 1 Apple Juice for you."
-msgstr ""
+msgstr "Baiklah, saya membutuhkan Apel FF00003 dan 1 Botol Kosong ^ 000000 untuk membuat 1 Jus Apple untuk Anda."
 
 # mes("Would you like to proceed?");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Would you like to proceed?"
-msgstr ""
+msgstr "Apakah Anda ingin melanjutkan?"
 
 # mes("I'm sorry, but you don't\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "I'm sorry, but you don't\rhave enough materials to\rcreate a bottle of Apple Juice."
-msgstr ""
+msgstr "Maaf, tapi Anda tidak punya cukup bahan untuk membuat sebotol jus apel."
 
 # mes("Remember, I need 3 Apples\r"
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Remember, I need 3 Apples\rand 1 Empty Bottle to do it."
-msgstr ""
+msgstr "Ingat, saya membutuhkan 3 Apel dan Botol Kosong untuk melakukannya."
 
 # mes("Thank you, please wait.");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Thank you, please wait."
-msgstr ""
+msgstr "Terima kasih tunggu"
 
 # mes("^3355FF*Grind* *Grind*");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "^3355FF*Grind* *Grind*"
-msgstr ""
+msgstr "^3355FF*Grind* *Grind*"
 
 # mes("*Grind* *Grind*");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "*Grind* *Grind*"
-msgstr ""
+msgstr "*Grind* *Grind*"
 
 # mes("*Clang...!*^000000");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "*Clang...!*^000000"
-msgstr ""
+msgstr "*Clang...!*^000000"
 
 # mes("There you go~");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "There you go~"
-msgstr ""
+msgstr "Itu dia"
 
 # mes("Please come again.");
 #: npc/airports/airships.txt
 msgctxt "Apple Merchant#air01"
 msgid "Please come again."
-msgstr ""
+msgstr "Silahkan datang lagi."
 
 # mes("[Pilot]");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "[Pilot]"
-msgstr ""
+msgstr "[Pilot]"
 
 # mes("Longitude, 131 degrees east.");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "Longitude, 131 degrees east."
-msgstr ""
+msgstr "Longitude, 131 degrees east."
 
 # mes("Latitude, 37 degrees north.");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "Latitude, 37 degrees north."
-msgstr ""
+msgstr "Latitude, 37 degrees north."
 
 # mes("We're right on course, captain.");
 #: npc/airports/airships.txt
