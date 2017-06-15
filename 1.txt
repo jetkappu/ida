@@ -1996,13 +1996,13 @@ msgstr "[Pilot]"
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "Longitude, 131 degrees east."
-msgstr "Longitude, 131 degrees east."
+msgstr "Bujur, 131 derajat ke timur."
 
 # mes("Latitude, 37 degrees north.");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "Latitude, 37 degrees north."
-msgstr "Latitude, 37 degrees north."
+msgstr "Lintang, 37 derajat ke utara."
 
 # mes("We're right on course, captain.");
 #: npc/airports/airships.txt
