@@ -1,0 +1,4997 @@
+# mes "Okay, not too long ago, a famous";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "Okay, not too long ago, a famous"
+msgstr ""
+
+# mes "adventurer named Niels came back from his travels.";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "adventurer named Niels came back from his travels."
+msgstr ""
+
+# mes "*Whispers*";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "*Whispers*"
+msgstr ""
+
+# mes "^555555He brought a big box with him.^000000";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "^555555He brought a big box with him.^000000"
+msgstr ""
+
+# mes "Also, he came back in the middle";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "Also, he came back in the middle"
+msgstr ""
+
+# mes "of the night without telling";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "of the night without telling"
+msgstr ""
+
+# mes "anyone. So, of course he's got";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "anyone. So, of course he's got"
+msgstr ""
+
+# mes "some secret, don't you think?";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "some secret, don't you think?"
+msgstr ""
+
+# mes "What could be inside that box~?";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "What could be inside that box~?"
+msgstr ""
+
+# mes "It just has to be treasure!!";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "It just has to be treasure!!"
+msgstr ""
+
+# mes "So! We decided to go on a journey to find treasure of our own-!!";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "So! We decided to go on a journey to find treasure of our own-!!"
+msgstr ""
+
+# mes "The problem is, we are not sure";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "The problem is, we are not sure"
+msgstr ""
+
+# mes "whether or not Niels would tell";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "whether or not Niels would tell"
+msgstr ""
+
+# mes "us the location of where he";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "us the location of where he"
+msgstr ""
+
+# mes "found the treasure...";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "found the treasure..."
+msgstr ""
+
+# mes "Because Niels always treat us like";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "Because Niels always treat us like"
+msgstr ""
+
+# mes "we're stupid!! Bah~!!";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "we're stupid!! Bah~!!"
+msgstr ""
+
+# select("Where is this Niels person?");
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "Where is this Niels person?"
+msgstr ""
+
+# mes "He's staying at the northern part";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "He's staying at the northern part"
+msgstr ""
+
+# mes "of this village.";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "of this village."
+msgstr ""
+
+# mes "Since we gave you good information,";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "Since we gave you good information,"
+msgstr ""
+
+# mes "we expect that you pay us back!";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "we expect that you pay us back!"
+msgstr ""
+
+# mes "Good luck!";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "Good luck!"
+msgstr ""
+
+# mes "Oh well~! If you don't have the money, then we can't give you the information~";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "Oh well~! If you don't have the money, then we can't give you the information~"
+msgstr ""
+
+# mes "Bah! Whatever~";
+#: npc/cities/umbala.txt
+msgctxt "Haith#um"
+msgid "Bah! Whatever~"
+msgstr ""
+
+# mes "[Iriya]";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "[Iriya]"
+msgstr ""
+
+# mes "Mr. Niels is at the table in the";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "Mr. Niels is at the table in the"
+msgstr ""
+
+# mes "corner. He has many interesting";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "corner. He has many interesting"
+msgstr ""
+
+# mes "stories about the world.";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "stories about the world."
+msgstr ""
+
+# mes "I am not sure where he has been";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "I am not sure where he has been"
+msgstr ""
+
+# mes "this time. He just laughs and";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "this time. He just laughs and"
+msgstr ""
+
+# mes "says 'I don't think I am fit";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "says 'I don't think I am fit"
+msgstr ""
+
+# mes "for this teaching job.'";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "for this teaching job.'"
+msgstr ""
+
+# mes "In the meantime, people keep";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "In the meantime, people keep"
+msgstr ""
+
+# mes "visiting Mr. Niels... and I";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "visiting Mr. Niels... and I"
+msgstr ""
+
+# mes "can't help but wonder...";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "can't help but wonder..."
+msgstr ""
+
+# mes "Where has he gone?";
+#: npc/cities/umbala.txt
+msgctxt "Iriya#um"
+msgid "Where has he gone?"
+msgstr ""
+
+# mes "[Niels]";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "[Niels]"
+msgstr ""
+
+# mes "Hmm? What's that look for?";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "Hmm? What's that look for?"
+msgstr ""
+
+# mes "Ah~ You must of heard the rumors";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "Ah~ You must of heard the rumors"
+msgstr ""
+
+# mes "of me finding some kind of";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "of me finding some kind of"
+msgstr ""
+
+# mes "treasure. Yeah, that's understandable...";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "treasure. Yeah, that's understandable..."
+msgstr ""
+
+# mes "Well, those rumors of me stumbling";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "Well, those rumors of me stumbling"
+msgstr ""
+
+# mes "on some wonderful treasure is";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "on some wonderful treasure is"
+msgstr ""
+
+# mes "just the result of overactive";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "just the result of overactive"
+msgstr ""
+
+# mes "imaginations. All I've found";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "imaginations. All I've found"
+msgstr ""
+
+# mes "was a little something to add";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "was a little something to add"
+msgstr ""
+
+# mes "to my collection.";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "to my collection."
+msgstr ""
+
+# mes "But...since I've proven to myself";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "But...since I've proven to myself"
+msgstr ""
+
+# mes "that 'it' actually exists by";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "that 'it' actually exists by"
+msgstr ""
+
+# mes "seeing it with my own eyes,";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "seeing it with my own eyes,"
+msgstr ""
+
+# mes "to me, what I've obtained is a";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "to me, what I've obtained is a"
+msgstr ""
+
+# mes "valuable treasure.";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "valuable treasure."
+msgstr ""
+
+# mes "This village of Comodo!";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "This village of Comodo!"
+msgstr ""
+
+# mes "Don't you think the caves are too";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "Don't you think the caves are too"
+msgstr ""
+
+# mes "small and narrow for some reason?";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "small and narrow for some reason?"
+msgstr ""
+
+# mes "So I was thinking about it...";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "So I was thinking about it..."
+msgstr ""
+
+# mes "And I came to the conclusion that";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "And I came to the conclusion that"
+msgstr ""
+
+# mes "there should be something hidden";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "there should be something hidden"
+msgstr ""
+
+# mes "inside the cave...";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "inside the cave..."
+msgstr ""
+
+# mes "And then!";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "And then!"
+msgstr ""
+
+# mes "I finally found it.";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "I finally found it."
+msgstr ""
+
+# mes "The patch to 'the place'";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "The patch to 'the place'"
+msgstr ""
+
+# mes "that no one has ever found!";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "that no one has ever found!"
+msgstr ""
+
+# mes "................";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "................"
+msgstr ""
+
+# mes ".......Hm?";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid ".......Hm?"
+msgstr ""
+
+# mes "I was expecting a spectacular and";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "I was expecting a spectacular and"
+msgstr ""
+
+# mes "rather dramatic sound effect";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "rather dramatic sound effect"
+msgstr ""
+
+# mes "for my declaration!";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "for my declaration!"
+msgstr ""
+
+# mes "Eh, oh well...";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "Eh, oh well..."
+msgstr ""
+
+# mes "Well, in the spirit of discovery,";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "Well, in the spirit of discovery,"
+msgstr ""
+
+# mes "don't ever think of asking me";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "don't ever think of asking me"
+msgstr ""
+
+# mes "about directions to 'the place'";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "about directions to 'the place'"
+msgstr ""
+
+# mes "or about what is in 'the place.'";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "or about what is in 'the place.'"
+msgstr ""
+
+# mes "I wouldn't want to spoil the";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "I wouldn't want to spoil the"
+msgstr ""
+
+# mes "surprise.";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "surprise."
+msgstr ""
+
+# mes "If you're a real adventurer,";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "If you're a real adventurer,"
+msgstr ""
+
+# mes "I expect you to scream at the";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "I expect you to scream at the"
+msgstr ""
+
+# mes "top of your lungs...";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "top of your lungs..."
+msgstr ""
+
+# mes "'Ahhhh! I need to know what it";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "'Ahhhh! I need to know what it"
+msgstr ""
+
+# mes "is!!' Kick the door open and run";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "is!!' Kick the door open and run"
+msgstr ""
+
+# mes "like hell to find this place on";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "like hell to find this place on"
+msgstr ""
+
+# mes "your own!!";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "your own!!"
+msgstr ""
+
+# mes "Now! Hurry and seek this place";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "Now! Hurry and seek this place"
+msgstr ""
+
+# mes "out! Will this place be a totally";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "out! Will this place be a totally"
+msgstr ""
+
+# mes "new world, or will it be a trap";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "new world, or will it be a trap"
+msgstr ""
+
+# mes "to hell?! Go forth, meet your";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "to hell?! Go forth, meet your"
+msgstr ""
+
+# mes "destiny, adventurer!";
+#: npc/cities/umbala.txt
+msgctxt "Niels#um"
+msgid "destiny, adventurer!"
+msgstr ""
+
+# mes "[???]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "[???]"
+msgstr ""
+
+# mes "Huh?";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Huh?"
+msgstr ""
+
+# mes "You're not one of us, are you?";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "You're not one of us, are you?"
+msgstr ""
+
+# mes "Heh! Hi!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Heh! Hi!"
+msgstr ""
+
+# mes "My name is Haatan.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "My name is Haatan."
+msgstr ""
+
+# mes "[Haatan]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "[Haatan]"
+msgstr ""
+
+# mes "...*Sigh*";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "...*Sigh*"
+msgstr ""
+
+# mes "I am sorry, but I cannot play with";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "I am sorry, but I cannot play with"
+msgstr ""
+
+# mes "you right now. My parent's house";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "you right now. My parent's house"
+msgstr ""
+
+# mes "was struck by lightning yesterday";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "was struck by lightning yesterday"
+msgstr ""
+
+# mes "and it burned down our roof...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "and it burned down our roof..."
+msgstr ""
+
+# mes " . . . !";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid " . . . !"
+msgstr ""
+
+# mes "Oh yes! Could you help me?";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Oh yes! Could you help me?"
+msgstr ""
+
+# mes "You look pretty well off...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "You look pretty well off..."
+msgstr ""
+
+# mes "Can donate some money for";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Can donate some money for"
+msgstr ""
+
+# mes "re-constructing my parents' house?";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "re-constructing my parents' house?"
+msgstr ""
+
+# mes "You Rune-Midgardians are all";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "You Rune-Midgardians are all"
+msgstr ""
+
+# mes "richier than Utans! I beg you!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "richier than Utans! I beg you!"
+msgstr ""
+
+# if (select("(Nod head)", "(Shake head)") == 1) {
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "(Nod head)"
+msgstr ""
+
+# if (select("(Nod head)", "(Shake head)") == 1) {
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "(Shake head)"
+msgstr ""
+
+# mes "Whoaaaa!!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Whoaaaa!!"
+msgstr ""
+
+# mes "You the man~!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "You the man~!"
+msgstr ""
+
+# mes "Thank you so much, yay~!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Thank you so much, yay~!"
+msgstr ""
+
+# mes "Uh...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Uh..."
+msgstr ""
+
+# mes "It looks like...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "It looks like..."
+msgstr ""
+
+# mes "You don't have much";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "You don't have much"
+msgstr ""
+
+# mes "yourself...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "yourself..."
+msgstr ""
+
+# mes "Thank you so much!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Thank you so much!"
+msgstr ""
+
+# mes ".............*Sob*...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid ".............*Sob*..."
+msgstr ""
+
+# mes "Umbah?";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umbah?"
+msgstr ""
+
+# mes "Umbala umbabah umbah?";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umbala umbabah umbah?"
+msgstr ""
+
+# mes "Umbah! Umbaumbah!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umbah! Umbaumbah!"
+msgstr ""
+
+# mes "Umbahumbah Haatan babah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umbahumbah Haatan babah."
+msgstr ""
+
+# mes "........umbah,";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "........umbah,"
+msgstr ""
+
+# mes "Umbah umbah umbaumbumbah umbah umbah";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umbah umbah umbaumbumbah umbah umbah"
+msgstr ""
+
+# mes "Babaum babahum woombah umbah umbabah";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Babaum babahum woombah umbah umbabah"
+msgstr ""
+
+# mes "Umbah umbah";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umbah umbah"
+msgstr ""
+
+# mes "..Umbah umbabah umbah...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "..Umbah umbabah umbah..."
+msgstr ""
+
+# mes "Umbah!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umbah!"
+msgstr ""
+
+# mes "Umbah umbah? Umbah umbahbah";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umbah umbah? Umbah umbahbah"
+msgstr ""
+
+# mes "abaum babahum woombah!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "abaum babahum woombah!"
+msgstr ""
+
+# mes "Umbahumbah umbabahumbaumhumbah! Umbah!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umbahumbah umbabahumbaumhumbah! Umbah!"
+msgstr ""
+
+# mes "Umbaumbah!!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umbaumbah!!"
+msgstr ""
+
+# mes "Um~bahumbah~ Um~baumbah~";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Um~bahumbah~ Um~baumbah~"
+msgstr ""
+
+# mes "Um~baumbah~ um~baumbah~";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Um~baumbah~ um~baumbah~"
+msgstr ""
+
+# mes "...umbah? Umbahumbah!! Umbaum!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "...umbah? Umbahumbah!! Umbaum!"
+msgstr ""
+
+# mes "Umba umba umbaum.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "Umba umba umbaum."
+msgstr ""
+
+# mes "........umbah..";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#um"
+msgid "........umbah.."
+msgstr ""
+
+# mes "[Kotan]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "[Kotan]"
+msgstr ""
+
+# mes "............";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "............"
+msgstr ""
+
+# mes ".........poop!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid ".........poop!"
+msgstr ""
+
+# mes ".....me like Meat.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid ".....me like Meat."
+msgstr ""
+
+# mes "....gimme a Meat.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "....gimme a Meat."
+msgstr ""
+
+# if (select("Give him Meat.", "Refuse.") == 1) {
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Give him Meat."
+msgstr ""
+
+# if (select("Give him Meat.", "Refuse.") == 1) {
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Refuse."
+msgstr ""
+
+# mes "Whoa, are you really giving me";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Whoa, are you really giving me"
+msgstr ""
+
+# mes "Meat? Thanks! I will pay you";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Meat? Thanks! I will pay you"
+msgstr ""
+
+# mes "back with these.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "back with these."
+msgstr ""
+
+# mes "Hah! You don't have Meat,";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Hah! You don't have Meat,"
+msgstr ""
+
+# mes "but pretend that you do?!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "but pretend that you do?!"
+msgstr ""
+
+# mes "I hate people who lie";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "I hate people who lie"
+msgstr ""
+
+# mes "to me!!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "to me!!"
+msgstr ""
+
+# mes ".........";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "........."
+msgstr ""
+
+# mes ".....hungwee.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid ".....hungwee."
+msgstr ""
+
+# mes ".....I want Meat.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid ".....I want Meat."
+msgstr ""
+
+# mes "[???]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "[???]"
+msgstr ""
+
+# mes "........umbah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "........umbah."
+msgstr ""
+
+# mes ".......umbabah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid ".......umbabah."
+msgstr ""
+
+# mes "......humbah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "......humbah."
+msgstr ""
+
+# if (select("Umbah", "Umbaboo") == 1) {
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Umbah"
+msgstr ""
+
+# if (select("Umbah", "Umbaboo") == 1) {
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Umbaboo"
+msgstr ""
+
+# mes "Umbaumbaumbabababah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Umbaumbaumbabababah."
+msgstr ""
+
+# mes "Umbababahum.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Umbababahum."
+msgstr ""
+
+# mes "Umbahumumhumbubabababah!!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Umbahumumhumbubabababah!!"
+msgstr ""
+
+# mes "Umbahumbababah umbahumboo!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "Umbahumbababah umbahumboo!"
+msgstr ""
+
+# mes "...........";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "..........."
+msgstr ""
+
+# mes "......woong bah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "......woong bah."
+msgstr ""
+
+# mes "....umbabababah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#1"
+msgid "....umbabababah."
+msgstr ""
+
+# mes "[Pasto]";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "[Pasto]"
+msgstr ""
+
+# mes "Oh my god~! Finally,";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "Oh my god~! Finally,"
+msgstr ""
+
+# mes "another Rune-Midgardian!";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "another Rune-Midgardian!"
+msgstr ""
+
+# mes "I've never seen anyone from";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "I've never seen anyone from"
+msgstr ""
+
+# mes "home in this place before!";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "home in this place before!"
+msgstr ""
+
+# mes "Nice to meet you, my name is Pasto!";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "Nice to meet you, my name is Pasto!"
+msgstr ""
+
+# mes "This place is called Umbala.";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "This place is called Umbala."
+msgstr ""
+
+# mes "The local people in this village";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "The local people in this village"
+msgstr ""
+
+# mes "have formed a culture that's";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "have formed a culture that's"
+msgstr ""
+
+# mes "totally different from other";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "totally different from other"
+msgstr ""
+
+# mes "places I've been.";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "places I've been."
+msgstr ""
+
+# mes "I guess it's because this";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "I guess it's because this"
+msgstr ""
+
+# mes "place has been isolated from";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "place has been isolated from"
+msgstr ""
+
+# mes "other regions because of its";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "other regions because of its"
+msgstr ""
+
+# mes "geographical features.";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "geographical features."
+msgstr ""
+
+# mes "They look different from us, and";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "They look different from us, and"
+msgstr ""
+
+# mes "use a language that is still very";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "use a language that is still very"
+msgstr ""
+
+# mes "confusing to me. I was also";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "confusing to me. I was also"
+msgstr ""
+
+# mes "confounded by their different use";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "confounded by their different use"
+msgstr ""
+
+# mes "of facial expression.";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "of facial expression."
+msgstr ""
+
+# mes "Of course, there are some";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "Of course, there are some"
+msgstr ""
+
+# mes "similarities. However, you might";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "similarities. However, you might"
+msgstr ""
+
+# mes "want to be careful about certain";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "want to be careful about certain"
+msgstr ""
+
+# mes "issues.";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "issues."
+msgstr ""
+
+# mes "Sometimes, what you say or do";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "Sometimes, what you say or do"
+msgstr ""
+
+# mes "or do could be misinterpreted as";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "or do could be misinterpreted as"
+msgstr ""
+
+# mes "having the totally opposite meaning.";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "having the totally opposite meaning."
+msgstr ""
+
+# mes "I wish I could speak their";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "I wish I could speak their"
+msgstr ""
+
+# mes "language...*Sigh*";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "language...*Sigh*"
+msgstr ""
+
+# mes "...Or I wish I could meet more";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "...Or I wish I could meet more"
+msgstr ""
+
+# mes "people here that speak my";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "people here that speak my"
+msgstr ""
+
+# mes "language...I...I'm...";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "language...I...I'm..."
+msgstr ""
+
+# mes "So very lonely...*Sob*";
+#: npc/cities/umbala.txt
+msgctxt "Pasto#um"
+msgid "So very lonely...*Sob*"
+msgstr ""
+
+# mes "[Yuwooki]";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "[Yuwooki]"
+msgstr ""
+
+# mes "Umbah umbah woogawoo...";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "Umbah umbah woogawoo..."
+msgstr ""
+
+# mes "oops, sorry! I'm so used";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "oops, sorry! I'm so used"
+msgstr ""
+
+# mes "to speaking in Utan by now.";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "to speaking in Utan by now."
+msgstr ""
+
+# mes "It's a pleasure to meet you.";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "It's a pleasure to meet you."
+msgstr ""
+
+# mes "I never imagined that I would";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "I never imagined that I would"
+msgstr ""
+
+# mes "meet another person from";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "meet another person from"
+msgstr ""
+
+# mes "the homeland in this village.";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "the homeland in this village."
+msgstr ""
+
+# mes "Hahahahah~!";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "Hahahahah~!"
+msgstr ""
+
+# mes "I came here to seek strong people";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "I came here to seek strong people"
+msgstr ""
+
+# mes "to help me master my fighting";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "to help me master my fighting"
+msgstr ""
+
+# mes "skills. But I was soon frustrated";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "skills. But I was soon frustrated"
+msgstr ""
+
+# mes "because it took me a long";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "because it took me a long"
+msgstr ""
+
+# mes "time to learn the language...";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "time to learn the language..."
+msgstr ""
+
+# mes "Well, now I am kind of used to my";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "Well, now I am kind of used to my"
+msgstr ""
+
+# mes "circumstances. Even though it";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "circumstances. Even though it"
+msgstr ""
+
+# mes "took me a while to used to";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "took me a while to used to"
+msgstr ""
+
+# mes "Utan culture. Hahahaha~!";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "Utan culture. Hahahaha~!"
+msgstr ""
+
+# mes "But you know what was the weirdest";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "But you know what was the weirdest"
+msgstr ""
+
+# mes "thing I found out about Utan";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "thing I found out about Utan"
+msgstr ""
+
+# mes "culture? At first the Utan men";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "culture? At first the Utan men"
+msgstr ""
+
+# mes "seemed to have, shall we say, a";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "seemed to have, shall we say, a"
+msgstr ""
+
+# mes "strong species preservation instinct.";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "strong species preservation instinct."
+msgstr ""
+
+# mes "There are many Utan playboys in";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "There are many Utan playboys in"
+msgstr ""
+
+# mes "this village. Some may think";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "this village. Some may think"
+msgstr ""
+
+# mes "the Utans are primitive in";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "the Utans are primitive in"
+msgstr ""
+
+# mes "this respect, but...";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "this respect, but..."
+msgstr ""
+
+# mes "As I learned more about them,";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "As I learned more about them,"
+msgstr ""
+
+# mes "I eventually realized that their";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "I eventually realized that their"
+msgstr ""
+
+# mes "courtship rituals are actually";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "courtship rituals are actually"
+msgstr ""
+
+# mes "more advanced than anything the";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "more advanced than anything the"
+msgstr ""
+
+# mes "Rune-Midgard culture has to offer.";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "Rune-Midgard culture has to offer."
+msgstr ""
+
+# mes "It's really quite fascinating.";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "It's really quite fascinating."
+msgstr ""
+
+# mes "I'm actually still learning";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "I'm actually still learning"
+msgstr ""
+
+# mes "quite much from the Utan";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "quite much from the Utan"
+msgstr ""
+
+# mes "playboys and their awesome methods.";
+#: npc/cities/umbala.txt
+msgctxt "Yuwooki#um"
+msgid "playboys and their awesome methods."
+msgstr ""
+
+# mes "[Jertan]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "[Jertan]"
+msgstr ""
+
+# mes "Bungee jumping can be dangerous,";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "Bungee jumping can be dangerous,"
+msgstr ""
+
+# mes "and you can risk your life doing";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "and you can risk your life doing"
+msgstr ""
+
+# mes "it. We Utans have consider";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "it. We Utans have consider"
+msgstr ""
+
+# mes "bungee jumping an important";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "bungee jumping an important"
+msgstr ""
+
+# mes "part of the ceremony of";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "part of the ceremony of"
+msgstr ""
+
+# mes "becoming an adult.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "becoming an adult."
+msgstr ""
+
+# mes "[???]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "[???]"
+msgstr ""
+
+# mes "Umbaumbah humba.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "Umbaumbah humba."
+msgstr ""
+
+# mes "Woo umbaumbaumbabah woo humbah";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "Woo umbaumbaumbabah woo humbah"
+msgstr ""
+
+# mes "Umbababah umba umba.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#1"
+msgid "Umbababah umba umba."
+msgstr ""
+
+# mes "[Arotan]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#2"
+msgid "[Arotan]"
+msgstr ""
+
+# mes "Completing the bungee jump";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#2"
+msgid "Completing the bungee jump"
+msgstr ""
+
+# mes "is very difficult to do.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#2"
+msgid "is very difficult to do."
+msgstr ""
+
+# mes "Today, we are here in celebration";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#2"
+msgid "Today, we are here in celebration"
+msgstr ""
+
+# mes "of the people that made it and";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#2"
+msgid "of the people that made it and"
+msgstr ""
+
+# mes "have shown their courage.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#2"
+msgid "have shown their courage."
+msgstr ""
+
+# mes "[???]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#2"
+msgid "[???]"
+msgstr ""
+
+# mes "Woo umbaumbaumbabah woo humbah";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#2"
+msgid "Woo umbaumbaumbabah woo humbah"
+msgstr ""
+
+# mes "Umbababah umba umba.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#2"
+msgid "Umbababah umba umba."
+msgstr ""
+
+# mes "[Klumatan]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "[Klumatan]"
+msgstr ""
+
+# mes "It's really scary, falling from";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "It's really scary, falling from"
+msgstr ""
+
+# mes "such a high place...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "such a high place..."
+msgstr ""
+
+# mes "But I guess you have to do it,";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "But I guess you have to do it,"
+msgstr ""
+
+# mes "otherwise no one will ever";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "otherwise no one will ever"
+msgstr ""
+
+# mes "consider you a grownup.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "consider you a grownup."
+msgstr ""
+
+# mes "I guess I don't want to";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "I guess I don't want to"
+msgstr ""
+
+# mes "be a grownup right away.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "be a grownup right away."
+msgstr ""
+
+# mes "But some kids my age are";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "But some kids my age are"
+msgstr ""
+
+# mes "in too big of a hurry";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "in too big of a hurry"
+msgstr ""
+
+# mes "to not be kids anymore.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "to not be kids anymore."
+msgstr ""
+
+# mes "[???]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "[???]"
+msgstr ""
+
+# mes "Umbahumba umumbah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "Umbahumba umumbah."
+msgstr ""
+
+# mes "Umbahumbah umbabah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "Umbahumbah umbabah."
+msgstr ""
+
+# mes "Umbahumhumbabahum.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#3"
+msgid "Umbahumhumbabahum."
+msgstr ""
+
+# mes "[Bertan]";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "[Bertan]"
+msgstr ""
+
+# mes "What up, loser!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "What up, loser!"
+msgstr ""
+
+# mes "What's the matter,";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "What's the matter,"
+msgstr ""
+
+# mes "ya big Rune-Midgardian?!?!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "ya big Rune-Midgardian?!?!"
+msgstr ""
+
+# mes "I just called you a 'loser!'";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "I just called you a 'loser!'"
+msgstr ""
+
+# mes "I guess you're too stupid";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "I guess you're too stupid"
+msgstr ""
+
+# mes "to understand!!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "to understand!!"
+msgstr ""
+
+# mes "Hahahahahahaahahhahaha~!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Hahahahahahaahahhahaha~!"
+msgstr ""
+
+# mes "...";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "..."
+msgstr ""
+
+# mes "Uh...oh!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Uh...oh!"
+msgstr ""
+
+# mes "It looks like you can understand";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "It looks like you can understand"
+msgstr ""
+
+# mes "me--! Good job, good job!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "me--! Good job, good job!"
+msgstr ""
+
+# mes "Alright, by way of apology,";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Alright, by way of apology,"
+msgstr ""
+
+# mes "do you want to hear a joke?";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "do you want to hear a joke?"
+msgstr ""
+
+# mes "Alright, alright.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Alright, alright."
+msgstr ""
+
+# mes "Here we go.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Here we go."
+msgstr ""
+
+# mes "Ummmm...";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Ummmm..."
+msgstr ""
+
+# mes "Alright, I got one.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Alright, I got one."
+msgstr ""
+
+# mes "What did the Rune-Midgardian";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "What did the Rune-Midgardian"
+msgstr ""
+
+# mes "say to the Savage?";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "say to the Savage?"
+msgstr ""
+
+# mes "I don't know...";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "I don't know..."
+msgstr ""
+
+# mes "But they didn't have any";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "But they didn't have any"
+msgstr ""
+
+# mes "trouble understanding";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "trouble understanding"
+msgstr ""
+
+# mes "each other!!! HAHAHAHA~!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "each other!!! HAHAHAHA~!"
+msgstr ""
+
+# mes "Get it? 'Cuz, like,";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Get it? 'Cuz, like,"
+msgstr ""
+
+# mes "they're both pigs~!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "they're both pigs~!"
+msgstr ""
+
+# mes "Not funny, huh?";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Not funny, huh?"
+msgstr ""
+
+# mes "Oh well. I guess my";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Oh well. I guess my"
+msgstr ""
+
+# mes "sense of humor is just";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "sense of humor is just"
+msgstr ""
+
+# mes "too sophisticated.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "too sophisticated."
+msgstr ""
+
+# mes "Okay...what's the best";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Okay...what's the best"
+msgstr ""
+
+# mes "way to tame an Orc Lady?";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "way to tame an Orc Lady?"
+msgstr ""
+
+# mes "Give up..?";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Give up..?"
+msgstr ""
+
+# mes "With a wedding ring!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "With a wedding ring!"
+msgstr ""
+
+# mes "HAHAHAHAHAHAHHA!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "HAHAHAHAHAHAHHA!"
+msgstr ""
+
+# mes "Oh God~ I'm hilarious!!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Oh God~ I'm hilarious!!"
+msgstr ""
+
+# mes "...Wait.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "...Wait."
+msgstr ""
+
+# mes "Wait a minute...";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Wait a minute..."
+msgstr ""
+
+# mes "That's not even funny...";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "That's not even funny..."
+msgstr ""
+
+# mes "Just incredibly...";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Just incredibly..."
+msgstr ""
+
+# mes "Scary...";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Scary..."
+msgstr ""
+
+# mes "Brrr--!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Brrr--!"
+msgstr ""
+
+# mes "She's hideous!!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "She's hideous!!"
+msgstr ""
+
+# mes "Actually...forget it.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Actually...forget it."
+msgstr ""
+
+# mes "I was going to say a";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "I was going to say a"
+msgstr ""
+
+# mes "knock knock joke about";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "knock knock joke about"
+msgstr ""
+
+# mes "Isis, but then decided";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Isis, but then decided"
+msgstr ""
+
+# mes "that kind of humor is";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "that kind of humor is"
+msgstr ""
+
+# mes "too low brow.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "too low brow."
+msgstr ""
+
+# mes "...Zing!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "...Zing!"
+msgstr ""
+
+# mes "Why are Rune-Midgardians";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Why are Rune-Midgardians"
+msgstr ""
+
+# mes "SOOoOOoo...";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "SOOoOOoo..."
+msgstr ""
+
+# mes "Um, hmmmmm.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Um, hmmmmm."
+msgstr ""
+
+# mes "Maybe that joke";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Maybe that joke"
+msgstr ""
+
+# mes "isn't so good for this";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "isn't so good for this"
+msgstr ""
+
+# mes "situation, yeah?";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "situation, yeah?"
+msgstr ""
+
+# mes "Okay, why is it that";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Okay, why is it that"
+msgstr ""
+
+# mes "GMs prefer not to be";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "GMs prefer not to be"
+msgstr ""
+
+# mes "seen...? Give up?";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "seen...? Give up?"
+msgstr ""
+
+# mes "BECAUSE THOSE GUYS WEAR";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "BECAUSE THOSE GUYS WEAR"
+msgstr ""
+
+# mes "SKIRTS ~! HAHAHA!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "SKIRTS ~! HAHAHA!"
+msgstr ""
+
+# mes "OH MAN, I MADE A FUNNY!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "OH MAN, I MADE A FUNNY!"
+msgstr ""
+
+# mes "*Whew* Yowza~";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "*Whew* Yowza~"
+msgstr ""
+
+# mes "Oh, man.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Oh, man."
+msgstr ""
+
+# mes "Utterly classic.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Utterly classic."
+msgstr ""
+
+# mes "A Crusader, an Alchemist and a Novice walk into a bar.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "A Crusader, an Alchemist and a Novice walk into a bar."
+msgstr ""
+
+# mes "Inside, they see a sign that";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Inside, they see a sign that"
+msgstr ""
+
+# mes "says '^CC0000Monster Help Agency:";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "says '^CC0000Monster Help Agency:"
+msgstr ""
+
+# mes "LADIES ONLY.^000000'";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "LADIES ONLY.^000000'"
+msgstr ""
+
+# mes "'^000099Oh!^000000' says the Crusader.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "'^000099Oh!^000000' says the Crusader."
+msgstr ""
+
+# mes "'^000099It's a lucky thing we are";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "'^000099It's a lucky thing we are"
+msgstr ""
+
+# mes "all ladies.^000000' She goes up";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "all ladies.^000000' She goes up"
+msgstr ""
+
+# mes "and says '^000099Gimmie a ride.^000000'";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "and says '^000099Gimmie a ride.^000000'"
+msgstr ""
+
+# mes "Kinda rude for a Crusader,";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Kinda rude for a Crusader,"
+msgstr ""
+
+# mes "but whatever.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "but whatever."
+msgstr ""
+
+# mes "Out of nowhere, this";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Out of nowhere, this"
+msgstr ""
+
+# mes "Grand PecoPeco appears";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Grand PecoPeco appears"
+msgstr ""
+
+# mes "and is all '^CC0000I'll give you";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "and is all '^CC0000I'll give you"
+msgstr ""
+
+# mes "a ride, baby. Careful, this";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "a ride, baby. Careful, this"
+msgstr ""
+
+# mes "road can get buuuuumpy.^000000'";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "road can get buuuuumpy.^000000'"
+msgstr ""
+
+# mes "And then they're off.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "And then they're off."
+msgstr ""
+
+# mes "Next comes the Alchemist";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Next comes the Alchemist"
+msgstr ""
+
+# mes "and she's like '^330099I need";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "and she's like '^330099I need"
+msgstr ""
+
+# mes "help killing Zombies^000000' and";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "help killing Zombies^000000' and"
+msgstr ""
+
+# mes "then this Marine Sphere";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "then this Marine Sphere"
+msgstr ""
+
+# mes "comes from out of";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "comes from out of"
+msgstr ""
+
+# mes "nowhere and is all...";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "nowhere and is all..."
+msgstr ""
+
+# mes "'^CC0000I got your fire. Careful";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "'^CC0000I got your fire. Careful"
+msgstr ""
+
+# mes "baby, touch me the wrong";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "baby, touch me the wrong"
+msgstr ""
+
+# mes "way and I might just";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "way and I might just"
+msgstr ""
+
+# mes "exploooode.^000000' So then";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "exploooode.^000000' So then"
+msgstr ""
+
+# mes "they're off on their";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "they're off on their"
+msgstr ""
+
+# mes "merry way too.";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "merry way too."
+msgstr ""
+
+# mes "Finally, the Novice";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Finally, the Novice"
+msgstr ""
+
+# mes "comes up and says";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "comes up and says"
+msgstr ""
+
+# mes "'^006633I need someone to";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "'^006633I need someone to"
+msgstr ""
+
+# mes "party with.^000000'";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "party with.^000000'"
+msgstr ""
+
+# mes "Hode pops up and says...";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Hode pops up and says..."
+msgstr ""
+
+# mes "'^CC0000I know some people";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "'^CC0000I know some people"
+msgstr ""
+
+# mes "but let me check my";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "but let me check my"
+msgstr ""
+
+# mes "Rolodex. HODE on!^000000'";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Rolodex. HODE on!^000000'"
+msgstr ""
+
+# mes "....";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "...."
+msgstr ""
+
+# mes ".....";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "....."
+msgstr ""
+
+# mes "..........";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid ".........."
+msgstr ""
+
+# mes "No go?";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "No go?"
+msgstr ""
+
+# mes "Well, come on!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Well, come on!"
+msgstr ""
+
+# mes "I can't be funny";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "I can't be funny"
+msgstr ""
+
+# mes "all the time, you know?";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "all the time, you know?"
+msgstr ""
+
+# mes "[????]";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "[????]"
+msgstr ""
+
+# mes "Umbaumba Umbaumbah";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Umbaumba Umbaumbah"
+msgstr ""
+
+# mes "Bwahbwah hahbrah!";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Bwahbwah hahbrah!"
+msgstr ""
+
+# mes "Umbaumba Umbaumbah woo~";
+#: npc/cities/umbala.txt
+msgctxt "Bertan#um"
+msgid "Umbaumba Umbaumbah woo~"
+msgstr ""
+
+# mes "[Boorkatan]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "[Boorkatan]"
+msgstr ""
+
+# mes "Huh? You're from Rune-Midgard,";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Huh? You're from Rune-Midgard,"
+msgstr ""
+
+# mes "aren't you? Have you ever been bungee jumping?";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "aren't you? Have you ever been bungee jumping?"
+msgstr ""
+
+# if (select("Yeah", "No") == 1) {
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Yeah"
+msgstr ""
+
+# if (select("Yeah", "No") == 1) {
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "No"
+msgstr ""
+
+# mes "Whoa, what a surprise! I never";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Whoa, what a surprise! I never"
+msgstr ""
+
+# mes "would have thought someone from";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "would have thought someone from"
+msgstr ""
+
+# mes "outside would know how to do it.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "outside would know how to do it."
+msgstr ""
+
+# mes "Okay, I'll take your word for";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Okay, I'll take your word for"
+msgstr ""
+
+# mes "it and welcome you to our village.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "it and welcome you to our village."
+msgstr ""
+
+# mes "Er, I see...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Er, I see..."
+msgstr ""
+
+# mes "As part of the ceremony of";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "As part of the ceremony of"
+msgstr ""
+
+# mes "adulthood, all Utans have to do";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "adulthood, all Utans have to do"
+msgstr ""
+
+# mes "a bungee jump. When I grow up,";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "a bungee jump. When I grow up,"
+msgstr ""
+
+# mes "I'm gonna do it too, and prove";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "I'm gonna do it too, and prove"
+msgstr ""
+
+# mes "to everybody that I am a man!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "to everybody that I am a man!"
+msgstr ""
+
+# mes "[???]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "[???]"
+msgstr ""
+
+# mes "Umbaumbababah umhumba.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Umbaumbababah umhumba."
+msgstr ""
+
+# mes "Umbabaumumba umbaumbah?";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Umbabaumumba umbaumbah?"
+msgstr ""
+
+# mes "Umba, Umumbah umbabah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Umba, Umumbah umbabah."
+msgstr ""
+
+# mes "Umbaumbah umumbabah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Umbaumbah umumbabah."
+msgstr ""
+
+# mes "Er, Umbahumba umumbah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Er, Umbahumba umumbah."
+msgstr ""
+
+# mes "Umbahumbah umbabah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Umbahumbah umbabah."
+msgstr ""
+
+# mes "Umbahumhumbabahum.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Kid#2"
+msgid "Umbahumhumbabahum."
+msgstr ""
+
+# mes "[Weitan]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "[Weitan]"
+msgstr ""
+
+# mes "I too did the bungee jump when I";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "I too did the bungee jump when I"
+msgstr ""
+
+# mes "was young. I remember it well...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "was young. I remember it well..."
+msgstr ""
+
+# mes "It was my first time, and the";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "It was my first time, and the"
+msgstr ""
+
+# mes "ground rushed up to meet me...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "ground rushed up to meet me..."
+msgstr ""
+
+# mes "For a moment, I thought I was";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "For a moment, I thought I was"
+msgstr ""
+
+# mes "going to get myself killed...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "going to get myself killed..."
+msgstr ""
+
+# mes "But after I made it, I was so";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "But after I made it, I was so"
+msgstr ""
+
+# mes "proud of myself~";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "proud of myself~"
+msgstr ""
+
+# mes "Some Utans may not agree, but";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "Some Utans may not agree, but"
+msgstr ""
+
+# mes "I think bungee jumping is an";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "I think bungee jumping is an"
+msgstr ""
+
+# mes "important part of the ceremony";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "important part of the ceremony"
+msgstr ""
+
+# mes "of adulthood.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "of adulthood."
+msgstr ""
+
+# mes "[???]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "[???]"
+msgstr ""
+
+# mes "Umbahumba umumbah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "Umbahumba umumbah."
+msgstr ""
+
+# mes "Umbahumbah umbabah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "Umbahumbah umbabah."
+msgstr ""
+
+# mes "Umbahumhumbabahum.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#3"
+msgid "Umbahumhumbabahum."
+msgstr ""
+
+# mes "[Jooltan]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "[Jooltan]"
+msgstr ""
+
+# mes "It's been a long time since I last";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "It's been a long time since I last"
+msgstr ""
+
+# mes "saw a Rune-Midgardian~!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "saw a Rune-Midgardian~!"
+msgstr ""
+
+# mes "Welcome, stranger.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Welcome, stranger."
+msgstr ""
+
+# mes "We Utans use this place for";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "We Utans use this place for"
+msgstr ""
+
+# mes "bungee jumping. Many Utan";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "bungee jumping. Many Utan"
+msgstr ""
+
+# mes "youngsters have shown their";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "youngsters have shown their"
+msgstr ""
+
+# mes "bravery, earned their";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "bravery, earned their"
+msgstr ""
+
+# mes "self-respect, and became";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "self-respect, and became"
+msgstr ""
+
+# mes "adults in this very place.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "adults in this very place."
+msgstr ""
+
+# mes "Oh...right. A few unlucky people";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Oh...right. A few unlucky people"
+msgstr ""
+
+# mes "just fell and died after";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "just fell and died after"
+msgstr ""
+
+# mes "messing up their bungee jump. And";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "messing up their bungee jump. And"
+msgstr ""
+
+# mes "a few had heart attacks while";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "a few had heart attacks while"
+msgstr ""
+
+# mes "looking at other people jumping down...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "looking at other people jumping down..."
+msgstr ""
+
+# mes "So...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "So..."
+msgstr ""
+
+# mes "Be careful when you walk around,";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Be careful when you walk around,"
+msgstr ""
+
+# mes "You don't want to fall off.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "You don't want to fall off."
+msgstr ""
+
+# mes "And if you want to try a bungee";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "And if you want to try a bungee"
+msgstr ""
+
+# mes "jump, you should get yourself ready.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "jump, you should get yourself ready."
+msgstr ""
+
+# mes "Oh...right. Supposedly,";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Oh...right. Supposedly,"
+msgstr ""
+
+# mes "there's an unidentified";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "there's an unidentified"
+msgstr ""
+
+# mes "creature living in the water...";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "creature living in the water..."
+msgstr ""
+
+# mes "So if you happen to get dunked,";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "So if you happen to get dunked,"
+msgstr ""
+
+# mes "get out of there~!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "get out of there~!"
+msgstr ""
+
+# mes "[???]";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "[???]"
+msgstr ""
+
+# mes "Umbah umbah!";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Umbah umbah!"
+msgstr ""
+
+# mes "Umbaumbah bababah umbah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Umbaumbah bababah umbah."
+msgstr ""
+
+# mes "Babaumm Utan umbah umbabah";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Babaumm Utan umbah umbabah"
+msgstr ""
+
+# mes "Umbaba hum.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Umbaba hum."
+msgstr ""
+
+# mes "Umumhumbah umbaumbah umbabah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Umumhumbah umbaumbah umbabah."
+msgstr ""
+
+# mes "Umbaum mahbababh umba,";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Umbaum mahbababh umba,"
+msgstr ""
+
+# mes "Umbabatan umbaumbah.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Umbabatan umbaumbah."
+msgstr ""
+
+# mes "Ba, umbaumbaumumbabaumm.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Ba, umbaumbaumumbabaumm."
+msgstr ""
+
+# mes "Umbabah umbaumumum.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Umbabah umbaumumum."
+msgstr ""
+
+# mes "Umbaumbaubahum.";
+#: npc/cities/umbala.txt
+msgctxt "Utan Man#5"
+msgid "Umbaumbaubahum."
+msgstr ""
+
+# mes "[Mutakutan]";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "[Mutakutan]"
+msgstr ""
+
+# mes "Umbala has many many trees!";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Umbala has many many trees!"
+msgstr ""
+
+# mes "I, Mutakutan, like trees so much.";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "I, Mutakutan, like trees so much."
+msgstr ""
+
+# mes "Heh heh~";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Heh heh~"
+msgstr ""
+
+# mes "There is one special tree I like";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "There is one special tree I like"
+msgstr ""
+
+# mes "the most! That is the oldest and";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "the most! That is the oldest and"
+msgstr ""
+
+# mes "biggest tree in Umbala!";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "biggest tree in Umbala!"
+msgstr ""
+
+# mes "No wait, I think it is the oldest";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "No wait, I think it is the oldest"
+msgstr ""
+
+# mes "and biggest in the world...";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "and biggest in the world..."
+msgstr ""
+
+# mes "I'm sure it is!";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "I'm sure it is!"
+msgstr ""
+
+# mes "It's really really big and old!";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "It's really really big and old!"
+msgstr ""
+
+# mes "It's so tall, even I haven't seen";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "It's so tall, even I haven't seen"
+msgstr ""
+
+# mes "the top of this tree yet. I tried";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "the top of this tree yet. I tried"
+msgstr ""
+
+# mes "climbing it before, but I could";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "climbing it before, but I could"
+msgstr ""
+
+# mes "never reach the top...even though";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "never reach the top...even though"
+msgstr ""
+
+# mes "I'm great at tree climbing.";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "I'm great at tree climbing."
+msgstr ""
+
+# mes "Oh, also the fruits from the tree";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Oh, also the fruits from the tree"
+msgstr ""
+
+# mes "are very tasty! I bet they are the";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "are very tasty! I bet they are the"
+msgstr ""
+
+# mes "most delicious fruit in the world~";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "most delicious fruit in the world~"
+msgstr ""
+
+# mes "Sweet and sour...eating it just";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Sweet and sour...eating it just"
+msgstr ""
+
+# mes "makes you feel refreshed and";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "makes you feel refreshed and"
+msgstr ""
+
+# mes "invigorated~!";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "invigorated~!"
+msgstr ""
+
+# mes "There's an amazing story about";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "There's an amazing story about"
+msgstr ""
+
+# mes "this fruit. An old man in my";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "this fruit. An old man in my"
+msgstr ""
+
+# mes "village was suffering from a";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "village was suffering from a"
+msgstr ""
+
+# mes "mortal disease...nothing";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "mortal disease...nothing"
+msgstr ""
+
+# mes "seemed to help...";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "seemed to help..."
+msgstr ""
+
+# mes "But after he took medicine made";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "But after he took medicine made"
+msgstr ""
+
+# mes "from the ground leaves of this";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "from the ground leaves of this"
+msgstr ""
+
+# mes "tree, he became healthy and sound";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "tree, he became healthy and sound"
+msgstr ""
+
+# mes "again! I think God sent us the";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "again! I think God sent us the"
+msgstr ""
+
+# mes "tree to bless us.";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "tree to bless us."
+msgstr ""
+
+# mes "It's at north of my village, so";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "It's at north of my village, so"
+msgstr ""
+
+# mes "why don't you go see the greatness";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "why don't you go see the greatness"
+msgstr ""
+
+# mes "of this tree for yourself?";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "of this tree for yourself?"
+msgstr ""
+
+# mes "[??????]";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "[??????]"
+msgstr ""
+
+# mes "Umbaumbah umbahbah woomhah!";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Umbaumbah umbahbah woomhah!"
+msgstr ""
+
+# mes "Umbah umbah umbabah umbah";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Umbah umbah umbabah umbah"
+msgstr ""
+
+# mes "Umbah umbah umbah";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Umbah umbah umbah"
+msgstr ""
+
+# mes "Umbabah umbah umbabbah";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Umbabah umbah umbabbah"
+msgstr ""
+
+# mes "....";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "...."
+msgstr ""
+
+# mes "......";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "......"
+msgstr ""
+
+# mes "Umbah balooooga?";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Umbah balooooga?"
+msgstr ""
+
+# mes "Umbah balooooooooga?";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Umbah balooooooooga?"
+msgstr ""
+
+# mes "...";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "..."
+msgstr ""
+
+# mes "Moogahaloo schluloo.";
+#: npc/cities/umbala.txt
+msgctxt "Utan villager#um"
+msgid "Moogahaloo schluloo."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "[Towner]"
+msgstr ""
+
+# mes "I love cacti. They're";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "I love cacti. They're"
+msgstr ""
+
+# mes "the most beautiful plants";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "the most beautiful plants"
+msgstr ""
+
+# mes "in the desert. Sometimes,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "in the desert. Sometimes,"
+msgstr ""
+
+# mes "they're the only signs of";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "they're the only signs of"
+msgstr ""
+
+# mes "life in a barren land.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "life in a barren land."
+msgstr ""
+
+# mes "If you feel a stirring";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "If you feel a stirring"
+msgstr ""
+
+# mes "in your heart when you";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "in your heart when you"
+msgstr ""
+
+# mes "look at a cactus, you";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "look at a cactus, you"
+msgstr ""
+
+# mes "must appreciate the";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "must appreciate the"
+msgstr ""
+
+# mes "desert's true beauty.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "desert's true beauty."
+msgstr ""
+
+# mes "Well, I don't know if";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "Well, I don't know if"
+msgstr ""
+
+# mes "I can find anyone that";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "I can find anyone that"
+msgstr ""
+
+# mes "finds the desert as";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "finds the desert as"
+msgstr ""
+
+# mes "wonderful and enchanting";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "wonderful and enchanting"
+msgstr ""
+
+# mes "as I do. It's a pity, really.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve1"
+msgid "as I do. It's a pity, really."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Welcome to Veins, the";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "Welcome to Veins, the"
+msgstr ""
+
+# mes "town near the Temple of";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "town near the Temple of"
+msgstr ""
+
+# mes "Cheshrumnir. You may think";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "Cheshrumnir. You may think"
+msgstr ""
+
+# mes "this is a dreary desert town,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "this is a dreary desert town,"
+msgstr ""
+
+# mes "but you'll find that it's as";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "but you'll find that it's as"
+msgstr ""
+
+# mes "lively as any other place.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "lively as any other place."
+msgstr ""
+
+# mes "Sure, there are a few";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "Sure, there are a few"
+msgstr ""
+
+# mes "characters in town, like";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "characters in town, like"
+msgstr ""
+
+# mes "that cactus loving loony";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "that cactus loving loony"
+msgstr ""
+
+# mes "over there, but not everyone's";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "over there, but not everyone's"
+msgstr ""
+
+# mes "like him. There's lots of nice,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "like him. There's lots of nice,"
+msgstr ""
+
+# mes "kind people that you can meet.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "kind people that you can meet."
+msgstr ""
+
+# mes "Well then, I hope that";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "Well then, I hope that"
+msgstr ""
+
+# mes "you enjoy your stay~";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve2"
+msgid "you enjoy your stay~"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Geez, why is our weapon";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "Geez, why is our weapon"
+msgstr ""
+
+# mes "shop so boring? Nothing";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "shop so boring? Nothing"
+msgstr ""
+
+# mes "there but the same ol'";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "there but the same ol'"
+msgstr ""
+
+# mes "regular junk. Sad to say,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "regular junk. Sad to say,"
+msgstr ""
+
+# mes "there's nothing special.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "there's nothing special."
+msgstr ""
+
+# mes "Wouldn't it be great";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "Wouldn't it be great"
+msgstr ""
+
+# mes "if there was a shop that";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "if there was a shop that"
+msgstr ""
+
+# mes "sold the legendary godly";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "sold the legendary godly"
+msgstr ""
+
+# mes "weapons? Of course, that's";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "weapons? Of course, that's"
+msgstr ""
+
+# mes "asking a bit too much.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve3"
+msgid "asking a bit too much."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Though we're in the";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "Though we're in the"
+msgstr ""
+
+# mes "middle of the desert,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "middle of the desert,"
+msgstr ""
+
+# mes "our enemies continue";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "our enemies continue"
+msgstr ""
+
+# mes "to threaten us. Fools!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "to threaten us. Fools!"
+msgstr ""
+
+# mes "Goddess Freya will";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "Goddess Freya will"
+msgstr ""
+
+# mes "always protect us!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "always protect us!"
+msgstr ""
+
+# mes "So long as we continue to";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "So long as we continue to"
+msgstr ""
+
+# mes "train, Freya will watch over";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "train, Freya will watch over"
+msgstr ""
+
+# mes "us and bless us with victory";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "us and bless us with victory"
+msgstr ""
+
+# mes "over our foes. That, friend,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "over our foes. That, friend,"
+msgstr ""
+
+# mes "is the power of faith.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve4"
+msgid "is the power of faith."
+msgstr ""
+
+# mes "[Kid]";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve1"
+msgid "[Kid]"
+msgstr ""
+
+# mes "Whoa, get out of here!";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve1"
+msgid "Whoa, get out of here!"
+msgstr ""
+
+# mes "Can't you see that I'm";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve1"
+msgid "Can't you see that I'm"
+msgstr ""
+
+# mes "playing hide and go seek?!";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve1"
+msgid "playing hide and go seek?!"
+msgstr ""
+
+# mes "Move before they find me!";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve1"
+msgid "Move before they find me!"
+msgstr ""
+
+# mes "[Kid]";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve2"
+msgid "[Kid]"
+msgstr ""
+
+# mes "Gosh, where could she";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve2"
+msgid "Gosh, where could she"
+msgstr ""
+
+# mes "be hiding? I hate being";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve2"
+msgid "be hiding? I hate being"
+msgstr ""
+
+# mes "it... There's so many places";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve2"
+msgid "it... There's so many places"
+msgstr ""
+
+# mes "to hide around here. There";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve2"
+msgid "to hide around here. There"
+msgstr ""
+
+# mes "must be someplace I haven't";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve2"
+msgid "must be someplace I haven't"
+msgstr ""
+
+# mes "checked yet... Let's see...";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve2"
+msgid "checked yet... Let's see..."
+msgstr ""
+
+# mes "[Old Man]";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "[Old Man]"
+msgstr ""
+
+# mes "Praise be to Freya";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "Praise be to Freya"
+msgstr ""
+
+# mes "for blessing me with";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "for blessing me with"
+msgstr ""
+
+# mes "long life, but I wonder";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "long life, but I wonder"
+msgstr ""
+
+# mes "if I've fully lived life.";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "if I've fully lived life."
+msgstr ""
+
+# mes "I don't have any regrets";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "I don't have any regrets"
+msgstr ""
+
+# mes "or doubts, but maybe there";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "or doubts, but maybe there"
+msgstr ""
+
+# mes "are a few things I missed";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "are a few things I missed"
+msgstr ""
+
+# mes "out on. I guess an old man";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "out on. I guess an old man"
+msgstr ""
+
+# mes "can't help but think about";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "can't help but think about"
+msgstr ""
+
+# mes "these sorts of things...";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve1"
+msgid "these sorts of things..."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Cacti are wonderful,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "Cacti are wonderful,"
+msgstr ""
+
+# mes "they're the most beautiful";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "they're the most beautiful"
+msgstr ""
+
+# mes "plants in the desert. Yes, we";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "plants in the desert. Yes, we"
+msgstr ""
+
+# mes "must cherish and nurture them~";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "must cherish and nurture them~"
+msgstr ""
+
+# mes "Regular cacti are ";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "Regular cacti are "
+msgstr ""
+
+# mes "pretty uncommon, but";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "pretty uncommon, but"
+msgstr ""
+
+# mes "I hear there's a kind of";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "I hear there's a kind of"
+msgstr ""
+
+# mes "cactus that roams the desert";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "cactus that roams the desert"
+msgstr ""
+
+# mes "and makes loud, obnoxious";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "and makes loud, obnoxious"
+msgstr ""
+
+# mes "noises. How can that be true?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve5"
+msgid "noises. How can that be true?"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve6"
+msgid "[Towner]"
+msgstr ""
+
+# mes "What do you want?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve6"
+msgid "What do you want?"
+msgstr ""
+
+# mes "Sorry, but I'm just";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve6"
+msgid "Sorry, but I'm just"
+msgstr ""
+
+# mes "a normal guy with normal";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve6"
+msgid "a normal guy with normal"
+msgstr ""
+
+# mes "problems. Nothing that";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve6"
+msgid "problems. Nothing that"
+msgstr ""
+
+# mes "I can't solve on my own.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve6"
+msgid "I can't solve on my own."
+msgstr ""
+
+# mes "Unless... You can do my";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve6"
+msgid "Unless... You can do my"
+msgstr ""
+
+# mes "taxes? Pay off my mortgage?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve6"
+msgid "taxes? Pay off my mortgage?"
+msgstr ""
+
+# mes "No? Heh. Didn't think so.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve6"
+msgid "No? Heh. Didn't think so."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve7"
+msgid "[Towner]"
+msgstr ""
+
+# mes "What's an adventurer";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve7"
+msgid "What's an adventurer"
+msgstr ""
+
+# mes "doing here in such an";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve7"
+msgid "doing here in such an"
+msgstr ""
+
+# mes "isolated, dreary town?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve7"
+msgid "isolated, dreary town?"
+msgstr ""
+
+# mes "Shouldn't you be looking";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve7"
+msgid "Shouldn't you be looking"
+msgstr ""
+
+# mes "for adventures? Take it from";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve7"
+msgid "for adventures? Take it from"
+msgstr ""
+
+# mes "me, this place if bo-ring.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve7"
+msgid "me, this place if bo-ring."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Whoa, it's been a while";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "Whoa, it's been a while"
+msgstr ""
+
+# mes "seen I've seen tourists";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "seen I've seen tourists"
+msgstr ""
+
+# mes "in town. You might think";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "in town. You might think"
+msgstr ""
+
+# mes "there's nothing here, but";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "there's nothing here, but"
+msgstr ""
+
+# mes "take a closer look. You";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "take a closer look. You"
+msgstr ""
+
+# mes "might learn something.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "might learn something."
+msgstr ""
+
+# mes "Just like people, you";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "Just like people, you"
+msgstr ""
+
+# mes "can't know everything about";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "can't know everything about"
+msgstr ""
+
+# mes "a place with only a glance.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "a place with only a glance."
+msgstr ""
+
+# mes "If you give it a chance, I'm";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "If you give it a chance, I'm"
+msgstr ""
+
+# mes "sure you'll find something";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "sure you'll find something"
+msgstr ""
+
+# mes "to like about this town.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "to like about this town."
+msgstr ""
+
+# mes "and try to find things that mind interest you?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "and try to find things that mind interest you?"
+msgstr ""
+
+# mes "What do I mean by ''a";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "What do I mean by ''a"
+msgstr ""
+
+# mes "closer look?'' Heh, you'll";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "closer look?'' Heh, you'll"
+msgstr ""
+
+# mes "see... Maybe. Hahahaha!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "see... Maybe. Hahahaha!"
+msgstr ""
+
+# mes "Oh, forget it, it's not";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "Oh, forget it, it's not"
+msgstr ""
+
+# mes "that important anyway.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "that important anyway."
+msgstr ""
+
+# mes "May Freya bless you~";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve8"
+msgid "May Freya bless you~"
+msgstr ""
+
+# mes "[Kid]";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve3"
+msgid "[Kid]"
+msgstr ""
+
+# mes "I really want to look";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve3"
+msgid "I really want to look"
+msgstr ""
+
+# mes "inside the temple, but";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve3"
+msgid "inside the temple, but"
+msgstr ""
+
+# mes "it looks so scary from";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve3"
+msgid "it looks so scary from"
+msgstr ""
+
+# mes "the outside! I wonder";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve3"
+msgid "the outside! I wonder"
+msgstr ""
+
+# mes "why it's like that?";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve3"
+msgid "why it's like that?"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve9"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Don't get me wrong:";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve9"
+msgid "Don't get me wrong:"
+msgstr ""
+
+# mes "I'd give my life in Freya's";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve9"
+msgid "I'd give my life in Freya's"
+msgstr ""
+
+# mes "name, but that so-called";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve9"
+msgid "name, but that so-called"
+msgstr ""
+
+# mes "temple just looks so strange";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve9"
+msgid "temple just looks so strange"
+msgstr ""
+
+# mes "and suspicious. How can it";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve9"
+msgid "and suspicious. How can it"
+msgstr ""
+
+# mes "be a place of worship?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve9"
+msgid "be a place of worship?"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve10"
+msgid "[Towner]"
+msgstr ""
+
+# mes "I guess you can tell";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve10"
+msgid "I guess you can tell"
+msgstr ""
+
+# mes "from this withered tree";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve10"
+msgid "from this withered tree"
+msgstr ""
+
+# mes "that our town is short";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve10"
+msgid "that our town is short"
+msgstr ""
+
+# mes "on water. I guess that's";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve10"
+msgid "on water. I guess that's"
+msgstr ""
+
+# mes "a natural consequence of";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve10"
+msgid "a natural consequence of"
+msgstr ""
+
+# mes "living here in the desert...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve10"
+msgid "living here in the desert..."
+msgstr ""
+
+# mes "[Old Lady]";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "[Old Lady]"
+msgstr ""
+
+# mes "When I look down on";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "When I look down on"
+msgstr ""
+
+# mes "Veins from here, I've";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "Veins from here, I've"
+msgstr ""
+
+# mes "come to realize many things.";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "come to realize many things."
+msgstr ""
+
+# mes "I don't think you'd understand";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "I don't think you'd understand"
+msgstr ""
+
+# mes "no matter how much I explained.";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "no matter how much I explained."
+msgstr ""
+
+# mes "I suppose it's one of those";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "I suppose it's one of those"
+msgstr ""
+
+# mes "things that you learn with age.";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "things that you learn with age."
+msgstr ""
+
+# mes "Yes, there's no substitute for";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "Yes, there's no substitute for"
+msgstr ""
+
+# mes "experience when it comes to";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "experience when it comes to"
+msgstr ""
+
+# mes "some things. You'll see.";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "some things. You'll see."
+msgstr ""
+
+# mes "^FFFFFFYes, like secret knowledge.^000000";
+#: npc/cities/veins.txt
+msgctxt "Old lady#ve1"
+msgid "^FFFFFFYes, like secret knowledge.^000000"
+msgstr ""
+
+# mes "[Old Man]";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "[Old Man]"
+msgstr ""
+
+# mes "This isn't good.";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "This isn't good."
+msgstr ""
+
+# mes "The elderly outnumber";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "The elderly outnumber"
+msgstr ""
+
+# mes "the youth here in Veins.";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "the youth here in Veins."
+msgstr ""
+
+# mes "We're too close to becoming";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "We're too close to becoming"
+msgstr ""
+
+# mes "something of a retirement";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "something of a retirement"
+msgstr ""
+
+# mes "community. You see it, right?";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "community. You see it, right?"
+msgstr ""
+
+# mes "I guess the young people";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "I guess the young people"
+msgstr ""
+
+# mes "aren't content living here";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "aren't content living here"
+msgstr ""
+
+# mes "since we lack a lot of the";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "since we lack a lot of the"
+msgstr ""
+
+# mes "material excitement of other";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "material excitement of other"
+msgstr ""
+
+# mes "towns. They can't appreciate";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "towns. They can't appreciate"
+msgstr ""
+
+# mes "what's really special here...";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve2"
+msgid "what's really special here..."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "[Towner]"
+msgstr ""
+
+# mes "People cherish water";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "People cherish water"
+msgstr ""
+
+# mes "around here, but I've";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "around here, but I've"
+msgstr ""
+
+# mes "something even more";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "something even more"
+msgstr ""
+
+# mes "precious to me. Yes, even";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "precious to me. Yes, even"
+msgstr ""
+
+# mes "more precious than water...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "more precious than water..."
+msgstr ""
+
+# mes "You guessed it--true love.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "You guessed it--true love."
+msgstr ""
+
+# mes "We actually started dating";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "We actually started dating"
+msgstr ""
+
+# mes "here, so this place really";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "here, so this place really"
+msgstr ""
+
+# mes "means a lot to me. It's my";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "means a lot to me. It's my"
+msgstr ""
+
+# mes "favorite spot for spending";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "favorite spot for spending"
+msgstr ""
+
+# mes "time with my girl. Hahaha~";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve11"
+msgid "time with my girl. Hahaha~"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Well, I'm actually";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "Well, I'm actually"
+msgstr ""
+
+# mes "a little tired of coming";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "a little tired of coming"
+msgstr ""
+
+# mes "here all the time. I kind";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "here all the time. I kind"
+msgstr ""
+
+# mes "of want to try someplace";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "of want to try someplace"
+msgstr ""
+
+# mes "else, but I also know he";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "else, but I also know he"
+msgstr ""
+
+# mes "really loves coming here.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "really loves coming here."
+msgstr ""
+
+# mes "It would actually be";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "It would actually be"
+msgstr ""
+
+# mes "kind of sad if we stopped";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "kind of sad if we stopped"
+msgstr ""
+
+# mes "coming here altogether.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "coming here altogether."
+msgstr ""
+
+# mes "I'm just happy so long";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "I'm just happy so long"
+msgstr ""
+
+# mes "as he's with me~ Hoho~";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve12"
+msgid "as he's with me~ Hoho~"
+msgstr ""
+
+# mes "[Old Man]";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "[Old Man]"
+msgstr ""
+
+# mes "Why don't you take";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "Why don't you take"
+msgstr ""
+
+# mes "a look at my goods?";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "a look at my goods?"
+msgstr ""
+
+# mes "I've got many things";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "I've got many things"
+msgstr ""
+
+# mes "that might interest you~";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "that might interest you~"
+msgstr ""
+
+# mes "Praise be to Freya,";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "Praise be to Freya,"
+msgstr ""
+
+# mes "who watches over us,";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "who watches over us,"
+msgstr ""
+
+# mes "and blesses us with";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "and blesses us with"
+msgstr ""
+
+# mes "food and drink. Don't";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "food and drink. Don't"
+msgstr ""
+
+# mes "you think that's great,";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "you think that's great,"
+msgstr ""
+
+# mes "young adventurer?";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve3"
+msgid "young adventurer?"
+msgstr ""
+
+# mes "[Old Lady]";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "[Old Lady]"
+msgstr ""
+
+# mes "Owning a lot of stuff";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "Owning a lot of stuff"
+msgstr ""
+
+# mes "might seem great, but";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "might seem great, but"
+msgstr ""
+
+# mes "many things aren't that";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "many things aren't that"
+msgstr ""
+
+# mes "valuable when you think";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "valuable when you think"
+msgstr ""
+
+# mes "of them in terms of";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "of them in terms of"
+msgstr ""
+
+# mes "real emotional value.";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "real emotional value."
+msgstr ""
+
+# mes "Well, that might have been";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "Well, that might have been"
+msgstr ""
+
+# mes "a dangerous remark when";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "a dangerous remark when"
+msgstr ""
+
+# mes "I'm trying to sell things to";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "I'm trying to sell things to"
+msgstr ""
+
+# mes "customers. Still, I wish";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "customers. Still, I wish"
+msgstr ""
+
+# mes "I could carry a wider";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "I could carry a wider"
+msgstr ""
+
+# mes "selection of goods.";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "selection of goods."
+msgstr ""
+
+# mes "Of course, we're here";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "Of course, we're here"
+msgstr ""
+
+# mes "in the middle of the desert,";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "in the middle of the desert,"
+msgstr ""
+
+# mes "so maybe I'm asking too much.";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve2"
+msgid "so maybe I'm asking too much."
+msgstr ""
+
+# mes "[Kid]";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "[Kid]"
+msgstr ""
+
+# mes "Hey! Do you think";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "Hey! Do you think"
+msgstr ""
+
+# mes "I can reach the bridge";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "I can reach the bridge"
+msgstr ""
+
+# mes "over there if I jump";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "over there if I jump"
+msgstr ""
+
+# mes "from over here? Do";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "from over here? Do"
+msgstr ""
+
+# mes "you think you can try it?";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "you think you can try it?"
+msgstr ""
+
+# mes "What?! You can't do it?";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "What?! You can't do it?"
+msgstr ""
+
+# mes "Well, I'm gonna be different";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "Well, I'm gonna be different"
+msgstr ""
+
+# mes "when I grow up! I'm gonna";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "when I grow up! I'm gonna"
+msgstr ""
+
+# mes "be the world's best jumper!";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "be the world's best jumper!"
+msgstr ""
+
+# mes "I'm gonna be able to jump";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "I'm gonna be able to jump"
+msgstr ""
+
+# mes "all the way to the mooooon!";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve4"
+msgid "all the way to the mooooon!"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "[Towner]"
+msgstr ""
+
+# mes "The clothes we make here";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "The clothes we make here"
+msgstr ""
+
+# mes "are high, airy, and sewn";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "are high, airy, and sewn"
+msgstr ""
+
+# mes "with high quality fabric.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "with high quality fabric."
+msgstr ""
+
+# mes "Of course, we need to wear";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "Of course, we need to wear"
+msgstr ""
+
+# mes "stuff like this since the";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "stuff like this since the"
+msgstr ""
+
+# mes "weather is unbearably hot.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "weather is unbearably hot."
+msgstr ""
+
+# mes "The fabric? Well,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "The fabric? Well,"
+msgstr ""
+
+# mes "I'll give you a hint.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "I'll give you a hint."
+msgstr ""
+
+# mes "It's made of something";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "It's made of something"
+msgstr ""
+
+# mes "related to camels. Heh!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "related to camels. Heh!"
+msgstr ""
+
+# mes "I'll leave you to figure it";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "I'll leave you to figure it"
+msgstr ""
+
+# mes "out on your own. Haha!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve13"
+msgid "out on your own. Haha!"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Let me tell you a secret.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "Let me tell you a secret."
+msgstr ""
+
+# mes "But promise not to tell";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "But promise not to tell"
+msgstr ""
+
+# mes "anyone else about it, okay?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "anyone else about it, okay?"
+msgstr ""
+
+# mes "When the time comes,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "When the time comes,"
+msgstr ""
+
+# mes "the Temple of Cheshrumnir";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "the Temple of Cheshrumnir"
+msgstr ""
+
+# mes "will open up and the giant";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "will open up and the giant"
+msgstr ""
+
+# mes "Freya robot will launch!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "Freya robot will launch!"
+msgstr ""
+
+# mes "It'll destroy every country";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "It'll destroy every country"
+msgstr ""
+
+# mes "except Arunafeltz!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "except Arunafeltz!"
+msgstr ""
+
+# mes "That robot can blow";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "That robot can blow"
+msgstr ""
+
+# mes "hurricanes from its mouth,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "hurricanes from its mouth,"
+msgstr ""
+
+# mes "and shoot lightning from";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "and shoot lightning from"
+msgstr ""
+
+# mes "its horns, and it can fire";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "its horns, and it can fire"
+msgstr ""
+
+# mes "its fists away, and its";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "its fists away, and its"
+msgstr ""
+
+# mes "chest is a flame thrower!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "chest is a flame thrower!"
+msgstr ""
+
+# mes "..............................";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid ".............................."
+msgstr ""
+
+# mes "You don't believe me, either.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "You don't believe me, either."
+msgstr ""
+
+# mes "What did you just say? Zinger?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "What did you just say? Zinger?"
+msgstr ""
+
+# mes "Amazing Z? The hell's that?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve14"
+msgid "Amazing Z? The hell's that?"
+msgstr ""
+
+# mes "[Kid]";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "[Kid]"
+msgstr ""
+
+# mes "Argh! I'm a war god";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "Argh! I'm a war god"
+msgstr ""
+
+# mes "protecting Goddess Freya";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "protecting Goddess Freya"
+msgstr ""
+
+# mes "and Arunafeltz! Ahhhhh!";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "and Arunafeltz! Ahhhhh!"
+msgstr ""
+
+# mes "Death to all our enemies!";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "Death to all our enemies!"
+msgstr ""
+
+# mes "Burn, heretics, buuurn!";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "Burn, heretics, buuurn!"
+msgstr ""
+
+# mes "Destroy your homes, your";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "Destroy your homes, your"
+msgstr ""
+
+# mes "families, and build a new";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "families, and build a new"
+msgstr ""
+
+# mes "perfect world for Freya!";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "perfect world for Freya!"
+msgstr ""
+
+# mes "Hee hee! Doesn't that";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "Hee hee! Doesn't that"
+msgstr ""
+
+# mes "sound wonderful! When";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "sound wonderful! When"
+msgstr ""
+
+# mes "I grow up, I wanna be";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "I grow up, I wanna be"
+msgstr ""
+
+# mes "that kind of hero!";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve5"
+msgid "that kind of hero!"
+msgstr ""
+
+# mes "[Old Man]";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "[Old Man]"
+msgstr ""
+
+# mes "Fr... Fr...";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "Fr... Fr..."
+msgstr ""
+
+# mes "Fr...";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "Fr..."
+msgstr ""
+
+# mes "Praise Freya! ^333333*Keck*^000000";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "Praise Freya! ^333333*Keck*^000000"
+msgstr ""
+
+# mes "^333333*Cough cough*^000000 Fre...";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "^333333*Cough cough*^000000 Fre..."
+msgstr ""
+
+# mes "^333333*Cough*^000000 Praise Freya!";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "^333333*Cough*^000000 Praise Freya!"
+msgstr ""
+
+# mes "Freya! Conquer those";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "Freya! Conquer those"
+msgstr ""
+
+# mes "that blaspheme you! Let";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "that blaspheme you! Let"
+msgstr ""
+
+# mes "me see it before I die!";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "me see it before I die!"
+msgstr ""
+
+# mes "I have never regretted";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "I have never regretted"
+msgstr ""
+
+# mes "^333333*Cough*^000000 my faith in you,";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "^333333*Cough*^000000 my faith in you,"
+msgstr ""
+
+# mes "my goddess! ^333333*Keck*^000000 May";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "my goddess! ^333333*Keck*^000000 May"
+msgstr ""
+
+# mes "the suffering of all our";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "the suffering of all our"
+msgstr ""
+
+# mes "enemies drive them to";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "enemies drive them to"
+msgstr ""
+
+# mes "madness before death!";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve4"
+msgid "madness before death!"
+msgstr ""
+
+# mes "[Old Lady]";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve3"
+msgid "[Old Lady]"
+msgstr ""
+
+# mes "I wonder what my";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve3"
+msgid "I wonder what my"
+msgstr ""
+
+# mes "standing with Freya";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve3"
+msgid "standing with Freya"
+msgstr ""
+
+# mes "is like. Hopefully, she";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve3"
+msgid "is like. Hopefully, she"
+msgstr ""
+
+# mes "will take mercy upon me";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve3"
+msgid "will take mercy upon me"
+msgstr ""
+
+# mes "when I leave this world.";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve3"
+msgid "when I leave this world."
+msgstr ""
+
+# mes "My days here are numbered...";
+#: npc/cities/veins.txt
+msgctxt "Old Lady#ve3"
+msgid "My days here are numbered..."
+msgstr ""
+
+# mes "[Kid]";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "[Kid]"
+msgstr ""
+
+# mes "Huh? You don't live here.";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "Huh? You don't live here."
+msgstr ""
+
+# mes "Are you... Are you a traveler?";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "Are you... Are you a traveler?"
+msgstr ""
+
+# mes "You musta been to so many";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "You musta been to so many"
+msgstr ""
+
+# mes "other places, huh? What";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "other places, huh? What"
+msgstr ""
+
+# mes "do they look like? I want to";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "do they look like? I want to"
+msgstr ""
+
+# mes "travel too when I grow up~";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "travel too when I grow up~"
+msgstr ""
+
+# mes "I like this town, but I want";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "I like this town, but I want"
+msgstr ""
+
+# mes "to see how other people live.";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "to see how other people live."
+msgstr ""
+
+# mes "The grown-ups think it's a bad";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "The grown-ups think it's a bad"
+msgstr ""
+
+# mes "idea, though. They say Freya";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "idea, though. They say Freya"
+msgstr ""
+
+# mes "hates it. Is it that bad that";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "hates it. Is it that bad that"
+msgstr ""
+
+# mes "I can't stop wondering?";
+#: npc/cities/veins.txt
+msgctxt "Kid#ve6"
+msgid "I can't stop wondering?"
+msgstr ""
+
+# mes "[Old Man]";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "[Old Man]"
+msgstr ""
+
+# mes "Oh. You must be";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "Oh. You must be"
+msgstr ""
+
+# mes "sightseeing. Um,";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "sightseeing. Um,"
+msgstr ""
+
+# mes "Veins is a small town,";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "Veins is a small town,"
+msgstr ""
+
+# mes "visit Cheshrumnir Temple?";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "visit Cheshrumnir Temple?"
+msgstr ""
+
+# mes "I hope you enjoy";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "I hope you enjoy"
+msgstr ""
+
+# mes "your stay. Now if";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "your stay. Now if"
+msgstr ""
+
+# mes "you'll excuse me, I'd";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "you'll excuse me, I'd"
+msgstr ""
+
+# mes "like to continue with";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "like to continue with"
+msgstr ""
+
+# mes "my prayers to Freya.";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "my prayers to Freya."
+msgstr ""
+
+# mes "Oh, gracious Freya, your";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "Oh, gracious Freya, your"
+msgstr ""
+
+# mes "servant humbly beseeches";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "servant humbly beseeches"
+msgstr ""
+
+# mes "you on bended knee...";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "you on bended knee..."
+msgstr ""
+
+# mes "Heal me of this infirmity!";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "Heal me of this infirmity!"
+msgstr ""
+
+# mes "The body is droopingly limp,";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "The body is droopingly limp,"
+msgstr ""

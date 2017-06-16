@@ -1,0 +1,5003 @@
+# mes "but the spirit is willing...!";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "but the spirit is willing...!"
+msgstr ""
+
+# mes "must be... Cheshrumnir Temple.";
+#: npc/cities/veins.txt
+msgctxt "Old Man#ve5"
+msgid "must be... Cheshrumnir Temple."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve15"
+msgid "[Towner]"
+msgstr ""
+
+# mes "You know what's good";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve15"
+msgid "You know what's good"
+msgstr ""
+
+# mes "about the desert? No?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve15"
+msgid "about the desert? No?"
+msgstr ""
+
+# mes "The desert makes you";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve15"
+msgid "The desert makes you"
+msgstr ""
+
+# mes "stronger. Understand";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve15"
+msgid "stronger. Understand"
+msgstr ""
+
+# mes "what I mean? Heh, you'll";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve15"
+msgid "what I mean? Heh, you'll"
+msgstr ""
+
+# mes "know as you spend more";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve15"
+msgid "know as you spend more"
+msgstr ""
+
+# mes "time here in the desert.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve15"
+msgid "time here in the desert."
+msgstr ""
+
+# mes "[Prisoner]";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "[Prisoner]"
+msgstr ""
+
+# mes "Unbelievable!";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "Unbelievable!"
+msgstr ""
+
+# mes "What kind of country";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "What kind of country"
+msgstr ""
+
+# mes "is this?! How can you";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "is this?! How can you"
+msgstr ""
+
+# mes "lock me up just because";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "lock me up just because"
+msgstr ""
+
+# mes "I don't believe in Freya?!";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "I don't believe in Freya?!"
+msgstr ""
+
+# mes "This isn't civilized!";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "This isn't civilized!"
+msgstr ""
+
+# mes "You're a bunch of savages";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "You're a bunch of savages"
+msgstr ""
+
+# mes "if you can't respect my";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "if you can't respect my"
+msgstr ""
+
+# mes "beliefs, you know that?";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "beliefs, you know that?"
+msgstr ""
+
+# mes "Someone, someone help!";
+#: npc/cities/veins.txt
+msgctxt "Prisoner#ve1"
+msgid "Someone, someone help!"
+msgstr ""
+
+# mes "[Ward]";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve1"
+msgid "[Ward]"
+msgstr ""
+
+# mes "This place ensures that";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve1"
+msgid "This place ensures that"
+msgstr ""
+
+# mes "dangerous criminals aren't";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve1"
+msgid "dangerous criminals aren't"
+msgstr ""
+
+# mes "threatening the publi--";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve1"
+msgid "threatening the publi--"
+msgstr ""
+
+# mes "Wait. Why are you even";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve1"
+msgid "Wait. Why are you even"
+msgstr ""
+
+# mes "here?! This place isn't";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve1"
+msgid "here?! This place isn't"
+msgstr ""
+
+# mes "safe for you! Leave!";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve1"
+msgid "safe for you! Leave!"
+msgstr ""
+
+# mes "[Ward]";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve2"
+msgid "[Ward]"
+msgstr ""
+
+# mes "I'm grateful that our";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve2"
+msgid "I'm grateful that our"
+msgstr ""
+
+# mes "town is relatively peaceful.";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve2"
+msgid "town is relatively peaceful."
+msgstr ""
+
+# mes "If it were any other place,";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve2"
+msgid "If it were any other place,"
+msgstr ""
+
+# mes "that tiny cell would be";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve2"
+msgid "that tiny cell would be"
+msgstr ""
+
+# mes "crammed full of criminals.";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve2"
+msgid "crammed full of criminals."
+msgstr ""
+
+# mes "Thank Freya that I've";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve2"
+msgid "Thank Freya that I've"
+msgstr ""
+
+# mes "been assigned to such";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve2"
+msgid "been assigned to such"
+msgstr ""
+
+# mes "a peaceful, quiet place.";
+#: npc/cities/veins.txt
+msgctxt "Ward#ve2"
+msgid "a peaceful, quiet place."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve16"
+msgid "[Towner]"
+msgstr ""
+
+# mes "^333333*Pant Pant*^000000";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve16"
+msgid "^333333*Pant Pant*^000000"
+msgstr ""
+
+# mes "I must study as hard as I can";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve16"
+msgid "I must study as hard as I can"
+msgstr ""
+
+# mes "for the grace of Goddess Freya.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve16"
+msgid "for the grace of Goddess Freya."
+msgstr ""
+
+# mes "I really believe that";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve16"
+msgid "I really believe that"
+msgstr ""
+
+# mes "I can serve Freya one of";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve16"
+msgid "I can serve Freya one of"
+msgstr ""
+
+# mes "these days if I can just";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve16"
+msgid "these days if I can just"
+msgstr ""
+
+# mes "expand my knowledge.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve16"
+msgid "expand my knowledge."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve17"
+msgid "[Towner]"
+msgstr ""
+
+# mes "It's too hot...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve17"
+msgid "It's too hot..."
+msgstr ""
+
+# mes "So sweaty...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve17"
+msgid "So sweaty..."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve18"
+msgid "[Towner]"
+msgstr ""
+
+# mes "...............";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve18"
+msgid "..............."
+msgstr ""
+
+# mes "Tricked you!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve18"
+msgid "Tricked you!"
+msgstr ""
+
+# mes "Thought I was dead,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve18"
+msgid "Thought I was dead,"
+msgstr ""
+
+# mes "didn't you? Hahaha~";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve18"
+msgid "didn't you? Hahaha~"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve19"
+msgid "[Towner]"
+msgstr ""
+
+# mes "The drinks in this";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve19"
+msgid "The drinks in this"
+msgstr ""
+
+# mes "town are so... They're...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve19"
+msgid "town are so... They're..."
+msgstr ""
+
+# mes "They're so damn strong!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve19"
+msgid "They're so damn strong!"
+msgstr ""
+
+# mes "Why...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve19"
+msgid "Why..."
+msgstr ""
+
+# mes "Why does the ground";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve19"
+msgid "Why does the ground"
+msgstr ""
+
+# mes "keep wobbling?! It's...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve19"
+msgid "keep wobbling?! It's..."
+msgstr ""
+
+# mes "It's like it's trying to";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve19"
+msgid "It's like it's trying to"
+msgstr ""
+
+# mes "betray me! Every time!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve19"
+msgid "betray me! Every time!"
+msgstr ""
+
+# mes "^333333*Hiccup*^000000";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve19"
+msgid "^333333*Hiccup*^000000"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "[Towner]"
+msgstr ""
+
+# mes "It's nice when a town";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "It's nice when a town"
+msgstr ""
+
+# mes "is peaceful and quiet...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "is peaceful and quiet..."
+msgstr ""
+
+# mes "But it's lame when a";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "But it's lame when a"
+msgstr ""
+
+# mes "tavern is dead like this.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "tavern is dead like this."
+msgstr ""
+
+# mes "Well, there's good";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "Well, there's good"
+msgstr ""
+
+# mes "and bad points to";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "and bad points to"
+msgstr ""
+
+# mes "everything. Hopefully";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "everything. Hopefully"
+msgstr ""
+
+# mes "things will pick up";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "things will pick up"
+msgstr ""
+
+# mes "around here as more of";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "around here as more of"
+msgstr ""
+
+# mes "you adventurers come visit.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve20"
+msgid "you adventurers come visit."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "[Towner]"
+msgstr ""
+
+# mes "There's nothing but";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "There's nothing but"
+msgstr ""
+
+# mes "old people and children";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "old people and children"
+msgstr ""
+
+# mes "in this town. Where's a";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "in this town. Where's a"
+msgstr ""
+
+# mes "decent man worth marrying?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "decent man worth marrying?"
+msgstr ""
+
+# mes "There's a few bachelors that";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "There's a few bachelors that"
+msgstr ""
+
+# mes "are my age, but... Well...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "are my age, but... Well..."
+msgstr ""
+
+# mes "They're all too hairy or";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "They're all too hairy or"
+msgstr ""
+
+# mes "too muscular. I don't think";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "too muscular. I don't think"
+msgstr ""
+
+# mes "I'll be able to get married";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "I'll be able to get married"
+msgstr ""
+
+# mes "anytime soon! Oh, the misery!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve21"
+msgid "anytime soon! Oh, the misery!"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Well, our town doesn't";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "Well, our town doesn't"
+msgstr ""
+
+# mes "have a choice but to";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "have a choice but to"
+msgstr ""
+
+# mes "defend itself in dangerous";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "defend itself in dangerous"
+msgstr ""
+
+# mes "times. The young men we";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "times. The young men we"
+msgstr ""
+
+# mes "have here are all buff and";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "have here are all buff and"
+msgstr ""
+
+# mes "tough to protect us.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "tough to protect us."
+msgstr ""
+
+# mes "[Town]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "[Town]"
+msgstr ""
+
+# mes "They may not be beautiful,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "They may not be beautiful,"
+msgstr ""
+
+# mes "but they have kind and";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "but they have kind and"
+msgstr ""
+
+# mes "gentle hearts. It's a pity";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "gentle hearts. It's a pity"
+msgstr ""
+
+# mes "that the women here";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "that the women here"
+msgstr ""
+
+# mes "are more concerned";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "are more concerned"
+msgstr ""
+
+# mes "with appearances.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "with appearances."
+msgstr ""
+
+# mes "Don't judge a book";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "Don't judge a book"
+msgstr ""
+
+# mes "by its cover, but";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "by its cover, but"
+msgstr ""
+
+# mes "by its contents.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve22"
+msgid "by its contents."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "[Towner]"
+msgstr ""
+
+# mes "This storage solely";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "This storage solely"
+msgstr ""
+
+# mes "exists for serious drinkers.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "exists for serious drinkers."
+msgstr ""
+
+# mes "If it's ever shut down,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "If it's ever shut down,"
+msgstr ""
+
+# mes "I think everyone in town";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "I think everyone in town"
+msgstr ""
+
+# mes "will riot. Crazy, huh?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "will riot. Crazy, huh?"
+msgstr ""
+
+# mes "Veins is famous for its";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "Veins is famous for its"
+msgstr ""
+
+# mes "wide variety of delicious,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "wide variety of delicious,"
+msgstr ""
+
+# mes "irresistable liquor. Just one";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "irresistable liquor. Just one"
+msgstr ""
+
+# mes "sip's enough to hook you.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "sip's enough to hook you."
+msgstr ""
+
+# mes "Praise Freya for";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "Praise Freya for"
+msgstr ""
+
+# mes "blessing us with the";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "blessing us with the"
+msgstr ""
+
+# mes "gift of awesome liquor.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "gift of awesome liquor."
+msgstr ""
+
+# mes "Her graciousness, her";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "Her graciousness, her"
+msgstr ""
+
+# mes "compassion, her liquor";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "compassion, her liquor"
+msgstr ""
+
+# mes "is limitless. Let us pray.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve23"
+msgid "is limitless. Let us pray."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve24"
+msgid "[Towner]"
+msgstr ""
+
+# mes "I really want to";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve24"
+msgid "I really want to"
+msgstr ""
+
+# mes "ask out the woman";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve24"
+msgid "ask out the woman"
+msgstr ""
+
+# mes "right in front of me.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve24"
+msgid "right in front of me."
+msgstr ""
+
+# mes "Do you think she'll...?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve24"
+msgid "Do you think she'll...?"
+msgstr ""
+
+# mes "Crap! Did I say that";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve24"
+msgid "Crap! Did I say that"
+msgstr ""
+
+# mes "out loud? I-I-I really";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve24"
+msgid "out loud? I-I-I really"
+msgstr ""
+
+# mes "didn't want her to hear!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve24"
+msgid "didn't want her to hear!"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve25"
+msgid "[Towner]"
+msgstr ""
+
+# mes "I heard all that...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve25"
+msgid "I heard all that..."
+msgstr ""
+
+# mes "Gosh, he's so clueless.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve25"
+msgid "Gosh, he's so clueless."
+msgstr ""
+
+# mes "I don't hate him, but he";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve25"
+msgid "I don't hate him, but he"
+msgstr ""
+
+# mes "should show a bit more";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve25"
+msgid "should show a bit more"
+msgstr ""
+
+# mes "backbone if he wants";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve25"
+msgid "backbone if he wants"
+msgstr ""
+
+# mes "to impress me. Hmmm...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve25"
+msgid "to impress me. Hmmm..."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve26"
+msgid "[Towner]"
+msgstr ""
+
+# mes "If you enjoy a good,";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve26"
+msgid "If you enjoy a good,"
+msgstr ""
+
+# mes "stiff drink, then you have";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve26"
+msgid "stiff drink, then you have"
+msgstr ""
+
+# mes "to stop by Veins Tavern~";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve26"
+msgid "to stop by Veins Tavern~"
+msgstr ""
+
+# mes "If you don't love";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve26"
+msgid "If you don't love"
+msgstr ""
+
+# mes "drinking, then Veins";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve26"
+msgid "drinking, then Veins"
+msgstr ""
+
+# mes "Tavern is the perfect";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve26"
+msgid "Tavern is the perfect"
+msgstr ""
+
+# mes "place to learn! ...To";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve26"
+msgid "place to learn! ...To"
+msgstr ""
+
+# mes "love... drinking...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve26"
+msgid "love... drinking..."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Isn't the sun so hot?";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "Isn't the sun so hot?"
+msgstr ""
+
+# mes "Doesn't it make you feel";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "Doesn't it make you feel"
+msgstr ""
+
+# mes "so thirsty? Well, you may";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "so thirsty? Well, you may"
+msgstr ""
+
+# mes "want to consider quenching";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "want to consider quenching"
+msgstr ""
+
+# mes "that nasty thirst with liquor!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "that nasty thirst with liquor!"
+msgstr ""
+
+# mes "My job is to serve";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "My job is to serve"
+msgstr ""
+
+# mes "delicious, life giving";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "delicious, life giving"
+msgstr ""
+
+# mes "liquor to my customers to";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "liquor to my customers to"
+msgstr ""
+
+# mes "relieve their parched throats.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "relieve their parched throats."
+msgstr ""
+
+# mes "Seeing their drunken smiles";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "Seeing their drunken smiles"
+msgstr ""
+
+# mes "really makes my day~";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve27"
+msgid "really makes my day~"
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve28"
+msgid "[Towner]"
+msgstr ""
+
+# mes "A lone wolf of the desert.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve28"
+msgid "A lone wolf of the desert."
+msgstr ""
+
+# mes "That's me. Well, that's why";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve28"
+msgid "That's me. Well, that's why"
+msgstr ""
+
+# mes "I'm drinking here alone.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve28"
+msgid "I'm drinking here alone."
+msgstr ""
+
+# mes "Sweet Freya, these";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve28"
+msgid "Sweet Freya, these"
+msgstr ""
+
+# mes "drinks are so good.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve28"
+msgid "drinks are so good."
+msgstr ""
+
+# mes "I could drink all day.";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve28"
+msgid "I could drink all day."
+msgstr ""
+
+# mes "[Towner]";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "[Towner]"
+msgstr ""
+
+# mes "Man, the world is just...";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "Man, the world is just..."
+msgstr ""
+
+# mes "It's just desires...!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "It's just desires...!"
+msgstr ""
+
+# mes "Faith? It helps, you";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "Faith? It helps, you"
+msgstr ""
+
+# mes "know? Cuz-cuz desires";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "know? Cuz-cuz desires"
+msgstr ""
+
+# mes "are all just nothing!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "are all just nothing!"
+msgstr ""
+
+# mes "They're nooooooothing!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "They're nooooooothing!"
+msgstr ""
+
+# mes "Argh! What is life?!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "Argh! What is life?!"
+msgstr ""
+
+# mes "I don't know what to";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "I don't know what to"
+msgstr ""
+
+# mes "believe anymore! Freya!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "believe anymore! Freya!"
+msgstr ""
+
+# mes "Freya looooves you!";
+#: npc/cities/veins.txt
+msgctxt "Towner#ve29"
+msgid "Freya looooves you!"
+msgstr ""
+
+# mes "[Freidrich]";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid "[Freidrich]"
+msgstr ""
+
+# mes "^3355FFJuno^000000 is kept aloft in the air by an ancient and mysterious force.";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid "^3355FFJuno^000000 is kept aloft in the air by an ancient and mysterious force."
+msgstr ""
+
+# mes "This power is said to come from a relic from an ancient civilization called ^3355FFJuperos^000000 which existed here long before Juno.";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid ""
+"This power is said to come from a relic from an ancient civilization called ^3355FFJuperos^000000 which existed here "
+"long before Juno."
+msgstr ""
+
+# mes "Research revealed that Juno's power source based on ^3355FFPieces of Ymir's Heart^000000. I hear that this power source is found where Juperos used to exist.";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid ""
+"Research revealed that Juno's power source based on ^3355FFPieces of Ymir's Heart^000000. I hear that this power "
+"source is found where Juperos used to exist."
+msgstr ""
+
+# mes "Since many scholars have been coming to Juno to study and research this power source, our city is basically a well known mecca for scholars.";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid ""
+"Since many scholars have been coming to Juno to study and research this power source, our city is basically a well "
+"known mecca for scholars."
+msgstr ""
+
+# mes "The city of Sages,";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid "The city of Sages,"
+msgstr ""
+
+# mes "^3355FFJuno,^000000 is made of";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid "^3355FFJuno,^000000 is made of"
+msgstr ""
+
+# mes "three islands.";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid "three islands."
+msgstr ""
+
+# mes "These are Solomon, the island of honor, Mineta, the island of prosperity, and Snotora, the island of knowledge.";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid "These are Solomon, the island of honor, Mineta, the island of prosperity, and Snotora, the island of knowledge."
+msgstr ""
+
+# mes "The location of each island is";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid "The location of each island is"
+msgstr ""
+
+# mes "North-west : Solomon";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid "North-west : Solomon"
+msgstr ""
+
+# mes "North-east : Snotora";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid "North-east : Snotora"
+msgstr ""
+
+# mes "South : Mineta.";
+#: npc/cities/yuno.txt
+msgctxt "Freidrich#juno"
+msgid "South : Mineta."
+msgstr ""
+
+# mes "[Granny]";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "[Granny]"
+msgstr ""
+
+# mes "So, do you enjoy candy?";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "So, do you enjoy candy?"
+msgstr ""
+
+# mes "^3355FFGranny hands you some candy^000000.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "^3355FFGranny hands you some candy^000000."
+msgstr ""
+
+# mes "You've already chosen. It doesn't matter whether or not you get this candy. That doesn't matter at all. You have to understand why it's happened.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid ""
+"You've already chosen. It doesn't matter whether or not you get this candy. That doesn't matter at all. You have to "
+"understand why it's happened."
+msgstr ""
+
+# mes "Here's ^3355FF1,000 zeny^000000.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "Here's ^3355FF1,000 zeny^000000."
+msgstr ""
+
+# mes "Do you accept this?";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "Do you accept this?"
+msgstr ""
+
+# if (select("Accept", "Do not accept") == 1) {
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "Accept"
+msgstr ""
+
+# if (select("Accept", "Do not accept") == 1) {
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "Do not accept"
+msgstr ""
+
+# mes "*Giggle*";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "*Giggle*"
+msgstr ""
+
+# mes "There you go~";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "There you go~"
+msgstr ""
+
+# mes "Well then...";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "Well then..."
+msgstr ""
+
+# mes "See you ~";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "See you ~"
+msgstr ""
+
+# mes "Yes, that's right. Now you must ask yourself why you didn't accept the candy I offered.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "Yes, that's right. Now you must ask yourself why you didn't accept the candy I offered."
+msgstr ""
+
+# mes "*Giggle giggle*";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "*Giggle giggle*"
+msgstr ""
+
+# mes "The time has come.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "The time has come."
+msgstr ""
+
+# mes "I am an old Sage granny who foresees everything...";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid "I am an old Sage granny who foresees everything..."
+msgstr ""
+
+# mes "Have you heard of a boss monster that has been around Juno for a long time? It's known only as the ^FF3355Lord of the Dead^000000.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid ""
+"Have you heard of a boss monster that has been around Juno for a long time? It's known only as the ^FF3355Lord of "
+"the Dead^000000."
+msgstr ""
+
+# mes "It is rumored to be from the realm of the dead. It brings many undead monsters with it, intending to lead living creatures to its cold and icy realm.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid ""
+"It is rumored to be from the realm of the dead. It brings many undead monsters with it, intending to lead living "
+"creatures to its cold and icy realm."
+msgstr ""
+
+# mes "You have already chosen whether or not you will challenge the Lord of the Dead. All you need to do right now is understand why you made the decision.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Granny#juno"
+msgid ""
+"You have already chosen whether or not you will challenge the Lord of the Dead. All you need to do right now is "
+"understand why you made the decision."
+msgstr ""
+
+# mes "[Sergiof]";
+#: npc/cities/yuno.txt
+msgctxt "Juno Fighter#juno"
+msgid "[Sergiof]"
+msgstr ""
+
+# mes "My name is Sergiof,";
+#: npc/cities/yuno.txt
+msgctxt "Juno Fighter#juno"
+msgid "My name is Sergiof,"
+msgstr ""
+
+# mes "the fighter who";
+#: npc/cities/yuno.txt
+msgctxt "Juno Fighter#juno"
+msgid "the fighter who"
+msgstr ""
+
+# mes "serves Granny.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Fighter#juno"
+msgid "serves Granny."
+msgstr ""
+
+# mes "I will tell you about ^3355FFGrand Peco^000000 which is a high level Peco Peco. Grand Peco is faster than Peco Peco and is quite aggressive.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Fighter#juno"
+msgid ""
+"I will tell you about ^3355FFGrand Peco^000000 which is a high level Peco Peco. Grand Peco is faster than Peco Peco "
+"and is quite aggressive."
+msgstr ""
+
+# mes "It attacks using its strong bill and many Peco Pecos follow it. There's quite a difference in power between Peco Peco and the Grand Peco.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Fighter#juno"
+msgid ""
+"It attacks using its strong bill and many Peco Pecos follow it. There's quite a difference in power between Peco "
+"Peco and the Grand Peco."
+msgstr ""
+
+# mes "[Ninno]";
+#: npc/cities/yuno.txt
+msgctxt "Juno Despot#juno"
+msgid "[Ninno]"
+msgstr ""
+
+# mes "You are very lucky to have me tell you this story. This only happens by ^FF33551 out of a 1,000 chance^000000.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Despot#juno"
+msgid "You are very lucky to have me tell you this story. This only happens by ^FF33551 out of a 1,000 chance^000000."
+msgstr ""
+
+# mes "This world you are experiencing is actually fabricated! It's time for you to see reality for what it is!";
+#: npc/cities/yuno.txt
+msgctxt "Juno Despot#juno"
+msgid "This world you are experiencing is actually fabricated! It's time for you to see reality for what it is!"
+msgstr ""
+
+# mes "Open your eyes! Stop being manipulated by virtual reality!";
+#: npc/cities/yuno.txt
+msgctxt "Juno Despot#juno"
+msgid "Open your eyes! Stop being manipulated by virtual reality!"
+msgstr ""
+
+# mes "Have you ever heard of an Egyptian king who was once believed to be a son of a god? His name is ^3355FFPharoah^000000.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Despot#juno"
+msgid ""
+"Have you ever heard of an Egyptian king who was once believed to be a son of a god? His name is "
+"^3355FFPharoah^000000."
+msgstr ""
+
+# mes "He was rumored to be a high sorcerer that used his power to curse innocents. It is said that he is still around, placing his curses on people.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Despot#juno"
+msgid ""
+"He was rumored to be a high sorcerer that used his power to curse innocents. It is said that he is still around, "
+"placing his curses on people."
+msgstr ""
+
+# mes "As an adventurer, it's possible that you may see him in your travels. Be careful...";
+#: npc/cities/yuno.txt
+msgctxt "Juno Despot#juno"
+msgid "As an adventurer, it's possible that you may see him in your travels. Be careful..."
+msgstr ""
+
+# mes "[Le Morpheus]";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid "[Le Morpheus]"
+msgstr ""
+
+# mes "Look in my hand. I am holding two different kinds of herbs.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid "Look in my hand. I am holding two different kinds of herbs."
+msgstr ""
+
+# mes "One is a ^3355FFBlue Herb^000000 which will make you forget about reality and keep you in this virtual reality^000000.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid ""
+"One is a ^3355FFBlue Herb^000000 which will make you forget about reality and keep you in this virtual "
+"reality^000000."
+msgstr ""
+
+# mes "The other is a ^FF3355Red Herb^000000 which will reveal to you what is true and real.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid "The other is a ^FF3355Red Herb^000000 which will reveal to you what is true and real."
+msgstr ""
+
+# mes "Whichever one you choose, you must spend ^3355FF5,000 zeny^000000. Now, please select one.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid "Whichever one you choose, you must spend ^3355FF5,000 zeny^000000. Now, please select one."
+msgstr ""
+
+# if (select("Choose ^FF3355Red Herb^000000", "Choose ^3355FFBlue Herb^000000.") == 1) {
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid "Choose ^FF3355Red Herb^000000"
+msgstr ""
+
+# if (select("Choose ^FF3355Red Herb^000000", "Choose ^3355FFBlue Herb^000000.") == 1) {
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid "Choose ^3355FFBlue Herb^000000."
+msgstr ""
+
+# mes "As you have chosen, you will forget everything, and remain in this virtual reality.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid "As you have chosen, you will forget everything, and remain in this virtual reality."
+msgstr ""
+
+# mes "You will see the truth.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid "You will see the truth."
+msgstr ""
+
+# mes "Hmm. I'm sorry to say you just missed a fortunate chance. However, I can tell you don't have enough wealth to bring this fortune to fruition.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid ""
+"Hmm. I'm sorry to say you just missed a fortunate chance. However, I can tell you don't have enough wealth to bring "
+"this fortune to fruition."
+msgstr ""
+
+# mes "^3355FFApocalypse^000000...";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid "^3355FFApocalypse^000000..."
+msgstr ""
+
+# mes "It is the name of an android that used to guard Juno long ago.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid "It is the name of an android that used to guard Juno long ago."
+msgstr ""
+
+# mes "Because its artificial intelligence has corrupted over the years, it can no longer distinguish comrades from enemies. Sadly, that android is nothing but a mindless monster now.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Sage#juno"
+msgid ""
+"Because its artificial intelligence has corrupted over the years, it can no longer distinguish comrades from "
+"enemies. Sadly, that android is nothing but a mindless monster now."
+msgstr ""
+
+# mes "[Artisan]";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "[Artisan]"
+msgstr ""
+
+# mes "*Mumble mumble...*";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "*Mumble mumble...*"
+msgstr ""
+
+# mes "Oh, hello there. Let me introduce myself. I am an artisan who tries to succeed the rights and duties of item makers in Juno.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid ""
+"Oh, hello there. Let me introduce myself. I am an artisan who tries to succeed the rights and duties of item makers "
+"in Juno."
+msgstr ""
+
+# switch(select("About Powerful Equipment", "About Unique Items", "About Authentic Food", "End Conversation")) {
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "About Powerful Equipment"
+msgstr ""
+
+# switch(select("About Powerful Equipment", "About Unique Items", "About Authentic Food", "End Conversation")) {
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "About Unique Items"
+msgstr ""
+
+# switch(select("About Powerful Equipment", "About Unique Items", "About Authentic Food", "End Conversation")) {
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "About Authentic Food"
+msgstr ""
+
+# switch(select("About Powerful Equipment", "About Unique Items", "About Authentic Food", "End Conversation")) {
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "End Conversation"
+msgstr ""
+
+# mes "Let me suggest the ^3355FFHoly Guard^000000 and ^3355FFHoly Avenger^000000 which are special items for Crusaders.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid ""
+"Let me suggest the ^3355FFHoly Guard^000000 and ^3355FFHoly Avenger^000000 which are special items for Crusaders."
+msgstr ""
+
+# mes "These pieces of equipment are very light and have sufficient abilities. They also happen to possess holy power.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "These pieces of equipment are very light and have sufficient abilities. They also happen to possess holy power."
+msgstr ""
+
+# mes "Therefore, this equipment is more powerful over some kinds of monsters such as Ghosts or the Undead.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "Therefore, this equipment is more powerful over some kinds of monsters such as Ghosts or the Undead."
+msgstr ""
+
+# mes "However it is rumored that only a few chosen Crusaders are able to obtain those items due of their rarity.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "However it is rumored that only a few chosen Crusaders are able to obtain those items due of their rarity."
+msgstr ""
+
+# mes "It looks like a simple scroll marked with concentric circles and a star. Although the ^FF3355Worn-Out Magic Scroll^000000 is very old, it's wanted by many Sages for research purposes.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid ""
+"It looks like a simple scroll marked with concentric circles and a star. Although the ^FF3355Worn-Out Magic "
+"Scroll^000000 is very old, it's wanted by many Sages for research purposes."
+msgstr ""
+
+# mes "It seems you can use that item when you chant a high-level magic spell.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "It seems you can use that item when you chant a high-level magic spell."
+msgstr ""
+
+# mes "^3355FFRice Cake^000000! Yes, it's a traditional food that's favored by a lot of people. There's a lot of nostalgic memories of old fashioned markets that are connected to the Rice Cake.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid ""
+"^3355FFRice Cake^000000! Yes, it's a traditional food that's favored by a lot of people. There's a lot of nostalgic "
+"memories of old fashioned markets that are connected to the Rice Cake."
+msgstr ""
+
+# mes "Ahhh~";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "Ahhh~"
+msgstr ""
+
+# mes "I wish I could eat a bit of Rice Cake right now.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid "I wish I could eat a bit of Rice Cake right now."
+msgstr ""
+
+# mes "Although Juno is known as a city of Sages, I hope you understand that ordinary people live and propser here as well. Please enjoy the unique atmosphere that Juno has to offer.";
+#: npc/cities/yuno.txt
+msgctxt "Juno Artisan#juno"
+msgid ""
+"Although Juno is known as a city of Sages, I hope you understand that ordinary people live and propser here as well. "
+"Please enjoy the unique atmosphere that Juno has to offer."
+msgstr ""
+
+# mes "[Juno Soldier]";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier1"
+msgid "[Juno Soldier]"
+msgstr ""
+
+# mes "Welcome to Juno, the city of noble-mindedness.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier1"
+msgid "Welcome to Juno, the city of noble-mindedness."
+msgstr ""
+
+# mes "There is a monster near here known as Lava Golem. This golem is made from a stone heart whose power happened to be amplified with magic power when it was swept away by molten rock.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier1"
+msgid ""
+"There is a monster near here known as Lava Golem. This golem is made from a stone heart whose power happened to be "
+"amplified with magic power when it was swept away by molten rock."
+msgstr ""
+
+# mes "The lava dripping from its body is so hot that it can melt down armor and weapons made out of high quality steel.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier1"
+msgid ""
+"The lava dripping from its body is so hot that it can melt down armor and weapons made out of high quality steel."
+msgstr ""
+
+# mes "You'd better be careful when you encounter this monster. It will damage armor and weapons in the twinkling of an eye.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier1"
+msgid ""
+"You'd better be careful when you encounter this monster. It will damage armor and weapons in the twinkling of an eye."
+msgstr ""
+
+# mes "[Juno Soldier]";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier2"
+msgid "[Juno Soldier]"
+msgstr ""
+
+# mes "Welcome to Juno, the city of noble-mindedness.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier2"
+msgid "Welcome to Juno, the city of noble-mindedness."
+msgstr ""
+
+# mes "Geographer...";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier2"
+msgid "Geographer..."
+msgstr ""
+
+# mes "That monster looks like a flower blooming from the ground.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier2"
+msgid "That monster looks like a flower blooming from the ground."
+msgstr ""
+
+# mes "Strangely, it can extend its body a long distance. Even if you're far away from it, it can still pose a threat.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier2"
+msgid "Strangely, it can extend its body a long distance. Even if you're far away from it, it can still pose a threat."
+msgstr ""
+
+# mes "The name of this monster originated from a story about a poor geographer who, unfortunately, was eaten by this monster while he was immersed in his studies.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier2"
+msgid ""
+"The name of this monster originated from a story about a poor geographer who, unfortunately, was eaten by this "
+"monster while he was immersed in his studies."
+msgstr ""
+
+# mes "[Juno Soldier]";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier3"
+msgid "[Juno Soldier]"
+msgstr ""
+
+# mes "Welcome to Juno, the city of noble-mindedness.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier3"
+msgid "Welcome to Juno, the city of noble-mindedness."
+msgstr ""
+
+# mes "Near Juno, there exists a fallen angel named 'False Angel.' It feigns innocence, pretending to bless adventurers and then stabbing them in the back without any warning.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier3"
+msgid ""
+"Near Juno, there exists a fallen angel named 'False Angel.' It feigns innocence, pretending to bless adventurers and "
+"then stabbing them in the back without any warning."
+msgstr ""
+
+# mes "Don't be fooled by its appearance, or you'll find yourself in trouble.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier3"
+msgid "Don't be fooled by its appearance, or you'll find yourself in trouble."
+msgstr ""
+
+# mes "[Juno Soldier]";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier4"
+msgid "[Juno Soldier]"
+msgstr ""
+
+# mes "Welcome to Juno, the city of noble-mindedness.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier4"
+msgid "Welcome to Juno, the city of noble-mindedness."
+msgstr ""
+
+# mes "'Goat' is a monster that was an antelope living in the high mountains that was somehow turned into a monster.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier4"
+msgid "'Goat' is a monster that was an antelope living in the high mountains that was somehow turned into a monster."
+msgstr ""
+
+# mes "Even if you manage to dodge to its horns, you still need to be wary of its powerful legs.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier4"
+msgid "Even if you manage to dodge to its horns, you still need to be wary of its powerful legs."
+msgstr ""
+
+# mes "Goat's legs are so strong because it's always climbing cliffs when it's not busy slaughtering the innocent.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier4"
+msgid "Goat's legs are so strong because it's always climbing cliffs when it's not busy slaughtering the innocent."
+msgstr ""
+
+# mes "[Juno Soldier]";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier5"
+msgid "[Juno Soldier]"
+msgstr ""
+
+# mes "Welcome to Juno, the city of noble-mindedness.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier5"
+msgid "Welcome to Juno, the city of noble-mindedness."
+msgstr ""
+
+# mes "Have you ever";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier5"
+msgid "Have you ever"
+msgstr ""
+
+# mes "seen a Large Jellopy?";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier5"
+msgid "seen a Large Jellopy?"
+msgstr ""
+
+# mes "Those things are huuuge!";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier5"
+msgid "Those things are huuuge!"
+msgstr ""
+
+# mes "It's hard to believe";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier5"
+msgid "It's hard to believe"
+msgstr ""
+
+# mes "that such a large and";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier5"
+msgid "that such a large and"
+msgstr ""
+
+# mes "shining jellopy even exists!";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier5"
+msgid "shining jellopy even exists!"
+msgstr ""
+
+# mes "[Juno Soldier]";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier6"
+msgid "[Juno Soldier]"
+msgstr ""
+
+# mes "Welcome to Juno, the city of noble-mindedness.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier6"
+msgid "Welcome to Juno, the city of noble-mindedness."
+msgstr ""
+
+# mes "Among the Sage's weapons, there is a 'Dagger of Counter.'";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier6"
+msgid "Among the Sage's weapons, there is a 'Dagger of Counter.'"
+msgstr ""
+
+# mes "Its use is limited to the Sage class, and it increases the chance of inflicting critical attacks. So, for Sages, that dagger can be very useful, as well as make them look stylish in battle.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier6"
+msgid ""
+"Its use is limited to the Sage class, and it increases the chance of inflicting critical attacks. So, for Sages, "
+"that dagger can be very useful, as well as make them look stylish in battle."
+msgstr ""
+
+# mes "[Juno Soldier]";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier7"
+msgid "[Juno Soldier]"
+msgstr ""
+
+# mes "Welcome to Juno, the city of noble-mindedness.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier7"
+msgid "Welcome to Juno, the city of noble-mindedness."
+msgstr ""
+
+# mes "There is a holy shield named 'Sacred Mission' which can only be used by Crusaders.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier7"
+msgid "There is a holy shield named 'Sacred Mission' which can only be used by Crusaders."
+msgstr ""
+
+# mes "It's a long and narrow shield with an angel wing engraved in the center of the front side. Against Devil and Undead monsters, it is especially powerful.";
+#: npc/cities/yuno.txt
+msgctxt "::JunoSoldier7"
+msgid ""
+"It's a long and narrow shield with an angel wing engraved in the center of the front side. Against Devil and Undead "
+"monsters, it is especially powerful."
+msgstr ""
+
+# mes "[Airship Representative]";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "[Airship Representative]"
+msgstr ""
+
+# mes "Good day, I am here to inform you";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Good day, I am here to inform you"
+msgstr ""
+
+# mes "about the Juno Airship which";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "about the Juno Airship which"
+msgstr ""
+
+# mes "we plan to operate in the near future.";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "we plan to operate in the near future."
+msgstr ""
+
+# mes "[Air ship Representative]";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "[Air ship Representative]"
+msgstr ""
+
+# mes "Unfortunately, it is still in";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Unfortunately, it is still in"
+msgstr ""
+
+# mes "development, and we've yet";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "development, and we've yet"
+msgstr ""
+
+# mes "to complete testing. However,";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "to complete testing. However,"
+msgstr ""
+
+# mes "we feel the need to let our";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "we feel the need to let our"
+msgstr ""
+
+# mes "eager customers know of our";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "eager customers know of our"
+msgstr ""
+
+# mes "progress.";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "progress."
+msgstr ""
+
+# mes "The Airship we're developing will provide you with convenient travel to any town. You can also enjoy the sights while aloft in the sky. Unique products from various areas will also be provided.";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid ""
+"The Airship we're developing will provide you with convenient travel to any town. You can also enjoy the sights "
+"while aloft in the sky. Unique products from various areas will also be provided."
+msgstr ""
+
+# mes "We promise our customers an";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "We promise our customers an"
+msgstr ""
+
+# mes "amazing travel experience";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "amazing travel experience"
+msgstr ""
+
+# mes "once the Airship is in";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "once the Airship is in"
+msgstr ""
+
+# mes "operation. In the meantime,";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "operation. In the meantime,"
+msgstr ""
+
+# mes "we are providing a special";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "we are providing a special"
+msgstr ""
+
+# mes "teleport service.";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "teleport service."
+msgstr ""
+
+# mes "The teleport fee is 1,800 zeny, regardless of where you want to go. Please let me know your desired destination.";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid ""
+"The teleport fee is 1,800 zeny, regardless of where you want to go. Please let me know your desired destination."
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Morroc", "Payon", "Alberta", "Comodo", "Cancel")) {
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Prontera"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Morroc", "Payon", "Alberta", "Comodo", "Cancel")) {
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Izlude"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Morroc", "Payon", "Alberta", "Comodo", "Cancel")) {
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Geffen"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Morroc", "Payon", "Alberta", "Comodo", "Cancel")) {
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Morroc"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Morroc", "Payon", "Alberta", "Comodo", "Cancel")) {
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Payon"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Morroc", "Payon", "Alberta", "Comodo", "Cancel")) {
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Alberta"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Morroc", "Payon", "Alberta", "Comodo", "Cancel")) {
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Comodo"
+msgstr ""
+
+# switch(select("Prontera", "Izlude", "Geffen", "Morroc", "Payon", "Alberta", "Comodo", "Cancel")) {
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Cancel"
+msgstr ""
+
+# mes "I regret to say that you do not have enough zeny with you.";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "I regret to say that you do not have enough zeny with you."
+msgstr ""
+
+# mes "Please check the amount of zeny that you have.";
+#: npc/cities/yuno.txt
+msgctxt "Airship Representative"
+msgid "Please check the amount of zeny that you have."
+msgstr ""
+
+# mes "[Dwarf]";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "[Dwarf]"
+msgstr ""
+
+# mes "Hey did you see an ugly Goblin come by? He stole something from me!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Hey did you see an ugly Goblin come by? He stole something from me!"
+msgstr ""
+
+# mes "Help me!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Help me!"
+msgstr ""
+
+# mes "Please, help me!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Please, help me!"
+msgstr ""
+
+# switch(select("What happened?", "Nevermind.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "What happened?"
+msgstr ""
+
+# switch(select("What happened?", "Nevermind.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Nevermind."
+msgstr ""
+
+# mes "I am Morestone and I collect rare gems.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "I am Morestone and I collect rare gems."
+msgstr ""
+
+# mes "[Morestone]";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "[Morestone]"
+msgstr ""
+
+# mes "In my travels, I was told that there were alot of gems in Valfreyja and Nidhoggur, so I came down here.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "In my travels, I was told that there were alot of gems in Valfreyja and Nidhoggur, so I came down here."
+msgstr ""
+
+# mes "But here, the soil is very hard to dig into. Fortunately, my ^3131FFPickaxe^000000 never lets me down!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "But here, the soil is very hard to dig into. Fortunately, my ^3131FFPickaxe^000000 never lets me down!"
+msgstr ""
+
+# select("Pickaxe!");
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Pickaxe!"
+msgstr ""
+
+# mes "Yes, my beloved pickaxe!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Yes, my beloved pickaxe!"
+msgstr ""
+
+# mes "I always carry it with me, you know?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "I always carry it with me, you know?"
+msgstr ""
+
+# mes "We started working here together.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "We started working here together."
+msgstr ""
+
+# mes "After a few days, we finally found something!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "After a few days, we finally found something!"
+msgstr ""
+
+# select("Something strange??");
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Something strange??"
+msgstr ""
+
+# mes "No, but it was worth quite alot.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "No, but it was worth quite alot."
+msgstr ""
+
+# mes "But we did not have much time to celebrate. Suddenly, a monster appeared that stole my pickaxe.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "But we did not have much time to celebrate. Suddenly, a monster appeared that stole my pickaxe."
+msgstr ""
+
+# mes "His name was^3131FFKublin^000000!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "His name was^3131FFKublin^000000!"
+msgstr ""
+
+# mes "He stole my Pickaxe!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "He stole my Pickaxe!"
+msgstr ""
+
+# mes "I can't live without it...";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "I can't live without it..."
+msgstr ""
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "["
+msgstr ""
+
+# mes "Is this the pickaxe that you've been looking for?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Is this the pickaxe that you've been looking for?"
+msgstr ""
+
+# mes "You found my Pickaxe?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "You found my Pickaxe?"
+msgstr ""
+
+# mes "Show me, please!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Show me, please!"
+msgstr ""
+
+# mes "Oh, my! You've returned it to me!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Oh, my! You've returned it to me!"
+msgstr ""
+
+# mes "My precious pickaxe, I thought I lost you forever.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "My precious pickaxe, I thought I lost you forever."
+msgstr ""
+
+# mes "You are great! What guild are you from?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "You are great! What guild are you from?"
+msgstr ""
+
+# mes "Could it be Gravity or Mercury?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Could it be Gravity or Mercury?"
+msgstr ""
+
+# mes "I am a member of the ^3131FF"+.@chk_yourgdname$+"^.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "I am a member of the ^3131FF"
+msgstr ""
+
+# mes "I am a member of the ^3131FF"+.@chk_yourgdname$+"^.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "^."
+msgstr ""
+
+# mes "Oh... That guild will receive my greatest respect.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Oh... That guild will receive my greatest respect."
+msgstr ""
+
+# mes "Oh! My friend, I am very grateful for your help.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Oh! My friend, I am very grateful for your help."
+msgstr ""
+
+# mes "As a reward, I will tell you about a mysterious area I have discovered recently.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "As a reward, I will tell you about a mysterious area I have discovered recently."
+msgstr ""
+
+# select("A mysterious area?");
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "A mysterious area?"
+msgstr ""
+
+# mes "That's right. I found it when I was digging around here.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "That's right. I found it when I was digging around here."
+msgstr ""
+
+# mes "It looks like it was made for some special purpose, but since there are no gems around there, I have no interest in it.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid ""
+"It looks like it was made for some special purpose, but since there are no gems around there, I have no interest in "
+"it."
+msgstr ""
+
+# mes "Instead of going there alone, I think it would be more fun to go with your friends...";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Instead of going there alone, I think it would be more fun to go with your friends..."
+msgstr ""
+
+# mes "If you want, I can take ^3131FFyou and your guild members^000000 to explore that area.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "If you want, I can take ^3131FFyou and your guild members^000000 to explore that area."
+msgstr ""
+
+# mes "Do you want to go there now?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Do you want to go there now?"
+msgstr ""
+
+# switch(select("Wait! I'm not ready yet.", "Let's go!")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Wait! I'm not ready yet."
+msgstr ""
+
+# switch(select("Wait! I'm not ready yet.", "Let's go!")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Let's go!"
+msgstr ""
+
+# mes "Take your time, and find a place to gather your friends.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Take your time, and find a place to gather your friends."
+msgstr ""
+
+# mes "Alright! Let's go.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Alright! Let's go."
+msgstr ""
+
+# mes "If your friends visit me again later, I will guide them to that area again.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "If your friends visit me again later, I will guide them to that area again."
+msgstr ""
+
+# mes "Don't forget, dwarves are grateful beings! Hahaha!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Don't forget, dwarves are grateful beings! Hahaha!"
+msgstr ""
+
+# mes "I will tell you how to find him.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "I will tell you how to find him."
+msgstr ""
+
+# mes "Kublin wears a ridiculous golden hat, It should be easy to recognise him by that.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Kublin wears a ridiculous golden hat, It should be easy to recognise him by that."
+msgstr ""
+
+# mes "Ahhh...";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Ahhh..."
+msgstr ""
+
+# mes "I, Morestone, have made an alliance with the "+$@gdevents_a$+" guild.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "I, Morestone, have made an alliance with the "
+msgstr ""
+
+# mes "I, Morestone, have made an alliance with the "+$@gdevents_a$+" guild.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid " guild."
+msgstr ""
+
+# mes "Oh, you are a member.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Oh, you are a member."
+msgstr ""
+
+# mes "Would you like to go to the mysterious area?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Would you like to go to the mysterious area?"
+msgstr ""
+
+# switch(select("Let's go.", "No, thanks.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Let's go."
+msgstr ""
+
+# switch(select("Let's go.", "No, thanks.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "No, thanks."
+msgstr ""
+
+# mes "I hope you enjoy yourself, my friend.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "I hope you enjoy yourself, my friend."
+msgstr ""
+
+# mes "If you need my assistance, just ask.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "If you need my assistance, just ask."
+msgstr ""
+
+# mes "Ah! Dont forget, I hate monsters! So I don't want to see them. It will be better if you ask for another favour.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Ah! Dont forget, I hate monsters! So I don't want to see them. It will be better if you ask for another favour."
+msgstr ""
+
+# mes "Ah....";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Ah...."
+msgstr ""
+
+# mes "Hm, you're not a member.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Hm, you're not a member."
+msgstr ""
+
+# mes "Could you please give them my greetings?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Could you please give them my greetings?"
+msgstr ""
+
+# mes "Take your time, and find a place to gather you friends.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Dwarf#aru_gd"
+msgid "Take your time, and find a place to gather you friends."
+msgstr ""
+
+# mes "- Wait!! -";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "- Wait!! -"
+msgstr ""
+
+# mes "- You're carrying too many items, -";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "- You're carrying too many items, -"
+msgstr ""
+
+# mes "- you can't receive the materials. -";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "- you can't receive the materials. -"
+msgstr ""
+
+# mes "- Please use the Kafra Services, -";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "- Please use the Kafra Services, -"
+msgstr ""
+
+# mes "- and come back later. -";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "- and come back later. -"
+msgstr ""
+
+# mes "A lonely clown is juggling.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "A lonely clown is juggling."
+msgstr ""
+
+# mes "When looked at closely, the clown is just a puppet that looks like a human.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "When looked at closely, the clown is just a puppet that looks like a human."
+msgstr ""
+
+# mes "The clown stops, then starts moving in accordance to your movements, noises start to emit from it's mouth.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "The clown stops, then starts moving in accordance to your movements, noises start to emit from it's mouth."
+msgstr ""
+
+# mes "[Pierrot Pier]";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "[Pierrot Pier]"
+msgstr ""
+
+# mes "Beep beep beep.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Beep beep beep."
+msgstr ""
+
+# mes "Hello, my friends!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Hello, my friends!"
+msgstr ""
+
+# mes "I am the loyal servant of Gergath, and I have finally received my orders.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I am the loyal servant of Gergath, and I have finally received my orders."
+msgstr ""
+
+# mes "I am happy to hear all the laughter, but without my master's permission, I can't do anything.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I am happy to hear all the laughter, but without my master's permission, I can't do anything."
+msgstr ""
+
+# mes "Did you get permission from Gergath?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Did you get permission from Gergath?"
+msgstr ""
+
+# switch(select("I need to check that.", "No.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I need to check that."
+msgstr ""
+
+# switch(select("I need to check that.", "No.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "No."
+msgstr ""
+
+# mes "Please give me the palm of your hand.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Please give me the palm of your hand."
+msgstr ""
+
+# mes "Let me see...";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Let me see..."
+msgstr ""
+
+# mes "Hm...";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Hm..."
+msgstr ""
+
+# mes "Okay, I see...";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Okay, I see..."
+msgstr ""
+
+# mes "Indeed...";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Indeed..."
+msgstr ""
+
+# mes "Verification completed!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Verification completed!"
+msgstr ""
+
+# mes "Hm? that's right.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Hm? that's right."
+msgstr ""
+
+# mes "When is that person coming? I am very bored~!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "When is that person coming? I am very bored~!"
+msgstr ""
+
+# mes "^3131FF<You're someone who can only think about nonsense everyday, you have no focus at all.>^000000";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "^3131FF<You're someone who can only think about nonsense everyday, you have no focus at all.>^000000"
+msgstr ""
+
+# mes "Hm? You don't think so?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Hm? You don't think so?"
+msgstr ""
+
+# mes "Haha, I'm just kidding. Beep beep.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Haha, I'm just kidding. Beep beep."
+msgstr ""
+
+# mes "Ah, you are the one my master speaks of.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Ah, you are the one my master speaks of."
+msgstr ""
+
+# mes "Come, the Gergath has left a message for you.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Come, the Gergath has left a message for you."
+msgstr ""
+
+# mes "It's a bit old, but it should still be legible.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "It's a bit old, but it should still be legible."
+msgstr ""
+
+# mes "Alright, let's begin!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Alright, let's begin!"
+msgstr ""
+
+# mes "Let's talk after I finished reading my master's message. Beep beep.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Let's talk after I finished reading my master's message. Beep beep."
+msgstr ""
+
+# mes "My master Gergath sincerely wishes you joy for you and your family everyday.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "My master Gergath sincerely wishes you joy for you and your family everyday."
+msgstr ""
+
+# mes "Alright, would you like to play the game Gergath has prepared for you?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Alright, would you like to play the game Gergath has prepared for you?"
+msgstr ""
+
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Game instructions."
+msgstr ""
+
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Skip instructions."
+msgstr ""
+
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Refuse game."
+msgstr ""
+
+# mes "The game prepared by my master is very unique, yet simple and fun!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "The game prepared by my master is very unique, yet simple and fun!"
+msgstr ""
+
+# mes "It's called \"Find the Treasure Map\"!!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "It's called \"Find the Treasure Map\"!!"
+msgstr ""
+
+# mes "Do you see this large and green field? Beep, beep?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Do you see this large and green field? Beep, beep?"
+msgstr ""
+
+# mes "I will show you the most incredible magic here.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I will show you the most incredible magic here."
+msgstr ""
+
+# mes "I will turn this place very white. Veeery white!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I will turn this place very white. Veeery white!"
+msgstr ""
+
+# mes "The game instruction is just to find the treasure map within the time limit.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "The game instruction is just to find the treasure map within the time limit."
+msgstr ""
+
+# mes "Sounds easy, right?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Sounds easy, right?"
+msgstr ""
+
+# mes "Oh, you don't want to play?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Oh, you don't want to play?"
+msgstr ""
+
+# mes "Okay, I'm ready to begin.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Okay, I'm ready to begin."
+msgstr ""
+
+# mes "Shall we start? Beep, beep?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Shall we start? Beep, beep?"
+msgstr ""
+
+# switch(select("No.", "Start.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Start."
+msgstr ""
+
+# mes "Let me know when you are ready.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Let me know when you are ready."
+msgstr ""
+
+# mes "Alright! Let us begin!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Alright! Let us begin!"
+msgstr ""
+
+# mes "Ladies, and gentlemen.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Ladies, and gentlemen."
+msgstr ""
+
+# mes "Who will find the treasure map in this white world?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Who will find the treasure map in this white world?"
+msgstr ""
+
+# mes "Amongst all of you, who shall be the lucky one?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Amongst all of you, who shall be the lucky one?"
+msgstr ""
+
+# mes "Let the game.. Begin!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Let the game.. Begin!"
+msgstr ""
+
+# mes "Did you find the treasure map?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Did you find the treasure map?"
+msgstr ""
+
+# mes "Show me what you have in your hands! Beep, beep!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Show me what you have in your hands! Beep, beep!"
+msgstr ""
+
+# mes "Wow~~!!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Wow~~!!"
+msgstr ""
+
+# mes "Success~!!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Success~!!"
+msgstr ""
+
+# mes "What a success~!!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "What a success~!!"
+msgstr ""
+
+# mes "Ahh, what a shame, it seems like you haven't found the treasure map yet.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Ahh, what a shame, it seems like you haven't found the treasure map yet."
+msgstr ""
+
+# mes "Quickly! Your time is running out! Hurry up!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Quickly! Your time is running out! Hurry up!"
+msgstr ""
+
+# mes "I don't see anything. Have you even started yet? Beep?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I don't see anything. Have you even started yet? Beep?"
+msgstr ""
+
+# mes "Hehe, while you're talking to me, the time is slowly ticking away~";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Hehe, while you're talking to me, the time is slowly ticking away~"
+msgstr ""
+
+# mes "Wah, why is it like this~!!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Wah, why is it like this~!!"
+msgstr ""
+
+# mes "Not enough? But this makes the game fun, no? Hahaha!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Not enough? But this makes the game fun, no? Hahaha!"
+msgstr ""
+
+# mes "What did you think?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "What did you think?"
+msgstr ""
+
+# switch(select("It was pretty hard.", "I should've been successful...")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "It was pretty hard."
+msgstr ""
+
+# switch(select("It was pretty hard.", "I should've been successful...")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I should've been successful..."
+msgstr ""
+
+# mes "It's like trying to find a needle in a haystack!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "It's like trying to find a needle in a haystack!"
+msgstr ""
+
+# mes "It's hard, but if you find it, it's worth ten times the effort. Beep, beep.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "It's hard, but if you find it, it's worth ten times the effort. Beep, beep."
+msgstr ""
+
+# mes "Aaah~! Time is gold.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Aaah~! Time is gold."
+msgstr ""
+
+# mes "Precious time goes by so fast.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Precious time goes by so fast."
+msgstr ""
+
+# mes "I, Pierrot Piere, am not a heartless clown! Beep beep.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I, Pierrot Piere, am not a heartless clown! Beep beep."
+msgstr ""
+
+# mes "Your success is my happiness!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Your success is my happiness!"
+msgstr ""
+
+# mes "I'll give you one more chance. How's that? Beep?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I'll give you one more chance. How's that? Beep?"
+msgstr ""
+
+# mes "How did you do it?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "How did you do it?"
+msgstr ""
+
+# mes "You managed to find a needle in a haystack!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "You managed to find a needle in a haystack!"
+msgstr ""
+
+# mes "Amazing!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Amazing!"
+msgstr ""
+
+# mes "You've completeled an unbelievable task, I will give you the wonderful gift master has prepared!! Ha!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "You've completeled an unbelievable task, I will give you the wonderful gift master has prepared!! Ha!"
+msgstr ""
+
+# mes "Incredible! Unbelievable! Beep beep!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Incredible! Unbelievable! Beep beep!"
+msgstr ""
+
+# mes "Did you have fun?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Did you have fun?"
+msgstr ""
+
+# mes "Seeing your smiles, makes Pierrot feel very happy~";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Seeing your smiles, makes Pierrot feel very happy~"
+msgstr ""
+
+# mes "I hope to see you again very soon, I must go back to being a doll now.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I hope to see you again very soon, I must go back to being a doll now."
+msgstr ""
+
+# mes "See you next time!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "See you next time!"
+msgstr ""
+
+# mes "Let me see.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Let me see."
+msgstr ""
+
+# mes "Did you get permission from the Gergath?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Did you get permission from the Gergath?"
+msgstr ""
+
+# mes "^3131FF<Although you're a weirdo, you seem to be very dedicated>^000000. Beep beep.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "^3131FF<Although you're a weirdo, you seem to be very dedicated>^000000. Beep beep."
+msgstr ""
+
+# mes "The one my lord appointed is ^3131FF< someone who leads many people >^000000. Beep.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "The one my lord appointed is ^3131FF< someone who leads many people >^000000. Beep."
+msgstr ""
+
+# mes "Pierrot wants to be someone like that, too. Beep.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Pierrot wants to be someone like that, too. Beep."
+msgstr ""
+
+# mes "Congratulations, you have succeeded!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Congratulations, you have succeeded!"
+msgstr ""
+
+# mes "I will talk to your leader about other details.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I will talk to your leader about other details."
+msgstr ""
+
+# mes "Did you find the treasure?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Did you find the treasure?"
+msgstr ""
+
+# mes "Show me that thing you are holding, now!";
+#: npc/events/gdevent_aru.txt
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Show me that thing you are holding, now!"
+msgstr ""
+
+# mes "Incorrect password.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Event controller#aru_gd"
+msgid "Incorrect password."
+msgstr ""
+
+# mes "How can I help you?";
+#: npc/events/gdevent_aru.txt
+msgctxt "Event controller#aru_gd"
+msgid "How can I help you?"
+msgstr ""
+
+# switch(select("Reset.", "No, thanks.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Event controller#aru_gd"
+msgid "Reset."
+msgstr ""
+
+# switch(select("Reset.", "No, thanks.")) {
+#: npc/events/gdevent_aru.txt
+msgctxt "Event controller#aru_gd"
+msgid "No, thanks."
+msgstr ""
+
+# mes "Completed.";
+#: npc/events/gdevent_aru.txt
+msgctxt "Event controller#aru_gd"
+msgid "Completed."
+msgstr ""
+
+# mes "Good bye~";
+#: npc/events/gdevent_aru.txt
+msgctxt "Event controller#aru_gd"
+msgid "Good bye~"
+msgstr ""
+
+# mes "[Dwarf]";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "[Dwarf]"
+msgstr ""
+
+# mes "Hey did you see an ugly Goblin come by? He stole something from me!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Hey did you see an ugly Goblin come by? He stole something from me!"
+msgstr ""
+
+# mes "Help me!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Help me!"
+msgstr ""
+
+# mes "Please, help me!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Please, help me!"
+msgstr ""
+
+# switch(select("What happened?", "Nevermind.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "What happened?"
+msgstr ""
+
+# switch(select("What happened?", "Nevermind.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Nevermind."
+msgstr ""
+
+# mes "I am Morestone and I collect rare gems.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "I am Morestone and I collect rare gems."
+msgstr ""
+
+# mes "[Morestone]";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "[Morestone]"
+msgstr ""
+
+# mes "In my travels, I was told that there were alot of gems in Valfreyja and Nidhoggur, so I came down here.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "In my travels, I was told that there were alot of gems in Valfreyja and Nidhoggur, so I came down here."
+msgstr ""
+
+# mes "But here, the soil is very hard to dig into. Fortunately, my ^3131FFPickaxe^000000 never lets me down!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "But here, the soil is very hard to dig into. Fortunately, my ^3131FFPickaxe^000000 never lets me down!"
+msgstr ""
+
+# select("Pickaxe!");
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Pickaxe!"
+msgstr ""
+
+# mes "Yes, my beloved pickaxe!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Yes, my beloved pickaxe!"
+msgstr ""
+
+# mes "I always carry it with me, you know?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "I always carry it with me, you know?"
+msgstr ""
+
+# mes "We started working here together.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "We started working here together."
+msgstr ""
+
+# mes "After a few days, we finally found something!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "After a few days, we finally found something!"
+msgstr ""
+
+# select("Something strange??");
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Something strange??"
+msgstr ""
+
+# mes "No, but it was worth quite alot.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "No, but it was worth quite alot."
+msgstr ""
+
+# mes "But we did not have much time to celebrate. Suddenly, a monster appeared that stole my pickaxe.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "But we did not have much time to celebrate. Suddenly, a monster appeared that stole my pickaxe."
+msgstr ""
+
+# mes "His name was^3131FFKublin^000000!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "His name was^3131FFKublin^000000!"
+msgstr ""
+
+# mes "He stole my Pickaxe!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "He stole my Pickaxe!"
+msgstr ""
+
+# mes "I can't live without it...";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "I can't live without it..."
+msgstr ""
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "["
+msgstr ""
+
+# mes "Is this the pickaxe that you've been looking for?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Is this the pickaxe that you've been looking for?"
+msgstr ""
+
+# mes "You found my Pickaxe?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "You found my Pickaxe?"
+msgstr ""
+
+# mes "Show me, please!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Show me, please!"
+msgstr ""
+
+# mes "Oh, my! You've returned it to me!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Oh, my! You've returned it to me!"
+msgstr ""
+
+# mes "My precious pickaxe, I thought I lost you forever.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "My precious pickaxe, I thought I lost you forever."
+msgstr ""
+
+# mes "You are great! What guild are you from?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "You are great! What guild are you from?"
+msgstr ""
+
+# mes "Could it be Gravity or Mercury?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Could it be Gravity or Mercury?"
+msgstr ""
+
+# mes "I am a member of the ^3131FF"+.@chk_yourgdname$+"^.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "I am a member of the ^3131FF"
+msgstr ""
+
+# mes "I am a member of the ^3131FF"+.@chk_yourgdname$+"^.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "^."
+msgstr ""
+
+# mes "Oh... That guild will receive my greatest respect.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Oh... That guild will receive my greatest respect."
+msgstr ""
+
+# mes "Oh! My friend, I am very grateful for your help.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Oh! My friend, I am very grateful for your help."
+msgstr ""
+
+# mes "As a reward, I will tell you about a mysterious area I have discovered recently.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "As a reward, I will tell you about a mysterious area I have discovered recently."
+msgstr ""
+
+# select("A mysterious area?");
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "A mysterious area?"
+msgstr ""
+
+# mes "That's right. I found it when I was digging around here.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "That's right. I found it when I was digging around here."
+msgstr ""
+
+# mes "It looks like it was made for some special purpose, but since there are no gems around there, I have no interest in it.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"It looks like it was made for some special purpose, but since there are no gems around there, I have no interest in "
+"it."
+msgstr ""
+
+# mes "Instead of going there alone, I think it would be more fun to go with your friends...";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Instead of going there alone, I think it would be more fun to go with your friends..."
+msgstr ""
+
+# mes "If you want, I can take ^3131FFyou and your guild members^000000 to explore that area.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "If you want, I can take ^3131FFyou and your guild members^000000 to explore that area."
+msgstr ""
+
+# mes "Do you want to go there now?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Do you want to go there now?"
+msgstr ""
+
+# switch(select("Wait! I'm not ready yet.", "Let's go!")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Wait! I'm not ready yet."
+msgstr ""
+
+# switch(select("Wait! I'm not ready yet.", "Let's go!")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Let's go!"
+msgstr ""
+
+# mes "Take your time, and find a place to gather your friends.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Take your time, and find a place to gather your friends."
+msgstr ""
+
+# mes "Alright! Let's go.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Alright! Let's go."
+msgstr ""
+
+# mes "If your friends visit me again later, I will guide them to that area again.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "If your friends visit me again later, I will guide them to that area again."
+msgstr ""
+
+# mes "Don't forget, dwarves are grateful beings! Hahaha!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Don't forget, dwarves are grateful beings! Hahaha!"
+msgstr ""
+
+# mes "I will tell you how to find him.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "I will tell you how to find him."
+msgstr ""
+
+# mes "Kublin wears a ridiculous golden hat, It should be easy to recognise him by that.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Kublin wears a ridiculous golden hat, It should be easy to recognise him by that."
+msgstr ""
+
+# mes "Ahhh...";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Ahhh..."
+msgstr ""
+
+# mes "I, Morestone, have made an alliance with the "+$@gdevents_s$+" guild.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "I, Morestone, have made an alliance with the "
+msgstr ""
+
+# mes "I, Morestone, have made an alliance with the "+$@gdevents_s$+" guild.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid " guild."
+msgstr ""
+
+# mes "Oh, you are a member.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Oh, you are a member."
+msgstr ""
+
+# mes "Would you like to go to the mysterious area?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Would you like to go to the mysterious area?"
+msgstr ""
+
+# switch(select("Let's go.", "No, thanks.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Let's go."
+msgstr ""
+
+# switch(select("Let's go.", "No, thanks.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "No, thanks."
+msgstr ""
+
+# mes "I hope you enjoy yourself, my friend.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "I hope you enjoy yourself, my friend."
+msgstr ""
+
+# mes "If you need my assistance, just ask.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "If you need my assistance, just ask."
+msgstr ""
+
+# mes "Ah! Dont forget, I hate monsters! So I don't want to see them. It will be better if you ask for another favour.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Ah! Dont forget, I hate monsters! So I don't want to see them. It will be better if you ask for another favour."
+msgstr ""
+
+# mes "Ah....";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Ah...."
+msgstr ""
+
+# mes "Hm, you're not a member.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Hm, you're not a member."
+msgstr ""
+
+# mes "Could you please give them my greetings?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Could you please give them my greetings?"
+msgstr ""
+
+# mes "Take your time, and find a place to gather you friends.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid "Take your time, and find a place to gather you friends."
+msgstr ""
+
+# mes "- Wait!! -";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "- Wait!! -"
+msgstr ""
+
+# mes "- You're carrying too many items, -";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "- You're carrying too many items, -"
+msgstr ""
+
+# mes "- you can't receive the materials. -";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "- you can't receive the materials. -"
+msgstr ""
+
+# mes "- Please use the Kafra Services, -";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "- Please use the Kafra Services, -"
+msgstr ""
+
+# mes "- and come back later. -";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "- and come back later. -"
+msgstr ""
+
+# mes "A lonely clown is juggling.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "A lonely clown is juggling."
+msgstr ""
+
+# mes "When looked at closely, the clown is just a puppet that looks like a human.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "When looked at closely, the clown is just a puppet that looks like a human."
+msgstr ""
+
+# mes "The clown stops, then starts moving in accordance to your movements, noises start to emit from it's mouth.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "The clown stops, then starts moving in accordance to your movements, noises start to emit from it's mouth."
+msgstr ""
+
+# mes "[Pierrot Pier]";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "[Pierrot Pier]"
+msgstr ""
+
+# mes "Beep beep beep.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Beep beep beep."
+msgstr ""
+
+# mes "Hello, my friends!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Hello, my friends!"
+msgstr ""
+
+# mes "I am the loyal servant of Gergath, and I have finally received my orders.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I am the loyal servant of Gergath, and I have finally received my orders."
+msgstr ""
+
+# mes "I am happy to hear all the laughter, but without my master's permission, I can't do anything.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I am happy to hear all the laughter, but without my master's permission, I can't do anything."
+msgstr ""
+
+# mes "Did you get permission from Gergath?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Did you get permission from Gergath?"
+msgstr ""
+
+# switch(select("I need to check that.", "No.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I need to check that."
+msgstr ""
+
+# switch(select("I need to check that.", "No.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "No."
+msgstr ""
+
+# mes "Please give me the palm of your hand.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Please give me the palm of your hand."
+msgstr ""
+
+# mes "Let me see...";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Let me see..."
+msgstr ""
+
+# mes "Hm...";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Hm..."
+msgstr ""
+
+# mes "Okay, I see...";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Okay, I see..."
+msgstr ""
+
+# mes "Indeed...";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Indeed..."
+msgstr ""
+
+# mes "Verification completed!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Verification completed!"
+msgstr ""
+
+# mes "Hm? that's right.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Hm? that's right."
+msgstr ""
+
+# mes "When is that person coming? I am very bored~!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "When is that person coming? I am very bored~!"
+msgstr ""
+
+# mes "^3131FF<You're someone who can only think about nonsense everyday, you have no focus at all.>^000000";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "^3131FF<You're someone who can only think about nonsense everyday, you have no focus at all.>^000000"
+msgstr ""
+
+# mes "Hm? You don't think so?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Hm? You don't think so?"
+msgstr ""
+
+# mes "Haha, I'm just kidding. Beep beep.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Haha, I'm just kidding. Beep beep."
+msgstr ""
+
+# mes "Ah, you are the one my master speaks of.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Ah, you are the one my master speaks of."
+msgstr ""
+
+# mes "Come, the Gergath has left a message for you.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Come, the Gergath has left a message for you."
+msgstr ""
+
+# mes "It's a bit old, but it should still be legible.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "It's a bit old, but it should still be legible."
+msgstr ""
+
+# mes "Alright, let's begin!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Alright, let's begin!"
+msgstr ""
+
+# mes "Let's talk after I finished reading my master's message. Beep beep.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Let's talk after I finished reading my master's message. Beep beep."
+msgstr ""
+
+# mes "My master Gergath sincerely wishes you joy for you and your family everyday.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "My master Gergath sincerely wishes you joy for you and your family everyday."
+msgstr ""
+
+# mes "Alright, would you like to play the game Gergath has prepared for you?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Alright, would you like to play the game Gergath has prepared for you?"
+msgstr ""
+
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Game instructions."
+msgstr ""
+
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Skip instructions."
+msgstr ""
+
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Refuse game."
+msgstr ""
+
+# mes "The game prepared by my master is very unique, yet simple and fun!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "The game prepared by my master is very unique, yet simple and fun!"
+msgstr ""
+
+# mes "It's called \"Find the Treasure Map\"!!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "It's called \"Find the Treasure Map\"!!"
+msgstr ""
+
+# mes "Do you see this large and green field? Beep, beep?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Do you see this large and green field? Beep, beep?"
+msgstr ""
+
+# mes "I will show you the most incredible magic here.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I will show you the most incredible magic here."
+msgstr ""
+
+# mes "I will turn this place very white. Veeery white!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I will turn this place very white. Veeery white!"
+msgstr ""
+
+# mes "The game instruction is just to find the treasure map within the time limit.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "The game instruction is just to find the treasure map within the time limit."
+msgstr ""
+
+# mes "Sounds easy, right?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Sounds easy, right?"
+msgstr ""
+
+# mes "Oh, you don't want to play?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Oh, you don't want to play?"
+msgstr ""
+
+# mes "Okay, I'm ready to begin.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Okay, I'm ready to begin."
+msgstr ""
+
+# mes "Shall we start? Beep, beep?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Shall we start? Beep, beep?"
+msgstr ""
+
+# switch(select("No.", "Start.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Start."
+msgstr ""
+
+# mes "Let me know when you are ready.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Let me know when you are ready."
+msgstr ""
+
+# mes "Alright! Let us begin!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Alright! Let us begin!"
+msgstr ""
+
+# mes "Ladies, and gentlemen.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Ladies, and gentlemen."
+msgstr ""
+
+# mes "Who will find the treasure map in this white world?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Who will find the treasure map in this white world?"
+msgstr ""
+
+# mes "Amongst all of you, who shall be the lucky one?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Amongst all of you, who shall be the lucky one?"
+msgstr ""
+
+# mes "Let the game.. Begin!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Let the game.. Begin!"
+msgstr ""
+
+# mes "Did you find the treasure map?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Did you find the treasure map?"
+msgstr ""
+
+# mes "Show me what you have in your hands! Beep, beep!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Show me what you have in your hands! Beep, beep!"
+msgstr ""
+
+# mes "Wow~~!!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Wow~~!!"
+msgstr ""
+
+# mes "Success~!!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Success~!!"
+msgstr ""
+
+# mes "What a success~!!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "What a success~!!"
+msgstr ""
+
+# mes "Ahh, what a shame, it seems like you haven't found the treasure map yet.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Ahh, what a shame, it seems like you haven't found the treasure map yet."
+msgstr ""
+
+# mes "Quickly! Your time is running out! Hurry up!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Quickly! Your time is running out! Hurry up!"
+msgstr ""
+
+# mes "I don't see anything. Have you even started yet? Beep?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I don't see anything. Have you even started yet? Beep?"
+msgstr ""
+
+# mes "Hehe, while you're talking to me, the time is slowly ticking away~";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Hehe, while you're talking to me, the time is slowly ticking away~"
+msgstr ""
+
+# mes "Wah, why is it like this~!!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Wah, why is it like this~!!"
+msgstr ""
+
+# mes "Not enough? But this makes the game fun, no? Hahaha!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Not enough? But this makes the game fun, no? Hahaha!"
+msgstr ""
+
+# mes "What did you think?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "What did you think?"
+msgstr ""
+
+# switch(select("It was pretty hard.", "I should've been successful...")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "It was pretty hard."
+msgstr ""
+
+# switch(select("It was pretty hard.", "I should've been successful...")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I should've been successful..."
+msgstr ""
+
+# mes "It's like trying to find a needle in a haystack!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "It's like trying to find a needle in a haystack!"
+msgstr ""
+
+# mes "It's hard, but if you find it, it's worth ten times the effort. Beep, beep.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "It's hard, but if you find it, it's worth ten times the effort. Beep, beep."
+msgstr ""
+
+# mes "Aaah~! Time is gold.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Aaah~! Time is gold."
+msgstr ""
+
+# mes "Precious time goes by so fast.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Precious time goes by so fast."
+msgstr ""
+
+# mes "I, Pierrot Piere, am not a heartless clown! Beep beep.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I, Pierrot Piere, am not a heartless clown! Beep beep."
+msgstr ""
+
+# mes "Your success is my happiness!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Your success is my happiness!"
+msgstr ""
+
+# mes "I'll give you one more chance. How's that? Beep?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I'll give you one more chance. How's that? Beep?"
+msgstr ""
+
+# mes "How did you do it?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "How did you do it?"
+msgstr ""
+
+# mes "You managed to find a needle in a haystack!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "You managed to find a needle in a haystack!"
+msgstr ""
+
+# mes "Amazing!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Amazing!"
+msgstr ""
+
+# mes "You've completeled an unbelievable task, I will give you the wonderful gift master has prepared!! Ha!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "You've completeled an unbelievable task, I will give you the wonderful gift master has prepared!! Ha!"
+msgstr ""
+
+# mes "Incredible! Unbelievable! Beep beep!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Incredible! Unbelievable! Beep beep!"
+msgstr ""
+
+# mes "Did you have fun?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Did you have fun?"
+msgstr ""
+
+# mes "Seeing your smiles, makes Pierrot feel very happy~";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Seeing your smiles, makes Pierrot feel very happy~"
+msgstr ""
+
+# mes "I hope to see you again very soon, I must go back to being a doll now.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I hope to see you again very soon, I must go back to being a doll now."
+msgstr ""
+
+# mes "See you next time!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "See you next time!"
+msgstr ""
+
+# mes "Let me see.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Let me see."
+msgstr ""
+
+# mes "Did you get permission from the Gergath?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Did you get permission from the Gergath?"
+msgstr ""
+
+# mes "^3131FF<Although you're a weirdo, you seem to be very dedicated>^000000. Beep beep.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "^3131FF<Although you're a weirdo, you seem to be very dedicated>^000000. Beep beep."
+msgstr ""
+
+# mes "The one my lord appointed is ^3131FF< someone who leads many people >^000000. Beep.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "The one my lord appointed is ^3131FF< someone who leads many people >^000000. Beep."
+msgstr ""
+
+# mes "Pierrot wants to be someone like that, too. Beep.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Pierrot wants to be someone like that, too. Beep."
+msgstr ""
+
+# mes "Congratulations, you have succeeded!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Congratulations, you have succeeded!"
+msgstr ""
+
+# mes "I will talk to your leader about other details.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I will talk to your leader about other details."
+msgstr ""
+
+# mes "Did you find the treasure?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Did you find the treasure?"
+msgstr ""
+
+# mes "Show me that thing you are holding, now!";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Show me that thing you are holding, now!"
+msgstr ""
+
+# mes "Incorrect password.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Event controller#sch_gd"
+msgid "Incorrect password."
+msgstr ""
+
+# mes "How can I help you?";
+#: npc/events/gdevent_sch.txt
+msgctxt "Event controller#sch_gd"
+msgid "How can I help you?"
+msgstr ""
+
+# switch(select("Reset.", "No, thanks.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Event controller#sch_gd"
+msgid "Reset."
+msgstr ""
+
+# switch(select("Reset.", "No, thanks.")) {
+#: npc/events/gdevent_sch.txt
+msgctxt "Event controller#sch_gd"
+msgid "No, thanks."
+msgstr ""
+
+# mes "Completed.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Event controller#sch_gd"
+msgid "Completed."
+msgstr ""
+
+# mes "Good bye~";
+#: npc/events/gdevent_sch.txt
+msgctxt "Event controller#sch_gd"
+msgid "Good bye~"
+msgstr ""
+
+# mes "[Festival Manager]";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes0"
+msgid "[Festival Manager]"
+msgstr ""
+
+# mes "I am the festival NPC manager for the God SE quest.";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes0"
+msgid "I am the festival NPC manager for the God SE quest."
+msgstr ""
+
+# mes "Please enter your password.";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes0"
+msgid "Please enter your password."
+msgstr ""
+
+# mes "Password is incorrect.";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes0"
+msgid "Password is incorrect."
+msgstr ""
+
+# mes "What would you like to do?";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes0"
+msgid "What would you like to do?"
+msgstr ""
+
+# switch(select("Disable festival NPCs", "Enable festival NPCs")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes0"
+msgid "Disable festival NPCs"
+msgstr ""
+
+# switch(select("Disable festival NPCs", "Enable festival NPCs")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes0"
+msgid "Enable festival NPCs"
+msgstr ""
+
+# mes "Ending festivals and disabling NPCs.";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes0"
+msgid "Ending festivals and disabling NPCs."
+msgstr ""
+
+# mes "Resetting festivals and enabling NPCs.";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes0"
+msgid "Resetting festivals and enabling NPCs."
+msgstr ""
+
+# mes "[Rmimi Ravies]";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "[Rmimi Ravies]"
+msgstr ""
+
+# mes "This is the flower.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "This is the flower."
+msgstr ""
+
+# mes "This is just a formality, but let me check your qualifications.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "This is just a formality, but let me check your qualifications."
+msgstr ""
+
+# mes "Your qualification is verified as a Guild master.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Your qualification is verified as a Guild master."
+msgstr ""
+
+# mes "I wonder if you know what this flower's use is... Let me explain it to you.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "I wonder if you know what this flower's use is... Let me explain it to you."
+msgstr ""
+
+# mes "This is the holy flower given by the Wish Maiden in Valkyrie, it can summon certain monsters by certain summoners.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid ""
+"This is the holy flower given by the Wish Maiden in Valkyrie, it can summon certain monsters by certain summoners."
+msgstr ""
+
+# mes "There are only two summoners in this world...";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "There are only two summoners in this world..."
+msgstr ""
+
+# mes "Me and my sister Rhehe...";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Me and my sister Rhehe..."
+msgstr ""
+
+# mes "We are totllly different, but we can...";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "We are totllly different, but we can..."
+msgstr ""
+
+# mes "...................................";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "..................................."
+msgstr ""
+
+# mes "Anyway,";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Anyway,"
+msgstr ""
+
+# mes "Do you want to summon monsters?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Do you want to summon monsters?"
+msgstr ""
+
+# switch(select("Do not summon", "Summon, please")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Do not summon"
+msgstr ""
+
+# switch(select("Do not summon", "Summon, please")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Summon, please"
+msgstr ""
+
+# mes "I don't like to be interrupted by others..";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "I don't like to be interrupted by others.."
+msgstr ""
+
+# mes "But it's just business.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "But it's just business."
+msgstr ""
+
+# mes "I will explain to you how to summon monsters.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "I will explain to you how to summon monsters."
+msgstr ""
+
+# mes "This flower can summon the monsters 'Valkyrie's Blessing' and 'Valkyrie's Present' for one hour here in Juno.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "This flower can summon the monsters 'Valkyrie's Blessing' and 'Valkyrie's Present' for one hour here in Juno."
+msgstr ""
+
+# mes "An announcement will be made stating which monster is summoned.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "An announcement will be made stating which monster is summoned."
+msgstr ""
+
+# mes "This festival is given by the Wish maiden for all adventurers to enjoy all over the world.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "This festival is given by the Wish maiden for all adventurers to enjoy all over the world."
+msgstr ""
+
+# mes "Now, are you ready to summon monsters?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Now, are you ready to summon monsters?"
+msgstr ""
+
+# switch(select("No, I'm not ready now.", "Yes! I'm ready for that.")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "No, I'm not ready now."
+msgstr ""
+
+# switch(select("No, I'm not ready now.", "Yes! I'm ready for that.")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Yes! I'm ready for that."
+msgstr ""
+
+# mes "If you are not ready, why did you come to me?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "If you are not ready, why did you come to me?"
+msgstr ""
+
+# mes "I'll be waiting until you are ready.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "I'll be waiting until you are ready."
+msgstr ""
+
+# mes "It is just business afterall.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "It is just business afterall."
+msgstr ""
+
+# mes "Now we are ready.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Now we are ready."
+msgstr ""
+
+# mes "Ok, we would ge started to summon monsters.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Ok, we would ge started to summon monsters."
+msgstr ""
+
+# mes "Have a good time.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Have a good time."
+msgstr ""
+
+# mes "It seems that a Valkyrie's Blessing summoning ritual is already in progress elsewhere.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "It seems that a Valkyrie's Blessing summoning ritual is already in progress elsewhere."
+msgstr ""
+
+# mes "Please try again later.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Please try again later."
+msgstr ""
+
+# mes "It seems you are not worthy.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "It seems you are not worthy."
+msgstr ""
+
+# mes "I don't know how you obtained that flower, but if you're not capable of leading others.. then you cannot continue.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid ""
+"I don't know how you obtained that flower, but if you're not capable of leading others.. then you cannot continue."
+msgstr ""
+
+# mes "Too tough?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Too tough?"
+msgstr ""
+
+# mes "Well, what can you do, that's part of the job.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Well, what can you do, that's part of the job."
+msgstr ""
+
+# mes "Don't you have any voucher?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Don't you have any voucher?"
+msgstr ""
+
+# mes "[Festival Manager]";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes2"
+msgid "[Festival Manager]"
+msgstr ""
+
+# mes "I am the festival NPC manager for the God SE quest.";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes2"
+msgid "I am the festival NPC manager for the God SE quest."
+msgstr ""
+
+# mes "Please enter your password.";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes2"
+msgid "Please enter your password."
+msgstr ""
+
+# mes "Password is incorrect.";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes2"
+msgid "Password is incorrect."
+msgstr ""
+
+# mes "What would you like to do?";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes2"
+msgid "What would you like to do?"
+msgstr ""
+
+# switch(select("Disable festival NPCs", "Enable festival NPCs")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes2"
+msgid "Disable festival NPCs"
+msgstr ""
+
+# switch(select("Disable festival NPCs", "Enable festival NPCs")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes2"
+msgid "Enable festival NPCs"
+msgstr ""
+
+# mes "Ending festivals and disabling NPCs.";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes2"
+msgid "Ending festivals and disabling NPCs."
+msgstr ""
+
+# mes "Resetting festivals and enabling NPCs.";
+#: npc/events/god_se_festival.txt
+msgctxt "Festival Manager#gq_fes2"
+msgid "Resetting festivals and enabling NPCs."
+msgstr ""
+
+# mes "[Rhehe Ravies]";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "[Rhehe Ravies]"
+msgstr ""
+
+# mes "A flower!!";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "A flower!!"
+msgstr ""
+
+# mes "Shall we proceed?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Shall we proceed?"
+msgstr ""
+
+# mes "Eeeeh, so young and yet you're a guild master? Your guildsmen must be jealous.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Eeeeh, so young and yet you're a guild master? Your guildsmen must be jealous."
+msgstr ""
+
+# mes "[Reumimi Ravies]";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "[Reumimi Ravies]"
+msgstr ""
+
+# mes "I'm not sure if you understand the uses for that flower, so I'll briefly explain.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "I'm not sure if you understand the uses for that flower, so I'll briefly explain."
+msgstr ""
+
+# mes "That flower has been passed down as a gift from the Valkyrie Wish Maiden herself.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "That flower has been passed down as a gift from the Valkyrie Wish Maiden herself."
+msgstr ""
+
+# mes "It may be used to summon special monsters through summoners in special areas.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "It may be used to summon special monsters through summoners in special areas."
+msgstr ""
+
+# mes "There are only two summoners in existence who are capable of using that flower.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "There are only two summoners in existence who are capable of using that flower."
+msgstr ""
+
+# mes "One is me, and the other is my twin sister Reumimi.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "One is me, and the other is my twin sister Reumimi."
+msgstr ""
+
+# mes "Twin sisters, but we do not have much alike, little fingers in front of you ...";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Twin sisters, but we do not have much alike, little fingers in front of you ..."
+msgstr ""
+
+# mes "..................................";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid ".................................."
+msgstr ""
+
+# mes ".....Oops! I wasn't supposed to tell anyone...";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid ".....Oops! I wasn't supposed to tell anyone..."
+msgstr ""
+
+# mes "... Hehehe, anyways let's move on.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "... Hehehe, anyways let's move on."
+msgstr ""
+
+# mes "So do you wish to summon or not!?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "So do you wish to summon or not!?"
+msgstr ""
+
+# switch(select("Do not summon", "Summon")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Do not summon"
+msgstr ""
+
+# switch(select("Do not summon", "Summon")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Summon"
+msgstr ""
+
+# mes "...*Cries*.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "...*Cries*."
+msgstr ""
+
+# mes "If you've got no business with me, please don't start a conversation.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "If you've got no business with me, please don't start a conversation."
+msgstr ""
+
+# mes "If it were my sister, she would've humiliated you for it.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "If it were my sister, she would've humiliated you for it."
+msgstr ""
+
+# mes "Okay then, I'll explain a little about the summoning ritual.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Okay then, I'll explain a little about the summoning ritual."
+msgstr ""
+
+# mes "Here in Yuno, the summoning ritual through the use of that flower will summon Valkyrie's Blessing and Valkyrie's Gift.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid ""
+"Here in Yuno, the summoning ritual through the use of that flower will summon Valkyrie's Blessing and Valkyrie's "
+"Gift."
+msgstr ""
+
+# mes "The effects of the summoning ritual will last approximately one hour.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "The effects of the summoning ritual will last approximately one hour."
+msgstr ""
+
+# mes "During the summoning ritual, continuous broadcasts will be made.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "During the summoning ritual, continuous broadcasts will be made."
+msgstr ""
+
+# mes "It is a courtesy of the Valkyrie Wish Maiden, in order to unite adventurers from all over to participate in the festival.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid ""
+"It is a courtesy of the Valkyrie Wish Maiden, in order to unite adventurers from all over to participate in the "
+"festival."
+msgstr ""
+
+# mes "Are you ready to begin the summoning ritual~?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Are you ready to begin the summoning ritual~?"
+msgstr ""
+
+# switch(select("No, not yet.", "Yes! I'm ready!")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "No, not yet."
+msgstr ""
+
+# switch(select("No, not yet.", "Yes! I'm ready!")) {
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Yes! I'm ready!"
+msgstr ""
+
+# mes "You're not even ready, why bother talking to me?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "You're not even ready, why bother talking to me?"
+msgstr ""
+
+# mes "Oh well, if you've got other things to do then I'll wait.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Oh well, if you've got other things to do then I'll wait."
+msgstr ""
+
+# mes "After all, that's also part of my job.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "After all, that's also part of my job."
+msgstr ""
+
+# mes "Very well, then I will check for a reasonable time to begin the summoning ritual.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Very well, then I will check for a reasonable time to begin the summoning ritual."
+msgstr ""
+
+# mes "Good! Now seems like a good time, so let's begin!";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Good! Now seems like a good time, so let's begin!"
+msgstr ""
+
+# mes "I hope you enjoy yourself!";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "I hope you enjoy yourself!"
+msgstr ""
+
+# mes "*Cries*";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "*Cries*"
+msgstr ""
+
+# mes "It doesn't seem like now is a good time.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "It doesn't seem like now is a good time."
+msgstr ""
+
+# mes "Please try again later.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Please try again later."
+msgstr ""
+
+# mes "...Seems like you're not in a worthy position for me to talk to?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "...Seems like you're not in a worthy position for me to talk to?"
+msgstr ""
+
+# mes "I don't know how you obtained that flower, but if you're not capable of leading others.. then you cannot continue.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid ""
+"I don't know how you obtained that flower, but if you're not capable of leading others.. then you cannot continue."
+msgstr ""
+
+# mes "Too tough?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Too tough?"
+msgstr ""
+
+# mes "Well, what can you do, that's part of the job.";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Well, what can you do, that's part of the job."
+msgstr ""
+
+# mes "Don't you have anything to give me to prove yourself?";
+#: npc/events/god_se_festival.txt
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Don't you have anything to give me to prove yourself?"
+msgstr ""
+
+# mes "[Friar Patrick]";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "[Friar Patrick]"
+msgstr ""
+
+# mes "The peace of this world cannot last forever... The hands of Evil are reaching into the world again...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "The peace of this world cannot last forever... The hands of Evil are reaching into the world again..."
+msgstr ""
+
+# mes "What brought you to this place?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "What brought you to this place?"
+msgstr ""
+
+# .@selection = select("What is this place?", "I want to enter.", "About the Cursed Baphomet Doll.", "Cancel.");
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "What is this place?"
+msgstr ""
+
+# .@selection = select("What is this place?", "I want to enter.", "About the Cursed Baphomet Doll.", "Cancel.");
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "I want to enter."
+msgstr ""
+
+# .@selection = select("What is this place?", "I want to enter.", "About the Cursed Baphomet Doll.", "Cancel.");
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "About the Cursed Baphomet Doll."
+msgstr ""
+
+# .@selection = select("What is this place?", "I want to enter.", "About the Cursed Baphomet Doll.", "Cancel.");
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Cancel."
+msgstr ""
+
+# mes "Huh... Don't you know? This is St. Capitolina Monastery where the Brothers who wish to become monks train and pray.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Huh... Don't you know? This is St. Capitolina Monastery where the Brothers who wish to become monks train and pray."
+msgstr ""
+
+# mes "And this place is... What can I say... Yes. It's the grave of the Devil. Grave...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "And this place is... What can I say... Yes. It's the grave of the Devil. Grave..."
+msgstr ""
+
+# mes "The very place where the great Devil who once demolished this world is sleeping.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "The very place where the great Devil who once demolished this world is sleeping."
+msgstr ""
+
+# switch(select("Tell me more.", "Stop talking.")) {
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Tell me more."
+msgstr ""
+
+# switch(select("Tell me more.", "Stop talking.")) {
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Stop talking."
+msgstr ""
+
+# mes "Baphomet... is the name of the Devil... I think you have heard of his name.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Baphomet... is the name of the Devil... I think you have heard of his name."
+msgstr ""
+
+# mes "Numerous brave men and brothers have trained in this monastery...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Numerous brave men and brothers have trained in this monastery..."
+msgstr ""
+
+# mes "Under this gravestone in front of you... Baphomet is sealed.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Under this gravestone in front of you... Baphomet is sealed."
+msgstr ""
+
+# mes "But... As we speak Satan Morocc is marshalling his powerful magic in order to affect all life on this continent.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"But... As we speak Satan Morocc is marshalling his powerful magic in order to affect all life on this continent."
+msgstr ""
+
+# mes "Baphomet also... has awakened and is preparing for his revival, into this world, by weakening the power of the seal through the power of Satan Morocc...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Baphomet also... has awakened and is preparing for his revival, into this world, by weakening the power of the seal "
+"through the power of Satan Morocc..."
+msgstr ""
+
+# mes "Now... I'm looking for someone brave enough to reseal Baphomet in its shrine... as we once did many years ago...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Now... I'm looking for someone brave enough to reseal Baphomet in its shrine... as we once did many years ago..."
+msgstr ""
+
+# mes "Anyone who fights for good will know, deep inside, that evil is threatening to conquer this world...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Anyone who fights for good will know, deep inside, that evil is threatening to conquer this world..."
+msgstr ""
+
+# mes "Train more and use your skills to protect the world from evil's looming presence...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Train more and use your skills to protect the world from evil's looming presence..."
+msgstr ""
+
+# mes "Do you mean you'll go to the shrine and reseal Baphomet?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Do you mean you'll go to the shrine and reseal Baphomet?"
+msgstr ""
+
+# mes "Party name is "+getpartyname(.@party_id)+"...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Party name is "
+msgstr ""
+
+# mes "Name of the leader is "+strcharinfo(PC_NAME)+"...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Name of the leader is "
+msgstr ""
+
+# mes "Umm... But it seems that there is a problem here... I'll check quickly. Please wait.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Umm... But it seems that there is a problem here... I'll check quickly. Please wait."
+msgstr ""
+
+# mes "Failed to attach "+.@i+"@cata as a map!";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Failed to attach "
+msgstr ""
+
+# mes "Failed to attach "+.@i+"@cata as a map!";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "@cata as a map!"
+msgstr ""
+
+# mes "Okay... I'll adjust the shrine's seal so that you and your group can enter.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Okay... I'll adjust the shrine's seal so that you and your group can enter."
+msgstr ""
+
+# mes "You will see a sign when the seal has broken. Please wait until the sign appears...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "You will see a sign when the seal has broken. Please wait until the sign appears..."
+msgstr ""
+
+# mes "When you see the sign, put your hands on the gravestone... Then you can move inside.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "When you see the sign, put your hands on the gravestone... Then you can move inside."
+msgstr ""
+
+# mes "One thing that you should remember is... Anyone who enters this shrine will be cursed by Baphomet and cannot enter or leave while they are cursed.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"One thing that you should remember is... Anyone who enters this shrine will be cursed by Baphomet and cannot enter "
+"or leave while they are cursed."
+msgstr ""
+
+# mes "And one more thing... In this cursed area, some skills, which are protected by outer physical power are prohibited by the effect of the seal.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"And one more thing... In this cursed area, some skills, which are protected by outer physical power are prohibited "
+"by the effect of the seal."
+msgstr ""
+
+# mes "For example, the skills like ^0000FFSafety Wall and Assumptio^000000... So you'd better prepare before entering the shrine.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"For example, the skills like ^0000FFSafety Wall and Assumptio^000000... So you'd better prepare before entering the "
+"shrine."
+msgstr ""
+
+# mes "Umm... I recognize your courage, but... I can't permit anyone to enter this place. I can only permit the leader of a party to enter first.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Umm... I recognize your courage, but... I can't permit anyone to enter this place. I can only permit the leader of a "
+"party to enter first."
+msgstr ""
+
+# mes "Once the party leader is permitted, the rest of the party can enter. This is a rule of this monastery, so please understand.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Once the party leader is permitted, the rest of the party can enter. This is a rule of this monastery, so please "
+"understand."
+msgstr ""
+
+# mes "It seems you have entered this shrine recently... You cannot reenter because Baphomet's Curse still remains. Baphomet's Curse disappears only after a certain amount of time has passed.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"It seems you have entered this shrine recently... You cannot reenter because Baphomet's Curse still remains. "
+"Baphomet's Curse disappears only after a certain amount of time has passed."
+msgstr ""
+
+# mes "Umm... It seems that Baphomet's Curse has weakened. I can remove it now.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Umm... It seems that Baphomet's Curse has weakened. I can remove it now."
+msgstr ""
+
+# mes "Haaaaaaap... Hocus Pocus Wingardium Abracadabra!!!!!";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Haaaaaaap... Hocus Pocus Wingardium Abracadabra!!!!!"
+msgstr ""
+
+# mes "Huu... It's over. Now that I've released Baphomet's Curse, you can enter again.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Huu... It's over. Now that I've released Baphomet's Curse, you can enter again."
+msgstr ""
+
+# mes "Umm... You should train more to enter this dangerous place... You should reach at least Lv 75 to enter here.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Umm... You should train more to enter this dangerous place... You should reach at least Lv 75 to enter here."
+msgstr ""
+
+# mes "Please train more and come again.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "Please train more and come again."
+msgstr ""
+
+# mes "That is... the villainous doll that you are holding... Let me see it.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "That is... the villainous doll that you are holding... Let me see it."
+msgstr ""
+
+# mes "... ... ...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "... ... ..."
+msgstr ""
+
+# mes "That's correct... I can feel Baphomet's evil inside... So, what will you do with the doll?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid "That's correct... I can feel Baphomet's evil inside... So, what will you do with the doll?"
+msgstr ""
+
+# mes "It is just a dangerous and useless thing if you do nothing with it... I'll introduce someone who can help you... Do you want to see him?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"It is just a dangerous and useless thing if you do nothing with it... I'll introduce someone who can help you... Do "
+"you want to see him?"
+msgstr ""
+
+# mes "Go to see ^0000FFRust Blackhand^000000 who is near the main building of the monastery... He will make this doll helpful to you.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Go to see ^0000FFRust Blackhand^000000 who is near the main building of the monastery... He will make this doll "
+"helpful to you."
+msgstr ""
+
+# mes "This gravestone has a carving of a wicked devil with large horns. It arouses an ominous feeling.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Grave of Baphomet#edq"
+msgid "This gravestone has a carving of a wicked devil with large horns. It arouses an ominous feeling."
+msgstr ""
+
+# if(select("Touch the stone.", "Step back.") == 2)
+#: npc/instances/SealedShrine.txt
+msgctxt "Grave of Baphomet#edq"
+msgid "Touch the stone."
+msgstr ""
+
+# if(select("Touch the stone.", "Step back.") == 2)
+#: npc/instances/SealedShrine.txt
+msgctxt "Grave of Baphomet#edq"
+msgid "Step back."
+msgstr ""
+
+# mes "It's cold to the touch. It doesn't respond.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Grave of Baphomet#edq"
+msgid "It's cold to the touch. It doesn't respond."
+msgstr ""
+
+# mes "[Friar Patrick]";
+#: npc/instances/SealedShrine.txt
+msgctxt "Grave of Baphomet#edq"
+msgid "[Friar Patrick]"
+msgstr ""
+
+# mes "It seems you have entered this shrine recently... You cannot reenter because the curse of Baphomet still remains.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Grave of Baphomet#edq"
+msgid ""
+"It seems you have entered this shrine recently... You cannot reenter because the curse of Baphomet still remains."
+msgstr ""
+
+# mes "The curse of Baphomet disappears after a certain amount of time after you entered.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Grave of Baphomet#edq"
+msgid "The curse of Baphomet disappears after a certain amount of time after you entered."
+msgstr ""
+
+# mes "Umm... It seems the curse of Baphomet weakened. I'll clear the bad curse.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Grave of Baphomet#edq"
+msgid "Umm... It seems the curse of Baphomet weakened. I'll clear the bad curse."
+msgstr ""
+
+# mes "Haaaaaaap... Wingardium Leviosa Expecto Patronum !!!!!";
+#: npc/instances/SealedShrine.txt
+msgctxt "Grave of Baphomet#edq"
+msgid "Haaaaaaap... Wingardium Leviosa Expecto Patronum !!!!!"
+msgstr ""
+
+# mes "Huu... It's over. Now I released all of the curses on you. You can enter again.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Grave of Baphomet#edq"
+msgid "Huu... It's over. Now I released all of the curses on you. You can enter again."
+msgstr ""
+
+# mes "[Rust Blackhand]";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "[Rust Blackhand]"
+msgstr ""
+
+# mes "Who are you? What do you want me for?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "Who are you? What do you want me for?"
+msgstr ""
+
+# mes "You're not a monk, then what do you want?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "You're not a monk, then what do you want?"
+msgstr ""
+
+# mes "Did you bring all of the ingredients?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "Did you bring all of the ingredients?"
+msgstr ""
+
+# mes "kkk... You prepared the ingredients well. Why don't you leave it there and wait?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "kkk... You prepared the ingredients well. Why don't you leave it there and wait?"
+msgstr ""
+
+# mes "Hmm... It's been such a long time since I last saw these wicked horns... kkk... Let me start...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "Hmm... It's been such a long time since I last saw these wicked horns... kkk... Let me start..."
+msgstr ""
+
+# mes "...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "..."
+msgstr ""
+
+# mes "... ...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "... ..."
+msgstr ""
+
+# mes "... ... ...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "... ... ..."
+msgstr ""
+
+# mes "It's done. You may be excited, of course. I understand...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "It's done. You may be excited, of course. I understand..."
+msgstr ""
+
+# mes "I don't accept complaints or A/S requests, so use it with care. I must go...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "I don't accept complaints or A/S requests, so use it with care. I must go..."
+msgstr ""
+
+# mes "Huu... You don't understand what I said. You cannot make anything with these ingredients.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "Huu... You don't understand what I said. You cannot make anything with these ingredients."
+msgstr ""
+
+# mes "I'll tell you the ingredients one more time, so please gather them correctly.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "I'll tell you the ingredients one more time, so please gather them correctly."
+msgstr ""
+
+# mes "^0000FFCursed Baphomet Doll, Magestic Goat, 30 Crystal of Darkness, 50 Fragment of Darkness^000000, and the most important, production cost is ^0000FF990000^000000 Zeny.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"^0000FFCursed Baphomet Doll, Magestic Goat, 30 Crystal of Darkness, 50 Fragment of Darkness^000000, and the most "
+"important, production cost is ^0000FF990000^000000 Zeny."
+msgstr ""
+
+# switch(select("About the Cursed Baphomet Doll", "Stop talking.")) {
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "About the Cursed Baphomet Doll"
+msgstr ""
+
+# switch(select("About the Cursed Baphomet Doll", "Stop talking.")) {
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "Stop talking."
+msgstr ""
+
+# mes "What?... Hmmm... Did you get the doll? You're pretty good, unlike your appearance...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "What?... Hmmm... Did you get the doll? You're pretty good, unlike your appearance..."
+msgstr ""
+
+# mes "Let me see... Needless to say, Patric must have sent you here to deal with the doll, right?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "Let me see... Needless to say, Patric must have sent you here to deal with the doll, right?"
+msgstr ""
+
+# mes "Cool... I'll help you make the evil doll useful. What? What can I do?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "Cool... I'll help you make the evil doll useful. What? What can I do?"
+msgstr ""
+
+# mes "I can make the strong and large horns of the wicked devil Baphomet for you. A helm that has his immense power.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "I can make the strong and large horns of the wicked devil Baphomet for you. A helm that has his immense power."
+msgstr ""
+
+# mes "It is called the ^4d4dffGigantic Magestic Goat^000000. You'll realize that the Magestic Goat you're familiar with is nothing in comparison.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"It is called the ^4d4dffGigantic Magestic Goat^000000. You'll realize that the Magestic Goat you're familiar with is "
+"nothing in comparison."
+msgstr ""
+
+# mes "The Cursed Baphomet Doll is the most important ingredient... I'll make you if you want. What would you like to do?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"The Cursed Baphomet Doll is the most important ingredient... I'll make you if you want. What would you like to do?"
+msgstr ""
+
+# switch(select("I want to make one!", "I don't need one.")) {
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "I want to make one!"
+msgstr ""
+
+# switch(select("I want to make one!", "I don't need one.")) {
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "I don't need one."
+msgstr ""
+
+# mes "kkk... Yes, wise men take their chances when the opportunity comes. I'll tell you the ingredients. Don't forget, and bring them all.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"kkk... Yes, wise men take their chances when the opportunity comes. I'll tell you the ingredients. Don't forget, and "
+"bring them all."
+msgstr ""
+
+# mes "You can get the Magestic Goat from the weak Baphomet in the Labyrinth Forest. Crystal of Darkness and Fragment of Darkness are from the Incarnation of Morocc.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"You can get the Magestic Goat from the weak Baphomet in the Labyrinth Forest. Crystal of Darkness and Fragment of "
+"Darkness are from the Incarnation of Morocc."
+msgstr ""
+
+# mes "I'm sure that you can get the ingredients because you sealed the real Baphomet. Can't you? kkk...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "I'm sure that you can get the ingredients because you sealed the real Baphomet. Can't you? kkk..."
+msgstr ""
+
+# mes "You'll never know how great this hat is until you get one. If you understood, go and get the ingredients.";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "You'll never know how great this hat is until you get one. If you understood, go and get the ingredients."
+msgstr ""
+
+# mes "Huh... Do you? Do whatever you want... Do you really want to let this opportunity go to waste?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "Huh... Do you? Do whatever you want... Do you really want to let this opportunity go to waste?"
+msgstr ""
+
+# mes "Tut, tut... I don't care if the wicked doll threatens your life all the time!";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "Tut, tut... I don't care if the wicked doll threatens your life all the time!"
+msgstr ""
+
+# mes "What a dull boy he is... huh...";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "What a dull boy he is... huh..."
+msgstr ""
+
+# mes "If you don't have business with me, go away! As you see, I make equipment for the Brothers at the monastery, not for adventurers like you. Do you understand?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"If you don't have business with me, go away! As you see, I make equipment for the Brothers at the monastery, not for "
+"adventurers like you. Do you understand?"
+msgstr ""
+
+# mes "What?... You again? What do you want this time?";
+#: npc/instances/SealedShrine.txt
+msgctxt "Rust Blackhand#edq"
+msgid "What?... You again? What do you want this time?"
+msgstr ""

@@ -1,0 +1,4996 @@
+# mes "....!...Grrrrr!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "....!...Grrrrr!"
+msgstr ""
+
+# mes "I shall tear you apart...!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "I shall tear you apart...!"
+msgstr ""
+
+# mes "Be bound by an eternal curse...!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Be bound by an eternal curse...!"
+msgstr ""
+
+# mes "You dare touch my books?!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "You dare touch my books?!"
+msgstr ""
+
+# mes "Right after I said not";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Right after I said not"
+msgstr ""
+
+# mes "to touch them...?!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "to touch them...?!"
+msgstr ""
+
+# mes "Foolish mortal!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Foolish mortal!"
+msgstr ""
+
+# mes "...BEGONE!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "...BEGONE!"
+msgstr ""
+
+# mes "Muhahahaha....";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Muhahahaha...."
+msgstr ""
+
+# mes "Stubborn mortal~!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Stubborn mortal~!"
+msgstr ""
+
+# mes "Fine! I will give you";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Fine! I will give you"
+msgstr ""
+
+# mes "a fighting chance and let";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "a fighting chance and let"
+msgstr ""
+
+# mes "you cast a spell.";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "you cast a spell."
+msgstr ""
+
+# mes "But Blessings won't";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "But Blessings won't"
+msgstr ""
+
+# mes "work with the curse";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "work with the curse"
+msgstr ""
+
+# mes "that you have...";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "that you have..."
+msgstr ""
+
+# mes "And the spell to lift";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "And the spell to lift"
+msgstr ""
+
+# mes "your curse has been";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "your curse has been"
+msgstr ""
+
+# mes "lost to the ages~!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "lost to the ages~!"
+msgstr ""
+
+# if (select("Clover", "Klaatu", "Klaytos") == 2) {
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Clover"
+msgstr ""
+
+# if (select("Clover", "Klaatu", "Klaytos") == 2) {
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Klaatu"
+msgstr ""
+
+# if (select("Clover", "Klaatu", "Klaytos") == 2) {
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Klaytos"
+msgstr ""
+
+# if (select("Verit", "Veritas", "Verata") == 3) {
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Verit"
+msgstr ""
+
+# if (select("Verit", "Veritas", "Verata") == 3) {
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Veritas"
+msgstr ""
+
+# if (select("Verit", "Veritas", "Verata") == 3) {
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Verata"
+msgstr ""
+
+# if (select("Necktie", "Necklace", "Nero", "^FFFFFFNictu!!!^000000") == 4) {
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Necktie"
+msgstr ""
+
+# if (select("Necktie", "Necklace", "Nero", "^FFFFFFNictu!!!^000000") == 4) {
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Necklace"
+msgstr ""
+
+# if (select("Necktie", "Necklace", "Nero", "^FFFFFFNictu!!!^000000") == 4) {
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Nero"
+msgstr ""
+
+# if (select("Necktie", "Necklace", "Nero", "^FFFFFFNictu!!!^000000") == 4) {
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "^FFFFFFNictu!!!^000000"
+msgstr ""
+
+# mes "You... You broke the curse!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "You... You broke the curse!"
+msgstr ""
+
+# mes "How did you know that spell?!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "How did you know that spell?!"
+msgstr ""
+
+# mes "I suppose you expect for me to";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "I suppose you expect for me to"
+msgstr ""
+
+# mes "melt in agony about now, don't";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "melt in agony about now, don't"
+msgstr ""
+
+# mes "you? Well... Sorry to disappoint";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "you? Well... Sorry to disappoint"
+msgstr ""
+
+# mes "you, mortal, but I can never die!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "you, mortal, but I can never die!"
+msgstr ""
+
+# mes "...! You cast the correct spell?!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "...! You cast the correct spell?!"
+msgstr ""
+
+# mes "But...You're still cursed...";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "But...You're still cursed..."
+msgstr ""
+
+# mes "Umhaaaaaaaaaaaaaaaaa.....!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Umhaaaaaaaaaaaaaaaaa.....!"
+msgstr ""
+
+# mes "What's...";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "What's..."
+msgstr ""
+
+# mes "this feeling?";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "this feeling?"
+msgstr ""
+
+# mes "No...!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "No...!"
+msgstr ""
+
+# mes "NOOOOOOOOOOOOOOOO!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "NOOOOOOOOOOOOOOOO!"
+msgstr ""
+
+# mes "Why did your spell have to work?!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Why did your spell have to work?!"
+msgstr ""
+
+# mes "You...";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "You..."
+msgstr ""
+
+# mes "cast the correct spell?!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "cast the correct spell?!"
+msgstr ""
+
+# mes "Hoho~";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Hoho~"
+msgstr ""
+
+# mes "But you're still cursed...";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "But you're still cursed..."
+msgstr ""
+
+# mes "Who taught you that spell?!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Who taught you that spell?!"
+msgstr ""
+
+# mes "So long as I'm...";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "So long as I'm..."
+msgstr ""
+
+# mes "still...";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "still..."
+msgstr ""
+
+# mes "cursed.";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "cursed."
+msgstr ""
+
+# mes "NOOOOOOOOOO!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "NOOOOOOOOOO!"
+msgstr ""
+
+# mes "Mwahahahaaaa.....!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Mwahahahaaaa.....!"
+msgstr ""
+
+# mes "Muhahahahahaha!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Muhahahahahaha!"
+msgstr ""
+
+# mes "That's not the right spell!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "That's not the right spell!"
+msgstr ""
+
+# mes "Now, death awaits you!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Now, death awaits you!"
+msgstr ""
+
+# mes "You're eternally bound";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "You're eternally bound"
+msgstr ""
+
+# mes "to the curse...!";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "to the curse...!"
+msgstr ""
+
+# mes "...";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "..."
+msgstr ""
+
+# mes ".....";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "....."
+msgstr ""
+
+# mes "Well then.";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Well then."
+msgstr ""
+
+# mes "Try not to trip on";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "Try not to trip on"
+msgstr ""
+
+# mes "your feet in your";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "your feet in your"
+msgstr ""
+
+# mes "rush to leave.";
+#: npc/cities/niflheim.txt
+msgctxt "Cursed Spirit#nif"
+msgid "rush to leave."
+msgstr ""
+
+# mes "[Lady]";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "[Lady]"
+msgstr ""
+
+# mes "A long time ago,";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "A long time ago,"
+msgstr ""
+
+# mes "when Payon was still";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "when Payon was still"
+msgstr ""
+
+# mes "developing, many of the";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "developing, many of the"
+msgstr ""
+
+# mes "villagers lived in poverty.";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "villagers lived in poverty."
+msgstr ""
+
+# mes "Many families had to struggle to survive, and often could not even afford to properly bury their dead. Some people threw their dead into the cave near the village.";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid ""
+"Many families had to struggle to survive, and often could not even afford to properly bury their dead. Some people "
+"threw their dead into the cave near the village."
+msgstr ""
+
+# mes "So in that cave, it is said that there are many walking Zombies,";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "So in that cave, it is said that there are many walking Zombies,"
+msgstr ""
+
+# mes "the dead who cannot rest in peace and are unable to pass on to the next world.";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "the dead who cannot rest in peace and are unable to pass on to the next world."
+msgstr ""
+
+# mes "The Zombies, upon sensing the warmth of a human, begin to assault them, but that doesn't mean these Undead hold a grudge against";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid ""
+"The Zombies, upon sensing the warmth of a human, begin to assault them, but that doesn't mean these Undead hold a "
+"grudge against"
+msgstr ""
+
+# mes "the living.";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "the living."
+msgstr ""
+
+# mes "Their rotten bodies can't leave the cold, dark and damp cave, so it's instinctual for them to attack warmth which would speed up the decomposition of their bodies.";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid ""
+"Their rotten bodies can't leave the cold, dark and damp cave, so it's instinctual for them to attack warmth which "
+"would speed up the decomposition of their bodies."
+msgstr ""
+
+# mes "The Zombies in the Payon Cave";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "The Zombies in the Payon Cave"
+msgstr ""
+
+# mes "may be spooky, but their story";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "may be spooky, but their story"
+msgstr ""
+
+# mes "is also kind of tragic.";
+#: npc/cities/payon.txt
+msgctxt "Lady#payon"
+msgid "is also kind of tragic."
+msgstr ""
+
+# mes "[Young Man]";
+#: npc/cities/payon.txt
+msgctxt "Young Man#payon"
+msgid "[Young Man]"
+msgstr ""
+
+# mes "From your attire,";
+#: npc/cities/payon.txt
+msgctxt "Young Man#payon"
+msgid "From your attire,"
+msgstr ""
+
+# mes "I can see that you";
+#: npc/cities/payon.txt
+msgctxt "Young Man#payon"
+msgid "I can see that you"
+msgstr ""
+
+# mes "are a stranger here.";
+#: npc/cities/payon.txt
+msgctxt "Young Man#payon"
+msgid "are a stranger here."
+msgstr ""
+
+# mes "Welcome to Payon.";
+#: npc/cities/payon.txt
+msgctxt "Young Man#payon"
+msgid "Welcome to Payon."
+msgstr ""
+
+# mes "You must be a well-experienced fighter, otherwise you'd never be able to arrive here after passing the steep, mountainous areas and dangerous creatures surrounding this city.";
+#: npc/cities/payon.txt
+msgctxt "Young Man#payon"
+msgid ""
+"You must be a well-experienced fighter, otherwise you'd never be able to arrive here after passing the steep, "
+"mountainous areas and dangerous creatures surrounding this city."
+msgstr ""
+
+# mes "I'm no expert at fighting, but someone once told me that sheer strength alone won't be able to win some battles.";
+#: npc/cities/payon.txt
+msgctxt "Young Man#payon"
+msgid ""
+"I'm no expert at fighting, but someone once told me that sheer strength alone won't be able to win some battles."
+msgstr ""
+
+# mes "Sometimes, you may encounter creatures protected by a hard-shell that don't be damaged by physical attacks. Only psychic power, like Magic, can easily defeat such creatures.";
+#: npc/cities/payon.txt
+msgctxt "Young Man#payon"
+msgid ""
+"Sometimes, you may encounter creatures protected by a hard-shell that don't be damaged by physical attacks. Only "
+"psychic power, like Magic, can easily defeat such creatures."
+msgstr ""
+
+# mes "Of course, not everyone can study magic. The point is that you should keep different kinds of friends and comrades close to you, as you can't possibly handle every situation by yourself.";
+#: npc/cities/payon.txt
+msgctxt "Young Man#payon"
+msgid ""
+"Of course, not everyone can study magic. The point is that you should keep different kinds of friends and comrades "
+"close to you, as you can't possibly handle every situation by yourself."
+msgstr ""
+
+# mes "[Young Man]";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "[Young Man]"
+msgstr ""
+
+# mes "I remember the story my dearly departed grandfather has told me.";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "I remember the story my dearly departed grandfather has told me."
+msgstr ""
+
+# mes "It's about this Amulet that possesses an Evil Power.";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "It's about this Amulet that possesses an Evil Power."
+msgstr ""
+
+# mes "With it, you could awaken";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "With it, you could awaken"
+msgstr ""
+
+# mes "the Dead from the Grave.";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "the Dead from the Grave."
+msgstr ""
+
+# mes "Well, I'm not sure if it's true or not. But, I wonder, what would happen if I used it to summon";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "Well, I'm not sure if it's true or not. But, I wonder, what would happen if I used it to summon"
+msgstr ""
+
+# mes "my grandfather from the other realm....";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "my grandfather from the other realm...."
+msgstr ""
+
+# mes "[?]";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "[?]"
+msgstr ""
+
+# mes "^3299CCNever think";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "^3299CCNever think"
+msgstr ""
+
+# mes "of such a thing...";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "of such a thing..."
+msgstr ""
+
+# mes "My son.^000000";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "My son.^000000"
+msgstr ""
+
+# mes "EEEEEEK-!";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "EEEEEEK-!"
+msgstr ""
+
+# mes "What was that?!";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "What was that?!"
+msgstr ""
+
+# mes "G-grandpa...?";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "G-grandpa...?"
+msgstr ""
+
+# mes "...";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "..."
+msgstr ""
+
+# mes "......";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "......"
+msgstr ""
+
+# mes "G-God...?";
+#: npc/cities/payon.txt
+msgctxt "Young Man#2payon"
+msgid "G-God...?"
+msgstr ""
+
+# mes "[Guardsman]";
+#: npc/cities/payon.txt
+msgctxt "Guardsman#payon"
+msgid "[Guardsman]"
+msgstr ""
+
+# mes "This is the Central Palace of Payon. This place is open to the public, but in accordance with our laws, you must behave in an orderly fashion once inside.";
+#: npc/cities/payon.txt
+msgctxt "Guardsman#payon"
+msgid ""
+"This is the Central Palace of Payon. This place is open to the public, but in accordance with our laws, you must "
+"behave in an orderly fashion once inside."
+msgstr ""
+
+# mes "In the interest of protecting the peace, we will disarm your equipment once you enter.";
+#: npc/cities/payon.txt
+msgctxt "Guardsman#payon"
+msgid "In the interest of protecting the peace, we will disarm your equipment once you enter."
+msgstr ""
+
+# mes "Your cooperation is";
+#: npc/cities/payon.txt
+msgctxt "Guardsman#payon"
+msgid "Your cooperation is"
+msgstr ""
+
+# mes "much appreciated.";
+#: npc/cities/payon.txt
+msgctxt "Guardsman#payon"
+msgid "much appreciated."
+msgstr ""
+
+# mes "[Woman]";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "[Woman]"
+msgstr ""
+
+# mes "Welcome to Payon.";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "Welcome to Payon."
+msgstr ""
+
+# mes "You must have had";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "You must have had"
+msgstr ""
+
+# mes "a hard time getting";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "a hard time getting"
+msgstr ""
+
+# mes "through the Payon Forest.";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "through the Payon Forest."
+msgstr ""
+
+# mes "How was your trip?";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "How was your trip?"
+msgstr ""
+
+# mes "We've been receiving less tourists because of the increasing numbers of monsters outside, so it's quieter nowadays.";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid ""
+"We've been receiving less tourists because of the increasing numbers of monsters outside, so it's quieter nowadays."
+msgstr ""
+
+# mes " To be honest, things are getting tough because of all those monsters. ^666666*Sigh...*^000000";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid " To be honest, things are getting tough because of all those monsters. ^666666*Sigh...*^000000"
+msgstr ""
+
+# mes "Whoa~! I just noticed those arms of yours look pretty solid. You look pretty strong, guy. Just how many monsters have you killed?!";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid ""
+"Whoa~! I just noticed those arms of yours look pretty solid. You look pretty strong, guy. Just how many monsters "
+"have you killed?!"
+msgstr ""
+
+# mes "Oooh! I didn't notice before, but you look pretty strong beneath all of that feminine charm.";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "Oooh! I didn't notice before, but you look pretty strong beneath all of that feminine charm."
+msgstr ""
+
+# mes "Hey, I know of a good place for you to hunt. It just so happens that there's a cave in the middle of Payon.";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "Hey, I know of a good place for you to hunt. It just so happens that there's a cave in the middle of Payon."
+msgstr ""
+
+# mes "If you're interested, just head North, pass the forest, and go towards the Northwest. You'll know you've arrived when you're in the place filled with the smell of stinky monsters.";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid ""
+"If you're interested, just head North, pass the forest, and go towards the Northwest. You'll know you've arrived "
+"when you're in the place filled with the smell of stinky monsters."
+msgstr ""
+
+# switch(select("It sounds dangerous!", "I better prepare myself...!", "That's a nice dress you're wearing~")) {
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "It sounds dangerous!"
+msgstr ""
+
+# switch(select("It sounds dangerous!", "I better prepare myself...!", "That's a nice dress you're wearing~")) {
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "I better prepare myself...!"
+msgstr ""
+
+# switch(select("It sounds dangerous!", "I better prepare myself...!", "That's a nice dress you're wearing~")) {
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "That's a nice dress you're wearing~"
+msgstr ""
+
+# mes "Oh come on, don't be a coward.";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "Oh come on, don't be a coward."
+msgstr ""
+
+# mes "It's just a simple cave filled with normal monsters. It's quite safe. We've even established an Archer Village near that cave to prevent misfortunate incidents. Hohoohoho~ ";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid ""
+"It's just a simple cave filled with normal monsters. It's quite safe. We've even established an Archer Village near "
+"that cave to prevent misfortunate incidents. Hohoohoho~ "
+msgstr ""
+
+# mes "Oh don't worry about any preparations. There's a Tool Dealer right in front of the cave, so you can purchase anything you need from my husban, er, that guy~";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid ""
+"Oh don't worry about any preparations. There's a Tool Dealer right in front of the cave, so you can purchase "
+"anything you need from my husban, er, that guy~"
+msgstr ""
+
+# mes "Oh hohohoho!";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "Oh hohohoho!"
+msgstr ""
+
+# mes "So you've noticed?";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "So you've noticed?"
+msgstr ""
+
+# mes "I hear this is the";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "I hear this is the"
+msgstr ""
+
+# mes "latest trend in Prontera";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "latest trend in Prontera"
+msgstr ""
+
+# mes "these days.";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "these days."
+msgstr ""
+
+# mes "Most of the women in this town don't know anything about fashion! My husband bought this for me as";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "Most of the women in this town don't know anything about fashion! My husband bought this for me as"
+msgstr ""
+
+# mes "a present. He makes quite a lot of money, you know. Hohohoho~";
+#: npc/cities/payon.txt
+msgctxt "Woman#payon"
+msgid "a present. He makes quite a lot of money, you know. Hohohoho~"
+msgstr ""
+
+# mes "[Jim's Mother]";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "[Jim's Mother]"
+msgstr ""
+
+# mes "Oh boy~";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Oh boy~"
+msgstr ""
+
+# mes "There she goes again.";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "There she goes again."
+msgstr ""
+
+# mes "Without a doubt, that";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Without a doubt, that"
+msgstr ""
+
+# mes "woman is the town gossip.";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "woman is the town gossip."
+msgstr ""
+
+# mes "Please don't judge the rest";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Please don't judge the rest"
+msgstr ""
+
+# mes "of the people living in Payon by her behavior. She's the only loudmouth. I guess she's just too excited about what the fortune teller told her.";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid ""
+"of the people living in Payon by her behavior. She's the only loudmouth. I guess she's just too excited about what "
+"the fortune teller told her."
+msgstr ""
+
+# mes "Ooh...!";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Ooh...!"
+msgstr ""
+
+# mes "You've got";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "You've got"
+msgstr ""
+
+# mes "such broad shoulders!";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "such broad shoulders!"
+msgstr ""
+
+# mes "Will you go out with me?";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Will you go out with me?"
+msgstr ""
+
+# mes "I'll treat you to";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "I'll treat you to"
+msgstr ""
+
+# mes "a nice dinner~";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "a nice dinner~"
+msgstr ""
+
+# mes "My, you're a pretty girl!";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "My, you're a pretty girl!"
+msgstr ""
+
+# mes "I'm sure you're always busy";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "I'm sure you're always busy"
+msgstr ""
+
+# mes "beating the boys away with a stick...";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "beating the boys away with a stick..."
+msgstr ""
+
+# mes "Or a well timed insult joke.";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Or a well timed insult joke."
+msgstr ""
+
+# if (select("Fortune Teller...? ", "Well, see you later~") == 1) {
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Fortune Teller...? "
+msgstr ""
+
+# if (select("Fortune Teller...? ", "Well, see you later~") == 1) {
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Well, see you later~"
+msgstr ""
+
+# mes "Oh yes...";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Oh yes..."
+msgstr ""
+
+# mes "There's an extraordinary fortune teller in the Central Palace of Payon. The more Zeny you pay her, the better fortune you'll get!";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid ""
+"There's an extraordinary fortune teller in the Central Palace of Payon. The more Zeny you pay her, the better "
+"fortune you'll get!"
+msgstr ""
+
+# mes "She told me";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "She told me"
+msgstr ""
+
+# mes "I would meet";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "I would meet"
+msgstr ""
+
+# mes "a nice guy this month.";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "a nice guy this month."
+msgstr ""
+
+# mes "Hohohoho~ ";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Hohohoho~ "
+msgstr ""
+
+# mes "Mmmm...?";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "Mmmm...?"
+msgstr ""
+
+# mes "You don't have";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "You don't have"
+msgstr ""
+
+# mes "any time to stay";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "any time to stay"
+msgstr ""
+
+# mes "and chit-chat with me?";
+#: npc/cities/payon.txt
+msgctxt "Woman#2payon"
+msgid "and chit-chat with me?"
+msgstr ""
+
+# mes "[Drunkard]";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "[Drunkard]"
+msgstr ""
+
+# mes "Hey...";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Hey..."
+msgstr ""
+
+# mes "H-Hey...!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "H-Hey...!"
+msgstr ""
+
+# mes "I wonder why those";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "I wonder why those"
+msgstr ""
+
+# mes "stupid Archers even";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "stupid Archers even"
+msgstr ""
+
+# mes "bother trying to aim!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "bother trying to aim!"
+msgstr ""
+
+# mes "You're all weak!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "You're all weak!"
+msgstr ""
+
+# mes "Weeeeak!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Weeeeak!"
+msgstr ""
+
+# mes "Bwahahahaha!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Bwahahahaha!"
+msgstr ""
+
+# mes "Buy me a drink?!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Buy me a drink?!"
+msgstr ""
+
+# mes "An Archer!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "An Archer!"
+msgstr ""
+
+# mes "Oh man, you guys!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Oh man, you guys!"
+msgstr ""
+
+# mes "You guys are the best!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "You guys are the best!"
+msgstr ""
+
+# switch(select("Alright, but only one drink.", "No thanks, pal.", "Oh my God! Hell no!")) {
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Alright, but only one drink."
+msgstr ""
+
+# switch(select("Alright, but only one drink.", "No thanks, pal.", "Oh my God! Hell no!")) {
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "No thanks, pal."
+msgstr ""
+
+# switch(select("Alright, but only one drink.", "No thanks, pal.", "Oh my God! Hell no!")) {
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Oh my God! Hell no!"
+msgstr ""
+
+# mes "Thanks...!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Thanks...!"
+msgstr ""
+
+# mes "..Brother!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "..Brother!"
+msgstr ""
+
+# mes "Most people don't even wanna";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Most people don't even wanna"
+msgstr ""
+
+# mes "buy me drinks! Maybe cuz I used to fool around too much with the ladies back in my day!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "buy me drinks! Maybe cuz I used to fool around too much with the ladies back in my day!"
+msgstr ""
+
+# mes "Though, the women I used to play with are grannies now! Hahahaha! One of them still primps herself with makeup and stuff! Can you believe that?!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid ""
+"Though, the women I used to play with are grannies now! Hahahaha! One of them still primps herself with makeup and "
+"stuff! Can you believe that?!"
+msgstr ""
+
+# mes "I'm like...";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "I'm like..."
+msgstr ""
+
+# mes "Come on...!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Come on...!"
+msgstr ""
+
+# mes "Some faces are";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Some faces are"
+msgstr ""
+
+# mes "beyond fixing!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "beyond fixing!"
+msgstr ""
+
+# mes "Oh? I made a funny!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Oh? I made a funny!"
+msgstr ""
+
+# mes "Bwahahahahahah!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Bwahahahahahah!"
+msgstr ""
+
+# mes "^666666*Gulp~ Gulp~*^000000";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "^666666*Gulp~ Gulp~*^000000"
+msgstr ""
+
+# mes "Man, this is great!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Man, this is great!"
+msgstr ""
+
+# mes "You the maaaaaaan~!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "You the maaaaaaan~!"
+msgstr ""
+
+# mes "Muhahahahaha!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Muhahahahaha!"
+msgstr ""
+
+# mes "Bah!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Bah!"
+msgstr ""
+
+# mes "Kids nowadays!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Kids nowadays!"
+msgstr ""
+
+# mes "Now respect for";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Now respect for"
+msgstr ""
+
+# mes "their elders! Fine!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "their elders! Fine!"
+msgstr ""
+
+# mes "I'm not gonna beg you!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "I'm not gonna beg you!"
+msgstr ""
+
+# mes "Fine...!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Fine...!"
+msgstr ""
+
+# mes "Fine by me!";
+#: npc/cities/payon.txt
+msgctxt "Drunkard#payon"
+msgid "Fine by me!"
+msgstr ""
+
+# mes "[Monster Scholar Vuicokk]";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "[Monster Scholar Vuicokk]"
+msgstr ""
+
+# mes "Nice to meet you.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "Nice to meet you."
+msgstr ""
+
+# mes "I am called Vuicokk.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "I am called Vuicokk."
+msgstr ""
+
+# mes "I am a scholar in the Monster Research organization of the Rune Midgarts Kingdom. Do you have any questions about monsters?";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid ""
+"I am a scholar in the Monster Research organization of the Rune Midgarts Kingdom. Do you have any questions about "
+"monsters?"
+msgstr ""
+
+# switch(select("Any news?", "Undead Monsters?", "Monster Research Organization?")) {
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "Any news?"
+msgstr ""
+
+# switch(select("Any news?", "Undead Monsters?", "Monster Research Organization?")) {
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "Undead Monsters?"
+msgstr ""
+
+# switch(select("Any news?", "Undead Monsters?", "Monster Research Organization?")) {
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "Monster Research Organization?"
+msgstr ""
+
+# mes "Payon is located deep inside the forest where it can easily be attacked by hordes of monsters. Monsters also come from the dangerous cave located near town.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid ""
+"Payon is located deep inside the forest where it can easily be attacked by hordes of monsters. Monsters also come "
+"from the dangerous cave located near town."
+msgstr ""
+
+# mes "Since Undead monsters roam the Payon Cave, it has attracted the attention of the monster academic world. My job here is to analyze their characteristics.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid ""
+"Since Undead monsters roam the Payon Cave, it has attracted the attention of the monster academic world. My job here "
+"is to analyze their characteristics."
+msgstr ""
+
+# mes "What is most remarkable of the Undead monsters in Payon is their origin Most of them used to be citizens of Payon!";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid ""
+"What is most remarkable of the Undead monsters in Payon is their origin Most of them used to be citizens of Payon!"
+msgstr ""
+
+# mes "However, these souls are";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "However, these souls are"
+msgstr ""
+
+# mes "unable to rest in peace and still wander about as Undead bound";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "unable to rest in peace and still wander about as Undead bound"
+msgstr ""
+
+# mes "to this world.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "to this world."
+msgstr ""
+
+# mes "These monsters cannot be classified with other monsters that have mutated from living creatures, so our wise and benevolent ruler, King Tristram III, has taken a great interest in Payon's Undead.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid ""
+"These monsters cannot be classified with other monsters that have mutated from living creatures, so our wise and "
+"benevolent ruler, King Tristram III, has taken a great interest in Payon's Undead."
+msgstr ""
+
+# mes "After all, some of these";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "After all, some of these"
+msgstr ""
+
+# mes "Undead used to belong to";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "Undead used to belong to"
+msgstr ""
+
+# mes "the Rune-Midgarts Kingdom.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "the Rune-Midgarts Kingdom."
+msgstr ""
+
+# mes "As his subjects,";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "As his subjects,"
+msgstr ""
+
+# mes "King Tristram III";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "King Tristram III"
+msgstr ""
+
+# mes "feels some responsbility";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "feels some responsbility"
+msgstr ""
+
+# mes "to release their souls.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "to release their souls."
+msgstr ""
+
+# mes "His Majesty has been supporting";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "His Majesty has been supporting"
+msgstr ""
+
+# mes "us in our search to discover how to eliminate all of the Undead in this world. We will try to accomplish this goal as soon as we";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid ""
+"us in our search to discover how to eliminate all of the Undead in this world. We will try to accomplish this goal "
+"as soon as we"
+msgstr ""
+
+# mes "possibly can.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "possibly can."
+msgstr ""
+
+# mes "For the safety of our people,";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "For the safety of our people,"
+msgstr ""
+
+# mes "for the sake of their bereaved families, and in accordance with King Tristram III's order, we must succeed!";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "for the sake of their bereaved families, and in accordance with King Tristram III's order, we must succeed!"
+msgstr ""
+
+# mes "As you may well know,";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "As you may well know,"
+msgstr ""
+
+# mes "monsters have been endlessly spawning in this world, and the threat of their attacks is grows greater every day.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid ""
+"monsters have been endlessly spawning in this world, and the threat of their attacks is grows greater every day."
+msgstr ""
+
+# mes "In response to this,";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "In response to this,"
+msgstr ""
+
+# mes " the Monster Research";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid " the Monster Research"
+msgstr ""
+
+# mes "Organization has been formed.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "Organization has been formed."
+msgstr ""
+
+# mes "Talented people around the world have joined forces in an effort to deduce the origin of monsters, and a way to eliminate them once and for all.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid ""
+"Talented people around the world have joined forces in an effort to deduce the origin of monsters, and a way to "
+"eliminate them once and for all."
+msgstr ""
+
+# mes "Of course, it's not";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "Of course, it's not"
+msgstr ""
+
+# mes "as easy as you would may believe. Many have sacrificed their lives in the pursuit of this knowledge.";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid "as easy as you would may believe. Many have sacrificed their lives in the pursuit of this knowledge."
+msgstr ""
+
+# mes "In our missions, the number of victims of monster attacks have been countless. Still, nothing can stop us. If our suffering can save humanity, so be it!";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid ""
+"In our missions, the number of victims of monster attacks have been countless. Still, nothing can stop us. If our "
+"suffering can save humanity, so be it!"
+msgstr ""
+
+# mes "^666666*Ahem*^000000 My apologies, I get too excited sometimes. But if you happen to meet other scholars such as myself, please treat them well. Our jobs are very difficult!";
+#: npc/cities/payon.txt
+msgctxt "Monster Scholar#02"
+msgid ""
+"^666666*Ahem*^000000 My apologies, I get too excited sometimes. But if you happen to meet other scholars such as "
+"myself, please treat them well. Our jobs are very difficult!"
+msgstr ""
+
+# mes "[Pub Lady]";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "[Pub Lady]"
+msgstr ""
+
+# mes "This place is always bustling with busy people. Little Novices come and go to become Archers, and everyone else is buying arrows while I have to stay here in this small shop.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid ""
+"This place is always bustling with busy people. Little Novices come and go to become Archers, and everyone else is "
+"buying arrows while I have to stay here in this small shop."
+msgstr ""
+
+# mes "And I'm sick and tired of making this noodle soup. I have to shower all the time so I can get rid of the smell. And it's not so easy";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid ""
+"And I'm sick and tired of making this noodle soup. I have to shower all the time so I can get rid of the smell. And "
+"it's not so easy"
+msgstr ""
+
+# mes "to get rid of.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "to get rid of."
+msgstr ""
+
+# mes "I feel so...";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "I feel so..."
+msgstr ""
+
+# mes "Bored.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Bored."
+msgstr ""
+
+# mes "And lonely...";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "And lonely..."
+msgstr ""
+
+# mes "Where I can find the right person, a hot and Sexy hunk who can take me away from here? Um, hey mister, are you listening?";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid ""
+"Where I can find the right person, a hot and Sexy hunk who can take me away from here? Um, hey mister, are you "
+"listening?"
+msgstr ""
+
+# mes "Where I can find the right person, a cute, yet hard-bodied hunk who can take me away from here?";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Where I can find the right person, a cute, yet hard-bodied hunk who can take me away from here?"
+msgstr ""
+
+# mes "Um, hey lady, are";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Um, hey lady, are"
+msgstr ""
+
+# mes "you listening?";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "you listening?"
+msgstr ""
+
+# mes "The old fortune teller told me that I'd have great luck in the near future! But what's wrong with me? I'm just living day to day. Maybe I'm just dumb and wishy-washy.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid ""
+"The old fortune teller told me that I'd have great luck in the near future! But what's wrong with me? I'm just "
+"living day to day. Maybe I'm just dumb and wishy-washy."
+msgstr ""
+
+# mes "I'm so sorry,";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "I'm so sorry,"
+msgstr ""
+
+# mes "I've said too much.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "I've said too much."
+msgstr ""
+
+# mes "Now I'm just acting stupid.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Now I'm just acting stupid."
+msgstr ""
+
+# mes "I'm sorry you had to listen";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "I'm sorry you had to listen"
+msgstr ""
+
+# mes "to all that.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "to all that."
+msgstr ""
+
+# mes "So...";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "So..."
+msgstr ""
+
+# mes "How may I help you? ";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "How may I help you? "
+msgstr ""
+
+# switch(select("Have you ever heard of Zombies?", "Fortune Teller...?", "I needs some booze.")) {
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Have you ever heard of Zombies?"
+msgstr ""
+
+# switch(select("Have you ever heard of Zombies?", "Fortune Teller...?", "I needs some booze.")) {
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Fortune Teller...?"
+msgstr ""
+
+# switch(select("Have you ever heard of Zombies?", "Fortune Teller...?", "I needs some booze.")) {
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "I needs some booze."
+msgstr ""
+
+# mes "Of course I've";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Of course I've"
+msgstr ""
+
+# mes "heard of Zombies!";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "heard of Zombies!"
+msgstr ""
+
+# mes "This is Payon, after all.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "This is Payon, after all."
+msgstr ""
+
+# mes "Zombies are the walking";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Zombies are the walking"
+msgstr ""
+
+# mes "Undead, and you can easily";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Undead, and you can easily"
+msgstr ""
+
+# mes "find them around here.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "find them around here."
+msgstr ""
+
+# mes "I hear that they fear holiness, so Archers prefer to use arrow made out of silver, a holy metal, against them.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "I hear that they fear holiness, so Archers prefer to use arrow made out of silver, a holy metal, against them."
+msgstr ""
+
+# mes "Legend says that the chief of this town used silver arrows against Zombies that used to be his brethren in order to release their souls so that they may rest in peace.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid ""
+"Legend says that the chief of this town used silver arrows against Zombies that used to be his brethren in order to "
+"release their souls so that they may rest in peace."
+msgstr ""
+
+# mes "We believe that exorcising";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "We believe that exorcising"
+msgstr ""
+
+# mes "Zombies in this way will lead them peacefully to the afterlife. Their souls no longer need to anguish.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Zombies in this way will lead them peacefully to the afterlife. Their souls no longer need to anguish."
+msgstr ""
+
+# mes "You might not share our beliefs, but my grandfather was one of the Undead. I appreciate that the chief was able to free him from being bound to the world of the living.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid ""
+"You might not share our beliefs, but my grandfather was one of the Undead. I appreciate that the chief was able to "
+"free him from being bound to the world of the living."
+msgstr ""
+
+# mes "Oh! Our fortune teller is a really extraordinary person. Well, she doesn't hang around here as";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Oh! Our fortune teller is a really extraordinary person. Well, she doesn't hang around here as"
+msgstr ""
+
+# mes "much as she used to do. ";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "much as she used to do. "
+msgstr ""
+
+# mes "She used to stay here to tell fortunes for our patrons, but ever since the chief recognized her talents, she now stays in the Central Palace. So you'd better go there if you want to see her.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid ""
+"She used to stay here to tell fortunes for our patrons, but ever since the chief recognized her talents, she now "
+"stays in the Central Palace. So you'd better go there if you want to see her."
+msgstr ""
+
+# mes "You...";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "You..."
+msgstr ""
+
+# mes "needs some";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "needs some"
+msgstr ""
+
+# mes "booze, eh?";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "booze, eh?"
+msgstr ""
+
+# mes "Don't we all?";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Don't we all?"
+msgstr ""
+
+# mes "But I'm so sorry, we sold out.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "But I'm so sorry, we sold out."
+msgstr ""
+
+# mes "And we can't afford to prepare alcohol anymore because of the hostile creatures out there. But please come again later. I'm sorry for the inconvenience.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid ""
+"And we can't afford to prepare alcohol anymore because of the hostile creatures out there. But please come again "
+"later. I'm sorry for the inconvenience."
+msgstr ""
+
+# mes "Have a nice";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "Have a nice"
+msgstr ""
+
+# mes "day, dearie.";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "day, dearie."
+msgstr ""
+
+# mes "^666666*Sob*^000000";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "^666666*Sob*^000000"
+msgstr ""
+
+# mes "When will I be romanced";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "When will I be romanced"
+msgstr ""
+
+# mes "by my perfectly formed,";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "by my perfectly formed,"
+msgstr ""
+
+# mes "yet well read man?";
+#: npc/cities/payon.txt
+msgctxt "Waitress#payon"
+msgid "yet well read man?"
+msgstr ""
+
+# mes "[Chief Guardsman]";
+#: npc/cities/payon.txt
+msgctxt "Chief Guardsman#payon"
+msgid "[Chief Guardsman]"
+msgstr ""
+
+# mes "What brings";
+#: npc/cities/payon.txt
+msgctxt "Chief Guardsman#payon"
+msgid "What brings"
+msgstr ""
+
+# mes "you here? ";
+#: npc/cities/payon.txt
+msgctxt "Chief Guardsman#payon"
+msgid "you here? "
+msgstr ""
+
+# mes "I can see that you are not one of the Payon locals. I would just like to remind you to conduct yourself in an orderly manner. Remember,";
+#: npc/cities/payon.txt
+msgctxt "Chief Guardsman#payon"
+msgid ""
+"I can see that you are not one of the Payon locals. I would just like to remind you to conduct yourself in an "
+"orderly manner. Remember,"
+msgstr ""
+
+# mes "you are a guest here.";
+#: npc/cities/payon.txt
+msgctxt "Chief Guardsman#payon"
+msgid "you are a guest here."
+msgstr ""
+
+# mes "In the interest of protecting the public peace, I will disarm your equipment. Thank you for your cooperation.";
+#: npc/cities/payon.txt
+msgctxt "Chief Guardsman#payon"
+msgid "In the interest of protecting the public peace, I will disarm your equipment. Thank you for your cooperation."
+msgstr ""
+
+# mes "[Archer Zakk]";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "[Archer Zakk]"
+msgstr ""
+
+# mes "I'm kind of worried";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "I'm kind of worried"
+msgstr ""
+
+# mes "about one of my pals.";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "about one of my pals."
+msgstr ""
+
+# mes "Even though he's an expert at archery, no one likes his motor mouth. Even our chief is getting fed up with him!";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "Even though he's an expert at archery, no one likes his motor mouth. Even our chief is getting fed up with him!"
+msgstr ""
+
+# switch(select("Your friend?", "Payon has a chief?", " Motor... Mouth?")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "Your friend?"
+msgstr ""
+
+# switch(select("Your friend?", "Payon has a chief?", " Motor... Mouth?")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "Payon has a chief?"
+msgstr ""
+
+# switch(select("Your friend?", "Payon has a chief?", " Motor... Mouth?")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid " Motor... Mouth?"
+msgstr ""
+
+# mes "Ah, right. This buddy of mine is the number one archer in Payon.";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "Ah, right. This buddy of mine is the number one archer in Payon."
+msgstr ""
+
+# mes "He teaches newbie Archers around the Archer Village. It might be a good idea to talk to him at least once.";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "He teaches newbie Archers around the Archer Village. It might be a good idea to talk to him at least once."
+msgstr ""
+
+# mes "Our chief lives in the Central Palace. I guess you can say that he's the spiritual guide of Payon.";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "Our chief lives in the Central Palace. I guess you can say that he's the spiritual guide of Payon."
+msgstr ""
+
+# mes "He used to menace the monsters in Payon Forest, carrying his Gakkung. I remember watching him fight when I was just a little kid.";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid ""
+"He used to menace the monsters in Payon Forest, carrying his Gakkung. I remember watching him fight when I was just "
+"a little kid."
+msgstr ""
+
+# mes "But now he";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "But now he"
+msgstr ""
+
+# mes "seems old and weak.";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "seems old and weak."
+msgstr ""
+
+# mes "Still, his eyes are as sharp as they used to be during his days";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "Still, his eyes are as sharp as they used to be during his days"
+msgstr ""
+
+# mes "of battle, where he'd never miss";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "of battle, where he'd never miss"
+msgstr ""
+
+# mes "a target.";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "a target."
+msgstr ""
+
+# mes "I admire our chief";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "I admire our chief"
+msgstr ""
+
+# mes "from the bottom";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "from the bottom"
+msgstr ""
+
+# mes "of my heart. ";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "of my heart. "
+msgstr ""
+
+# mes "You don't know";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "You don't know"
+msgstr ""
+
+# mes "what a motormouth is...?";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "what a motormouth is...?"
+msgstr ""
+
+# mes "Motormouth";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "Motormouth"
+msgstr ""
+
+# mes "Noun. Some fool who chatters";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "Noun. Some fool who chatters"
+msgstr ""
+
+# mes "way too much about stuff that doesn't really matter and doesn't know when to stop.";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "way too much about stuff that doesn't really matter and doesn't know when to stop."
+msgstr ""
+
+# mes "But yeah, my pal is not only";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "But yeah, my pal is not only"
+msgstr ""
+
+# mes "a legend at archery, he's also well known for how long he's let that mouth of his run.";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "a legend at archery, he's also well known for how long he's let that mouth of his run."
+msgstr ""
+
+# mes "Anyway, my pal Wolt doesn't have";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid "Anyway, my pal Wolt doesn't have"
+msgstr ""
+
+# mes "a place of his own, so he stays at the Inn. Why don't you go and meet him? He's actually an okay guy if you can stand all the chatter.";
+#: npc/cities/payon.txt
+msgctxt "Archer Zakk#payon"
+msgid ""
+"a place of his own, so he stays at the Inn. Why don't you go and meet him? He's actually an okay guy if you can "
+"stand all the chatter."
+msgstr ""
+
+# mes "[Archer Wolt]";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "[Archer Wolt]"
+msgstr ""
+
+# mes "Archers should";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Archers should"
+msgstr ""
+
+# mes "practice as much";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "practice as much"
+msgstr ""
+
+# mes "as they can. Otherwise,";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "as they can. Otherwise,"
+msgstr ""
+
+# mes "they'll never become experts.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "they'll never become experts."
+msgstr ""
+
+# mes "Oh, hey there!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Oh, hey there!"
+msgstr ""
+
+# mes "I'm Wolt the Archer,";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I'm Wolt the Archer,"
+msgstr ""
+
+# mes "but, erm, you can";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "but, erm, you can"
+msgstr ""
+
+# mes "just call me 'Wolt.'";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "just call me 'Wolt.'"
+msgstr ""
+
+# mes "I know this is a bit of an unexpected question, but do";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I know this is a bit of an unexpected question, but do"
+msgstr ""
+
+# mes "you tend to spend a lot of your";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "you tend to spend a lot of your"
+msgstr ""
+
+# mes "time in idleness?";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "time in idleness?"
+msgstr ""
+
+# switch(select("Oh, hell no.", "Yeah. I guess...")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Oh, hell no."
+msgstr ""
+
+# switch(select("Oh, hell no.", "Yeah. I guess...")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Yeah. I guess..."
+msgstr ""
+
+# mes "Ooh. That's good. In fact, that's great! If only all of us Archers had that kind of attitude. If you have time to just sit around, then you have the time to go out and practice!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"Ooh. That's good. In fact, that's great! If only all of us Archers had that kind of attitude. If you have time to "
+"just sit around, then you have the time to go out and practice!"
+msgstr ""
+
+# mes "Yeah...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Yeah..."
+msgstr ""
+
+# mes "As Archers, we kind of look";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "As Archers, we kind of look"
+msgstr ""
+
+# mes "down on people who slack off";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "down on people who slack off"
+msgstr ""
+
+# mes "on the training.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "on the training."
+msgstr ""
+
+# mes "If you don't work hard, then you'll end up being a horrible Archer. No one can depend on your aim!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "If you don't work hard, then you'll end up being a horrible Archer. No one can depend on your aim!"
+msgstr ""
+
+# mes "I mean, nobody!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I mean, nobody!"
+msgstr ""
+
+# mes "Did you ask how we go about";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Did you ask how we go about"
+msgstr ""
+
+# mes "our training? Well, the Archers of Payon don't have much time to just play around with their Bows.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "our training? Well, the Archers of Payon don't have much time to just play around with their Bows."
+msgstr ""
+
+# mes "I guess we go out and";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I guess we go out and"
+msgstr ""
+
+# mes "engage in actual fighting.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "engage in actual fighting."
+msgstr ""
+
+# mes "So we just carry out Bows wherever we go, and spend all day looking for monsters to kill. Oh, and after we find some monsters, we";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"So we just carry out Bows wherever we go, and spend all day looking for monsters to kill. Oh, and after we find some "
+"monsters, we"
+msgstr ""
+
+# mes "kill them of course. That almost goes without saying.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "kill them of course. That almost goes without saying."
+msgstr ""
+
+# if (select("I guess you'd need a good Bow. ", "You call that 'practice?!'") == 1) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I guess you'd need a good Bow. "
+msgstr ""
+
+# if (select("I guess you'd need a good Bow. ", "You call that 'practice?!'") == 1) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "You call that 'practice?!'"
+msgstr ""
+
+# mes "That's right!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "That's right!"
+msgstr ""
+
+# mes "An Archer depends";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "An Archer depends"
+msgstr ""
+
+# mes "on the strength";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "on the strength"
+msgstr ""
+
+# mes "of his Bow!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "of his Bow!"
+msgstr ""
+
+# mes "Bows constructed in Payon";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Bows constructed in Payon"
+msgstr ""
+
+# mes "are the greatest on this continent! They are light and stout, made out of high quality tree Trunks from Payon Forest!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"are the greatest on this continent! They are light and stout, made out of high quality tree Trunks from Payon Forest!"
+msgstr ""
+
+# mes "The quality of the wood often determines the quality of the Bow. My lil' sweety was made out of a walnut tree, and is strong enough to bear thousands of pounds";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"The quality of the wood often determines the quality of the Bow. My lil' sweety was made out of a walnut tree, and "
+"is strong enough to bear thousands of pounds"
+msgstr ""
+
+# mes "of force.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "of force."
+msgstr ""
+
+# mes "[Arche Wolt]";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "[Arche Wolt]"
+msgstr ""
+
+# mes "Oh, oh! And my Bow's stylish as well. It comes in a sophisticated ebony color, and I just look so cool and heroic while I'm killing monsters~!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"Oh, oh! And my Bow's stylish as well. It comes in a sophisticated ebony color, and I just look so cool and heroic "
+"while I'm killing monsters~!"
+msgstr ""
+
+# mes "Oh, and the trees in Payon Forest are famous for the quality of their wood. But then, more and more of them have been turning into monsters. Is this the work of evil forces?!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"Oh, and the trees in Payon Forest are famous for the quality of their wood. But then, more and more of them have "
+"been turning into monsters. Is this the work of evil forces?!"
+msgstr ""
+
+# mes "It's a pity because the tree monsters used to be beautiful, majestic trees. But then it's okay if we kill them, so that we can make Bows out of their wood.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"It's a pity because the tree monsters used to be beautiful, majestic trees. But then it's okay if we kill them, so "
+"that we can make Bows out of their wood."
+msgstr ""
+
+# mes "And then we use these Bows to kill even more tree monsters... And then make more wood! Mwahahahaha! It's an endless cycle!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"And then we use these Bows to kill even more tree monsters... And then make more wood! Mwahahahaha! It's an endless "
+"cycle!"
+msgstr ""
+
+# select("^666666*Ahem!*^000000 Speaking of endless...");
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "^666666*Ahem!*^000000 Speaking of endless..."
+msgstr ""
+
+# mes "You're right.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "You're right."
+msgstr ""
+
+# mes "Monsters are everywhere,";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Monsters are everywhere,"
+msgstr ""
+
+# mes "can you believe it?";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "can you believe it?"
+msgstr ""
+
+# mes "Do you understand";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Do you understand"
+msgstr ""
+
+# mes "why the Archer Village";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "why the Archer Village"
+msgstr ""
+
+# mes "was built where it is?";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "was built where it is?"
+msgstr ""
+
+# mes "To the West, near Archer Village, you'll see Payon Cave. Inside the cave, an enormous amount of monster endlessly spawn without showing any sign of slowing down.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"To the West, near Archer Village, you'll see Payon Cave. Inside the cave, an enormous amount of monster endlessly "
+"spawn without showing any sign of slowing down."
+msgstr ""
+
+# mes "We Archers are here to protect our territory against them, as ordered by our honorable chief!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "We Archers are here to protect our territory against them, as ordered by our honorable chief!"
+msgstr ""
+
+# switch(select("Cave, you say?", "Chief...? ", "Oh man, I hate this town!")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Cave, you say?"
+msgstr ""
+
+# switch(select("Cave, you say?", "Chief...? ", "Oh man, I hate this town!")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Chief...? "
+msgstr ""
+
+# switch(select("Cave, you say?", "Chief...? ", "Oh man, I hate this town!")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Oh man, I hate this town!"
+msgstr ""
+
+# mes "If you head North";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "If you head North"
+msgstr ""
+
+# mes "of town, you'll find";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "of town, you'll find"
+msgstr ""
+
+# mes "Payon Cave.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Payon Cave."
+msgstr ""
+
+# mes "Once inside, you'll encounter all sorts lots of ugly monsters. Like those nasty looking Bats, and";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Once inside, you'll encounter all sorts lots of ugly monsters. Like those nasty looking Bats, and"
+msgstr ""
+
+# mes "those Zombies...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "those Zombies..."
+msgstr ""
+
+# mes "If we let them out of that place, they'd run all over Payon! So, we gotta get in there and clean that place up of monsters.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"If we let them out of that place, they'd run all over Payon! So, we gotta get in there and clean that place up of "
+"monsters."
+msgstr ""
+
+# mes "But since these monsters endlessly respawn, sometimes I feel like we're wasting our time and energy for nothing...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"But since these monsters endlessly respawn, sometimes I feel like we're wasting our time and energy for nothing..."
+msgstr ""
+
+# mes "Whoa...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Whoa..."
+msgstr ""
+
+# mes "Alright, I think yet my mouth run";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Alright, I think yet my mouth run"
+msgstr ""
+
+# mes "a marathon again. I better let you go. There's lots of training to do, and plenty of monsters to kill!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "a marathon again. I better let you go. There's lots of training to do, and plenty of monsters to kill!"
+msgstr ""
+
+# mes "Our chief? Ah, he's such a swell guy. Then again, he's always scolds me for talking too much.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Our chief? Ah, he's such a swell guy. Then again, he's always scolds me for talking too much."
+msgstr ""
+
+# mes "He always working to make sure";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "He always working to make sure"
+msgstr ""
+
+# mes "that Payon is safe from harm. Lately, I've been worried since he hasn't been coming out the Palace lately. That might be a bad sign.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"that Payon is safe from harm. Lately, I've been worried since he hasn't been coming out the Palace lately. That "
+"might be a bad sign."
+msgstr ""
+
+# mes "A bad sign of what, I'm not really sure. There could be problems with Payon, or maybe he's got something he needs to handle on his own. Anyway, there's always guards in his room for some reason.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"A bad sign of what, I'm not really sure. There could be problems with Payon, or maybe he's got something he needs to "
+"handle on his own. Anyway, there's always guards in his room for some reason."
+msgstr ""
+
+# mes "Heh heh heh~";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Heh heh heh~"
+msgstr ""
+
+# mes "I'll get in trouble if he knows";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I'll get in trouble if he knows"
+msgstr ""
+
+# mes "I told an outsider know too much about his affairs. Oh well! It's too late. I already told you! There's no use regretting it!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"I told an outsider know too much about his affairs. Oh well! It's too late. I already told you! There's no use "
+"regretting it!"
+msgstr ""
+
+# mes "But...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "But..."
+msgstr ""
+
+# mes "It's not too late for me to just shut my mouth. Keep it closed. Shutting up now. Quiet as a mouse. Seeya later~!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"It's not too late for me to just shut my mouth. Keep it closed. Shutting up now. Quiet as a mouse. Seeya later~!"
+msgstr ""
+
+# mes "Hmm...?";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Hmm...?"
+msgstr ""
+
+# mes "And you don't?";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "And you don't?"
+msgstr ""
+
+# mes "What better practice";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "What better practice"
+msgstr ""
+
+# mes "than the real, honest";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "than the real, honest"
+msgstr ""
+
+# mes "to goodness thing?";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "to goodness thing?"
+msgstr ""
+
+# mes "Though, you may have a point";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Though, you may have a point"
+msgstr ""
+
+# mes "there. I mean, you should be able to practice without having to suffer serious consequences.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "there. I mean, you should be able to practice without having to suffer serious consequences."
+msgstr ""
+
+# mes "You know, like death.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "You know, like death."
+msgstr ""
+
+# mes "But we've gotta make do";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "But we've gotta make do"
+msgstr ""
+
+# mes "with what we've got!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "with what we've got!"
+msgstr ""
+
+# mes "An Archer's life is";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "An Archer's life is"
+msgstr ""
+
+# mes "endless training!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "endless training!"
+msgstr ""
+
+# mes "Endless practice!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Endless practice!"
+msgstr ""
+
+# mes "Hm...?";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Hm...?"
+msgstr ""
+
+# mes "Are you tired of me repeating the same thing over and over again?";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Are you tired of me repeating the same thing over and over again?"
+msgstr ""
+
+# mes "Oh, just bear with me. Think of it as practicing your patience~";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Oh, just bear with me. Think of it as practicing your patience~"
+msgstr ""
+
+# mes "Eh...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Eh..."
+msgstr ""
+
+# mes "I guess it's important";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I guess it's important"
+msgstr ""
+
+# mes "to set aside time to rest.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "to set aside time to rest."
+msgstr ""
+
+# mes "But it's also a good idea to set aside time for practicing and training, and practicing and training!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "But it's also a good idea to set aside time for practicing and training, and practicing and training!"
+msgstr ""
+
+# mes "And it's a very bad idea to rest when you should be alert, or well, when you're supposed to be doing something else.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"And it's a very bad idea to rest when you should be alert, or well, when you're supposed to be doing something else."
+msgstr ""
+
+# mes "That reminds me of the time";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "That reminds me of the time"
+msgstr ""
+
+# mes "I set fire to my house during the holidays. It was an accident, of course, but boy, were my folks angry!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I set fire to my house during the holidays. It was an accident, of course, but boy, were my folks angry!"
+msgstr ""
+
+# mes "Hahahaha~";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Hahahaha~"
+msgstr ""
+
+# mes "It all started when I decided to take a bath. Here, in Payon, we use the old style baths, so we need to make a fire to heat the water. Cold baths are just so uncomfortable.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"It all started when I decided to take a bath. Here, in Payon, we use the old style baths, so we need to make a fire "
+"to heat the water. Cold baths are just so uncomfortable."
+msgstr ""
+
+# mes "But nice, warm baths are veeeery comfortable. That was probably the best bath I had in my life! It was so comfortable, I fell asleep.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"But nice, warm baths are veeeery comfortable. That was probably the best bath I had in my life! It was so "
+"comfortable, I fell asleep."
+msgstr ""
+
+# mes "But while I was sleeping,";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "But while I was sleeping,"
+msgstr ""
+
+# mes "I guess I didn't notice the fire reach the floor, walls and ceiling! Luckily, I was in a tub full of water, so I was okay.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"I guess I didn't notice the fire reach the floor, walls and ceiling! Luckily, I was in a tub full of water, so I was "
+"okay."
+msgstr ""
+
+# mes "I would've gotten help if it weren't for the fact that the fire had burned my clothes while I was napping. So, of course, I couldn't just run around town in the nude.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"I would've gotten help if it weren't for the fact that the fire had burned my clothes while I was napping. So, of "
+"course, I couldn't just run around town in the nude."
+msgstr ""
+
+# mes "So...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "So..."
+msgstr ""
+
+# mes "I just sat in the water for about an hour, completely naked, and yelling 'Help me,' until someone could hear me.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"I just sat in the water for about an hour, completely naked, and yelling 'Help me,' until someone could hear me."
+msgstr ""
+
+# mes "But, it turned out that no one could hear me. Luckily, our roof caved in and totally demolished our walls so that my screams could finally reach passerby. And it was in that way that I survived.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"But, it turned out that no one could hear me. Luckily, our roof caved in and totally demolished our walls so that my "
+"screams could finally reach passerby. And it was in that way that I survived."
+msgstr ""
+
+# switch(select("Um, what's the point of that story?", "I guess I better not get lazy then. ", "Blah blah blah. See ya. ")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Um, what's the point of that story?"
+msgstr ""
+
+# switch(select("Um, what's the point of that story?", "I guess I better not get lazy then. ", "Blah blah blah. See ya. ")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I guess I better not get lazy then. "
+msgstr ""
+
+# switch(select("Um, what's the point of that story?", "I guess I better not get lazy then. ", "Blah blah blah. See ya. ")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Blah blah blah. See ya. "
+msgstr ""
+
+# mes "Oh...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Oh..."
+msgstr ""
+
+# mes "Umm...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Umm..."
+msgstr ""
+
+# mes "You mean, like,";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "You mean, like,"
+msgstr ""
+
+# mes "the moral of the story?";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "the moral of the story?"
+msgstr ""
+
+# mes "Resting during the right times is perfectly fine. Just don't go and take a break when you shouldn't. That kind of behavior would make anyone in our town angry!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"Resting during the right times is perfectly fine. Just don't go and take a break when you shouldn't. That kind of "
+"behavior would make anyone in our town angry!"
+msgstr ""
+
+# mes "Our chief is especially annoyed by that kind of irresponsible attitude. I guess, around here, only the town drunkard subscribes to that kind of policy.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"Our chief is especially annoyed by that kind of irresponsible attitude. I guess, around here, only the town drunkard "
+"subscribes to that kind of policy."
+msgstr ""
+
+# switch(select("Chief?", "Town Drunkard? ", "Man, you talk too much!")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Chief?"
+msgstr ""
+
+# switch(select("Chief?", "Town Drunkard? ", "Man, you talk too much!")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Town Drunkard? "
+msgstr ""
+
+# switch(select("Chief?", "Town Drunkard? ", "Man, you talk too much!")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Man, you talk too much!"
+msgstr ""
+
+# mes "that Payon is safe from harm. Lately, I've been worried since he hasn't been coming out the Palace lately. That might be a bad sign...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"that Payon is safe from harm. Lately, I've been worried since he hasn't been coming out the Palace lately. That "
+"might be a bad sign..."
+msgstr ""
+
+# mes "It's not too late for me to just shut my mouth. Complete silence. I'm not even opening my mouth. Starting right about... Now!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid ""
+"It's not too late for me to just shut my mouth. Complete silence. I'm not even opening my mouth. Starting right "
+"about... Now!"
+msgstr ""
+
+# mes "Seeya later~!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Seeya later~!"
+msgstr ""
+
+# mes "You know...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "You know..."
+msgstr ""
+
+# mes "The guy in the pub.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "The guy in the pub."
+msgstr ""
+
+# mes "Loud, and obnoxious";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Loud, and obnoxious"
+msgstr ""
+
+# mes "and annoying to liste--";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "and annoying to liste--"
+msgstr ""
+
+# mes "What's that look for?";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "What's that look for?"
+msgstr ""
+
+# mes "Anyway, when I have";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Anyway, when I have"
+msgstr ""
+
+# mes "some spare cash, I try";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "some spare cash, I try"
+msgstr ""
+
+# mes "to buy him a drink.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "to buy him a drink."
+msgstr ""
+
+# mes "Still...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Still..."
+msgstr ""
+
+# mes "It's not a good";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "It's not a good"
+msgstr ""
+
+# mes "idea to drink so much.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "idea to drink so much."
+msgstr ""
+
+# mes "Or as much as he does...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Or as much as he does..."
+msgstr ""
+
+# mes "...!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "...!"
+msgstr ""
+
+# mes "...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "..."
+msgstr ""
+
+# mes "I...";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I..."
+msgstr ""
+
+# mes "B-but...!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "B-but...!"
+msgstr ""
+
+# mes "Oh good~!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "Oh good~!"
+msgstr ""
+
+# mes "I guess you got";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I guess you got"
+msgstr ""
+
+# mes "the point of my story!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "the point of my story!"
+msgstr ""
+
+# mes "We, as Archers, put a lot of importance on training and practice, so we kind of look";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "We, as Archers, put a lot of importance on training and practice, so we kind of look"
+msgstr ""
+
+# mes "down on people who aren't";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "down on people who aren't"
+msgstr ""
+
+# mes "diligent at all.";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "diligent at all."
+msgstr ""
+
+# mes "I have to admit that, at heart,";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I have to admit that, at heart,"
+msgstr ""
+
+# mes "I'm a pretty lazy guy. I guess it's pretty amazing that someone like";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "I'm a pretty lazy guy. I guess it's pretty amazing that someone like"
+msgstr ""
+
+# mes "me can even be an Archer!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "me can even be an Archer!"
+msgstr ""
+
+# mes "In any case,";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "In any case,"
+msgstr ""
+
+# mes "whatever you do";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "whatever you do"
+msgstr ""
+
+# mes "in life, do it";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "in life, do it"
+msgstr ""
+
+# mes "with passion!";
+#: npc/cities/payon.txt
+msgctxt "Archer Wolt#payon"
+msgid "with passion!"
+msgstr ""
+
+# mes "[Guard]";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "[Guard]"
+msgstr ""
+
+# mes "Hey...";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Hey..."
+msgstr ""
+
+# mes "Hey...!";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Hey...!"
+msgstr ""
+
+# mes "Show your respect";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Show your respect"
+msgstr ""
+
+# mes "to our chief!";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "to our chief!"
+msgstr ""
+
+# mes "Heeeey!";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Heeeey!"
+msgstr ""
+
+# mes "I said... ";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "I said... "
+msgstr ""
+
+# mes "[Chief]";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "[Chief]"
+msgstr ""
+
+# mes "It's fine, it's fine.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "It's fine, it's fine."
+msgstr ""
+
+# mes "It's been a long time";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "It's been a long time"
+msgstr ""
+
+# mes "since I've spoken to";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "since I've spoken to"
+msgstr ""
+
+# mes "such young people.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "such young people."
+msgstr ""
+
+# switch(select("Please tell me about Payon.", "Where are the guards from?", "Please tell me about the cave. ", "What does an Archer do?", "What does a Hunter do?")) {
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Please tell me about Payon."
+msgstr ""
+
+# switch(select("Please tell me about Payon.", "Where are the guards from?", "Please tell me about the cave. ", "What does an Archer do?", "What does a Hunter do?")) {
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Where are the guards from?"
+msgstr ""
+
+# switch(select("Please tell me about Payon.", "Where are the guards from?", "Please tell me about the cave. ", "What does an Archer do?", "What does a Hunter do?")) {
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Please tell me about the cave. "
+msgstr ""
+
+# switch(select("Please tell me about Payon.", "Where are the guards from?", "Please tell me about the cave. ", "What does an Archer do?", "What does a Hunter do?")) {
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "What does an Archer do?"
+msgstr ""
+
+# switch(select("Please tell me about Payon.", "Where are the guards from?", "Please tell me about the cave. ", "What does an Archer do?", "What does a Hunter do?")) {
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "What does a Hunter do?"
+msgstr ""
+
+# mes "Payon is the city of highlanders. As long as our history can relate, our city has been self-sufficient.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Payon is the city of highlanders. As long as our history can relate, our city has been self-sufficient."
+msgstr ""
+
+# mes "Although our ancestors did not enjoy the benefits of cultural exchange with the Rune-Midgarts Kingdom as we do today, they knew how to make a living without";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"Although our ancestors did not enjoy the benefits of cultural exchange with the Rune-Midgarts Kingdom as we do "
+"today, they knew how to make a living without"
+msgstr ""
+
+# mes "any help.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "any help."
+msgstr ""
+
+# mes "Payon has developed its own cultures and ways. We've invented our own means to protect ourselves against the elements, and Payon men and women train as Archers and Hunters to defend themselves.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"Payon has developed its own cultures and ways. We've invented our own means to protect ourselves against the "
+"elements, and Payon men and women train as Archers and Hunters to defend themselves."
+msgstr ""
+
+# mes "I've heard of weak, cowardly";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "I've heard of weak, cowardly"
+msgstr ""
+
+# mes "young people who fear the fields or dungeons filled with monsters. But to us, battle is a way of life.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "young people who fear the fields or dungeons filled with monsters. But to us, battle is a way of life."
+msgstr ""
+
+# mes "That is why his Majesty, King Tristram III wishes for us to train young people how to effectively fight against evil creatures.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"That is why his Majesty, King Tristram III wishes for us to train young people how to effectively fight against evil "
+"creatures."
+msgstr ""
+
+# mes "Even since I was young,";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Even since I was young,"
+msgstr ""
+
+# mes "Prontera has sent civil";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Prontera has sent civil"
+msgstr ""
+
+# mes "servants and envoys to Payon.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "servants and envoys to Payon."
+msgstr ""
+
+# mes "Royal troops, Kafra Ladies, Guards... At first, there was conflict brought about by differences in our customs";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Royal troops, Kafra Ladies, Guards... At first, there was conflict brought about by differences in our customs"
+msgstr ""
+
+# mes "and cultures.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "and cultures."
+msgstr ""
+
+# mes "However, as time passed,";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "However, as time passed,"
+msgstr ""
+
+# mes "we've been able to resolve such petty differences. I cannot deny that they've helped us speedily develop our trade with foreign nations.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"we've been able to resolve such petty differences. I cannot deny that they've helped us speedily develop our trade "
+"with foreign nations."
+msgstr ""
+
+# mes "Now, people who used to be outsiders are now bonifide Payon citizens. When I was young, I would never imagined such a thing possible. Hahahaha~!";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"Now, people who used to be outsiders are now bonifide Payon citizens. When I was young, I would never imagined such "
+"a thing possible. Hahahaha~!"
+msgstr ""
+
+# mes "It pleases me to see and meet with them. Even though have come from other places, they have a love for Payon that is as sincere as my own.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"It pleases me to see and meet with them. Even though have come from other places, they have a love for Payon that is "
+"as sincere as my own."
+msgstr ""
+
+# mes "Ah...";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Ah..."
+msgstr ""
+
+# mes "I used to go to the cave";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "I used to go to the cave"
+msgstr ""
+
+# mes "to the North sometimes. But it";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "to the North sometimes. But it"
+msgstr ""
+
+# mes "is harder now than it was then.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "is harder now than it was then."
+msgstr ""
+
+# mes "Evil creatures that I've never seen before endlessly respawn in that place. The monsters in Payon Cave today are different than the ones we used to fight with.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"Evil creatures that I've never seen before endlessly respawn in that place. The monsters in Payon Cave today are "
+"different than the ones we used to fight with."
+msgstr ""
+
+# mes "Have you ever happened to see";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Have you ever happened to see"
+msgstr ""
+
+# mes "the Zombies...? Some of them are warriors who entered the cave to protect this village, but never came back.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "the Zombies...? Some of them are warriors who entered the cave to protect this village, but never came back."
+msgstr ""
+
+# mes "Although they are a threat, some of those Undead are also victims of that cave. I'm too old to endure that kind of pain...";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"Although they are a threat, some of those Undead are also victims of that cave. I'm too old to endure that kind of "
+"pain..."
+msgstr ""
+
+# mes "I must do anything I can to stop the Undead, and release their souls from eternal anguish.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "I must do anything I can to stop the Undead, and release their souls from eternal anguish."
+msgstr ""
+
+# mes "Ah, it is fortunate that archery is a specialty here in Payon. Because of the surrounding forest, we have an abundant supply of wood to create Bows.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"Ah, it is fortunate that archery is a specialty here in Payon. Because of the surrounding forest, we have an "
+"abundant supply of wood to create Bows."
+msgstr ""
+
+# mes "The forest also is a good training place for Archers to learn how to use their environment to impede the advance of their enemies while attacking from a safe distance.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"The forest also is a good training place for Archers to learn how to use their environment to impede the advance of "
+"their enemies while attacking from a safe distance."
+msgstr ""
+
+# mes "The forest can also be convenient in unexpected ways. When I was young, I ran out of arrows while fighting against monsters in the woods, but arrows dropped by other monsters saved my life! Mwahah!";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"The forest can also be convenient in unexpected ways. When I was young, I ran out of arrows while fighting against "
+"monsters in the woods, but arrows dropped by other monsters saved my life! Mwahah!"
+msgstr ""
+
+# mes "As foreign cultures were introduced to Payon, changes have been brought about to our battle style.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "As foreign cultures were introduced to Payon, changes have been brought about to our battle style."
+msgstr ""
+
+# mes "Technology, especially that of explosives, enabled new methods";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Technology, especially that of explosives, enabled new methods"
+msgstr ""
+
+# mes "of battle. We were no longer limited to the use of just bows and arrows.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "of battle. We were no longer limited to the use of just bows and arrows."
+msgstr ""
+
+# mes "Trapping skills, which make";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Trapping skills, which make"
+msgstr ""
+
+# mes "hunting monsters much easier, were developed enable here in Payon. Experts in the new skills were dubbed 'Hunters' by our previous Chief.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"hunting monsters much easier, were developed enable here in Payon. Experts in the new skills were dubbed 'Hunters' "
+"by our previous Chief."
+msgstr ""
+
+# mes "Although highly effective, trapping is a really dangerous skill if not used properly. That's why we do not approve of the inexperienced becoming Hunters.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid ""
+"Although highly effective, trapping is a really dangerous skill if not used properly. That's why we do not approve "
+"of the inexperienced becoming Hunters."
+msgstr ""
+
+# mes "However, we welcome people";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "However, we welcome people"
+msgstr ""
+
+# mes "who have proven to be capable to take the challange of the Hunter class.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "who have proven to be capable to take the challange of the Hunter class."
+msgstr ""
+
+# mes "So tired...";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "So tired..."
+msgstr ""
+
+# mes "I'd better rest.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "I'd better rest."
+msgstr ""
+
+# mes "Please, take care";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "Please, take care"
+msgstr ""
+
+# mes "of yourself.";
+#: npc/cities/payon.txt
+msgctxt "Chief#payon"
+msgid "of yourself."
+msgstr ""
+
+# mes "[Guard]";
+#: npc/cities/payon.txt
+msgctxt "Guard#payon"
+msgid "[Guard]"
+msgstr ""
+
+# mes "Hey...!";
+#: npc/cities/payon.txt
+msgctxt "Guard#payon"
+msgid "Hey...!"
+msgstr ""
+
+# mes "You're not";
+#: npc/cities/payon.txt
+msgctxt "Guard#payon"
+msgid "You're not"
+msgstr ""
+
+# mes "allowed here!";
+#: npc/cities/payon.txt
+msgctxt "Guard#payon"
+msgid "allowed here!"
+msgstr ""
+
+# mes "Go back outside!";
+#: npc/cities/payon.txt
+msgctxt "Guard#payon"
+msgid "Go back outside!"
+msgstr ""
+
+# mes "I'm sorry,";
+#: npc/cities/payon.txt
+msgctxt "Guard#payon"
+msgid "I'm sorry,"
+msgstr ""
+
+# mes "but you're";
+#: npc/cities/payon.txt
+msgctxt "Guard#payon"
+msgid "but you're"
+msgstr ""
+
+# mes "not allowed here.";
+#: npc/cities/payon.txt
+msgctxt "Guard#payon"
+msgid "not allowed here."
+msgstr ""
+
+# mes "Please leave.";
+#: npc/cities/payon.txt
+msgctxt "Guard#payon"
+msgid "Please leave."
+msgstr ""
+
+# mes "[Archer Joe]";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "[Archer Joe]"
+msgstr ""
+
+# mes "Payon!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Payon!"
+msgstr ""
+
+# mes "Such a wonderful";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Such a wonderful"
+msgstr ""
+
+# mes "place! Superb Bows";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "place! Superb Bows"
+msgstr ""
+
+# mes "and skillful Archers!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "and skillful Archers!"
+msgstr ""
+
+# mes "Hey you~!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Hey you~!"
+msgstr ""
+
+# mes "Have you heard";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Have you heard"
+msgstr ""
+
+# mes "of famous Payon?";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "of famous Payon?"
+msgstr ""
+
+# switch(select("Yeah, of course~! ", "Pay...on?", "...")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Yeah, of course~! "
+msgstr ""
+
+# switch(select("Yeah, of course~! ", "Pay...on?", "...")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Pay...on?"
+msgstr ""
+
+# switch(select("Yeah, of course~! ", "Pay...on?", "...")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "..."
+msgstr ""
+
+# mes "Oh! You the man!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Oh! You the man!"
+msgstr ""
+
+# mes "You know the Archers of Payon!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "You know the Archers of Payon!"
+msgstr ""
+
+# mes "We never miss our target! Even from a distance, the hearts of our foes are unsafe!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "We never miss our target! Even from a distance, the hearts of our foes are unsafe!"
+msgstr ""
+
+# if (select("So, you like this place, huh? ", "Hahahaha~") == 1) {
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "So, you like this place, huh? "
+msgstr ""
+
+# if (select("So, you like this place, huh? ", "Hahahaha~") == 1) {
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Hahahaha~"
+msgstr ""
+
+# mes "Yes! I love this place!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Yes! I love this place!"
+msgstr ""
+
+# mes "I love this city so much,";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "I love this city so much,"
+msgstr ""
+
+# mes "I've even been doing research on it! If there's anything you wanna know about Payon, please ask me!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "I've even been doing research on it! If there's anything you wanna know about Payon, please ask me!"
+msgstr ""
+
+# switch(select("The people wear unique clothing here.", "What's the building in the middle of town?", "Who's that guy drinking over there? ", "Talk to you later.")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "The people wear unique clothing here."
+msgstr ""
+
+# switch(select("The people wear unique clothing here.", "What's the building in the middle of town?", "Who's that guy drinking over there? ", "Talk to you later.")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "What's the building in the middle of town?"
+msgstr ""
+
+# switch(select("The people wear unique clothing here.", "What's the building in the middle of town?", "Who's that guy drinking over there? ", "Talk to you later.")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Who's that guy drinking over there? "
+msgstr ""
+
+# switch(select("The people wear unique clothing here.", "What's the building in the middle of town?", "Who's that guy drinking over there? ", "Talk to you later.")) {
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Talk to you later."
+msgstr ""
+
+# mes "Yes, I agree.";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Yes, I agree."
+msgstr ""
+
+# mes "You must know this place used to be isolated because of the thick forests and the mountainous area.";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "You must know this place used to be isolated because of the thick forests and the mountainous area."
+msgstr ""
+
+# mes "Because of that, the Payon developed a culture of its own, which is quite different than that of the rest of Rune-Midgard.";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid ""
+"Because of that, the Payon developed a culture of its own, which is quite different than that of the rest of Rune-"
+"Midgard."
+msgstr ""
+
+# mes "This garment is traditional Payon clothing! Why don't you try wearing one? It's very comfortable~";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "This garment is traditional Payon clothing! Why don't you try wearing one? It's very comfortable~"
+msgstr ""
+
+# mes "You mean the Central Palace? Strangers aren't allowed to enter that place. People say the royal family and their friends from outside gather there.";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid ""
+"You mean the Central Palace? Strangers aren't allowed to enter that place. People say the royal family and their "
+"friends from outside gather there."
+msgstr ""
+
+# mes "I'd like to go there sometime, and see what it's like on the inside!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "I'd like to go there sometime, and see what it's like on the inside!"
+msgstr ""
+
+# mes "Oh! That guy's notorious!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Oh! That guy's notorious!"
+msgstr ""
+
+# mes "Whatever you do, don't treat";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Whatever you do, don't treat"
+msgstr ""
+
+# mes "him to any drinks!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "him to any drinks!"
+msgstr ""
+
+# mes "You'll regret it!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "You'll regret it!"
+msgstr ""
+
+# mes "Okay!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Okay!"
+msgstr ""
+
+# mes "See ya!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "See ya!"
+msgstr ""
+
+# mes "Catch you later!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Catch you later!"
+msgstr ""
+
+# mes "What a shame...";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "What a shame..."
+msgstr ""
+
+# mes "How have you not";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "How have you not"
+msgstr ""
+
+# mes "heard of the Payon Archers?";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "heard of the Payon Archers?"
+msgstr ""
+
+# mes "Well, when you ";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Well, when you "
+msgstr ""
+
+# mes "learn more about us,";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "learn more about us,"
+msgstr ""
+
+# mes "let's talk again and I can tell you why the Payon Archers are";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "let's talk again and I can tell you why the Payon Archers are"
+msgstr ""
+
+# mes "so great!";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "so great!"
+msgstr ""
+
+# mes "Why are";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Why are"
+msgstr ""
+
+# mes "you so quiet?";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "you so quiet?"
+msgstr ""
+
+# mes "You're not shy, are you?";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "You're not shy, are you?"
+msgstr ""
+
+# mes "Come on, there's no reason";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "Come on, there's no reason"
+msgstr ""
+
+# mes "to be bashful around me~";
+#: npc/cities/payon.txt
+msgctxt "Archer Joe#payon"
+msgid "to be bashful around me~"
+msgstr ""
+
+# mes "[Prontera Guard]";
+#: npc/cities/prontera.txt
+msgctxt "Guard#pront::prtguard"
+msgid "[Prontera Guard]"
+msgstr ""
+
+# mes "Welcome to Prontera.";
+#: npc/cities/prontera.txt
+msgctxt "Guard#pront::prtguard"
+msgid "Welcome to Prontera."
+msgstr ""
+
+# mes "[Shuger]";
+#: npc/cities/prontera.txt
+msgctxt "Shuger#pront"
+msgid "[Shuger]"
+msgstr ""
+
+# mes "Outside the safety of the city, there is a pink beast known as ^000077Poring^000000.";
+#: npc/cities/prontera.txt
+msgctxt "Shuger#pront"
+msgid "Outside the safety of the city, there is a pink beast known as ^000077Poring^000000."
+msgstr ""
+
+# mes "Though it's cute in appearance and does not actively harm people, Poring is known to absorb items that are on the ground into its own body.";
+#: npc/cities/prontera.txt
+msgctxt "Shuger#pront"
+msgid ""
+"Though it's cute in appearance and does not actively harm people, Poring is known to absorb items that are on the "
+"ground into its own body."
+msgstr ""
+
+# mes "So if there's something on the ground that you want to pick up, be careful lest it be consumed by a Poring. Then again... Porings are pretty weak...";
+#: npc/cities/prontera.txt
+msgctxt "Shuger#pront"
+msgid ""
+"So if there's something on the ground that you want to pick up, be careful lest it be consumed by a Poring. Then "
+"again... Porings are pretty weak..."
+msgstr ""
+
+# mes "The green colored ^000077Poporing^000000 is tougher than Poring. Newbies generally make the mistake of attacking it without being aware of its power... So be careful!";
+#: npc/cities/prontera.txt
+msgctxt "Shuger#pront"
+msgid ""
+"The green colored ^000077Poporing^000000 is tougher than Poring. Newbies generally make the mistake of attacking it "
+"without being aware of its power... So be careful!"
+msgstr ""
+
+# mes "[Tono]";
+#: npc/cities/prontera.txt
+msgctxt "Tono#pront"
+msgid "[Tono]"
+msgstr ""
+
+# mes "Did you know?";
+#: npc/cities/prontera.txt
+msgctxt "Tono#pront"
+msgid "Did you know?"
+msgstr ""
+
+# mes "The larva of Creamy is Fabre. So, those green little wormy things are actually the babies of those pinkish, purply butterfly things you see around.";
+#: npc/cities/prontera.txt
+msgctxt "Tono#pront"
+msgid ""
+"The larva of Creamy is Fabre. So, those green little wormy things are actually the babies of those pinkish, purply "
+"butterfly things you see around."
+msgstr ""
+
+# mes "But before Fabres can become Creamys, they go into a pupa stage. When that happens, they turn into these dark purple cocoons we call Pupa. Simple, huh?";
+#: npc/cities/prontera.txt
+msgctxt "Tono#pront"
+msgid ""
+"But before Fabres can become Creamys, they go into a pupa stage. When that happens, they turn into these dark purple "
+"cocoons we call Pupa. Simple, huh?"
+msgstr ""
+
+# mes "There's another monster that goes through a really big change... Pickys.";
+#: npc/cities/prontera.txt
+msgctxt "Tono#pront"
+msgid "There's another monster that goes through a really big change... Pickys."
+msgstr ""
+
+# mes "Pickys are so cute when they're young, but when they grow up, they turn into those big, gawky looking Peco Pecos. Talk about awkward puberty.";
+#: npc/cities/prontera.txt
+msgctxt "Tono#pront"
+msgid ""
+"Pickys are so cute when they're young, but when they grow up, they turn into those big, gawky looking Peco Pecos. "
+"Talk about awkward puberty."
+msgstr ""
+
+# mes "[Merideth]";
+#: npc/cities/prontera.txt
+msgctxt "Merideth#pront"
+msgid "[Merideth]"
+msgstr ""
+
+# mes "The weather was nice on my day off so my family and I went for a picnic. We chose to go to a slightly secluded area where I saw something really interesting...";
+#: npc/cities/prontera.txt
+msgctxt "Merideth#pront"
+msgid ""
+"The weather was nice on my day off so my family and I went for a picnic. We chose to go to a slightly secluded area "
+"where I saw something really interesting..."
+msgstr ""
+
+# mes "It was a large group of Giant Hornets! What was even weirder was that they were all controlled by this one Queen Bee, following her every command.";
+#: npc/cities/prontera.txt
+msgctxt "Merideth#pront"
+msgid ""
+"It was a large group of Giant Hornets! What was even weirder was that they were all controlled by this one Queen "
+"Bee, following her every command."
+msgstr ""
+
+# mes "They might just be bugs, but I think they've got the right idea. Men really ought to take commands from us women... We do things right!";
+#: npc/cities/prontera.txt
+msgctxt "Merideth#pront"
+msgid ""
+"They might just be bugs, but I think they've got the right idea. Men really ought to take commands from us women... "
+"We do things right!"
+msgstr ""
+
+# mes "[YuPi]";
+#: npc/cities/prontera.txt
+msgctxt "YuPi#pront"
+msgid "[YuPi]"
+msgstr ""
+
+# mes "Although many monsters may look the same, be careful! There are variations among monsters that have the same basic form.";
+#: npc/cities/prontera.txt
+msgctxt "YuPi#pront"
+msgid ""
+"Although many monsters may look the same, be careful! There are variations among monsters that have the same basic "
+"form."
+msgstr ""
+
+# mes "One monster, that looks just like a peaceful and weak one that you've already encountered, may actually be wild and ferocious!";
+#: npc/cities/prontera.txt
+msgctxt "YuPi#pront"
+msgid ""
+"One monster, that looks just like a peaceful and weak one that you've already encountered, may actually be wild and "
+"ferocious!"
+msgstr ""
+
+# mes "You can tell these kinds of monsters apart by their body color. Wilder and more powerful monsters have more dangerous looking colors.";
+#: npc/cities/prontera.txt
+msgctxt "YuPi#pront"
+msgid ""
+"You can tell these kinds of monsters apart by their body color. Wilder and more powerful monsters have more "
+"dangerous looking colors."
+msgstr ""
+
+# mes "[YuNa]";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid "[YuNa]"
+msgstr ""
+
+# mes "Behold...";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid "Behold..."
+msgstr ""
+
+# mes "Mighty Odin!";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid "Mighty Odin!"
+msgstr ""
+
+# mes "God of wisdom!";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid "God of wisdom!"
+msgstr ""
+
+# mes "God of war!";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid "God of war!"
+msgstr ""
+
+# mes "Here, in Rune-Midgard, we serve Odin, the fearsome god who sacrificed one of his eyes in order to acquire wisdom.";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid ""
+"Here, in Rune-Midgard, we serve Odin, the fearsome god who sacrificed one of his eyes in order to acquire wisdom."
+msgstr ""
+
+# mes "The statue you see behind of me is a sculpture of mighty Odin. But, it's a shame because it's such a bad likeness.";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid ""
+"The statue you see behind of me is a sculpture of mighty Odin. But, it's a shame because it's such a bad likeness."
+msgstr ""
+
+# mes "I mean, this statue is totally different from our image of Odin. I guess the sculptor took too many artistic liberties.";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid ""
+"I mean, this statue is totally different from our image of Odin. I guess the sculptor took too many artistic "
+"liberties."
+msgstr ""
+
+# mes "I bet the first time you saw this statue, you thought, '^3355FFOh, what a nice muscle man on a horse^000000.'";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid "I bet the first time you saw this statue, you thought, '^3355FFOh, what a nice muscle man on a horse^000000.'"
+msgstr ""
+
+# mes "[YuNA]";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid "[YuNA]"
+msgstr ""
+
+# mes "But this statue is obviously not muscular enough, not godly enough to fairly represent a god! Maybe if he had a halo?";
+#: npc/cities/prontera.txt
+msgctxt "YuNa#pront"
+msgid ""
+"But this statue is obviously not muscular enough, not godly enough to fairly represent a god! Maybe if he had a halo?"
+msgstr ""
+
+# mes "[Strife]";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "[Strife]"
+msgstr ""
+
+# mes "Whew!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Whew!"
+msgstr ""
+
+# mes "Man oh man...";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Man oh man..."
+msgstr ""
+
+# mes "I'm gonna be such";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "I'm gonna be such"
+msgstr ""
+
+# mes "an awesome Knight!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "an awesome Knight!"
+msgstr ""
+
+# mes "I know, I know...";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "I know, I know..."
+msgstr ""
+
+# mes "First, I gotta be a Swordie. But if I keep practicing, I can become an awesome Swordie. And then after that...";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "First, I gotta be a Swordie. But if I keep practicing, I can become an awesome Swordie. And then after that..."
+msgstr ""
+
+# mes "I'll be the most";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "I'll be the most"
+msgstr ""
+
+# mes "awesomest Knight around!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "awesomest Knight around!"
+msgstr ""
+
+# mes "It's... It's my most precious dream.";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "It's... It's my most precious dream."
+msgstr ""
+
+# mes "MAGNUM BREAK!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "MAGNUM BREAK!"
+msgstr ""
+
+# if (select("I wanna be strong too!", "Um... Do you best.") == 1) {
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "I wanna be strong too!"
+msgstr ""
+
+# if (select("I wanna be strong too!", "Um... Do you best.") == 1) {
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Um... Do you best."
+msgstr ""
+
+# mes "Wow...!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Wow...!"
+msgstr ""
+
+# mes "That's so awesome!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "That's so awesome!"
+msgstr ""
+
+# mes "We both share the";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "We both share the"
+msgstr ""
+
+# mes "same dream!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "same dream!"
+msgstr ""
+
+# mes "Hey, if you wanna become a Swordie, you gotta go to Izlude. There, you can go ahead and take the Swordman job test. The first time, I, um, failed miserably. But I won't fail again!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid ""
+"Hey, if you wanna become a Swordie, you gotta go to Izlude. There, you can go ahead and take the Swordman job test. "
+"The first time, I, um, failed miserably. But I won't fail again!"
+msgstr ""
+
+# mes "Training! Training! Gotta keep training! You need to be strong too! Once we both get stronger, we'll meet again!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid ""
+"Training! Training! Gotta keep training! You need to be strong too! Once we both get stronger, we'll meet again!"
+msgstr ""
+
+# mes "Heh heh! I will for sure! 'Strife, the courageous Knight.' It sounds cool, doesn't it?";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Heh heh! I will for sure! 'Strife, the courageous Knight.' It sounds cool, doesn't it?"
+msgstr ""
+
+# mes "Fight...!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Fight...!"
+msgstr ""
+
+# mes "Fight Fight FIGHT!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Fight Fight FIGHT!"
+msgstr ""
+
+# mes "Hey...!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Hey...!"
+msgstr ""
+
+# mes "You look different now. *Gasp* You've gotten... ^993333stronger^000000. Wow, that's so coooool!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "You look different now. *Gasp* You've gotten... ^993333stronger^000000. Wow, that's so coooool!"
+msgstr ""
+
+# mes "I'm so jealous!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "I'm so jealous!"
+msgstr ""
+
+# mes "I guess that means";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "I guess that means"
+msgstr ""
+
+# mes "that now, I gotta";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "that now, I gotta"
+msgstr ""
+
+# mes "train even harder!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "train even harder!"
+msgstr ""
+
+# mes "This is, well, for you to help you get even stronger. I guess I want to thank you for being such a good example.";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid ""
+"This is, well, for you to help you get even stronger. I guess I want to thank you for being such a good example."
+msgstr ""
+
+# mes "Fight! Fight!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Fight! Fight!"
+msgstr ""
+
+# if (select("Do your best.", "Quit it, kid.") == 1) {
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Do your best."
+msgstr ""
+
+# if (select("Do your best.", "Quit it, kid.") == 1) {
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Quit it, kid."
+msgstr ""
+
+# mes "Yes, yes of course! Someday, I'll even be as strong as you! When that day comes, I hope that we can train together!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid ""
+"Yes, yes of course! Someday, I'll even be as strong as you! When that day comes, I hope that we can train together!"
+msgstr ""
+
+# mes "Wha--?";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Wha--?"
+msgstr ""
+
+# mes "Fine! But I'm gonna keep on training, and we'll see who gets the last laugh!";
+#: npc/cities/prontera.txt
+msgctxt "Strife#pront"
+msgid "Fine! But I'm gonna keep on training, and we'll see who gets the last laugh!"
+msgstr ""
+
+# mes "[Towngirl Dairenne]";
+#: npc/cities/prontera.txt
+msgctxt "Dairenne#pront"
+msgid "[Towngirl Dairenne]"
+msgstr ""
+
+# mes "Ahh...";
+#: npc/cities/prontera.txt
+msgctxt "Dairenne#pront"
+msgid "Ahh..."
+msgstr ""
+
+# mes "The streets are too crowded these days. *Cough Cough* Look at all this dust, not everything about living in the capital city is good. Anyway, may I help you?";
+#: npc/cities/prontera.txt
+msgctxt "Dairenne#pront"
+msgid ""
+"The streets are too crowded these days. *Cough Cough* Look at all this dust, not everything about living in the "
+"capital city is good. Anyway, may I help you?"
+msgstr ""
+
+# if (select("Talk", "Cancel") == 1) {
+#: npc/cities/prontera.txt
+msgctxt "Dairenne#pront"
+msgid "Talk"
+msgstr ""
+
+# if (select("Talk", "Cancel") == 1) {
+#: npc/cities/prontera.txt
+msgctxt "Dairenne#pront"
+msgid "Cancel"
+msgstr ""
+
+# mes "I wonder if you are interested in parties or dresses. Hehehe. These days, the hot topic is definitely the colorful, extravagent, magnificent dresses you can wear.";
+#: npc/cities/prontera.txt
+msgctxt "Dairenne#pront"
+msgid ""
+"I wonder if you are interested in parties or dresses. Hehehe. These days, the hot topic is definitely the colorful, "
+"extravagent, magnificent dresses you can wear."
+msgstr ""
+
+# mes "To get such dazzling colors, I heard you have to use a dye that you can only get in Morroc. But I also heard that the price is beyond imagination.";
+#: npc/cities/prontera.txt
+msgctxt "Dairenne#pront"
+msgid ""
+"To get such dazzling colors, I heard you have to use a dye that you can only get in Morroc. But I also heard that "
+"the price is beyond imagination."
+msgstr ""
+
+# mes "Aahhhh~ I wish I could wear such a dress. Even if it's just once...";
+#: npc/cities/prontera.txt
+msgctxt "Dairenne#pront"
+msgid "Aahhhh~ I wish I could wear such a dress. Even if it's just once..."
+msgstr ""
+
+# mes "Eh~? Why talk to me in the first place? What a strange person.";
+#: npc/cities/prontera.txt
+msgctxt "Dairenne#pront"
+msgid "Eh~? Why talk to me in the first place? What a strange person."
+msgstr ""
+
+# mes "[Library Girl Ellen]";
+#: npc/cities/prontera.txt
+msgctxt "Library Girl#pront"
+msgid "[Library Girl Ellen]"
+msgstr ""
+
+# mes "Here in the Eastern branch of the Prontera Library, we provide Monster Encyclopedias in which creatures are organized by their properties. We also have books on Merchant and Blacksmith skills.";
+#: npc/cities/prontera.txt
+msgctxt "Library Girl#pront"
+msgid ""
+"Here in the Eastern branch of the Prontera Library, we provide Monster Encyclopedias in which creatures are "
+"organized by their properties. We also have books on Merchant and Blacksmith skills."
+msgstr ""
+
+# mes "Ooh~! The other branch of our library also has many interesting things to read! So if you get a chance, you just might want to visit.";
+#: npc/cities/prontera.txt
+msgctxt "Library Girl#pront"
+msgid ""
+"Ooh~! The other branch of our library also has many interesting things to read! So if you get a chance, you just "
+"might want to visit."
+msgstr ""
+
+# mes "[Old Man]";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#pront"
+msgid "[Old Man]"
+msgstr ""
+
+# mes "The Prontera Culvert sewers have been left unattended for a long time. Now that place is infested with ^000077Thief Bugs^000000!";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#pront"
+msgid ""
+"The Prontera Culvert sewers have been left unattended for a long time. Now that place is infested with ^000077Thief "
+"Bugs^000000!"
+msgstr ""
+
+# mes "These Thief Bugs seem to quickly grab items dropped on the ground, and then run away with them... They're even more annoying than cockroaches!!";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#pront"
+msgid ""
+"These Thief Bugs seem to quickly grab items dropped on the ground, and then run away with them... They're even more "
+"annoying than cockroaches!!"
+msgstr ""
+
+# mes "[Old Man]";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#2pront"
+msgid "[Old Man]"
+msgstr ""
+
+# mes "I dunno if you'll believe me, but I saw the weirdest thing down in the ^000077Culvert Sewers^000000...";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#2pront"
+msgid "I dunno if you'll believe me, but I saw the weirdest thing down in the ^000077Culvert Sewers^000000..."
+msgstr ""
+
+# mes "I've been training in the 3rd level for so long that there isn't anything that I don't know about in that area. But when I finally went to the 4th level...";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#2pront"
+msgid ""
+"I've been training in the 3rd level for so long that there isn't anything that I don't know about in that area. But "
+"when I finally went to the 4th level..."
+msgstr ""
+
+# mes "There, I saw a shimmering light. I was completely captivated and went to approach it. It must have been some sort of beautiful fairy...";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#2pront"
+msgid ""
+"There, I saw a shimmering light. I was completely captivated and went to approach it. It must have been some sort of "
+"beautiful fairy..."
+msgstr ""
+
+# mes "But when I got";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#2pront"
+msgid "But when I got"
+msgstr ""
+
+# mes "close enough,";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#2pront"
+msgid "close enough,"
+msgstr ""
+
+# mes "I saw it was";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#2pront"
+msgid "I saw it was"
+msgstr ""
+
+# mes "a ^000077Thief Bug^000000!";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#2pront"
+msgid "a ^000077Thief Bug^000000!"
+msgstr ""
+
+# mes "I've never seen a Thief Bug shining with light before! Man, just when you think you've seen it all...";
+#: npc/cities/prontera.txt
+msgctxt "An Old Man#2pront"
+msgid "I've never seen a Thief Bug shining with light before! Man, just when you think you've seen it all..."
+msgstr ""
+
+# mes "[Bartender]";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "[Bartender]"
+msgstr ""
+
+# mes "Sigh...as more and more people coming into Prontera,";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "Sigh...as more and more people coming into Prontera,"
+msgstr ""
+
+# mes "better and better my business has become nowadays. But...";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "better and better my business has become nowadays. But..."
+msgstr ""
+
+# mes "Well, I am having a hard time to keep a good stock of food ingredients.";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "Well, I am having a hard time to keep a good stock of food ingredients."
+msgstr ""
+
+# mes "As you see, the numbers of the monsters outside of town has been greatly increased and they have caused trouble to my suppliers to deliver the goods at a right time.";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid ""
+"As you see, the numbers of the monsters outside of town has been greatly increased and they have caused trouble to "
+"my suppliers to deliver the goods at a right time."
+msgstr ""
+
+# mes "I cannot make my ultra nice menus with common ingredients because they are super special!";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "I cannot make my ultra nice menus with common ingredients because they are super special!"
+msgstr ""
+
+# mes "So I have been contacting super heavy champion hunters for fresh and special ingredients.";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "So I have been contacting super heavy champion hunters for fresh and special ingredients."
+msgstr ""
+
+# mes "But the demand has exceeded the supply in these days.";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "But the demand has exceeded the supply in these days."
+msgstr ""
+
+# mes "I can't keep my business busy without my special menu 'Crunch Crunch Sour' and 'Savory Yum Yum'...*Sigh*";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "I can't keep my business busy without my special menu 'Crunch Crunch Sour' and 'Savory Yum Yum'...*Sigh*"
+msgstr ""
+
+# switch(select("'Cunch Crunch Sour'?", "'Savory Yum Yum'?", "Cancel.")) {
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "'Cunch Crunch Sour'?"
+msgstr ""
+
+# switch(select("'Cunch Crunch Sour'?", "'Savory Yum Yum'?", "Cancel.")) {
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "'Savory Yum Yum'?"
+msgstr ""
+
+# switch(select("'Cunch Crunch Sour'?", "'Savory Yum Yum'?", "Cancel.")) {
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "Cancel."
+msgstr ""
+
+# mes "The basic ingredients of my Crunch Crunch Sour are the ants roadming inside the Ant Hell in the desert.";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "The basic ingredients of my Crunch Crunch Sour are the ants roadming inside the Ant Hell in the desert."
+msgstr ""
+
+# mes "Rumor has it that the numbers of the ants have been greatly increased and they have become more violent, so that no one wants to get in the place.";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid ""
+"Rumor has it that the numbers of the ants have been greatly increased and they have become more violent, so that no "
+"one wants to get in the place."
+msgstr ""
+
+# mes "*Sigh*...I am afraid that my business days are numbered now.";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "*Sigh*...I am afraid that my business days are numbered now."
+msgstr ""
+
+# mes "Savory Yum Yum's basic ingredients are the grasshoppers romping in a place over the west forest. Yeah, it is the best selling menu ever.";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid ""
+"Savory Yum Yum's basic ingredients are the grasshoppers romping in a place over the west forest. Yeah, it is the "
+"best selling menu ever."
+msgstr ""
+
+# mes "Rumor has it that they have become very violent and Bees have built their habitat in the place, so that no one wants to get in there.";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid ""
+"Rumor has it that they have become very violent and Bees have built their habitat in the place, so that no one wants "
+"to get in there."
+msgstr ""
+
+# mes "Take care of yourself~.";
+#: npc/cities/prontera.txt
+msgctxt "Bartender#pront"
+msgid "Take care of yourself~."
+msgstr ""
+
+# mes "[Shevild]";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "[Shevild]"
+msgstr ""
+
+# mes "Hey, come on over and let's drink! I have lots of interesting stories to tell!";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "Hey, come on over and let's drink! I have lots of interesting stories to tell!"
+msgstr ""
+
+# mes "I know lots of things about Prontera. I have seen many fine views and I also have explored some monster lairs around this city.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid ""
+"I know lots of things about Prontera. I have seen many fine views and I also have explored some monster lairs around "
+"this city."
+msgstr ""
+
+# if (select("How could you enter monster lairs?", "Cancel") == 1) {
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "How could you enter monster lairs?"
+msgstr ""
+
+# if (select("How could you enter monster lairs?", "Cancel") == 1) {
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "Cancel"
+msgstr ""
+
+# mes "I may appear to be a drunken man but I am more than meets the eye.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "I may appear to be a drunken man but I am more than meets the eye."
+msgstr ""
+
+# mes "Well, I happened to enter the places for carrying weapons for hunters or for delivering stuffs and whatsoever.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "Well, I happened to enter the places for carrying weapons for hunters or for delivering stuffs and whatsoever."
+msgstr ""
+
+# mes "You might think of me as a mere delivery guy,";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "You might think of me as a mere delivery guy,"
+msgstr ""
+
+# mes "But I am very proud of my job. You know how tough the world has become?";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "But I am very proud of my job. You know how tough the world has become?"
+msgstr ""
+
+# mes "No matter how hard a work is, I am not afraid of doing that.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "No matter how hard a work is, I am not afraid of doing that."
+msgstr ""
+
+# mes "Anyways, that is how I have explored some strange places like monster lairs...";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "Anyways, that is how I have explored some strange places like monster lairs..."
+msgstr ""
+
+# mes "That is also a reason why I keep my job.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "That is also a reason why I keep my job."
+msgstr ""
+
+# mes "Ah, I just recall being inside the maze and the spooky forest!";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "Ah, I just recall being inside the maze and the spooky forest!"
+msgstr ""
+
+# switch(select("The Maze?", "The Spooky Forest?", "Cancel")) {
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "The Maze?"
+msgstr ""
+
+# switch(select("The Maze?", "The Spooky Forest?", "Cancel")) {
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "The Spooky Forest?"
+msgstr ""
+
+# mes "Yes. Few days ago, I have entered a mysterious maze following a group of hunters at the north of Prontera.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "Yes. Few days ago, I have entered a mysterious maze following a group of hunters at the north of Prontera."
+msgstr ""
+
+# mes "They said that they could get lots and lots of rare items from the maze even if the maze was filled with awfully strong mosters.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid ""
+"They said that they could get lots and lots of rare items from the maze even if the maze was filled with awfully "
+"strong mosters."
+msgstr ""
+
+# mes "So we went there but as soon as we entered, we were just stuck inside the maze, you know.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "So we went there but as soon as we entered, we were just stuck inside the maze, you know."
+msgstr ""
+
+# mes "We were just circling around and then we decided to leave the place. That was one hell of the maze.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "We were just circling around and then we decided to leave the place. That was one hell of the maze."
+msgstr ""
+
+# mes "But I made up my mind that I would successfully explore the maze one day.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "But I made up my mind that I would successfully explore the maze one day."
+msgstr ""
+
+# if (select("How can I get there?", "Cancel") == 1) {
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "How can I get there?"
+msgstr ""
+
+# mes "Err? Haven't you still toured the outside of Prontera?";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "Err? Haven't you still toured the outside of Prontera?"
+msgstr ""
+
+# mes "The maze can be found inside a forest at the north of Prontera. Go check the north west side of the forest.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "The maze can be found inside a forest at the north of Prontera. Go check the north west side of the forest."
+msgstr ""
+
+# mes "Yeap, be careful when you adventure alone~";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "Yeap, be careful when you adventure alone~"
+msgstr ""
+
+# mes "When you go outside of Prontrea heading to north east, you will arrive at the peaceful ruins. I have been there a while ago, to deliver something to a priest.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid ""
+"When you go outside of Prontrea heading to north east, you will arrive at the peaceful ruins. I have been there a "
+"while ago, to deliver something to a priest."
+msgstr ""
+
+# mes "I had to pass a forest on the way to the ruins, and the forest was filled with monkeys and raccoons.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "I had to pass a forest on the way to the ruins, and the forest was filled with monkeys and raccoons."
+msgstr ""
+
+# mes "Be forewarned that the forest is not a place to go on a picnic. If you drop something on the ground, the monkeys come out from nowhere and take away all of your possessions.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid ""
+"Be forewarned that the forest is not a place to go on a picnic. If you drop something on the ground, the monkeys "
+"come out from nowhere and take away all of your possessions."
+msgstr ""
+
+# mes "There is no road directly leads to the ruins. But if you go north and keep heading to east, you will get there.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "There is no road directly leads to the ruins. But if you go north and keep heading to east, you will get there."
+msgstr ""
+
+# mes "Oh, be careful on your way to the ruins because there are some weird plant things that assault passersby for no reason.";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid ""
+"Oh, be careful on your way to the ruins because there are some weird plant things that assault passersby for no "
+"reason."
+msgstr ""
+
+# mes "Come back any time~";
+#: npc/cities/prontera.txt
+msgctxt "Shevild#pront"
+msgid "Come back any time~"
+msgstr ""
+
+# mes "[TenSue]";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "[TenSue]"
+msgstr ""
+
+# mes "What...?";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "What...?"
+msgstr ""
+
+# mes "Sick and tired of killing monsters on fields and in dungeons already? Come on...";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "Sick and tired of killing monsters on fields and in dungeons already? Come on..."
+msgstr ""
+
+# mes "Hahaha, it seems you're pretty confident of your strength, huh? Hmm... Why don't you go join a guild? I mean, all the tough guys are going it.";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid ""
+"Hahaha, it seems you're pretty confident of your strength, huh? Hmm... Why don't you go join a guild? I mean, all "
+"the tough guys are going it."
+msgstr ""
+
+# mes "Personally though, I don't know any guilds, so you'll have to ask around. Make some contacts, connections, you know, networking.";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid ""
+"Personally though, I don't know any guilds, so you'll have to ask around. Make some contacts, connections, you know, "
+"networking."
+msgstr ""
+
+# mes "I don't even know if you don't like taking orders, but if that's the case, why don't you make your own guild?";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "I don't even know if you don't like taking orders, but if that's the case, why don't you make your own guild?"
+msgstr ""
+
+# mes "One time I walked all the way to Al de Baran, instead of taking a warp. It was pretty dangerous with all those monsters!";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid ""
+"One time I walked all the way to Al de Baran, instead of taking a warp. It was pretty dangerous with all those "
+"monsters!"
+msgstr ""
+
+# mes "I almost died! Some of those monsters just kept following me and trying to kill me, even though I did nothing to them! It was pretty crazy.";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid ""
+"I almost died! Some of those monsters just kept following me and trying to kill me, even though I did nothing to "
+"them! It was pretty crazy."
+msgstr ""
+
+# mes "Well, still, I feel that taking the scenic route was worth it. There were some pretty magnificent sights on the way.";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid ""
+"Well, still, I feel that taking the scenic route was worth it. There were some pretty magnificent sights on the way."
+msgstr ""
+
+# mes "Even the city of Al de Baran is a splendid vision to the eyes, with its elegant architecture and romantic canal.";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid ""
+"Even the city of Al de Baran is a splendid vision to the eyes, with its elegant architecture and romantic canal."
+msgstr ""
+
+# mes "The headquarters of Kafra Corporation is also located in Al de Baran. You should really stop by and check it out for yourself.";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid ""
+"The headquarters of Kafra Corporation is also located in Al de Baran. You should really stop by and check it out for "
+"yourself."
+msgstr ""
+
+# mes "The kingdom of";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "The kingdom of"
+msgstr ""
+
+# mes "Rune-Midgarts is ruled";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "Rune-Midgarts is ruled"
+msgstr ""
+
+# mes "by kind and benevolent";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "by kind and benevolent"
+msgstr ""
+
+# mes "King Tristram III.";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "King Tristram III."
+msgstr ""
+
+# mes "We really owe the prosperity of Rune-Midgarts to him. He was able to convince the people to welcome outsiders into Prontera, as well as establish trade to foreign lands, like Amatsu and Kunlun.";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid ""
+"We really owe the prosperity of Rune-Midgarts to him. He was able to convince the people to welcome outsiders into "
+"Prontera, as well as establish trade to foreign lands, like Amatsu and Kunlun."
+msgstr ""
+
+# mes "But sometimes...";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "But sometimes..."
+msgstr ""
+
+# mes "It can be hard to believe he's such a brilliant and capable leader.";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "It can be hard to believe he's such a brilliant and capable leader."
+msgstr ""
+
+# mes "After all, the only time I see him is when he's conducting weddings. Even if a wedding isn't going on, he's still kind of loitering around the Prontera church!";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid ""
+"After all, the only time I see him is when he's conducting weddings. Even if a wedding isn't going on, he's still "
+"kind of loitering around the Prontera church!"
+msgstr ""
+
+# mes "But...";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "But..."
+msgstr ""
+
+# mes "I guess you can get away with a lot of things when you happen to be lord and ruler of an entire nation.";
+#: npc/cities/prontera.txt
+msgctxt "TenSue#pront"
+msgid "I guess you can get away with a lot of things when you happen to be lord and ruler of an entire nation."
+msgstr ""
+
+# mes "[Marvin]";
+#: npc/cities/prontera.txt
+msgctxt "Marvin#pront"
+msgid "[Marvin]"
+msgstr ""
+
+# mes "Whether it's schmoozing with a member of the opposite sex, or battling monsters, I gotta say, it's all about ^333399skills^000000.";
+#: npc/cities/prontera.txt
+msgctxt "Marvin#pront"
+msgid ""
+"Whether it's schmoozing with a member of the opposite sex, or battling monsters, I gotta say, it's all about "
+"^333399skills^000000."
+msgstr ""
+
+# mes "I can't help you much when it comes to the subject of talking to attractive women such as myself, but I can tell you a little more about skills that help in battle.";
+#: npc/cities/prontera.txt
+msgctxt "Marvin#pront"
+msgid ""
+"I can't help you much when it comes to the subject of talking to attractive women such as myself, but I can tell you "
+"a little more about skills that help in battle."
+msgstr ""
+
+# mes "I don't really have any advice for skills when it comes to talking to a cute guy, but I can let you in on what I know about skills that help in battle.";
+#: npc/cities/prontera.txt
+msgctxt "Marvin#pront"
+msgid ""
+"I don't really have any advice for skills when it comes to talking to a cute guy, but I can let you in on what I "
+"know about skills that help in battle."
+msgstr ""
+
+# mes "For most skills, the maximum level is level 10. It's easy to stress yourself out, since it takes so many points to completely master a skill. What skills should you choose?!";
+#: npc/cities/prontera.txt
+msgctxt "Marvin#pront"
+msgid ""
+"For most skills, the maximum level is level 10. It's easy to stress yourself out, since it takes so many points to "
+"completely master a skill. What skills should you choose?!"
+msgstr ""
+
+# mes "After all, if you spend too many skill points on one skill, you might not be able to learn another. That's right, there's a limit to the number of total skill points you can earn.";
+#: npc/cities/prontera.txt
+msgctxt "Marvin#pront"
+msgid ""
+"After all, if you spend too many skill points on one skill, you might not be able to learn another. That's right, "
+"there's a limit to the number of total skill points you can earn."
+msgstr ""
+
+# mes "But you know what? Not every skill is mastered at level 10. You can master some skills at only level 5. And even better, some skills are already mastered at level 1 or 2.";
+#: npc/cities/prontera.txt
+msgctxt "Marvin#pront"
+msgid ""
+"But you know what? Not every skill is mastered at level 10. You can master some skills at only level 5. And even "
+"better, some skills are already mastered at level 1 or 2."
+msgstr ""
+
+# mes "So relax and plan ahead, so you can master all the skills that you really want to master the most. Also, don't just put skill points into anything. Remember to use your skill points wisely.";
+#: npc/cities/prontera.txt
+msgctxt "Marvin#pront"
+msgid ""
+"So relax and plan ahead, so you can master all the skills that you really want to master the most. Also, don't just "
+"put skill points into anything. Remember to use your skill points wisely."
+msgstr ""
+
+# mes "[Tailor Ginedin Rephere]";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "[Tailor Ginedin Rephere]"
+msgstr ""
+
+# mes "11...";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "11..."
+msgstr ""
+
+# mes "12...";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "12..."
+msgstr ""
+
+# mes "Mmm, good. I think I'll be able to finish before tonight's party.";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "Mmm, good. I think I'll be able to finish before tonight's party."
+msgstr ""
+
+# mes "Oh! I didn't realize I had a guest. How may I help you?";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "Oh! I didn't realize I had a guest. How may I help you?"
+msgstr ""
+
+# switch(select("Talk", "Dye Clothing", "Cancel")) {
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "Talk"
+msgstr ""
+
+# switch(select("Talk", "Dye Clothing", "Cancel")) {
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "Dye Clothing"
+msgstr ""
+
+# switch(select("Talk", "Dye Clothing", "Cancel")) {
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "Cancel"
+msgstr ""
+
+# mes "Life may have gotten a little better, but receiving all these orders? *Whew!* Young ladies these days must be very well off, so my services may no longer be a luxury.";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid ""
+"Life may have gotten a little better, but receiving all these orders? *Whew!* Young ladies these days must be very "
+"well off, so my services may no longer be a luxury."
+msgstr ""
+
+# mes "Well, people like them probably further the pursuit of beauty and fashion. But, of course, that's only my opinion.";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid ""
+"Well, people like them probably further the pursuit of beauty and fashion. But, of course, that's only my opinion."
+msgstr ""
+
+# mes "I believe for us humans, clothes are one of the few ways to show our personality, style, and beauty.";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "I believe for us humans, clothes are one of the few ways to show our personality, style, and beauty."
+msgstr ""
+
+# mes "Considering this, I personally think my job is very helpful and rather fancy. This in itself makes it all worthwhile. Coarse fabric and rough leather burst with energy and life when colored...";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid ""
+"Considering this, I personally think my job is very helpful and rather fancy. This in itself makes it all "
+"worthwhile. Coarse fabric and rough leather burst with energy and life when colored..."
+msgstr ""
+
+# mes "It is a very hard and tedious process, but the happiness and delight you feel when your clothes are done makes up for all the hard work.";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid ""
+"It is a very hard and tedious process, but the happiness and delight you feel when your clothes are done makes up "
+"for all the hard work."
+msgstr ""
+
+# mes "Ah...!";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "Ah...!"
+msgstr ""
+
+# mes "You came to dye";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "You came to dye"
+msgstr ""
+
+# mes "your clothes as well.";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "your clothes as well."
+msgstr ""
+
+# mes "But... I'm so sorry.";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "But... I'm so sorry."
+msgstr ""
+
+# mes "I don't have enough time to dye your clothes right now. I have so many orders that are still waiting to be done.";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid ""
+"I don't have enough time to dye your clothes right now. I have so many orders that are still waiting to be done."
+msgstr ""
+
+# mes "I'm sorry for the inconvenience, but could you come back again next time?";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "I'm sorry for the inconvenience, but could you come back again next time?"
+msgstr ""
+
+# mes "Feel free to take your time and relax here. I apologize that I have nothing to serve you, though.";
+#: npc/cities/prontera.txt
+msgctxt "Ginedin Rephere#pront"
+msgid "Feel free to take your time and relax here. I apologize that I have nothing to serve you, though."
+msgstr ""
+
+# mes "[Garnet]";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "[Garnet]"
+msgstr ""
+
+# mes "Hello there~";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "Hello there~"
+msgstr ""
+
+# mes "Are you interested in learning more about helping and supporting other people?";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "Are you interested in learning more about helping and supporting other people?"
+msgstr ""
+
+# mes "The Acolytes and Priests trained in this church can heal people, cure them of certain conditions, and even awaken the battle potential of other adventurers.";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid ""
+"The Acolytes and Priests trained in this church can heal people, cure them of certain conditions, and even awaken "
+"the battle potential of other adventurers."
+msgstr ""
+
+# mes "Go and ahead and ask if you have any questions about skills for Acolytes and Priests.";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "Go and ahead and ask if you have any questions about skills for Acolytes and Priests."
+msgstr ""
+
+# switch(select("About Heal", "About Cure", "About Increase AGI", "About Angelus", "About Blessing", "About Warp Portal", "End Conversation")) {
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "About Heal"
+msgstr ""
+
+# switch(select("About Heal", "About Cure", "About Increase AGI", "About Angelus", "About Blessing", "About Warp Portal", "End Conversation")) {
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "About Cure"
+msgstr ""
+
+# switch(select("About Heal", "About Cure", "About Increase AGI", "About Angelus", "About Blessing", "About Warp Portal", "End Conversation")) {
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "About Increase AGI"
+msgstr ""
+
+# switch(select("About Heal", "About Cure", "About Increase AGI", "About Angelus", "About Blessing", "About Warp Portal", "End Conversation")) {
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "About Angelus"
+msgstr ""
+
+# switch(select("About Heal", "About Cure", "About Increase AGI", "About Angelus", "About Blessing", "About Warp Portal", "End Conversation")) {
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "About Blessing"
+msgstr ""
+
+# switch(select("About Heal", "About Cure", "About Increase AGI", "About Angelus", "About Blessing", "About Warp Portal", "End Conversation")) {
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "About Warp Portal"
+msgstr ""
+
+# switch(select("About Heal", "About Cure", "About Increase AGI", "About Angelus", "About Blessing", "About Warp Portal", "End Conversation")) {
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid "End Conversation"
+msgstr ""
+
+# mes "You can recover your own HP with the ^6666CCHeal^000000 skill. Healing is one of the most important ways you can help your friends in battle.";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid ""
+"You can recover your own HP with the ^6666CCHeal^000000 skill. Healing is one of the most important ways you can "
+"help your friends in battle."
+msgstr ""
+
+# mes "Even though our powers are usually used to heal others, you can actually use the ^6666CCHeal^000000 skill to hurt Undead monsters.";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid ""
+"Even though our powers are usually used to heal others, you can actually use the ^6666CCHeal^000000 skill to hurt "
+"Undead monsters."
+msgstr ""
+
+# mes "Just remember to hold down the ^6666CCShift^000000 key when you use Cure or Heal on Undead monsters. Just be sure to hurt the monsters though, and don't use it to help monsters.";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid ""
+"Just remember to hold down the ^6666CCShift^000000 key when you use Cure or Heal on Undead monsters. Just be sure to "
+"hurt the monsters though, and don't use it to help monsters."
+msgstr ""
+
+# mes "Later, if you've learned ^6666CCHeal^000000 as an Acolyte, you can learn ^6666CCSanctuary^000000 if you become a Priest.";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid ""
+"Later, if you've learned ^6666CCHeal^000000 as an Acolyte, you can learn ^6666CCSanctuary^000000 if you become a "
+"Priest."
+msgstr ""
+
+# mes "Priests use ^6666CCSantuary^000000 to create an area which will restore the HP of you and your friends if you rest within the Sanctuary's area.";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid ""
+"Priests use ^6666CCSantuary^000000 to create an area which will restore the HP of you and your friends if you rest "
+"within the Sanctuary's area."
+msgstr ""
+
+# mes "Once you reach ^6666CCLevel 2 Heal^000000 as an Acolyte, you can learn ^6666CCCure^000000, which can be used to treat abnormal statuses.";
+#: npc/cities/prontera.txt
+msgctxt "Garnet#pront"
+msgid ""
+"Once you reach ^6666CCLevel 2 Heal^000000 as an Acolyte, you can learn ^6666CCCure^000000, which can be used to "
+"treat abnormal statuses."
+msgstr ""
