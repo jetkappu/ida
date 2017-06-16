@@ -1,0 +1,5002 @@
+# mes "savoring its rich,";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "savoring its rich,"
+msgstr ""
+
+# mes "robust flavor.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "robust flavor.^000000"
+msgstr ""
+
+# mes "So...";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "So..."
+msgstr ""
+
+# mes "How about this..?";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "How about this..?"
+msgstr ""
+
+# mes "Why don't you try";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Why don't you try"
+msgstr ""
+
+# mes "a '^0000FFKiss of Fire";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "a '^0000FFKiss of Fire"
+msgstr ""
+
+# mes "the Spinbird Kick^000000?'";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "the Spinbird Kick^000000?'"
+msgstr ""
+
+# mes "Don't be fooled by its sweet scent or beautiful red color. This is one of the strongest drinks around.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Don't be fooled by its sweet scent or beautiful red color. This is one of the strongest drinks around."
+msgstr ""
+
+# mes "^3355FFYou receive a crystal cocktail glass with a little bit of sugar sprinkled around the rim. It has";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou receive a crystal cocktail glass with a little bit of sugar sprinkled around the rim. It has"
+msgstr ""
+
+# mes "a sweet fragrance that makes your mouth water. However, you can also feel that it is a dangerously strong cocktail.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"a sweet fragrance that makes your mouth water. However, you can also feel that it is a dangerously strong cocktail."
+msgstr ""
+
+# mes "Lick the sugar before taking a sip. That will make it taste a little sweeter and will soften the taste.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Lick the sugar before taking a sip. That will make it taste a little sweeter and will soften the taste."
+msgstr ""
+
+# mes "^3355FFYou carefully took a sip.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou carefully took a sip.^000000"
+msgstr ""
+
+# mes "I see...";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "I see..."
+msgstr ""
+
+# mes "Let me think";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Let me think"
+msgstr ""
+
+# mes "of something";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "of something"
+msgstr ""
+
+# mes "you might like.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "you might like."
+msgstr ""
+
+# mes "Okay, how about";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Okay, how about"
+msgstr ""
+
+# mes "a '^0000FFWhite Margarita'^000000?'";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "a '^0000FFWhite Margarita'^000000?'"
+msgstr ""
+
+# mes "You will smell a sourish lemon scent which makes your mouth water. As you taste it, you will be filled with a pleasant, comforting warmth that spreads throughout your body.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"You will smell a sourish lemon scent which makes your mouth water. As you taste it, you will be filled with a "
+"pleasant, comforting warmth that spreads throughout your body."
+msgstr ""
+
+# mes "^3355FFYou receive a fancy cocktail glass with salt and lemon juice sprinkled on the rim. Its sour scent does make your mouth water. How could something so appetizing be dangerous?";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFYou receive a fancy cocktail glass with salt and lemon juice sprinkled on the rim. Its sour scent does make "
+"your mouth water. How could something so appetizing be dangerous?"
+msgstr ""
+
+# mes "It has a sweet and sour taste so it's favored by female customers";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "It has a sweet and sour taste so it's favored by female customers"
+msgstr ""
+
+# mes "as well. I guarantee that you will enjoy its flavor.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "as well. I guarantee that you will enjoy its flavor."
+msgstr ""
+
+# mes "^3355FFYou gulp the delicious";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou gulp the delicious"
+msgstr ""
+
+# mes "Margarita down in one sip.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Margarita down in one sip.^000000"
+msgstr ""
+
+# mes "When you want to look super cool, this will be the best drink for you. It's a strong drink with a particular scent, so people who drink Gunslingers are usually seen as having impressive of taste.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"When you want to look super cool, this will be the best drink for you. It's a strong drink with a particular scent, "
+"so people who drink Gunslingers are usually seen as having impressive of taste."
+msgstr ""
+
+# mes "^3355FFYou received a simple glass containing a gray liquid. Although it smells faintly sweet, it looks like industrial strength liquor. It's time to summon your courage and take a sip~";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFYou received a simple glass containing a gray liquid. Although it smells faintly sweet, it looks like "
+"industrial strength liquor. It's time to summon your courage and take a sip~"
+msgstr ""
+
+# mes "That drink is bitter and sweet, just like life. Taste it with your tongue, don't drink it all at once.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "That drink is bitter and sweet, just like life. Taste it with your tongue, don't drink it all at once."
+msgstr ""
+
+# mes "^3355FFYou slowly drank some";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou slowly drank some"
+msgstr ""
+
+# mes "of your Gunslinger drink.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "of your Gunslinger drink.^000000"
+msgstr ""
+
+# mes "Yeeehaw~!";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Yeeehaw~!"
+msgstr ""
+
+# mes "I'm a cowboy hero!";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "I'm a cowboy hero!"
+msgstr ""
+
+# mes "Bang Bang Bang!";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Bang Bang Bang!"
+msgstr ""
+
+# mes "People say that the more you drink a mixed Cobo, the tastier it will be. It grows on you, kind of like the company of an old friend. This is a nice drink to have with anyone at anytime.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"People say that the more you drink a mixed Cobo, the tastier it will be. It grows on you, kind of like the company "
+"of an old friend. This is a nice drink to have with anyone at anytime."
+msgstr ""
+
+# mes "^3355FFThe Bartender brought a beautifully engraved glass holding a cobalt blue liquid and placed it in front of you. It smells pleasantly sweet and sour.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFThe Bartender brought a beautifully engraved glass holding a cobalt blue liquid and placed it in front of "
+"you. It smells pleasantly sweet and sour."
+msgstr ""
+
+# mes "Once you taste this once, you almost can't stop drinking. It tastes so smooth and goes";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Once you taste this once, you almost can't stop drinking. It tastes so smooth and goes"
+msgstr ""
+
+# mes "down even smoother.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "down even smoother."
+msgstr ""
+
+# mes "^3355FFYou finished";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou finished"
+msgstr ""
+
+# mes "your drink in 3 sips.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "your drink in 3 sips."
+msgstr ""
+
+# mes "Your mouth was filled";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Your mouth was filled"
+msgstr ""
+
+# mes "with a luxurious, sweet and";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "with a luxurious, sweet and"
+msgstr ""
+
+# mes "sour flavor.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "sour flavor.^000000"
+msgstr ""
+
+# mes "Aaaaaahhhhhh~!";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Aaaaaahhhhhh~!"
+msgstr ""
+
+# mes "This drink is really good!";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "This drink is really good!"
+msgstr ""
+
+# mes "This is for one who wants to relive wild, youthful days, honor those who have fought for justice and liberty, or just to drink alcohol until they vomit stomach acid.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"This is for one who wants to relive wild, youthful days, honor those who have fought for justice and liberty, or "
+"just to drink alcohol until they vomit stomach acid."
+msgstr ""
+
+# mes "for one who wants to remember people fighting for liberty...";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "for one who wants to remember people fighting for liberty..."
+msgstr ""
+
+# mes "^3355FFYou receive a tumbler filled with brown liquid. It a has a very thick, machine like smell. It kind of reminds you of gunpowder.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFYou receive a tumbler filled with brown liquid. It a has a very thick, machine like smell. It kind of reminds "
+"you of gunpowder.^000000"
+msgstr ""
+
+# mes "It might look too big to drink at once, but I suggest that you finish it in one gulp. If you drink it slowly, you'll pass out.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"It might look too big to drink at once, but I suggest that you finish it in one gulp. If you drink it slowly, you'll "
+"pass out."
+msgstr ""
+
+# mes "^3355FFYou firmly grabbed";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou firmly grabbed"
+msgstr ""
+
+# mes "the tumbler and";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "the tumbler and"
+msgstr ""
+
+# mes "gulped it down.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "gulped it down.^000000"
+msgstr ""
+
+# mes "^3355FFYou feel pretty hammered.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou feel pretty hammered.^000000"
+msgstr ""
+
+# mes "There are not many people who like this drink. But the ones that do like this drink, love it.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "There are not many people who like this drink. But the ones that do like this drink, love it."
+msgstr ""
+
+# mes "Although it has a beautiful, appetizing color, its appearance can be misleading. Most people feel cold and empty after having some";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"Although it has a beautiful, appetizing color, its appearance can be misleading. Most people feel cold and empty "
+"after having some"
+msgstr ""
+
+# mes "of this.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "of this."
+msgstr ""
+
+# mes "^3355FFYou receive a crooked glass";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou receive a crooked glass"
+msgstr ""
+
+# mes "filled with purple fluid. Although it smells pleasnt, you have a strange feeling of disgust as you draw it closer to your face.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid ""
+"filled with purple fluid. Although it smells pleasnt, you have a strange feeling of disgust as you draw it closer to "
+"your face."
+msgstr ""
+
+# mes "If you don't want to drink it, tell me now. But it might be good to try it once, just to experience it.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "If you don't want to drink it, tell me now. But it might be good to try it once, just to experience it."
+msgstr ""
+
+# mes "^3355FFYou took a sip of it and sighed.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou took a sip of it and sighed.^000000"
+msgstr ""
+
+# mes "^3355FFAnd promised yourself that you would never drink it ever again.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "^3355FFAnd promised yourself that you would never drink it ever again.^000000"
+msgstr ""
+
+# mes "Master...";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Master..."
+msgstr ""
+
+# mes "One more please...";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "One more please..."
+msgstr ""
+
+# mes "Mr. Bartender...";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Mr. Bartender..."
+msgstr ""
+
+# mes "There you go.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "There you go."
+msgstr ""
+
+# mes "[Buchi]";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "[Buchi]"
+msgstr ""
+
+# mes "Grrrr...";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "Grrrr..."
+msgstr ""
+
+# mes "Damn! I don't";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "Damn! I don't"
+msgstr ""
+
+# mes "like this place!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "like this place!"
+msgstr ""
+
+# mes "I don't like this at all!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "I don't like this at all!"
+msgstr ""
+
+# mes "I can't believe my eyes! Everyone else looks disgustingly happy! It makes me feel so miserable!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "I can't believe my eyes! Everyone else looks disgustingly happy! It makes me feel so miserable!"
+msgstr ""
+
+# mes "You agree, don't you?!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "You agree, don't you?!"
+msgstr ""
+
+# mes "Bartender!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "Bartender!"
+msgstr ""
+
+# mes "Give me one more!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "Give me one more!"
+msgstr ""
+
+# mes "Hey, why aren't you drinking?";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "Hey, why aren't you drinking?"
+msgstr ""
+
+# mes "I guess you're all out of dough.";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "I guess you're all out of dough."
+msgstr ""
+
+# mes "But I know how you feel. Disgusted with all the lovey dovey around this place, aren't you?";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "But I know how you feel. Disgusted with all the lovey dovey around this place, aren't you?"
+msgstr ""
+
+# mes "Heh.";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "Heh."
+msgstr ""
+
+# mes "Lemme buy";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "Lemme buy"
+msgstr ""
+
+# mes "you a drink!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "you a drink!"
+msgstr ""
+
+# mes "Drink this at once, and forget about your miserable life! Cheer up, you got the whole future ahead of you and a drink in front of you! Come on, now~!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid ""
+"Drink this at once, and forget about your miserable life! Cheer up, you got the whole future ahead of you and a "
+"drink in front of you! Come on, now~!"
+msgstr ""
+
+# mes "^3355FFHe ordered a JJ special for me.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "^3355FFHe ordered a JJ special for me.^000000"
+msgstr ""
+
+# mes "["+ strcharinfo(PC_NAME) +"]";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "["
+msgstr ""
+
+# mes "Damn...!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "Damn...!"
+msgstr ""
+
+# mes "Damn! I will be";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "Damn! I will be"
+msgstr ""
+
+# mes "the one who laughs last!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "the one who laughs last!"
+msgstr ""
+
+# mes "^3355FFYou drank to your fill.^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "^3355FFYou drank to your fill.^000000"
+msgstr ""
+
+# mes "You look happy...";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "You look happy..."
+msgstr ""
+
+# mes "I hope you'll be";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "I hope you'll be"
+msgstr ""
+
+# mes "able to feel that";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "able to feel that"
+msgstr ""
+
+# mes "way forever...";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "way forever..."
+msgstr ""
+
+# mes " ";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid " "
+msgstr ""
+
+# mes "^666666*Hiccup...!*^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#jaw_1"
+msgid "^666666*Hiccup...!*^000000"
+msgstr ""
+
+# mes "[Cage]";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "[Cage]"
+msgstr ""
+
+# mes "....Bah!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "....Bah!"
+msgstr ""
+
+# mes "What are you so happy about?";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "What are you so happy about?"
+msgstr ""
+
+# mes "After all, everyone knows marriage is a sham for desperate, lonely people!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "After all, everyone knows marriage is a sham for desperate, lonely people!"
+msgstr ""
+
+# mes "I don't trust anybody!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "I don't trust anybody!"
+msgstr ""
+
+# mes "You're a fool for chaining";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "You're a fool for chaining"
+msgstr ""
+
+# mes "yourself to some gorgeous";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "yourself to some gorgeous"
+msgstr ""
+
+# mes "woman for life!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "woman for life!"
+msgstr ""
+
+# mes "You hear me?!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "You hear me?!"
+msgstr ""
+
+# mes "A FOOL!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "A FOOL!"
+msgstr ""
+
+# mes "Look at you!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "Look at you!"
+msgstr ""
+
+# mes "You're a fool for";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "You're a fool for"
+msgstr ""
+
+# mes "chaining yourself to";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "chaining yourself to"
+msgstr ""
+
+# mes "some pretty boy for life!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "some pretty boy for life!"
+msgstr ""
+
+# mes "You hear me?! A FOOL!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "You hear me?! A FOOL!"
+msgstr ""
+
+# mes "The single life is";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "The single life is"
+msgstr ""
+
+# mes "what it's all about!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "what it's all about!"
+msgstr ""
+
+# mes "Women may break my";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "Women may break my"
+msgstr ""
+
+# mes "spirit, but they'll never take...";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "spirit, but they'll never take..."
+msgstr ""
+
+# mes "MY FREEDOM!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "MY FREEDOM!"
+msgstr ""
+
+# mes "Drink, drink...!!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "Drink, drink...!!"
+msgstr ""
+
+# mes "Eat, eat...!!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "Eat, eat...!!"
+msgstr ""
+
+# mes "Join me,";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "Join me,"
+msgstr ""
+
+# mes "my brother";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "my brother"
+msgstr ""
+
+# mes "in singlehood!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "in singlehood!"
+msgstr ""
+
+# mes "We are free...!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "We are free...!"
+msgstr ""
+
+# mes "We are free from";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "We are free from"
+msgstr ""
+
+# mes "the hell of marriage...!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "the hell of marriage...!"
+msgstr ""
+
+# mes "We are the sincere and";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "We are the sincere and"
+msgstr ""
+
+# mes "competent singles...!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Cage"
+msgid "competent singles...!"
+msgstr ""
+
+# mes "[SoloHan]";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "[SoloHan]"
+msgstr ""
+
+# mes "Oh man...";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Oh man..."
+msgstr ""
+
+# mes "I think I'm drunk~";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "I think I'm drunk~"
+msgstr ""
+
+# mes "^666666*Hiccup...!*^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "^666666*Hiccup...!*^000000"
+msgstr ""
+
+# mes "Hey, you...!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Hey, you...!"
+msgstr ""
+
+# mes "You understand, don't you?!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "You understand, don't you?!"
+msgstr ""
+
+# mes "Aren't you upset looking at all these happily married couples?!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Aren't you upset looking at all these happily married couples?!"
+msgstr ""
+
+# mes "Yeah~? Me too!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Yeah~? Me too!"
+msgstr ""
+
+# mes "How dare they show off their happiness in front of people like us--!! ^666666*Sniff*^000000 Just because they found everlasting love, they think they're better than we are?!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid ""
+"How dare they show off their happiness in front of people like us--!! ^666666*Sniff*^000000 Just because they found "
+"everlasting love, they think they're better than we are?!"
+msgstr ""
+
+# mes "I remember when couples were polite and were lovey dovey behind closed doors. Nowadays they hold hands, and even cuddle in public. I mean, come on! Get a room!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid ""
+"I remember when couples were polite and were lovey dovey behind closed doors. Nowadays they hold hands, and even "
+"cuddle in public. I mean, come on! Get a room!"
+msgstr ""
+
+# mes "I mean, ^666666*Sniff*^000000, it's not like,";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "I mean, ^666666*Sniff*^000000, it's not like,"
+msgstr ""
+
+# mes "I'm lonely or anything. I don't neeeeeeeed a woman~!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "I'm lonely or anything. I don't neeeeeeeed a woman~!"
+msgstr ""
+
+# mes "Right, Bachewcca!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Right, Bachewcca!"
+msgstr ""
+
+# mes "[Bachewcca]";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "[Bachewcca]"
+msgstr ""
+
+# mes "...!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "...!"
+msgstr ""
+
+# mes "It's doesn't really matter whether you're married";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "It's doesn't really matter whether you're married"
+msgstr ""
+
+# mes "or not, right buddy? Right?!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "or not, right buddy? Right?!"
+msgstr ""
+
+# mes "Come on! Drink with me!!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Come on! Drink with me!!"
+msgstr ""
+
+# mes "^3355FFSuddenly he treated me as a close friend. It's a little embarassing, but it's not a bad idea to accept";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "^3355FFSuddenly he treated me as a close friend. It's a little embarassing, but it's not a bad idea to accept"
+msgstr ""
+
+# mes "a free drink...^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "a free drink...^000000"
+msgstr ""
+
+# mes "^3355FF* Gulp Gulp Gulp *^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "^3355FF* Gulp Gulp Gulp *^000000"
+msgstr ""
+
+# mes "So, what do you say?";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "So, what do you say?"
+msgstr ""
+
+# mes "Let's go somewhere";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Let's go somewhere"
+msgstr ""
+
+# mes "with some real liquor.";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "with some real liquor."
+msgstr ""
+
+# if (select("...One more drink.", "...What kind of place is it?") == 1) {
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "...One more drink."
+msgstr ""
+
+# if (select("...One more drink.", "...What kind of place is it?") == 1) {
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "...What kind of place is it?"
+msgstr ""
+
+# mes "Yeah~!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Yeah~!"
+msgstr ""
+
+# mes "That's the spirit!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "That's the spirit!"
+msgstr ""
+
+# mes "Hey, Bachewcca...";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Hey, Bachewcca..."
+msgstr ""
+
+# mes "Let's drink!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Let's drink!"
+msgstr ""
+
+# mes "^666666*Grunt!*^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "^666666*Grunt!*^000000"
+msgstr ""
+
+# mes "To...";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "To..."
+msgstr ""
+
+# mes "To being single!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "To being single!"
+msgstr ""
+
+# mes "F-Forever!!!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "F-Forever!!!"
+msgstr ""
+
+# mes "Whoa...";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Whoa..."
+msgstr ""
+
+# mes "You alright?";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "You alright?"
+msgstr ""
+
+# mes "You seem kind of drunk...";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "You seem kind of drunk..."
+msgstr ""
+
+# mes "I guess now's the perfect time to have you sign this! Don't worry, I'll send you straight to paradise!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "I guess now's the perfect time to have you sign this! Don't worry, I'll send you straight to paradise!"
+msgstr ""
+
+# if (select("Sign", "Refuse to Sign") == 1) {
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Sign"
+msgstr ""
+
+# if (select("Sign", "Refuse to Sign") == 1) {
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Refuse to Sign"
+msgstr ""
+
+# mes "Alright!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Alright!"
+msgstr ""
+
+# mes "Take care!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Take care!"
+msgstr ""
+
+# mes "Hahaha!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Hahaha!"
+msgstr ""
+
+# mes "Oh...";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Oh..."
+msgstr ""
+
+# mes "Man.";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Man."
+msgstr ""
+
+# mes "So, you spoil parties";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "So, you spoil parties"
+msgstr ""
+
+# mes "like this all the time, eh?";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "like this all the time, eh?"
+msgstr ""
+
+# mes "^666666*Hiccup!*^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "^666666*Hiccup!*^000000"
+msgstr ""
+
+# mes "So you feel like having some";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "So you feel like having some"
+msgstr ""
+
+# mes "real fun? Okay, then just sign over here. Count on me, I'll send you to paradise.";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "real fun? Okay, then just sign over here. Count on me, I'll send you to paradise."
+msgstr ""
+
+# mes "Alright~!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Alright~!"
+msgstr ""
+
+# mes "Take care and have fun!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Take care and have fun!"
+msgstr ""
+
+# mes "Harass some couples over there for me, will you?";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Harass some couples over there for me, will you?"
+msgstr ""
+
+# mes "No wonder you're single. You can't even recognize a good time when it's right in front of you.";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "No wonder you're single. You can't even recognize a good time when it's right in front of you."
+msgstr ""
+
+# mes "Drink, drink!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Drink, drink!"
+msgstr ""
+
+# mes "That's not enough!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "That's not enough!"
+msgstr ""
+
+# mes "Drink more, buddy!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Drink more, buddy!"
+msgstr ""
+
+# mes "FOR EVER.";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "FOR EVER."
+msgstr ""
+
+# mes "^3355FF*Gulp Gulp Gulp*^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "^3355FF*Gulp Gulp Gulp*^000000"
+msgstr ""
+
+# mes "*Hiccup!*";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "*Hiccup!*"
+msgstr ""
+
+# mes "...Wha!?";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "...Wha!?"
+msgstr ""
+
+# mes "Oh man!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Oh man!"
+msgstr ""
+
+# mes "Get outta my face!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Get outta my face!"
+msgstr ""
+
+# mes "You smell like,";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "You smell like,"
+msgstr ""
+
+# mes "whupped boyfriend";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "whupped boyfriend"
+msgstr ""
+
+# mes "or something!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "or something!"
+msgstr ""
+
+# mes "I think I know a naggy wife";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "I think I know a naggy wife"
+msgstr ""
+
+# mes "when I see one! Go boss your";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "when I see one! Go boss your"
+msgstr ""
+
+# mes "hubby around or something!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "hubby around or something!"
+msgstr ""
+
+# mes "Leave me alone!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Leave me alone!"
+msgstr ""
+
+# mes "I don't want any of your marital bliss to rub off on me. Come on, Bachewcca! Tell 'em their kind ain't welcome here!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid ""
+"I don't want any of your marital bliss to rub off on me. Come on, Bachewcca! Tell 'em their kind ain't welcome here!"
+msgstr ""
+
+# mes "^666666*Grrr...!*^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "^666666*Grrr...!*^000000"
+msgstr ""
+
+# mes "What is that...?";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "What is that...?"
+msgstr ""
+
+# mes "Is this the third time this week I've gotten plastered? Bachewcca, help me count!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Is this the third time this week I've gotten plastered? Bachewcca, help me count!"
+msgstr ""
+
+# mes "[Bachewcca]";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Bachewcca"
+msgid "[Bachewcca]"
+msgstr ""
+
+# mes "..............";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Bachewcca"
+msgid ".............."
+msgstr ""
+
+# mes "^666666*Gulp....gulp...*^000000";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Bachewcca"
+msgid "^666666*Gulp....gulp...*^000000"
+msgstr ""
+
+# mes "Grrrrr!! That hit the spot!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#Bachewcca"
+msgid "Grrrrr!! That hit the spot!"
+msgstr ""
+
+# mes "[Helper]";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "[Helper]"
+msgstr ""
+
+# mes "Newlyweds and";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Newlyweds and"
+msgstr ""
+
+# mes "long time couples...";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "long time couples..."
+msgstr ""
+
+# mes "We invite you to Jawaii,";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "We invite you to Jawaii,"
+msgstr ""
+
+# mes "the honeymoon resort!";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "the honeymoon resort!"
+msgstr ""
+
+# switch(select("Jawaii?", "Let's go to Jawaii~!", "Cancel.")) {
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Jawaii?"
+msgstr ""
+
+# switch(select("Jawaii?", "Let's go to Jawaii~!", "Cancel.")) {
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Let's go to Jawaii~!"
+msgstr ""
+
+# switch(select("Jawaii?", "Let's go to Jawaii~!", "Cancel.")) {
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Cancel."
+msgstr ""
+
+# mes "There is an island far, far away from the Rune-Midgard continent.";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "There is an island far, far away from the Rune-Midgard continent."
+msgstr ""
+
+# mes "It is a very quiet and beautiful island resort that only opens";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "It is a very quiet and beautiful island resort that only opens"
+msgstr ""
+
+# mes "its doors to couples.";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "its doors to couples."
+msgstr ""
+
+# mes "This is an exclusive travel offer to the special honeymoon resort for Rune-Midgard's citizens. The price, 100,000 zeny, may be expensive, but you really get what you pay for.";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid ""
+"This is an exclusive travel offer to the special honeymoon resort for Rune-Midgard's citizens. The price, 100,000 "
+"zeny, may be expensive, but you really get what you pay for."
+msgstr ""
+
+# mes "I guarantee you that some of";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "I guarantee you that some of"
+msgstr ""
+
+# mes "the happiest moments you can";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "the happiest moments you can"
+msgstr ""
+
+# mes "experience in your marriage will be on this island. Can you really put a price on that?";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "experience in your marriage will be on this island. Can you really put a price on that?"
+msgstr ""
+
+# mes "Errm...";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Errm..."
+msgstr ""
+
+# mes "Unfortunately, singles are not allowed on the island. Why don't you go forget your loneliness in the Prontera pub?";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid ""
+"Unfortunately, singles are not allowed on the island. Why don't you go forget your loneliness in the Prontera pub?"
+msgstr ""
+
+# mes "Bon Voyage...!!";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Bon Voyage...!!"
+msgstr ""
+
+# mes "Let me guide";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Let me guide"
+msgstr ""
+
+# mes "you to 'Jawaii!'";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "you to 'Jawaii!'"
+msgstr ""
+
+# mes "As I explained, you must have 100,000 zeny in order to visit Jawaii. Why don't you ask your partner for help in gathering the zeny for this trip?";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid ""
+"As I explained, you must have 100,000 zeny in order to visit Jawaii. Why don't you ask your partner for help in "
+"gathering the zeny for this trip?"
+msgstr ""
+
+# mes "There's there no better way to share special, secluded moments with your beloved than through";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "There's there no better way to share special, secluded moments with your beloved than through"
+msgstr ""
+
+# mes "a secret trip to a remote, exotic area.";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "a secret trip to a remote, exotic area."
+msgstr ""
+
+# mes "A vacation in Jawaii could very well be the greatest gift that you could give to the one you love~";
+#: npc/cities/jawaii.txt
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "A vacation in Jawaii could very well be the greatest gift that you could give to the one you love~"
+msgstr ""
+
+# mes "[Jiwon]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "[Jiwon]"
+msgstr ""
+
+# mes "I think we're really";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "I think we're really"
+msgstr ""
+
+# mes "fortunate to be able to";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "fortunate to be able to"
+msgstr ""
+
+# mes "live in such a beautiful";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "live in such a beautiful"
+msgstr ""
+
+# mes "and peaceful city like this.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "and peaceful city like this."
+msgstr ""
+
+# mes "It's just so nice to";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "It's just so nice to"
+msgstr ""
+
+# mes "have this pleasant weather,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "have this pleasant weather,"
+msgstr ""
+
+# mes "these lush gardens and to";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "these lush gardens and to"
+msgstr ""
+
+# mes "meet all of these kind people.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "meet all of these kind people."
+msgstr ""
+
+# mes "Lighthalzen is like Asgard";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "Lighthalzen is like Asgard"
+msgstr ""
+
+# mes "in Midgard, heaven on earth~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jiwon#zen5"
+msgid "in Midgard, heaven on earth~"
+msgstr ""
+
+# mes "[Samnang]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "[Samnang]"
+msgstr ""
+
+# mes "^333333*Sigh...*^000000";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "^333333*Sigh...*^000000"
+msgstr ""
+
+# mes "It gets harder for me";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "It gets harder for me"
+msgstr ""
+
+# mes "to move around as I get";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "to move around as I get"
+msgstr ""
+
+# mes "older. That's understandable";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "older. That's understandable"
+msgstr ""
+
+# mes "for an elderly person, right?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "for an elderly person, right?"
+msgstr ""
+
+# mes "Just the other day, these";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "Just the other day, these"
+msgstr ""
+
+# mes "hoodlums in black suits";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "hoodlums in black suits"
+msgstr ""
+
+# mes "were yelling at me to get out";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "were yelling at me to get out"
+msgstr ""
+
+# mes "of their way. But of course,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "of their way. But of course,"
+msgstr ""
+
+# mes "I didn't move quickly enough.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "I didn't move quickly enough."
+msgstr ""
+
+# mes "So what did they do to me?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "So what did they do to me?"
+msgstr ""
+
+# mes "They punched me.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "They punched me."
+msgstr ""
+
+# mes "Right in the womb!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "Right in the womb!"
+msgstr ""
+
+# mes "I know that I'm not";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "I know that I'm not"
+msgstr ""
+
+# mes "pregnant, but that's";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "pregnant, but that's"
+msgstr ""
+
+# mes "besides the point. Never hit";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "besides the point. Never hit"
+msgstr ""
+
+# mes "a lady, especially an old one!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Samnang#zen2"
+msgid "a lady, especially an old one!"
+msgstr ""
+
+# mes "[Ruth]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "[Ruth]"
+msgstr ""
+
+# mes "Sweety, isn't it";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "Sweety, isn't it"
+msgstr ""
+
+# mes "nice to be together";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "nice to be together"
+msgstr ""
+
+# mes "under this beautiful";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "under this beautiful"
+msgstr ""
+
+# mes "sunlight? It's perfect";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "sunlight? It's perfect"
+msgstr ""
+
+# mes "for our date. Ahhhh~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "for our date. Ahhhh~"
+msgstr ""
+
+# mes "I'm so happy to be";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "I'm so happy to be"
+msgstr ""
+
+# mes "with you. I feel like";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "with you. I feel like"
+msgstr ""
+
+# mes "I'm just melting with";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "I'm just melting with"
+msgstr ""
+
+# mes "happiness. Oh, I love";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "happiness. Oh, I love"
+msgstr ""
+
+# mes "you so much, Oyoung.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "you so much, Oyoung."
+msgstr ""
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "["
+msgstr ""
+
+# mes "Whoa...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "Whoa..."
+msgstr ""
+
+# mes "This couple is";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "This couple is"
+msgstr ""
+
+# mes "really headed for";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "really headed for"
+msgstr ""
+
+# mes "Cloud 9, aren't they?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ruth#zen4"
+msgid "Cloud 9, aren't they?"
+msgstr ""
+
+# mes "[Oyoung]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "[Oyoung]"
+msgstr ""
+
+# mes "Girl, you look like";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "Girl, you look like"
+msgstr ""
+
+# mes "you're comin' down with";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "you're comin' down with"
+msgstr ""
+
+# mes "the love bug. But there's";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "the love bug. But there's"
+msgstr ""
+
+# mes "only one prescription for";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "only one prescription for"
+msgstr ""
+
+# mes "this ailment, ooooh yeah...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "this ailment, ooooh yeah..."
+msgstr ""
+
+# mes "You need yo'self";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "You need yo'self"
+msgstr ""
+
+# mes "your daily dose of";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "your daily dose of"
+msgstr ""
+
+# mes "vitamin O-YOUNG.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "vitamin O-YOUNG."
+msgstr ""
+
+# mes "And your lips look like";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "And your lips look like"
+msgstr ""
+
+# mes "they got vitamin deficiency.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "they got vitamin deficiency."
+msgstr ""
+
+# mes "I better take care of that~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "I better take care of that~"
+msgstr ""
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "["
+msgstr ""
+
+# mes "Sweet Sister!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "Sweet Sister!"
+msgstr ""
+
+# mes "I don't know what's";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "I don't know what's"
+msgstr ""
+
+# mes "more mind boggling--";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "more mind boggling--"
+msgstr ""
+
+# mes "The fact that he used";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "The fact that he used"
+msgstr ""
+
+# mes "that line or the fact that";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "that line or the fact that"
+msgstr ""
+
+# mes "it's actually working...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Oyoung#zen14"
+msgid "it's actually working..."
+msgstr ""
+
+# mes "[Kariya]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "[Kariya]"
+msgstr ""
+
+# mes "I think ''Lighthalzen'' is";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "I think ''Lighthalzen'' is"
+msgstr ""
+
+# mes "supposed to mean ''crest of";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "supposed to mean ''crest of"
+msgstr ""
+
+# mes "light,'' though I hear that this";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "light,'' though I hear that this"
+msgstr ""
+
+# mes "city was actually named after";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "city was actually named after"
+msgstr ""
+
+# mes "somebody. Who knows for sure?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "somebody. Who knows for sure?"
+msgstr ""
+
+# mes "Still, it's a fitting";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "Still, it's a fitting"
+msgstr ""
+
+# mes "name for the wealthiest";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "name for the wealthiest"
+msgstr ""
+
+# mes "and most luxurious city in";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "and most luxurious city in"
+msgstr ""
+
+# mes "all the Schwaltzvalt Republic.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "all the Schwaltzvalt Republic."
+msgstr ""
+
+# mes "So how do you like this place?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kariya#li_01"
+msgid "So how do you like this place?"
+msgstr ""
+
+# mes "[Sung]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "[Sung]"
+msgstr ""
+
+# mes "When I grow up, I want";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "When I grow up, I want"
+msgstr ""
+
+# mes "to become such a great";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "to become such a great"
+msgstr ""
+
+# mes "person that they'll make";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "person that they'll make"
+msgstr ""
+
+# mes "a statue of me, just like";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "a statue of me, just like"
+msgstr ""
+
+# mes "those statues over there.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "those statues over there."
+msgstr ""
+
+# mes "Then people would be like,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "Then people would be like,"
+msgstr ""
+
+# mes "''Hey yo. That statue. That";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "''Hey yo. That statue. That"
+msgstr ""
+
+# mes "guy must have been great!''";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "guy must have been great!''"
+msgstr ""
+
+# mes "Just thinking about that";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "Just thinking about that"
+msgstr ""
+
+# mes "makes me feel so good!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "makes me feel so good!"
+msgstr ""
+
+# mes "That's it. I'm gonna";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "That's it. I'm gonna"
+msgstr ""
+
+# mes "grow up as soon as I can.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "grow up as soon as I can."
+msgstr ""
+
+# mes "Ooh, and I better grow tall";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "Ooh, and I better grow tall"
+msgstr ""
+
+# mes "and handsome so my statue";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "and handsome so my statue"
+msgstr ""
+
+# mes "will be even more awesome.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "will be even more awesome."
+msgstr ""
+
+# mes "Yeah. Yeah, good idea, Sung...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sung#A"
+msgid "Yeah. Yeah, good idea, Sung..."
+msgstr ""
+
+# mes "[Sameer]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "[Sameer]"
+msgstr ""
+
+# mes "There are too many";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "There are too many"
+msgstr ""
+
+# mes "loving couples in this city.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "loving couples in this city."
+msgstr ""
+
+# mes "Cuddling and kissing and";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "Cuddling and kissing and"
+msgstr ""
+
+# mes "hugging and necking. It's...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "hugging and necking. It's..."
+msgstr ""
+
+# mes "It's utterly distasteful.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "It's utterly distasteful."
+msgstr ""
+
+# mes "I can't believe the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "I can't believe the"
+msgstr ""
+
+# mes "indecency I see everyday";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "indecency I see everyday"
+msgstr ""
+
+# mes "near my own home. Don't";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "near my own home. Don't"
+msgstr ""
+
+# mes "they know better than to be";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "they know better than to be"
+msgstr ""
+
+# mes "so affectionate in places";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "so affectionate in places"
+msgstr ""
+
+# mes "where the public can see them?!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "where the public can see them?!"
+msgstr ""
+
+# mes "Fortunately for the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "Fortunately for the"
+msgstr ""
+
+# mes "world, I'm a bulwark";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "world, I'm a bulwark"
+msgstr ""
+
+# mes "of morality. In fact, I have";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "of morality. In fact, I have"
+msgstr ""
+
+# mes "no need for a woman. All";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "no need for a woman. All"
+msgstr ""
+
+# mes "I need are my ship models,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "I need are my ship models,"
+msgstr ""
+
+# mes "teen novels and dominos.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "teen novels and dominos."
+msgstr ""
+
+# mes "I'm a completely well";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "I'm a completely well"
+msgstr ""
+
+# mes "adjusted individual, which";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "adjusted individual, which"
+msgstr ""
+
+# mes "is why the authorities should";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "is why the authorities should"
+msgstr ""
+
+# mes "listen to me when I tell them";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "listen to me when I tell them"
+msgstr ""
+
+# mes "to arrest couples for indecency!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "to arrest couples for indecency!"
+msgstr ""
+
+# mes "Hand holding. Have they no shame?!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sameer#zen15"
+msgid "Hand holding. Have they no shame?!"
+msgstr ""
+
+# mes "[Janice]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Janice#zen03"
+msgid "[Janice]"
+msgstr ""
+
+# mes "Oh no, I think I got";
+#: npc/cities/lighthalzen.txt
+msgctxt "Janice#zen03"
+msgid "Oh no, I think I got"
+msgstr ""
+
+# mes "lost again. The roads";
+#: npc/cities/lighthalzen.txt
+msgctxt "Janice#zen03"
+msgid "lost again. The roads"
+msgstr ""
+
+# mes "here are so confusing!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Janice#zen03"
+msgid "here are so confusing!"
+msgstr ""
+
+# mes "I've lived here for such";
+#: npc/cities/lighthalzen.txt
+msgctxt "Janice#zen03"
+msgid "I've lived here for such"
+msgstr ""
+
+# mes "a long time and I still";
+#: npc/cities/lighthalzen.txt
+msgctxt "Janice#zen03"
+msgid "a long time and I still"
+msgstr ""
+
+# mes "can't find my way around...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Janice#zen03"
+msgid "can't find my way around..."
+msgstr ""
+
+# mes "[Elmer Keays]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "[Elmer Keays]"
+msgstr ""
+
+# mes "Walking side by side";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "Walking side by side"
+msgstr ""
+
+# mes "with you like this reminds";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "with you like this reminds"
+msgstr ""
+
+# mes "me of the old days. Back";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "me of the old days. Back"
+msgstr ""
+
+# mes "then, everyone was jealous";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "then, everyone was jealous"
+msgstr ""
+
+# mes "that I had such a beautiful";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "that I had such a beautiful"
+msgstr ""
+
+# mes "woman by my side. Heh heh~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "woman by my side. Heh heh~"
+msgstr ""
+
+# mes "You're still the most";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "You're still the most"
+msgstr ""
+
+# mes "precious sight to these";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "precious sight to these"
+msgstr ""
+
+# mes "old eyes, my dear. I'm";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "old eyes, my dear. I'm"
+msgstr ""
+
+# mes "really lucky to be with you.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Elmer Keays#li_03"
+msgid "really lucky to be with you."
+msgstr ""
+
+# mes "[Margie Keays]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Margie Keays#li_02"
+msgid "[Margie Keays]"
+msgstr ""
+
+# mes "Oh darling, the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Margie Keays#li_02"
+msgid "Oh darling, the"
+msgstr ""
+
+# mes "weather is so nice";
+#: npc/cities/lighthalzen.txt
+msgctxt "Margie Keays#li_02"
+msgid "weather is so nice"
+msgstr ""
+
+# mes "and pleasant today.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Margie Keays#li_02"
+msgid "and pleasant today."
+msgstr ""
+
+# mes "I'm really glad we";
+#: npc/cities/lighthalzen.txt
+msgctxt "Margie Keays#li_02"
+msgid "I'm really glad we"
+msgstr ""
+
+# mes "decided to go take";
+#: npc/cities/lighthalzen.txt
+msgctxt "Margie Keays#li_02"
+msgid "decided to go take"
+msgstr ""
+
+# mes "a walk together~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Margie Keays#li_02"
+msgid "a walk together~"
+msgstr ""
+
+# mes "[Maivi]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "[Maivi]"
+msgstr ""
+
+# mes "...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "..."
+msgstr ""
+
+# mes "......";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "......"
+msgstr ""
+
+# mes "Ah...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "Ah..."
+msgstr ""
+
+# mes "I just had the nicest";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "I just had the nicest"
+msgstr ""
+
+# mes "nap. This nice weather";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "nap. This nice weather"
+msgstr ""
+
+# mes "never fails to relax me.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "never fails to relax me."
+msgstr ""
+
+# mes "The air here is so clean,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "The air here is so clean,"
+msgstr ""
+
+# mes "not like that Einbroch~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "not like that Einbroch~"
+msgstr ""
+
+# mes "This clean, pristine";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "This clean, pristine"
+msgstr ""
+
+# mes "environment is all thanks";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "environment is all thanks"
+msgstr ""
+
+# mes "to the Rekenber Corporation.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "to the Rekenber Corporation."
+msgstr ""
+
+# mes "It's incredible what they can";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "It's incredible what they can"
+msgstr ""
+
+# mes "do with technology now, isn't";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "do with technology now, isn't"
+msgstr ""
+
+# mes "it? Ahhh, it's so peaceful~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maivi#zen1"
+msgid "it? Ahhh, it's so peaceful~"
+msgstr ""
+
+# mes "[Klaubis]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "[Klaubis]"
+msgstr ""
+
+# mes "Excuse me, but are you";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "Excuse me, but are you"
+msgstr ""
+
+# mes "a tourist? Well, welcome";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "a tourist? Well, welcome"
+msgstr ""
+
+# mes "to Lighthalzen! This city";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "to Lighthalzen! This city"
+msgstr ""
+
+# mes "has everything we need,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "has everything we need,"
+msgstr ""
+
+# mes "but it can be a little too";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "but it can be a little too"
+msgstr ""
+
+# mes "quiet and uneventful here.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "quiet and uneventful here."
+msgstr ""
+
+# switch(select("Have you lived in here long?", "I agree.", "Have you heard about the serial killer?")) {
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "Have you lived in here long?"
+msgstr ""
+
+# switch(select("Have you lived in here long?", "I agree.", "Have you heard about the serial killer?")) {
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "I agree."
+msgstr ""
+
+# switch(select("Have you lived in here long?", "I agree.", "Have you heard about the serial killer?")) {
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "Have you heard about the serial killer?"
+msgstr ""
+
+# mes "Yes, our family has";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "Yes, our family has"
+msgstr ""
+
+# mes "lived in this city for a";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "lived in this city for a"
+msgstr ""
+
+# mes "long time, starting with";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "long time, starting with"
+msgstr ""
+
+# mes "my great grandfather. Let's";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "my great grandfather. Let's"
+msgstr ""
+
+# mes "see, my family's been here";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "see, my family's been here"
+msgstr ""
+
+# mes "for about two hundred years.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "for about two hundred years."
+msgstr ""
+
+# mes "You'd be surprised how";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "You'd be surprised how"
+msgstr ""
+
+# mes "many people stay in their";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "many people stay in their"
+msgstr ""
+
+# mes "hometowns. Even if you do";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "hometowns. Even if you do"
+msgstr ""
+
+# mes "leave, though, you can always";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "leave, though, you can always"
+msgstr ""
+
+# mes "come back. It wouldn't be your hometown if you couldn't, right?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "come back. It wouldn't be your hometown if you couldn't, right?"
+msgstr ""
+
+# mes "Yes, the atmosphere";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "Yes, the atmosphere"
+msgstr ""
+
+# mes "can get pretty listless";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "can get pretty listless"
+msgstr ""
+
+# mes "around here. But still,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "around here. But still,"
+msgstr ""
+
+# mes "there are plenty of nice";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "there are plenty of nice"
+msgstr ""
+
+# mes "sights to enjoy here in";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "sights to enjoy here in"
+msgstr ""
+
+# mes "Lighthalzen, so look around~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "Lighthalzen, so look around~"
+msgstr ""
+
+# mes "You mean the Serial";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "You mean the Serial"
+msgstr ""
+
+# mes "Axe Murderer? I thought";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "Axe Murderer? I thought"
+msgstr ""
+
+# mes "that was an old ghost story.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "that was an old ghost story."
+msgstr ""
+
+# mes "Hm. I think that lady inside";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "Hm. I think that lady inside"
+msgstr ""
+
+# mes "the Weapon Shop would";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "the Weapon Shop would"
+msgstr ""
+
+# mes "know more about that tale...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Klaubis#zen3"
+msgid "know more about that tale..."
+msgstr ""
+
+# mes "[Sigmund Ting]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "[Sigmund Ting]"
+msgstr ""
+
+# mes "You know what I noticed?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "You know what I noticed?"
+msgstr ""
+
+# mes "The guards at the border";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "The guards at the border"
+msgstr ""
+
+# mes "to the slum seem distracted";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "to the slum seem distracted"
+msgstr ""
+
+# mes "sometimes. I made use of one";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "sometimes. I made use of one"
+msgstr ""
+
+# mes "of their less attentive moments";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "of their less attentive moments"
+msgstr ""
+
+# mes "and basically jumped the fence!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "and basically jumped the fence!"
+msgstr ""
+
+# mes "But once I was in the ";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "But once I was in the "
+msgstr ""
+
+# mes "slums, I was pretty bored.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "slums, I was pretty bored."
+msgstr ""
+
+# mes "There really isn't much to";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "There really isn't much to"
+msgstr ""
+
+# mes "do there. Which makes me";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "do there. Which makes me"
+msgstr ""
+
+# mes "wonder... Why guard it?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sigmund#zen3"
+msgid "wonder... Why guard it?"
+msgstr ""
+
+# mes "[Joyce]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Joyce#zen"
+msgid "[Joyce]"
+msgstr ""
+
+# mes "I can sense your";
+#: npc/cities/lighthalzen.txt
+msgctxt "Joyce#zen"
+msgid "I can sense your"
+msgstr ""
+
+# mes "longing look within";
+#: npc/cities/lighthalzen.txt
+msgctxt "Joyce#zen"
+msgid "longing look within"
+msgstr ""
+
+# mes "the depths of my heart,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Joyce#zen"
+msgid "the depths of my heart,"
+msgstr ""
+
+# mes "beating faster and faster";
+#: npc/cities/lighthalzen.txt
+msgctxt "Joyce#zen"
+msgid "beating faster and faster"
+msgstr ""
+
+# mes "with a feverish passion~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Joyce#zen"
+msgid "with a feverish passion~"
+msgstr ""
+
+# mes "[Dan Song]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Dan Song#zen2"
+msgid "[Dan Song]"
+msgstr ""
+
+# mes "Those eyes of yours...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Dan Song#zen2"
+msgid "Those eyes of yours..."
+msgstr ""
+
+# mes "So pure and so deep,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Dan Song#zen2"
+msgid "So pure and so deep,"
+msgstr ""
+
+# mes "like glimmering pools";
+#: npc/cities/lighthalzen.txt
+msgctxt "Dan Song#zen2"
+msgid "like glimmering pools"
+msgstr ""
+
+# mes "of light. So, so beautiful...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Dan Song#zen2"
+msgid "of light. So, so beautiful..."
+msgstr ""
+
+# mes "[Collins]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "[Collins]"
+msgstr ""
+
+# mes "I really wish that my";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "I really wish that my"
+msgstr ""
+
+# mes "son will be able to join";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "son will be able to join"
+msgstr ""
+
+# mes "the Rekenber Corporation.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "the Rekenber Corporation."
+msgstr ""
+
+# mes "They certainly provide the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "They certainly provide the"
+msgstr ""
+
+# mes "best jobs in Lighthalzen.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "best jobs in Lighthalzen."
+msgstr ""
+
+# mes "Although they're a large,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "Although they're a large,"
+msgstr ""
+
+# mes "major corporation, it's";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "major corporation, it's"
+msgstr ""
+
+# mes "almost impossible to get";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "almost impossible to get"
+msgstr ""
+
+# mes "employed by them. How";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "employed by them. How"
+msgstr ""
+
+# mes "do people get hired there";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "do people get hired there"
+msgstr ""
+
+# mes "in the first place anyway?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Collins#zen1"
+msgid "in the first place anyway?"
+msgstr ""
+
+# mes "[Villagomez]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Villagomez#li_01"
+msgid "[Villagomez]"
+msgstr ""
+
+# mes "I just step out to get";
+#: npc/cities/lighthalzen.txt
+msgctxt "Villagomez#li_01"
+msgid "I just step out to get"
+msgstr ""
+
+# mes "a haircut and now I'm";
+#: npc/cities/lighthalzen.txt
+msgctxt "Villagomez#li_01"
+msgid "a haircut and now I'm"
+msgstr ""
+
+# mes "lost. Boy oh boy, I hope";
+#: npc/cities/lighthalzen.txt
+msgctxt "Villagomez#li_01"
+msgid "lost. Boy oh boy, I hope"
+msgstr ""
+
+# mes "I don't keep my family";
+#: npc/cities/lighthalzen.txt
+msgctxt "Villagomez#li_01"
+msgid "I don't keep my family"
+msgstr ""
+
+# mes "waiting. ^333333*Sigh...*^000000";
+#: npc/cities/lighthalzen.txt
+msgctxt "Villagomez#li_01"
+msgid "waiting. ^333333*Sigh...*^000000"
+msgstr ""
+
+# mes "[Kemp]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kemp#zen13"
+msgid "[Kemp]"
+msgstr ""
+
+# mes "Have you ever seen the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kemp#zen13"
+msgid "Have you ever seen the"
+msgstr ""
+
+# mes "people who work in that big";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kemp#zen13"
+msgid "people who work in that big"
+msgstr ""
+
+# mes "corporation over there? I think";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kemp#zen13"
+msgid "corporation over there? I think"
+msgstr ""
+
+# mes "their employees are all a bit";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kemp#zen13"
+msgid "their employees are all a bit"
+msgstr ""
+
+# mes "off kilter for some reason.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kemp#zen13"
+msgid "off kilter for some reason."
+msgstr ""
+
+# mes "I haven't been there";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kemp#zen13"
+msgid "I haven't been there"
+msgstr ""
+
+# mes "myself, but something";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kemp#zen13"
+msgid "myself, but something"
+msgstr ""
+
+# mes "strange is happening with";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kemp#zen13"
+msgid "strange is happening with"
+msgstr ""
+
+# mes "all the people who work there.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Kemp#zen13"
+msgid "all the people who work there."
+msgstr ""
+
+# mes "[Mauro]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "[Mauro]"
+msgstr ""
+
+# mes "The youth in this city";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "The youth in this city"
+msgstr ""
+
+# mes "have no appreciation for";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "have no appreciation for"
+msgstr ""
+
+# mes "their elders. I've worked";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "their elders. I've worked"
+msgstr ""
+
+# mes "so hard to help build this";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "so hard to help build this"
+msgstr ""
+
+# mes "city for so many years and";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "city for so many years and"
+msgstr ""
+
+# mes "this is the thanks I get?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "this is the thanks I get?"
+msgstr ""
+
+# mes "Bah! If it weren't for";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "Bah! If it weren't for"
+msgstr ""
+
+# mes "us, Lighthalzen wouldn't";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "us, Lighthalzen wouldn't"
+msgstr ""
+
+# mes "be as properous as it is";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "be as properous as it is"
+msgstr ""
+
+# mes "today! Those kids don't";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "today! Those kids don't"
+msgstr ""
+
+# mes "know that they owe their";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "know that they owe their"
+msgstr ""
+
+# mes "lives of luxury to us...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Mauro#zen3"
+msgid "lives of luxury to us..."
+msgstr ""
+
+# mes "[Sefith]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "[Sefith]"
+msgstr ""
+
+# mes "Good looks. Intelligence.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "Good looks. Intelligence."
+msgstr ""
+
+# mes "Excellent manners. A strong,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "Excellent manners. A strong,"
+msgstr ""
+
+# mes "manly chin and overpowering,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "manly chin and overpowering,"
+msgstr ""
+
+# mes "piercing eyes. Perfectly balanced passion and charimsma. All the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "piercing eyes. Perfectly balanced passion and charimsma. All the"
+msgstr ""
+
+# mes "good things that ladies want.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "good things that ladies want."
+msgstr ""
+
+# mes "But enough about me. Let's";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "But enough about me. Let's"
+msgstr ""
+
+# mes "discuss how sorry I should";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "discuss how sorry I should"
+msgstr ""
+
+# mes "feel for any other man living";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "feel for any other man living"
+msgstr ""
+
+# mes "in Lighthalzen. They don't hold";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "in Lighthalzen. They don't hold"
+msgstr ""
+
+# mes "a candle to my studliness~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Sefith#li_01"
+msgid "a candle to my studliness~"
+msgstr ""
+
+# mes "[Jade]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "[Jade]"
+msgstr ""
+
+# mes "I've heard that there's a";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "I've heard that there's a"
+msgstr ""
+
+# mes "strange kingdom out there";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "strange kingdom out there"
+msgstr ""
+
+# mes "that's basically ruled by";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "that's basically ruled by"
+msgstr ""
+
+# mes "magic and swords, where";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "magic and swords, where"
+msgstr ""
+
+# mes "adventurers are enlisted";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "adventurers are enlisted"
+msgstr ""
+
+# mes "for the greater good.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "for the greater good."
+msgstr ""
+
+# mes "So are you from";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "So are you from"
+msgstr ""
+
+# mes "Rune-Midgard?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "Rune-Midgard?"
+msgstr ""
+
+# mes "What do you think";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "What do you think"
+msgstr ""
+
+# mes "of our city with its";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "of our city with its"
+msgstr ""
+
+# mes "advanced technology";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "advanced technology"
+msgstr ""
+
+# mes "and economy? Huh...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "and economy? Huh..."
+msgstr ""
+
+# mes "Someday, I'd like";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "Someday, I'd like"
+msgstr ""
+
+# mes "to go visit the land";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "to go visit the land"
+msgstr ""
+
+# mes "where you came from.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "where you came from."
+msgstr ""
+
+# mes "It sounds so fantastic";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "It sounds so fantastic"
+msgstr ""
+
+# mes "and romantic in a way...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Jade#zen2"
+msgid "and romantic in a way..."
+msgstr ""
+
+# mes "[Khramptd]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Greedy Looking Man#li_01"
+msgid "[Khramptd]"
+msgstr ""
+
+# mes "The land around here";
+#: npc/cities/lighthalzen.txt
+msgctxt "Greedy Looking Man#li_01"
+msgid "The land around here"
+msgstr ""
+
+# mes "is some pretty expensive";
+#: npc/cities/lighthalzen.txt
+msgctxt "Greedy Looking Man#li_01"
+msgid "is some pretty expensive"
+msgstr ""
+
+# mes "property. Yes, it's perfect";
+#: npc/cities/lighthalzen.txt
+msgctxt "Greedy Looking Man#li_01"
+msgid "property. Yes, it's perfect"
+msgstr ""
+
+# mes "for building my awesome palace!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Greedy Looking Man#li_01"
+msgid "for building my awesome palace!"
+msgstr ""
+
+# mes "I don't have enough funds at the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Greedy Looking Man#li_01"
+msgid "I don't have enough funds at the"
+msgstr ""
+
+# mes "moment, but the day will come~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Greedy Looking Man#li_01"
+msgid "moment, but the day will come~"
+msgstr ""
+
+# mes "[Maggie]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "[Maggie]"
+msgstr ""
+
+# mes "Sure, I sell a lot";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "Sure, I sell a lot"
+msgstr ""
+
+# mes "of flowers here, but";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "of flowers here, but"
+msgstr ""
+
+# mes "the lease that this city";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "the lease that this city"
+msgstr ""
+
+# mes "makes me pay cuts into";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "makes me pay cuts into"
+msgstr ""
+
+# mes "my profits. It's almost not";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "my profits. It's almost not"
+msgstr ""
+
+# mes "worth renting this property.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "worth renting this property."
+msgstr ""
+
+# mes "I pay such a ridiculous";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "I pay such a ridiculous"
+msgstr ""
+
+# mes "amount for the lease and the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "amount for the lease and the"
+msgstr ""
+
+# mes "laws here won't let me raise";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "laws here won't let me raise"
+msgstr ""
+
+# mes "the price of my flowers. Why";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "the price of my flowers. Why"
+msgstr ""
+
+# mes "are the city officals so greedy?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Maggie#05"
+msgid "are the city officals so greedy?"
+msgstr ""
+
+# mes "[Wallace]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "[Wallace]"
+msgstr ""
+
+# mes "......";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "......"
+msgstr ""
+
+# mes "That lady, working";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "That lady, working"
+msgstr ""
+
+# mes "for that one company,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "for that one company,"
+msgstr ""
+
+# mes "Kafra, Mafra or whatever.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "Kafra, Mafra or whatever."
+msgstr ""
+
+# mes "She certainly is very charming.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "She certainly is very charming."
+msgstr ""
+
+# mes "Now, if I were";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "Now, if I were"
+msgstr ""
+
+# mes "thirty years younger...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "thirty years younger..."
+msgstr ""
+
+# mes "Wait! I'm a rich and powerful";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "Wait! I'm a rich and powerful"
+msgstr ""
+
+# mes "man. I could ask her out now.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "man. I could ask her out now."
+msgstr ""
+
+# mes "Hm? What's that look for?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Wallace#zen2"
+msgid "Hm? What's that look for?"
+msgstr ""
+
+# mes "[Lucius]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "[Lucius]"
+msgstr ""
+
+# mes "Hello youngster~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "Hello youngster~"
+msgstr ""
+
+# mes "Would you like to";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "Would you like to"
+msgstr ""
+
+# mes "make a donation";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "make a donation"
+msgstr ""
+
+# mes "to help the hungry?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "to help the hungry?"
+msgstr ""
+
+# if (select("Sure.", "No, thanks.") == 1) {
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "Sure."
+msgstr ""
+
+# if (select("Sure.", "No, thanks.") == 1) {
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "No, thanks."
+msgstr ""
+
+# mes "Now, you can donate 1 to";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "Now, you can donate 1 to"
+msgstr ""
+
+# mes "30,000 zeny that will be used";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "30,000 zeny that will be used"
+msgstr ""
+
+# mes "to support the poor and feed";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "to support the poor and feed"
+msgstr ""
+
+# mes "starving children. If you wish";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "starving children. If you wish"
+msgstr ""
+
+# mes "to cancel, please enter ''0.''";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "to cancel, please enter ''0.''"
+msgstr ""
+
+# mes "Please enter a value";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "Please enter a value"
+msgstr ""
+
+# mes "from 1 to 30,000 in";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "from 1 to 30,000 in"
+msgstr ""
+
+# mes "order to make a donation";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "order to make a donation"
+msgstr ""
+
+# mes "to the needy, youngster.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "to the needy, youngster."
+msgstr ""
+
+# mes "How disappointing,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "How disappointing,"
+msgstr ""
+
+# mes "but I'm sure you have";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "but I'm sure you have"
+msgstr ""
+
+# mes "your reasons. Well, when";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "your reasons. Well, when"
+msgstr ""
+
+# mes "you can afford to give to";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "you can afford to give to"
+msgstr ""
+
+# mes "the needy, you're welcome";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "the needy, you're welcome"
+msgstr ""
+
+# mes "to come back at any time.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "to come back at any time."
+msgstr ""
+
+# mes "Thank you so much";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "Thank you so much"
+msgstr ""
+
+# mes "for your " + .@input + " zeny donation.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "for your "
+msgstr ""
+
+# mes "for your " + .@input + " zeny donation.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid " zeny donation."
+msgstr ""
+
+# mes "I promise that your money";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "I promise that your money"
+msgstr ""
+
+# mes "will be put to good use in";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "will be put to good use in"
+msgstr ""
+
+# mes "benefiting the poor and needy.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "benefiting the poor and needy."
+msgstr ""
+
+# mes "Still, I'm just a little";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "Still, I'm just a little"
+msgstr ""
+
+# mes "disappointed. An adventurer";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "disappointed. An adventurer"
+msgstr ""
+
+# mes "like you should be donating";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "like you should be donating"
+msgstr ""
+
+# mes "as much as you possibly can...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "as much as you possibly can..."
+msgstr ""
+
+# mes "So far, I've received";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "So far, I've received"
+msgstr ""
+
+# mes "a total of " + $donatedzeny + " zeny in";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "a total of "
+msgstr ""
+
+# mes "a total of " + $donatedzeny + " zeny in";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid " zeny in"
+msgstr ""
+
+# mes "donations. I'm glad to see";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "donations. I'm glad to see"
+msgstr ""
+
+# mes "that there are still kind and";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "that there are still kind and"
+msgstr ""
+
+# mes "generous people in the world.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "generous people in the world."
+msgstr ""
+
+# mes "This should be enough";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "This should be enough"
+msgstr ""
+
+# mes "to send to the Poor Relief";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "to send to the Poor Relief"
+msgstr ""
+
+# mes "Organization. Please accept";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "Organization. Please accept"
+msgstr ""
+
+# mes "this small gift as a token of";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "this small gift as a token of"
+msgstr ""
+
+# mes "my gratitude, adventurer. Bless";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "my gratitude, adventurer. Bless"
+msgstr ""
+
+# mes "you, youngster and take care.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "you, youngster and take care."
+msgstr ""
+
+# mes "I understand. Still,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "I understand. Still,"
+msgstr ""
+
+# mes "keep in mind that when";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "keep in mind that when"
+msgstr ""
+
+# mes "you give from your heart,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "you give from your heart,"
+msgstr ""
+
+# mes "you will be rewarded tenfold.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "you will be rewarded tenfold."
+msgstr ""
+
+# mes "Though I admit, the benefits";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "Though I admit, the benefits"
+msgstr ""
+
+# mes "aren't always readily apparent.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "aren't always readily apparent."
+msgstr ""
+
+# mes "You seem to be fairly";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "You seem to be fairly"
+msgstr ""
+
+# mes "well-off. Money is good";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "well-off. Money is good"
+msgstr ""
+
+# mes "to have, but be careful not";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "to have, but be careful not"
+msgstr ""
+
+# mes "to become obssessed with it.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "to become obssessed with it."
+msgstr ""
+
+# mes "When you have the chance,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "When you have the chance,"
+msgstr ""
+
+# mes "please show your generosity";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "please show your generosity"
+msgstr ""
+
+# mes "towards others who may be";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "towards others who may be"
+msgstr ""
+
+# mes "much less fortunate than you.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Lucius#zen5"
+msgid "much less fortunate than you."
+msgstr ""
+
+# mes "[Laqumet]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "[Laqumet]"
+msgstr ""
+
+# mes "Sure, manliness is quite";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "Sure, manliness is quite"
+msgstr ""
+
+# mes "attractive, but I think women";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "attractive, but I think women"
+msgstr ""
+
+# mes "appreciate a guy who could";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "appreciate a guy who could"
+msgstr ""
+
+# mes "sympathize and talk with them";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "sympathize and talk with them"
+msgstr ""
+
+# mes "a little more. Don't you agree?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "a little more. Don't you agree?"
+msgstr ""
+
+# mes "I might not be like Sefith,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "I might not be like Sefith,"
+msgstr ""
+
+# mes "but I guess I've got a cute";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "but I guess I've got a cute"
+msgstr ""
+
+# mes "smile, a good personality and";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "smile, a good personality and"
+msgstr ""
+
+# mes "I'm a dandy to boot. Hopefully,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "I'm a dandy to boot. Hopefully,"
+msgstr ""
+
+# mes "my honesty and loyalty will";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "my honesty and loyalty will"
+msgstr ""
+
+# mes "help me find someone good.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Laqumet#li_02"
+msgid "help me find someone good."
+msgstr ""
+
+# mes "[Hotel Employee]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "[Hotel Employee]"
+msgstr ""
+
+# mes "If you are experiencing";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "If you are experiencing"
+msgstr ""
+
+# mes "any sort of inconvenience,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "any sort of inconvenience,"
+msgstr ""
+
+# mes "please do not hesitate and";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "please do not hesitate and"
+msgstr ""
+
+# mes "let us know right away.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "let us know right away."
+msgstr ""
+
+# mes "Please use the stairs";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "Please use the stairs"
+msgstr ""
+
+# mes "at the northern end to";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "at the northern end to"
+msgstr ""
+
+# mes "go downstairs so that you";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "go downstairs so that you"
+msgstr ""
+
+# mes "can go to the Front Desk.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "can go to the Front Desk."
+msgstr ""
+
+# mes "Thank you and I hope that";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "Thank you and I hope that"
+msgstr ""
+
+# mes "you enjoy your stay here.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen3"
+msgid "you enjoy your stay here."
+msgstr ""
+
+# mes "[Christopher Michael]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Christopher Michael#zen"
+msgid "[Christopher Michael]"
+msgstr ""
+
+# mes "OoooOoh~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Christopher Michael#zen"
+msgid "OoooOoh~"
+msgstr ""
+
+# mes "Soooo comfortable.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Christopher Michael#zen"
+msgid "Soooo comfortable."
+msgstr ""
+
+# mes "Don't want to wake up.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Christopher Michael#zen"
+msgid "Don't want to wake up."
+msgstr ""
+
+# mes "Don't want to get up.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Christopher Michael#zen"
+msgid "Don't want to get up."
+msgstr ""
+
+# mes "Ever again. OoOoooh...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Christopher Michael#zen"
+msgid "Ever again. OoOoooh..."
+msgstr ""
+
+# mes "[Safwat Fahmy]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "[Safwat Fahmy]"
+msgstr ""
+
+# mes "This hotel is nice";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "This hotel is nice"
+msgstr ""
+
+# mes "and comfortable, but";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "and comfortable, but"
+msgstr ""
+
+# mes "to be quite frank, the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "to be quite frank, the"
+msgstr ""
+
+# mes "drinks here are horrible.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "drinks here are horrible."
+msgstr ""
+
+# mes "They're unfit for drinking";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "They're unfit for drinking"
+msgstr ""
+
+# mes "men such as myself.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "men such as myself."
+msgstr ""
+
+# mes "If this is the best hotel,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "If this is the best hotel,"
+msgstr ""
+
+# mes "I expect them to provide me";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "I expect them to provide me"
+msgstr ""
+
+# mes "with the best alcohol. When";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "with the best alcohol. When"
+msgstr ""
+
+# mes "I stay at a hotel, that's what";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "I stay at a hotel, that's what"
+msgstr ""
+
+# mes "I want. To spend the entire";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "I want. To spend the entire"
+msgstr ""
+
+# mes "day not being sober.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "day not being sober."
+msgstr ""
+
+# mes "It looks like that";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "It looks like that"
+msgstr ""
+
+# mes "today I'll be heading";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "today I'll be heading"
+msgstr ""
+
+# mes "out to the bar again...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "out to the bar again..."
+msgstr ""
+
+# mes "I just wish there were";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "I just wish there were"
+msgstr ""
+
+# mes "someplace quieter to drink.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Safwat Fahmy"
+msgid "someplace quieter to drink."
+msgstr ""
+
+# mes "[Hotel Employee]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen2"
+msgid "[Hotel Employee]"
+msgstr ""
+
+# mes "This is the Couple Suite.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen2"
+msgid "This is the Couple Suite."
+msgstr ""
+
+# mes "A single can also check";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen2"
+msgid "A single can also check"
+msgstr ""
+
+# mes "in here, but our hotel will";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen2"
+msgid "in here, but our hotel will"
+msgstr ""
+
+# mes "prioritize couples when";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen2"
+msgid "prioritize couples when"
+msgstr ""
+
+# mes "assigning this room.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen2"
+msgid "assigning this room."
+msgstr ""
+
+# mes "[Tanoue]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Tanoue#zen04"
+msgid "[Tanoue]"
+msgstr ""
+
+# mes "This chair looks";
+#: npc/cities/lighthalzen.txt
+msgctxt "Tanoue#zen04"
+msgid "This chair looks"
+msgstr ""
+
+# mes "very nice, but it really";
+#: npc/cities/lighthalzen.txt
+msgctxt "Tanoue#zen04"
+msgid "very nice, but it really"
+msgstr ""
+
+# mes "chills my bottom. Brr...!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Tanoue#zen04"
+msgid "chills my bottom. Brr...!"
+msgstr ""
+
+# mes "It's a might uncomfortable!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Tanoue#zen04"
+msgid "It's a might uncomfortable!"
+msgstr ""
+
+# mes "You know what the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Tanoue#zen04"
+msgid "You know what the"
+msgstr ""
+
+# mes "perfect chair would";
+#: npc/cities/lighthalzen.txt
+msgctxt "Tanoue#zen04"
+msgid "perfect chair would"
+msgstr ""
+
+# mes "be like? It would be";
+#: npc/cities/lighthalzen.txt
+msgctxt "Tanoue#zen04"
+msgid "be like? It would be"
+msgstr ""
+
+# mes "plush and have electronic";
+#: npc/cities/lighthalzen.txt
+msgctxt "Tanoue#zen04"
+msgid "plush and have electronic"
+msgstr ""
+
+# mes "massage and heating controls...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Tanoue#zen04"
+msgid "massage and heating controls..."
+msgstr ""
+
+# mes "[Ben Allen]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "[Ben Allen]"
+msgstr ""
+
+# mes "Aaahhh Oooooh~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "Aaahhh Oooooh~"
+msgstr ""
+
+# mes "It's sooooo comfy~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "It's sooooo comfy~"
+msgstr ""
+
+# mes "The air's so fresh and";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "The air's so fresh and"
+msgstr ""
+
+# mes "this couch is so plush...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "this couch is so plush..."
+msgstr ""
+
+# mes "Why can't home be like this?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "Why can't home be like this?"
+msgstr ""
+
+# mes "I've been in those other";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "I've been in those other"
+msgstr ""
+
+# mes "hotels and let me tell you,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "hotels and let me tell you,"
+msgstr ""
+
+# mes "this place is the best ever.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "this place is the best ever."
+msgstr ""
+
+# mes "After a night's sleep over";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "After a night's sleep over"
+msgstr ""
+
+# mes "here, I feel like a new man!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Ben Allen#zen11"
+msgid "here, I feel like a new man!"
+msgstr ""
+
+# mes "[Harp]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "[Harp]"
+msgstr ""
+
+# mes "Oh sweet jiminy...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "Oh sweet jiminy..."
+msgstr ""
+
+# mes "That Kafra Lady is so hot.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "That Kafra Lady is so hot."
+msgstr ""
+
+# mes "What a body. And those glasses.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "What a body. And those glasses."
+msgstr ""
+
+# mes "I just gotta ask her out somehow.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "I just gotta ask her out somehow."
+msgstr ""
+
+# mes "Hm, but what should";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "Hm, but what should"
+msgstr ""
+
+# mes "I do? A love letter? Naw,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "I do? A love letter? Naw,"
+msgstr ""
+
+# mes "that's kind of outdated.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "that's kind of outdated."
+msgstr ""
+
+# mes "Argh, I can't think! Just";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "Argh, I can't think! Just"
+msgstr ""
+
+# mes "looking at her makes me feel";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "looking at her makes me feel"
+msgstr ""
+
+# mes "so happy! Praise be to Kafra!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Harp#zen8"
+msgid "so happy! Praise be to Kafra!"
+msgstr ""
+
+# mes "[Hotel Employee]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen1"
+msgid "[Hotel Employee]"
+msgstr ""
+
+# mes "''Hospitality with a smile";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen1"
+msgid "''Hospitality with a smile"
+msgstr ""
+
+# mes "and total devotion to your";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen1"
+msgid "and total devotion to your"
+msgstr ""
+
+# mes "comfort.'' That's our motto";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen1"
+msgid "comfort.'' That's our motto"
+msgstr ""
+
+# mes "in the Royal Dragon Hotel.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen1"
+msgid "in the Royal Dragon Hotel."
+msgstr ""
+
+# mes "Please inquire at the front";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen1"
+msgid "Please inquire at the front"
+msgstr ""
+
+# mes "desk if you wish to check in.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen1"
+msgid "desk if you wish to check in."
+msgstr ""
+
+# mes "[Hotel Employee]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "[Hotel Employee]"
+msgstr ""
+
+# mes "Welcome to the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "Welcome to the"
+msgstr ""
+
+# mes "Royal Dragon Hotel Bar.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "Royal Dragon Hotel Bar."
+msgstr ""
+
+# mes "How about a nice night";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "How about a nice night"
+msgstr ""
+
+# mes "cap before going to bed?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "cap before going to bed?"
+msgstr ""
+
+# mes "If you're looking";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "If you're looking"
+msgstr ""
+
+# mes "for a friend, you";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "for a friend, you"
+msgstr ""
+
+# mes "can almost always";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "can almost always"
+msgstr ""
+
+# mes "make one in this bar.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "make one in this bar."
+msgstr ""
+
+# mes "Alcohol certainly is the";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "Alcohol certainly is the"
+msgstr ""
+
+# mes "grease for social gears.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Hotel Employee#zen4"
+msgid "grease for social gears."
+msgstr ""
+
+# mes "[Hachi]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "[Hachi]"
+msgstr ""
+
+# mes "Oh yeah. I love-love-love";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "Oh yeah. I love-love-love"
+msgstr ""
+
+# mes "bars. If I don't come here";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "bars. If I don't come here"
+msgstr ""
+
+# mes "for the booze, then I'm here";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "for the booze, then I'm here"
+msgstr ""
+
+# mes "for all these beautiful ladies.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "for all these beautiful ladies."
+msgstr ""
+
+# mes "Weird. It's the very first";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "Weird. It's the very first"
+msgstr ""
+
+# mes "time I've tried this place's";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "time I've tried this place's"
+msgstr ""
+
+# mes "rum, but doesn't it taste like";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "rum, but doesn't it taste like"
+msgstr ""
+
+# mes "pure sexiness to you? Huh...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "pure sexiness to you? Huh..."
+msgstr ""
+
+# mes "Oh well, back to schmoozin'";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "Oh well, back to schmoozin'"
+msgstr ""
+
+# mes "with all the hot chicks~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Citizen#amano09"
+msgid "with all the hot chicks~"
+msgstr ""
+
+# mes "[Duff]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Bartender#amano07"
+msgid "[Duff]"
+msgstr ""
+
+# mes "Hey, you're from";
+#: npc/cities/lighthalzen.txt
+msgctxt "Bartender#amano07"
+msgid "Hey, you're from"
+msgstr ""
+
+# mes "Rune-Midgarts, right?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Bartender#amano07"
+msgid "Rune-Midgarts, right?"
+msgstr ""
+
+# mes "Please make yourself";
+#: npc/cities/lighthalzen.txt
+msgctxt "Bartender#amano07"
+msgid "Please make yourself"
+msgstr ""
+
+# mes "at home while you're here";
+#: npc/cities/lighthalzen.txt
+msgctxt "Bartender#amano07"
+msgid "at home while you're here"
+msgstr ""
+
+# mes "in Lighthalzen and have";
+#: npc/cities/lighthalzen.txt
+msgctxt "Bartender#amano07"
+msgid "in Lighthalzen and have"
+msgstr ""
+
+# mes "yourself a good time.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Bartender#amano07"
+msgid "yourself a good time."
+msgstr ""
+
+# mes "[Rona]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "[Rona]"
+msgstr ""
+
+# mes "I hate it when guys";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "I hate it when guys"
+msgstr ""
+
+# mes "just sidle up and sort";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "just sidle up and sort"
+msgstr ""
+
+# mes "of just skip Steps One";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "of just skip Steps One"
+msgstr ""
+
+# mes "and Two. And before you";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "and Two. And before you"
+msgstr ""
+
+# mes "get all weird, Step Three";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "get all weird, Step Three"
+msgstr ""
+
+# mes "is ''Ask for my phone number.''";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "is ''Ask for my phone number.''"
+msgstr ""
+
+# mes "I would just really";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "I would just really"
+msgstr ""
+
+# mes "appreciate it if one";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "appreciate it if one"
+msgstr ""
+
+# mes "nice boy would just";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "nice boy would just"
+msgstr ""
+
+# mes "talk to me for real.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano13"
+msgid "talk to me for real."
+msgstr ""
+
+# mes "[Greenfield]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "[Greenfield]"
+msgstr ""
+
+# mes "I don't believe it...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "I don't believe it..."
+msgstr ""
+
+# mes "This unlucky streak";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "This unlucky streak"
+msgstr ""
+
+# mes "will never end, will it?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "will never end, will it?"
+msgstr ""
+
+# mes "I lost all my Apples";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "I lost all my Apples"
+msgstr ""
+
+# mes "playing Dice today.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "playing Dice today."
+msgstr ""
+
+# mes "Again. Oh man...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "Again. Oh man..."
+msgstr ""
+
+# mes "Okay. Okay.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "Okay. Okay."
+msgstr ""
+
+# mes "If I just keep";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "If I just keep"
+msgstr ""
+
+# mes "playing, eventually";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "playing, eventually"
+msgstr ""
+
+# mes "I'll win. I mean, that's";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "I'll win. I mean, that's"
+msgstr ""
+
+# mes "the way the odds work, right?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "the way the odds work, right?"
+msgstr ""
+
+# mes "Even when they're against me...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano10"
+msgid "Even when they're against me..."
+msgstr ""
+
+# mes "[Terry]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "[Terry]"
+msgstr ""
+
+# mes "I'm not big on drinking,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "I'm not big on drinking,"
+msgstr ""
+
+# mes "but the atmosphere in this";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "but the atmosphere in this"
+msgstr ""
+
+# mes "place is really nice. The";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "place is really nice. The"
+msgstr ""
+
+# mes "music they play is always";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "music they play is always"
+msgstr ""
+
+# mes "smooth and relaxing...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "smooth and relaxing..."
+msgstr ""
+
+# mes "Yeah, this is a real cozy";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "Yeah, this is a real cozy"
+msgstr ""
+
+# mes "joint. I recommend it to";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "joint. I recommend it to"
+msgstr ""
+
+# mes "all you tourists, acutally.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "all you tourists, acutally."
+msgstr ""
+
+# mes "Now why don't you kick";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "Now why don't you kick"
+msgstr ""
+
+# mes "back and chill with me?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano11"
+msgid "back and chill with me?"
+msgstr ""
+
+# mes "[Sei]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "[Sei]"
+msgstr ""
+
+# mes "You see that guy?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "You see that guy?"
+msgstr ""
+
+# mes "That guy over there is";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "That guy over there is"
+msgstr ""
+
+# mes "always looking at me.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "always looking at me."
+msgstr ""
+
+# mes "I wonder... Does he want";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "I wonder... Does he want"
+msgstr ""
+
+# mes "to ask me out or something?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "to ask me out or something?"
+msgstr ""
+
+# mes "Well, if he does,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "Well, if he does,"
+msgstr ""
+
+# mes "shouldn't he have";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "shouldn't he have"
+msgstr ""
+
+# mes "more guts? Or are ";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "more guts? Or are "
+msgstr ""
+
+# mes "you boys much more";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "you boys much more"
+msgstr ""
+
+# mes "shy than I think you are?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "shy than I think you are?"
+msgstr ""
+
+# mes "Well, he is sort of";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "Well, he is sort of"
+msgstr ""
+
+# mes "cute. Geez, this would";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "cute. Geez, this would"
+msgstr ""
+
+# mes "be so much easier if he";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "be so much easier if he"
+msgstr ""
+
+# mes "would just come up and";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "would just come up and"
+msgstr ""
+
+# mes "start talking to me...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Customer#amano12"
+msgid "start talking to me..."
+msgstr ""
+
+# mes "[Merpi]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "[Merpi]"
+msgstr ""
+
+# mes "Isn't the weather nice";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "Isn't the weather nice"
+msgstr ""
+
+# mes "today? All this sunlight";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "today? All this sunlight"
+msgstr ""
+
+# mes "will dry these clothes";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "will dry these clothes"
+msgstr ""
+
+# mes "quickly and give them";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "quickly and give them"
+msgstr ""
+
+# mes "a fresh, lovely scent.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "a fresh, lovely scent."
+msgstr ""
+
+# mes "Oh, an adventurer from";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "Oh, an adventurer from"
+msgstr ""
+
+# mes "Rune-Midgarts, are you?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "Rune-Midgarts, are you?"
+msgstr ""
+
+# mes "How do you like our city?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "How do you like our city?"
+msgstr ""
+
+# mes "If you have any questions,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "If you have any questions,"
+msgstr ""
+
+# mes "feel free to ask me anything.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "feel free to ask me anything."
+msgstr ""
+
+# switch(select("Well, I have nothing to ask...", "Any news or rumors?", "I like laundry too.")) {
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "Well, I have nothing to ask..."
+msgstr ""
+
+# switch(select("Well, I have nothing to ask...", "Any news or rumors?", "I like laundry too.")) {
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "Any news or rumors?"
+msgstr ""
+
+# switch(select("Well, I have nothing to ask...", "Any news or rumors?", "I like laundry too.")) {
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "I like laundry too."
+msgstr ""
+
+# mes "Oh, really?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "Oh, really?"
+msgstr ""
+
+# mes "Well, if you've traveled";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "Well, if you've traveled"
+msgstr ""
+
+# mes "all over the world, maybe";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "all over the world, maybe"
+msgstr ""
+
+# mes "you've found a place just";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "you've found a place just"
+msgstr ""
+
+# mes "like Lighthalzen, so maybe";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "like Lighthalzen, so maybe"
+msgstr ""
+
+# mes "you're already comfortable?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "you're already comfortable?"
+msgstr ""
+
+# mes "Well, things have";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "Well, things have"
+msgstr ""
+
+# mes "been pretty peaceful";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "been pretty peaceful"
+msgstr ""
+
+# mes "for the past few years.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "for the past few years."
+msgstr ""
+
+# mes "The only rumor floating";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "The only rumor floating"
+msgstr ""
+
+# mes "around is about some";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "around is about some"
+msgstr ""
+
+# mes "weird axe murderer...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "weird axe murderer..."
+msgstr ""
+
+# mes "Oh, that's wonderful!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "Oh, that's wonderful!"
+msgstr ""
+
+# mes "I so love doing hand";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "I so love doing hand"
+msgstr ""
+
+# mes "laundry, though I'm not";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "laundry, though I'm not"
+msgstr ""
+
+# mes "quite sure why. Oh well~";
+#: npc/cities/lighthalzen.txt
+msgctxt "Merpi#zen2"
+msgid "quite sure why. Oh well~"
+msgstr ""
+
+# mes "[Berru]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "[Berru]"
+msgstr ""
+
+# mes "Daddy...! Waaaaah~!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "Daddy...! Waaaaah~!"
+msgstr ""
+
+# mes "I wanna see my Daddy!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "I wanna see my Daddy!"
+msgstr ""
+
+# mes "[Pilia]";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "[Pilia]"
+msgstr ""
+
+# mes "Berru, I don't ";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "Berru, I don't "
+msgstr ""
+
+# mes "think Daddy's coming";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "think Daddy's coming"
+msgstr ""
+
+# mes "home tonight. Come on,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "home tonight. Come on,"
+msgstr ""
+
+# mes "we should go to bed.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "we should go to bed."
+msgstr ""
+
+# mes "No, I'm not gonna";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "No, I'm not gonna"
+msgstr ""
+
+# mes "sleep till Daddy gets";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "sleep till Daddy gets"
+msgstr ""
+
+# mes "home! He said he'll";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "home! He said he'll"
+msgstr ""
+
+# mes "bring us candy tonight!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "bring us candy tonight!"
+msgstr ""
+
+# mes "You go sleep first, Pilia!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "You go sleep first, Pilia!"
+msgstr ""
+
+# mes "^333333*Sigh...*^000000";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "^333333*Sigh...*^000000"
+msgstr ""
+
+# mes "Where's our Daddy?";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "Where's our Daddy?"
+msgstr ""
+
+# mes "He said he found a";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "He said he found a"
+msgstr ""
+
+# mes "good job, but we haven't";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "good job, but we haven't"
+msgstr ""
+
+# mes "heard from him since then...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "heard from him since then..."
+msgstr ""
+
+# mes "What's taking him";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "What's taking him"
+msgstr ""
+
+# mes "so long? I hope Daddy";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "so long? I hope Daddy"
+msgstr ""
+
+# mes "comes back home soon.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "comes back home soon."
+msgstr ""
+
+# mes "Come on, Berru, don't cry.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "Come on, Berru, don't cry."
+msgstr ""
+
+# mes "^333333*Sob...*^000000";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "^333333*Sob...*^000000"
+msgstr ""
+
+# mes "But I'm hungry";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "But I'm hungry"
+msgstr ""
+
+# mes "and I miss Daddy!";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "and I miss Daddy!"
+msgstr ""
+
+# mes "Uncle Togii from";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "Uncle Togii from"
+msgstr ""
+
+# mes "next door hasn't";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "next door hasn't"
+msgstr ""
+
+# mes "come back either...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "come back either..."
+msgstr ""
+
+# mes "Hmm? Oh, I'm sorry,";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "Hmm? Oh, I'm sorry,"
+msgstr ""
+
+# mes "but my little brother";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "but my little brother"
+msgstr ""
+
+# mes "just won't stop crying.";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "just won't stop crying."
+msgstr ""
+
+# mes "I'm sorry if we're loud...";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "I'm sorry if we're loud..."
+msgstr ""
+
+# mes "Our daddy goes to work";
+#: npc/cities/lighthalzen.txt
+msgctxt "Berru#lhz_01"
+msgid "Our daddy goes to work"
+msgstr ""
