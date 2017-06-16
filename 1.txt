@@ -2008,7 +2008,7 @@ msgstr "Lintang, 37 derajat ke utara."
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "We're right on course, captain."
-msgstr ""
+msgstr "Kami benar, kapten."
 
 # mes("Looks like a really\r"
 #: npc/airports/airships.txt
@@ -2016,7 +2016,8 @@ msgctxt "Pilot#airplane_01"
 msgid ""
 "Looks like a really\rcloudy day. Always hard\rto navigate when the skies\raren't clear. Guess we'll\rneed to amp the "
 "radar."
-msgstr ""
+msgstr "Sepertinya hari yang sangat mendung. Selalu sulit untuk dinavigasi saat langit \ tidak jelas. Kira kita akan meminta amp "
+"radar."
 
 # mes("The Captain is a good\r"
 #: npc/airports/airships.txt
@@ -2024,224 +2025,225 @@ msgctxt "Pilot#airplane_01"
 msgid ""
 "The Captain is a good\rman and I can't think of\ra finer person to command\rthis ship. Still, he's pretty\rtough, a "
 "real slave driver."
-msgstr ""
+msgstr "Kapten adalah orang yang baik dan saya tidak dapat memikirkan orang yang tepat untuk memimpin kapal ini. Tetap saja, dia cukup cantik, seorang "
+"Sopir budak sejati."
 
 # mes("[^ff0000Tarlock^000000]");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "[^ff0000Tarlock^000000]"
-msgstr ""
+msgstr "[^ff0000Tarlock^000000]"
 
 # mes("^ff0000Hey...!^000000");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "^ff0000Hey...!^000000"
-msgstr ""
+msgstr "^ff0000Hey...!^000000"
 
 # mes("^ff0000Less chit-chat^000000");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "^ff0000Less chit-chat^000000"
-msgstr ""
+msgstr "^ff0000Less chit-chat^000000"
 
 # mes("^ff0000and more piloting!^000000");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "^ff0000and more piloting!^000000"
-msgstr ""
+msgstr "^ Ff0000dan lebih banyak percobaan! ^ 000000"
 
 # mes("R-right away, sir!");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "R-right away, sir!"
-msgstr ""
+msgstr "R-segera, pak!"
 
 # mes("(See what I mean?)");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "(See what I mean?)"
-msgstr ""
+msgstr "(Lihat apa yang saya maksud?)"
 
 # mes("This uniform is\r"
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "This uniform is\rreally dapper, but\rit's way too thick to\rwear around the Airship."
-msgstr ""
+msgstr "Seragam ini benar-benar keren, tapi terlalu tebal untuk dipakai di pesawat."
 
 # mes("...");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # mes("......");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "......"
-msgstr ""
+msgstr "......"
 
 # mes("No one ever really\r"
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "No one ever really\rcomes into this room."
-msgstr ""
+msgstr "Tidak ada orang yang benar-benar masuk ke ruangan ini."
 
 # mes("And the captain IS a reindeer.");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "And the captain IS a reindeer."
-msgstr ""
+msgstr "Dan kaptennya adalah rusa kutub."
 
 # mes("I could just strip to my boxers.");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "I could just strip to my boxers."
-msgstr ""
+msgstr "Aku bisa saja menelanjangi petinju."
 
 # mes("Oh...! Hello there!");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "Oh...! Hello there!"
-msgstr ""
+msgstr "Oh ...! Halo!"
 
 # mes("E-e-enjoying your flight?!");
 #: npc/airports/airships.txt
 msgctxt "Pilot#airplane_01"
 msgid "E-e-enjoying your flight?!"
-msgstr ""
+msgstr "E-e-menikmati penerbanganmu ?!"
 
 # mes("[Dianne]");
 #: npc/airports/airships.txt
 msgctxt "Dianne#01airplane_01"
 msgid "[Dianne]"
-msgstr ""
+msgstr "[Dianne]"
 
 # mes("It's so weird!");
 #: npc/airports/airships.txt
 msgctxt "Dianne#01airplane_01"
 msgid "It's so weird!"
-msgstr ""
+msgstr "Ini sangat aneh!"
 
 # mes("I went to visit the\r"
 #: npc/airports/airships.txt
 msgctxt "Dianne#01airplane_01"
 msgid "I went to visit the\rAirship Captain and\rall I saw was this\rweird reindeer. Oh!"
-msgstr ""
+msgstr "Saya pergi mengunjungi Kapten Angkatan Udara dan yang saya lihat adalah rusa aneh ini. Oh!"
 
 # mes("Do you think that...");
 #: npc/airports/airships.txt
 msgctxt "Dianne#01airplane_01"
 msgid "Do you think that..."
-msgstr ""
+msgstr "Apakah kamu berpikiran bahwa..."
 
 # mes("[Mendel]");
 #: npc/airports/airships.txt
 msgctxt "Mendel#01airplane_01"
 msgid "[Mendel]"
-msgstr ""
+msgstr "[Mendel]"
 
 # mes("As I expected, the\r"
 #: npc/airports/airships.txt
 msgctxt "Mendel#01airplane_01"
 msgid "As I expected, the\rin-flight meals are\rthree star quality at best."
-msgstr ""
+msgstr "Seperti yang saya harapkan, makanan penerbangan adalah kualitas terbaik di terbaik."
 
 # mes("*Harrrumph* I really should\r"
 #: npc/airports/airships.txt
 msgctxt "Mendel#01airplane_01"
 msgid "*Harrrumph* I really should\rhave brought my chef so that\rI could enjoy a real meal."
-msgstr ""
+msgstr "* Harrumph * Saya benar-benar harus membawa koki saya agar saya bisa menikmati makanan yang sesungguhnya."
 
 # mes("[Swordsman Shimizu]");
 #: npc/airports/airships.txt
 msgctxt "Swordsman Shimizu#air_01"
 msgid "[Swordsman Shimizu]"
-msgstr ""
+msgstr "[Pedang Shimizu]"
 
 # mes("Finally, after five\r"
 #: npc/airports/airships.txt
 msgctxt "Swordsman Shimizu#air_01"
 msgid "Finally, after five\ryears of waiting..."
-msgstr ""
+msgstr "Akhirnya, setelah lima tahun menunggu ..."
 
 # mes("I can have my revenge!");
 #: npc/airports/airships.txt
 msgctxt "Swordsman Shimizu#air_01"
 msgid "I can have my revenge!"
-msgstr ""
+msgstr "Aku bisa membalas dendamku!"
 
 # mes("I just...");
 #: npc/airports/airships.txt
 msgctxt "Swordsman Shimizu#air_01"
 msgid "I just..."
-msgstr ""
+msgstr "Saya hanya ..."
 
 # mes("Have to make sure that\r"
 #: npc/airports/airships.txt
 msgctxt "Swordsman Shimizu#air_01"
 msgid "Have to make sure that\rI don't keep missing my\rstop. But soon, very soon,\rvengeance will be mine!"
-msgstr ""
+msgstr "Harus memastikan bahwa saya tidak akan kehilangan mystopstop saya. Tapi segera, segera, balas dendam akan menjadi milikku!"
 
 # mes("[Nils]");
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "[Nils]"
-msgstr ""
+msgstr "[Nils]"
 
 # mes("Welcome to the\r"
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "Welcome to the\r^ff0000RO Typing Challenge^000000."
-msgstr ""
+msgstr "Selamat datang di Tantangan Mengetik \ r ^ ff0000RO ^ 000000."
 
 # mes("Would you like to play\r"
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "Would you like to play\ra quick typing game?"
-msgstr ""
+msgstr "Apakah Anda ingin bermain game cepat?"
 
 # switch (select("Play ^ff0000RO Typing Challenge^000000", "Information", "View Top Records", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "Play ^ff0000RO Typing Challenge^000000"
-msgstr ""
+msgstr "Mainkan ^ ff0000RO Typing Challenge ^ 000000"
 
 # switch (select("Play ^ff0000RO Typing Challenge^000000", "Information", "View Top Records", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "Information"
-msgstr ""
+msgstr "Informasi"
 
 # switch (select("Play ^ff0000RO Typing Challenge^000000", "Information", "View Top Records", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "View Top Records"
-msgstr ""
+msgstr "Lihat Rekaman Teratas"
 
 # switch (select("Play ^ff0000RO Typing Challenge^000000", "Information", "View Top Records", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "Cancel"
-msgstr ""
+msgstr "Membatalkan"
 
 # mes("Okay, we have\r"
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "Okay, we have\ra new challenger!"
-msgstr ""
+msgstr "Oke, kita punya penantang baru!"
 
 # mes("Enter the following\r"
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "Enter the following\rtext as quickly as you\rcan without making any\rmistakes! Let's start~!"
-msgstr ""
+msgstr "Masukkan teks berikut \ secepat Anda \ tanpa membuat \ kesalahan! Mari kita mulai ~!"
 
 # mesf("Your record is ^ff0000%d seconds^000000 and\r"
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "Nils#ein"
 msgid "Your record is ^ff0000%d seconds^000000 and\rthe total letters are %d."
-msgstr ""
+msgstr "Catatan Anda ^ ff0000% d detik ^ 000000 dan \ huruf totalnya adalah% d."
 
 # mes("Hmmm, this record isn't\r"
 #: npc/airports/airships.txt
@@ -2249,21 +2251,22 @@ msgctxt "Nils#ein"
 msgid ""
 "Hmmm, this record isn't\rhumanly possible unless you\rcopy and paste the whole\rsentence. Please play fairly\rnext "
 "time."
-msgstr ""
+msgstr ""Hmmm, catatan ini tidak mungkin secara manusiawi kecuali jika Anda \ copy dan paste seluruh kalimat \. Tolong mainkan dengan adil \ rnext"
+"waktu."
 
 # mesf("The previous top record was\r"
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "Nils#ein"
 msgid "The previous top record was\rmade by ^0000ff%s^000000\rwith the total ^0000ff%d^000000 letters."
-msgstr ""
+msgstr "Rekaman teratas sebelumnya dibuat dengan huruf 0000ff% s ^ 000000 dengan total ^ 0000ff% d ^ 000000 huruf."
 
 # mesf("However, ^ff0000%s^000000,\r"
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "Nils#ein"
 msgid "However, ^ff0000%s^000000,\ryou made the new top record\rthis time. Congratulations!"
-msgstr ""
+msgstr "Namun, ^ ff0000% s ^ 000000, \ Anda membuat rekaman teratas baru \ kali ini. Selamat!"
 
 # mesf("^0000ff%s^000000\r"
 #: npc/airports/airships.txt
@@ -2272,19 +2275,20 @@ msgctxt "Nils#ein"
 msgid ""
 "^0000ff%s^000000\ris the current\rrecord holder with\ra letter total of ^0000ff%d^000000\rcharacters. Try to beat"
 "\rthat record next time~"
-msgstr ""
+msgstr "^ 0000ff% s ^ 000000 \ pemegang pemegang rekor saat ini dengan \ ra huruf total ^ 0000ff% d ^ 000000 \ characters. Cobalah untuk mengalahkan "
+Msgstr "catatan waktu berikutnya ~"
 
 # mes("Oooh...");
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "Oooh..."
-msgstr ""
+msgstr "Oooh..."
 
 # mes("I'm sorry, but\r"
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "I'm sorry, but\ryou entered the\rtext incorrectly..."
-msgstr ""
+msgstr "Maaf, tapi \ Anda memasukkan \ teks salah ..."
 
 # mes("The ^ff0000RO Typing Challenge^000000\r"
 #: npc/airports/airships.txt
@@ -2292,7 +2296,9 @@ msgctxt "Nils#ein"
 msgid ""
 "The ^ff0000RO Typing Challenge^000000\ris a game where you enter\rthe given text as quickly as you\rcan. The name of "
 "the top player\ris recorded for posterity. If you\rwant fame, here's your chance!"
-msgstr ""
+msgstr "201/5000
+Tantangan Pengetikan ^ ff0000RO ^ 000000 \ mengadakan permainan di mana Anda memasukkan teks yang diberikan secepat yang Anda bisa. Nama "
+"Pemain top direkam untuk anak cucu. Jika Anda terkenal, inilah kesempatan Anda!"
 
 # mes("I'd just like to let\r"
 #: npc/airports/airships.txt
@@ -2300,67 +2306,68 @@ msgctxt "Nils#ein"
 msgid ""
 "I'd just like to let\ryou know that you type\rall the text that you see\rin the single input line that\ryou're "
 "given. So don't press\rthe enter key, just click 'OK.'"
-msgstr ""
+msgstr "Saya ingin memberi tahu Anda bahwa Anda mengetik teks yang Anda lihat di satu baris masukan yang Anda "
+"Diberikan.Jadi jangan tekan tombol enter, klik saja 'OK'."
 
 # mes("Feel free to take on the\r"
 #: npc/airports/airships.txt
 msgctxt "Nils#ein"
 msgid "Feel free to take on the\r^ff0000RO Typing Challenge^000000\ranytime. I'll be here~"
-msgstr ""
+msgstr "Jangan ragu untuk menerima \ Typing Challenge ^ 000000 \ ranytime. Aku akan berada di sini ~"
 
 # mes("[Clarice]");
 #: npc/airports/airships.txt
 msgctxt "Clarice"
 msgid "[Clarice]"
-msgstr ""
+msgstr "[Clarice]"
 
 # mes("Hi, I'm Clarice~");
 #: npc/airports/airships.txt
 msgctxt "Clarice"
 msgid "Hi, I'm Clarice~"
-msgstr ""
+msgstr "Hai, aku Clarice ~"
 
 # mes("How would you like\r"
 #: npc/airports/airships.txt
 msgctxt "Clarice"
 msgid "How would you like\rto wager some Apples\rin a friendly game of Dice?"
-msgstr ""
+msgstr "Bagaimana Anda ingin mengajukan beberapa apel kepada permainan Dice yang ramah?"
 
 # callfunc("applegamble", _("Clarice"));
 #: npc/airports/airships.txt
 msgctxt "Clarice"
 msgid "Clarice"
-msgstr ""
+msgstr "Clarice"
 
 # .@n$ = sprintf(_$("[%s]"), getarg(0));
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "applegamble"
 msgid "[%s]"
-msgstr ""
+msgstr "[%s]"
 
 # switch (select("Play Dice Game", "Learn Dice Game Rules", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Play Dice Game"
-msgstr ""
+msgstr "Mainkan Dice Game"
 
 # switch (select("Play Dice Game", "Learn Dice Game Rules", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Learn Dice Game Rules"
-msgstr ""
+msgstr "Pelajari Aturan Game Dice"
 
 # switch (select("Play Dice Game", "Learn Dice Game Rules", "Cancel")) {
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Cancel"
-msgstr ""
+msgstr "Membatalkan"
 
 # mes("I'm up for a game of\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
-msgid ""
+msgid "Judi apel"
 "I'm up for a game of\rdice whenever you feel\rlike it. Just talk to me if\ryou ever get hit with the\rsudden urge to "
 "gamble, kay?"
 msgstr "Aku siap untuk permainan setiap kali Anda merasakannya. Berbicaralah padaku jika Anda pernah tertabrak dengan dorongan untuk "
@@ -2370,13 +2377,13 @@ msgstr "Aku siap untuk permainan setiap kali Anda merasakannya. Berbicaralah pad
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "The rules for the Dice game\rare pretty simple. First, you\rplace a bet by wagering Apples."
-msgstr ""
+msgstr "Aturan untuk permainan Dice \ jarang cukup sederhana. Pertama, Anda bertaruh dengan mengocok Apel."
 
 # mes("You can bet a maximum of 50\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "You can bet a maximum of 50\rApples at a time. To keep things\rlegal, I can only accept Apples."
-msgstr ""
+msgstr "Anda bisa bertaruh maksimal 50 pasang pada satu waktu. Untuk menjaga hal-hal \ rlegal, saya hanya bisa menerima Apel."
 
 # mes("But hey, if all that zeny\r"
 #: npc/airports/airships.txt
@@ -2384,13 +2391,14 @@ msgctxt "applegamble"
 msgid ""
 "But hey, if all that zeny\ris burning a hole in your\rpocket, head over to Fruitz\rand you can buy as many\rApples "
 "as you want, playah~"
-msgstr ""
+msgstr "Tapi hei, jika semua itu berhasil membakar lubang di saku Anda, pergilah ke Fruitz dan Anda bisa membeli sebanyak-banyaknya \ Apel "
+"Seperti yang kamu mau, playah ~"
 
 # mes("Now, we begin with me\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Now, we begin with me\rrolling two 6-sided dice."
-msgstr ""
+msgstr "Sekarang, kita mulai dengan saya! Menggulung dua dadu 6 sisi."
 
 # mes("When it's your turn, you'll\r"
 #: npc/airports/airships.txt
@@ -2398,7 +2406,8 @@ msgctxt "applegamble"
 msgid ""
 "When it's your turn, you'll\rroll two 6-sided dice. After\rthat, both of us will have the\roption of rolling a third "
 "die."
-msgstr ""
+msgstr "Ketika giliran Anda, Anda akan \ roll dua dadu 6-sisi. Setelah \ itu, kita berdua akan memiliki \ roption rolling ketiga "
+"mati."
 
 # mes("Now here's the important\r"
 #: npc/airports/airships.txt
@@ -2406,7 +2415,8 @@ msgctxt "applegamble"
 msgid ""
 "Now here's the important\rthing. If your total is higher\rthan 12, you'll bust, meaning\rthat you lose. Otherwise, "
 "the\rperson with the higher total\ris the winner. Got it?"
-msgstr ""
+msgstr "Sekarang inilah hal yang penting. Jika total Anda lebih tinggi dari 12, Anda akan bust, berarti \ bahwa Anda kalah. Jika tidak, "
+"Yang \ rperson dengan total lebih tinggi \ RIS pemenang. Got it?"
 
 # mes("Now, you'll be the first\r"
 #: npc/airports/airships.txt
@@ -2414,43 +2424,44 @@ msgctxt "applegamble"
 msgid ""
 "Now, you'll be the first\rto decide whether or not\ryou'll roll the third die. Then,\rdepending on your result, I'll"
 "\rroll my third die... Or maybe not."
-msgstr ""
+msgstr "Sekarang, Anda akan menjadi orang pertama yang memutuskan apakah Anda akan gulung tikar ketiga atau tidak. Kemudian, tergantung pada hasil Anda, saya akan "
+"Ayo aku yang ketiga mati ... atau mungkin juga tidak."
 
 # mes("When you win, you'll\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "When you win, you'll\rreceive twice as many\rApples as you wagered."
-msgstr ""
+msgstr "Saat Anda menang, Anda akan \ menerima dua kali lebih banyak daripada Apel saat Anda bertaruh."
 
 # mes("But if we happen to tie, you\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "But if we happen to tie, you\rget the Apples that you bet\rreturned to you. Fair, right?"
-msgstr ""
+msgstr "Tapi jika kita kebetulan mengikat, Anda akan mendapatkan Apel yang Anda yakini \ kembali kepada Anda. Adil, bukan?"
 
 # mes("Ooh, so you'll play with\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Ooh, so you'll play with\rme? Great! How many\rApples would you like to bet?"
-msgstr ""
+msgstr "Ooh, jadi kamu akan bermain denganmu? Besar! Berapa banyak yang ingin Anda taruhan?"
 
 # mes("Remember, you can wager\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Remember, you can wager\rup to 50 Apples. If you'd like\rto cancel, please enter '0'."
-msgstr ""
+msgstr "Ingat, Anda bisa bertaruh \ rup sampai 50 Apel. Jika Anda ingin membatalkan, masukkan '0'."
 
 # mes("Changed your mind?");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Changed your mind?"
-msgstr ""
+msgstr "Mengubah pikiran Anda?"
 
 # mes("I understand. Well then,\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "I understand. Well then,\rI hope we can play sometime."
-msgstr ""
+msgstr "Saya mengerti. Kalau begitu, saya harap kita bisa bermain kapan-kapan"
 
 # mes("You can't bet more than\r"
 #: npc/airports/airships.txt
@@ -2458,103 +2469,104 @@ msgctxt "applegamble"
 msgid ""
 "You can't bet more than\r50 Apples. Remember, we\rneed to keep these stakes\rreasonable. Please enter\ra value no "
 "greater than 50."
-msgstr ""
+msgstr "Anda tidak bisa bertaruh lebih dari pada Apel. Ingat, kita harus menjaga taruhan ini \ masuk akal. Harap masukkan \ ra nilai tidak "
+"Lebih besar dari 50."
 
 # mesf("So you'll be\r"
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "applegamble"
 msgid "So you'll be\rbetting ^FF0000%d^000000 Apples."
-msgstr ""
+msgstr "Jadi Anda akan menjadi \ FF0000% d ^ 000000 Apel."
 
 # mes("Is that right?");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Is that right?"
-msgstr ""
+msgstr "Apakah itu benar?"
 
 # if (select("Yes", "No") == 2) {
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 2) {
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("Mm, made a mistake?");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Mm, made a mistake?"
-msgstr ""
+msgstr "Mm, membuat kesalahan?"
 
 # mes("Alright, please enter the\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Alright, please enter the\rnumber of Apples you\rwish to place in this bet"
-msgstr ""
+msgstr "Baiklah, mohon masukkan nomor Apel yang ingin Anda tempatkan di taruhan ini"
 
 # mes("I'm sorry, but you\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid ""
 "I'm sorry, but you\rdon't seem to have\renough Apples for this\rbet... You can't gamble\rif you can't play, you know."
-msgstr ""
+msgstr "Maafkan aku, tapi kau \ tampaknya tidak memiliki Apel yang cukup untuk pertarungan ini ... Anda tidak bisa berjudi \ rif Anda tidak bisa bermain, Anda tahu."
 
 # mes("Good!");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Good!"
-msgstr ""
+msgstr "Baik!"
 
 # mes("Now we can start\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Now we can start\rthis game! I'll roll first~"
-msgstr ""
+msgstr "Sekarang kita bisa memulai \ game ini! Aku akan berguling dulu ~"
 
 # mes("^3355FF*Rolling and rumbling*^000000");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "^3355FF*Rolling and rumbling*^000000"
-msgstr ""
+msgstr "^ 3355FF * Berguling dan bergemuruh * ^ 000000"
 
 # mesf("I got a ^0000FF%d^000000 and a ^0000FF%d^000000.", .@table1, .@table2);
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "applegamble"
 msgid "I got a ^0000FF%d^000000 and a ^0000FF%d^000000."
-msgstr ""
+msgstr "Saya mendapatkan ^ 0000FF% d ^ 000000 dan ^ 0000FF% d ^ 000000."
 
 # mesf("That's a total of ^0000FF%d^000000.", .@tablesub);
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "applegamble"
 msgid "That's a total of ^0000FF%d^000000."
-msgstr ""
+msgstr "Itu total ^ 0000FF% d ^ 000000."
 
 # mesf("^FF0000%s^000000, now it's your turn.", strcharinfo(PC_NAME));
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "applegamble"
 msgid "^FF0000%s^000000, now it's your turn."
-msgstr ""
+msgstr "^ FF0000% s ^ 000000, sekarang giliranku."
 
 # select("Cast Dice.");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Cast Dice."
-msgstr ""
+msgstr "Melemparkan dadu."
 
 # mesf("^FF0000%s^000000, you have ^FF0000%d^000000 and ^FF0000%d^000000. The total is ^FF0000%d^000000.",
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "applegamble"
 msgid "^FF0000%s^000000, you have ^FF0000%d^000000 and ^FF0000%d^000000. The total is ^FF0000%d^000000."
-msgstr ""
+msgstr "^ FF0000% s ^ 000000, Anda memiliki ^ FF0000% d ^ 000000 dan ^ FF0000% d ^ 000000. Totalnya adalah ^ FF0000% d ^ 000000."
 
 # mesf("Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. "
 #: npc/airports/airships.txt
@@ -2563,7 +2575,8 @@ msgctxt "applegamble"
 msgid ""
 "Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. We are making an even "
 "game. Would you like to cast dice again?"
-msgstr ""
+msgstr "Saat ini jumlah saya adalah ^ 0000FF% d ^ 000000 dan ^ FF0000% s ^ 000000, totalnya adalah ^ FF0000% d ^ 000000. Kami membuat bahkan "
+"Permainan Apakah Anda ingin melemparkan dadu lagi?"
 
 # mesf("Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. "
 #: npc/airports/airships.txt
@@ -2572,7 +2585,8 @@ msgctxt "applegamble"
 msgid ""
 "Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. ^FF0000%s^000000, you "
 "are currently winning this game. Would you like to cast dice again?"
-msgstr ""
+msgstr "Saat ini jumlah saya adalah ^ 0000FF% d ^ 000000 dan ^ FF0000% s ^ 000000, totalnya adalah ^ FF0000% d ^ 000000. ^ FF0000% s ^ 000000, Anda "
+"Saat ini memenangkan pertandingan ini Apakah Anda ingin melemparkan dadu lagi?"
 
 # mesf("Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. "
 #: npc/airports/airships.txt
@@ -2581,19 +2595,20 @@ msgctxt "applegamble"
 msgid ""
 "Currently my total is ^0000FF%d^000000 and ^FF0000%s^000000, your total is ^FF0000%d^000000. I am winning this game. "
 "Would you like to cast dice again?"
-msgstr ""
+msgstr "Saat ini jumlah saya adalah ^ 0000FF% d ^ 000000 dan ^ FF0000% s ^ 000000, totalnya adalah ^ FF0000% d ^ 000000. Saya memenangkan game ini. "
+"Apakah Anda ingin melempar dadu lagi?"
 
 # switch (select("Cast dice.", "Cancel.")) {
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Cast dice."
-msgstr ""
+msgstr "Melemparkan dadu"
 
 # switch (select("Cast dice.", "Cancel.")) {
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Cancel."
-msgstr ""
+msgstr "Membatalkan"
 
 # mesf("^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. "
 #: npc/airports/airships.txt
@@ -2602,7 +2617,8 @@ msgctxt "applegamble"
 msgid ""
 "^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. You lost this game. I am sorry but "
 "please try again."
-msgstr ""
+msgstr "^ FF0000% s ^ 000000, Anda mendapat ^ FF0000% d ^ 000000 dan totalnya sekarang ^ FF0000% d ^ 000000. Kamu kalah dalam game ini Saya minta maaf tapi "
+"Coba lagi"
 
 # mesf("^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. "
 #: npc/airports/airships.txt
@@ -2611,7 +2627,8 @@ msgctxt "applegamble"
 msgid ""
 "^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. Even though you casted dice again, "
 "still your total is smaller than mine. You lost the game. I am sorry and please try again."
-msgstr ""
+msgstr "^ FF0000% s ^ 000000, Anda mendapat ^ FF0000% d ^ 000000 dan totalnya sekarang ^ FF0000% d ^ 000000. Meskipun Anda membuang dadu lagi, "
+"Masih total anda lebih kecil dari saya, anda kalah dalam permainan. Saya minta maaf dan silahkan coba lagi."
 
 # mesf("^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. "
 #: npc/airports/airships.txt
@@ -2620,32 +2637,33 @@ msgctxt "applegamble"
 msgid ""
 "^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. I don't want to take any risk, "
 "let's end this game in a draw. Let's play again some other time~"
-msgstr ""
+msgstr "^ FF0000% s ^ 000000, Anda mendapat ^ FF0000% d ^ 000000 dan totalnya sekarang ^ FF0000% d ^ 000000. Saya tidak ingin mengambil risiko apapun, "
+"Mari kita mengakhiri permainan ini dalam undian. Ayo bermain lagi lain kali ~"
 
 # mes("Alright.");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Alright."
-msgstr ""
+msgstr "Baik."
 
 # mes("Let me cast the dice again.");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Let me cast the dice again."
-msgstr ""
+msgstr "Biarkan aku melemparkan dadu lagi."
 
 # mesf("^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. "
 #: npc/airports/airships.txt
 #, c-format
 msgctxt "applegamble"
 msgid "^FF0000%s^000000, you got ^FF0000%d^000000 and the total is now ^FF0000%d^000000. Now it is my turn."
-msgstr ""
+msgstr "^ FF0000% s ^ 000000, Anda mendapat ^ FF0000% d ^ 000000 dan totalnya sekarang ^ FF0000% d ^ 000000. Sekarang giliran saya."
 
 # mes("I see, you don't want to take risk of losing the game. Okay, let me cast dice again.");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "I see, you don't want to take risk of losing the game. Okay, let me cast dice again."
-msgstr ""
+msgstr "Saya lihat, Anda tidak ingin mengambil risiko kehilangan permainan. Baiklah, biarkan aku melempar dadu lagi."
 
 # mes("I see, you don't want to take risk of losing this game. "
 #: npc/airports/airships.txt
@@ -2653,25 +2671,26 @@ msgctxt "applegamble"
 msgid ""
 "I see, you don't want to take risk of losing this game. Neither do I, let's end this game in a draw. Let's play "
 "again some other time~"
-msgstr ""
+msgstr "Saya lihat, Anda tidak ingin mengambil risiko kehilangan game ini. Saya juga tidak, mari kita akhiri permainan ini dalam undian. Mari main "
+"Lagi lain kali ~"
 
 # mes("It couldn't hurt to try.");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "It couldn't hurt to try."
-msgstr ""
+msgstr "Tak ada salahnya mencoba."
 
 # mes("Well, I win this time.");
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "Well, I win this time."
-msgstr ""
+msgstr "Nah, saya menang kali ini."
 
 # mes("I'm sorry, let's try play\r"
 #: npc/airports/airships.txt
 msgctxt "applegamble"
 msgid "I'm sorry, let's try play\ragain sometime."
-msgstr ""
+msgstr "Maaf, mari kita coba mainkan kapan saja."
 
 # mesf("I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. "
 #: npc/airports/airships.txt
@@ -2680,7 +2699,8 @@ msgctxt "applegamble"
 msgid ""
 "I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. I lost this game since my total exceeded 12. Let me "
 "give you my apples. Congratulations, that was a great game."
-msgstr ""
+msgstr "Saya mendapat ^ 0000FF% d ^ 000000 dan totalnya sekarang ^ 0000FF% d ^ 000000. Saya kehilangan permainan ini sejak total saya melebihi 12. Biarkan saya "
+"Berikan apel saya Selamat, itu permainan yang bagus."
 
 # mesf("I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. "
 #: npc/airports/airships.txt
@@ -2689,7 +2709,8 @@ msgctxt "applegamble"
 msgid ""
 "I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. With total ^FF0000%d^000000 you won this game, "
 "^FF0000%s^000000. Let me give you my apples. It was a great game and I hope we will play again some other time."
-msgstr ""
+msgstr "Saya mendapat ^ 0000FF% d ^ 000000 dan totalnya sekarang ^ 0000FF% d ^ 000000. Dengan total ^ FF0000% d ^ 000000 Anda memenangkan game ini, "
+"^ FF0000% s ^ 000000 Biarkan saya memberi saya apel saya Ini adalah permainan yang hebat dan saya harap kami akan bermain lagi beberapa waktu yang lain."
 
 # mesf("I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. "
 #: npc/airports/airships.txt
@@ -2698,7 +2719,8 @@ msgctxt "applegamble"
 msgid ""
 "I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. With total ^FF0000%d^000000 this game came out even, "
 "^FF0000%s^000000. Let me give you your apple back. It was a great game and I hope we will play again some other time."
-msgstr ""
+msgstr "Saya mendapat ^ 0000FF% d ^ 000000 dan totalnya sekarang ^ 0000FF% d ^ 000000. Dengan total ^ FF0000% d ^ 000000 game ini keluar bahkan, "
+"^ FF0000% s ^ 000000 Biarkan saya mengembalikan apel Anda kembali. Itu adalah permainan yang hebat dan saya harap kita akan bermain lagi beberapa waktu yang lain."
 
 # mesf("I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. "
 #: npc/airports/airships.txt
@@ -2707,32 +2729,33 @@ msgctxt "applegamble"
 msgid ""
 "I got ^0000FF%d^000000 and the total is now ^0000FF%d^000000. With total ^FF0000%d^000000 you lost this game, "
 "^FF0000%s^000000. I am sorry but please try again."
-msgstr ""
+msgstr "Saya mendapat ^ 0000FF% d ^ 000000 dan totalnya sekarang ^ 0000FF% d ^ 000000. Dengan total ^ FF0000% d ^ 000000 Anda kehilangan game ini, "
+"^ FF0000% s ^ 000000. Saya minta maaf tapi coba lagi."
 
 # mes("[Airport Staff]");
 #: npc/airports/einbroch.txt
 msgctxt "Airport Staff#airport1a::airport1"
 msgid "[Airport Staff]"
-msgstr ""
+msgstr "[Staf Bandara]"
 
 # mes("Welcome to the\r"
 #: npc/airports/einbroch.txt
 msgctxt "Airport Staff#airport1a::airport1"
 msgid ""
 "Welcome to the\rEinbroch Airport,\rwhere we offer nonstop\rflights to the cities of\rJuno, Lighthalzen and Hugel."
-msgstr ""
+msgstr "Selamat datang di Bandara Internasional, di mana kami menawarkan lampu kilat tanpa henti ke kota-kota di \ rJuno, Lighthalzen dan Hugel."
 
 # if (select("Board the Airship", "Cancel") == 1) {
 #: npc/airports/einbroch.txt
 msgctxt "Airport Staff#airport1a::airport1"
 msgid "Board the Airship"
-msgstr ""
+msgstr "Papan kapal"
 
 # if (select("Board the Airship", "Cancel") == 1) {
 #: npc/airports/einbroch.txt
 msgctxt "Airport Staff#airport1a::airport1"
 msgid "Cancel"
-msgstr ""
+msgstr "Membatalkan"
 
 # mes("The Airship boarding fee\r"
 #: npc/airports/einbroch.txt
@@ -2740,19 +2763,20 @@ msgctxt "Airport Staff#airport1a::airport1"
 msgid ""
 "The Airship boarding fee\ris 1,200 zeny, but if you've\rgot a Free Ticket for Airship,\rthe fee will be waived. Will"
 "\ryou board the Airship?"
-msgstr ""
+msgstr "Biaya asrama Pesawat $ 1.200 zeny, tapi jika Anda sudah mendapatkan Tiket Gratis untuk Pesawat, \ biaya akan dihapuskan. Akan"
+"Anda menaiki pesawat?"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/einbroch.txt
 msgctxt "Airport Staff#airport1a::airport1"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/einbroch.txt
 msgctxt "Airport Staff#airport1a::airport1"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("I'm sorry, but you don't\r"
 #: npc/airports/einbroch.txt
@@ -2760,25 +2784,26 @@ msgctxt "Airport Staff#airport1a::airport1"
 msgid ""
 "I'm sorry, but you don't\rhave a Free Ticket for\rAirship and you don't have\renough zeny for boarding\rthe Airship. "
 "Remember, the\rboarding fee is 1,200 zeny."
-msgstr ""
+msgstr "Maaf, tapi Anda tidak punya Tiket Gratis untuk \ RAirship dan Anda tidak memiliki \ renough zeny untuk menaiki pesawat. "
+"Ingat, biaya rastering adalah 1.200 zeny."
 
 # mes("Thank you and\r"
 #: npc/airports/einbroch.txt
 msgctxt "Airport Staff#airport1a::airport1"
 msgid "Thank you and\rhave a nice day."
-msgstr ""
+msgstr "Terima kasih dan semoga harimu menyenangkan."
 
 # mes("[Arrival Staff]");
 #: npc/airports/einbroch.txt
 msgctxt "Arrival Staff#airport2a::airport2"
 msgid "[Arrival Staff]"
-msgstr ""
+msgstr "[Staf Kedatangan]"
 
 # mes("Welcome to Einbroch Airport.");
 #: npc/airports/einbroch.txt
 msgctxt "Arrival Staff#airport2a::airport2"
 msgid "Welcome to Einbroch Airport."
-msgstr ""
+msgstr "Selamat datang di Bandara Einbroch."
 
 # mes("If you are arriving from your\r"
 #: npc/airports/einbroch.txt
@@ -2786,19 +2811,20 @@ msgctxt "Arrival Staff#airport2a::airport2"
 msgid ""
 "If you are arriving from your\rflight, let me guide you to the\rmain terminal. Otherwise, please board the Airship "
 "to depart to\rJuno, Lighthalzen and Hugel."
-msgstr ""
+msgstr "Jika Anda tiba dari penerbangan Anda, biarkan saya membimbing Anda ke terminal \ rmain. Jika tidak, silakan naik pesawat "
+"Berangkat ke \ Juno, Lighthalzen dan Hugel."
 
 # if (select("Exit to main terminal.", "Cancel.") == 1) {
 #: npc/airports/einbroch.txt
 msgctxt "Arrival Staff#airport2a::airport2"
 msgid "Exit to main terminal."
-msgstr ""
+msgstr "Keluar ke terminal utama."
 
 # if (select("Exit to main terminal.", "Cancel.") == 1) {
 #: npc/airports/einbroch.txt
 msgctxt "Arrival Staff#airport2a::airport2"
 msgid "Cancel."
-msgstr ""
+msgstr "Membatalkan."
 
 # mes("Once you're in the main terminal, you will need to pay the fee again\r"
 #: npc/airports/einbroch.txt
@@ -2806,43 +2832,44 @@ msgctxt "Arrival Staff#airport2a::airport2"
 msgid ""
 "Once you're in the main terminal, you will need to pay the fee again\rto board an Airship. You should\ronly exit if "
 "the city of Einbroch\ris your intended destination."
-msgstr ""
+msgstr "Begitu Anda berada di terminal utama, Anda perlu membayar biaya lagi untuk naik pesawat. Anda harus keluar jika "
+"Kota Einbroch \ menaikkan tujuan yang Anda maksudkan."
 
 # mes("Proceed to the main terminal?");
 #: npc/airports/einbroch.txt
 msgctxt "Arrival Staff#airport2a::airport2"
 msgid "Proceed to the main terminal?"
-msgstr ""
+msgstr "Lanjutkan ke terminal utama?"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/einbroch.txt
 msgctxt "Arrival Staff#airport2a::airport2"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/einbroch.txt
 msgctxt "Arrival Staff#airport2a::airport2"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("Alright, thank you\r"
 #: npc/airports/einbroch.txt
 msgctxt "Arrival Staff#airport2a::airport2"
 msgid "Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant flight~"
-msgstr ""
+msgstr "Baiklah, terima kasih atas patronase Anda \ dan semoga Anda memiliki penerbangan yang menyenangkan ~"
 
 # mes("[Airship Staff]");
 #: npc/airports/einbroch.txt
 msgctxt "Airship Staff#ein01"
 msgid "[Airship Staff]"
-msgstr ""
+msgstr "[Staf Angkatan Udara]"
 
 # mes("Welcome to the\r"
 #: npc/airports/einbroch.txt
 msgctxt "Airship Staff#ein01"
 msgid "Welcome to the\rEinbroch Airport."
-msgstr ""
+msgstr "Selamat datang di \ rEinbroch Airport."
 
 # mes("Please use this door to\r"
 #: npc/airports/einbroch.txt
@@ -2850,7 +2877,8 @@ msgctxt "Airship Staff#ein01"
 msgid ""
 "Please use this door to\rboard the Airship which stops\rover Juno, Lighthalzen and\rHugel in the Schwaltzvalt "
 "Republic."
-msgstr ""
+msgstr ""Silakan gunakan pintu ini untuk menaiki pesawat yang menghentikan Juno, Lighthalzen dan \ rHugel di Schwaltzvalt"
+"Republik."
 
 # mes("Otherwise, if Einbroch is\r"
 #: npc/airports/einbroch.txt
@@ -2858,31 +2886,32 @@ msgctxt "Airship Staff#ein01"
 msgid ""
 "Otherwise, if Einbroch is\ryour intended destination,\rplease head down the stairs\rand ask the Arrival Staff to lead"
 "\ryou to the main terminal. Thank\ryou, and enjoy your travels."
-msgstr ""
+msgstr "Jika tidak, jika Einbroch adalah tujuan yang Anda maksudkan, \ rplease ke bawah menaiki tangga dan mintalah Staf Kedatangan untuk memimpin "
+"Anda ke terminal utama, terima kasih, dan nikmati perjalanan Anda."
 
 # mes("To use the airship, you are required to pay 1,200 zeny or a Free Airship Ticket.");
 #: npc/airports/hugel.txt
 msgctxt "toairplane#hugel"
 msgid "To use the airship, you are required to pay 1,200 zeny or a Free Airship Ticket."
-msgstr ""
+msgstr "Untuk menggunakan pesawat terbang, Anda diharuskan membayar 1.200 zeny atau Tiket Pesawat Gratis."
 
 # mes("Would you like to use the service?");
 #: npc/airports/hugel.txt
 msgctxt "toairplane#hugel"
 msgid "Would you like to use the service?"
-msgstr ""
+msgstr "Apakah Anda ingin menggunakan layanan ini?"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/hugel.txt
 msgctxt "toairplane#hugel"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/hugel.txt
 msgctxt "toairplane#hugel"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("I am sorry, but you do not have enough money.");
 #: npc/airports/hugel.txt
@@ -2894,37 +2923,37 @@ msgstr ""
 #: npc/airports/hugel.txt
 msgctxt "toairplane#hugel"
 msgid "Please remember, you are required to pay 1,200 zeny to use the service."
-msgstr ""
+msgstr "Saya minta maaf, tapi Anda tidak punya cukup uang."
 
 # mes("Thank you, please come again.");
 #: npc/airports/hugel.txt
 msgctxt "toairplane#hugel"
 msgid "Thank you, please come again."
-msgstr ""
+msgstr "Terima kasih, tolong datang lagi"
 
 # mes("[Airship Staff]");
 #: npc/airports/izlude.txt
 msgctxt "::Airship_Staff_izlude"
 msgid "[Airship Staff]"
-msgstr ""
+msgstr "[Staf Angkatan Udara]"
 
 # mes("Welcome! Would you like\r"
 #: npc/airports/izlude.txt
 msgctxt "::Airship_Staff_izlude"
 msgid "Welcome! Would you like\rto board the Airship that\rdeparts on the flight wich stops\rin Juno and Rachel?"
-msgstr ""
+msgstr "SELAMAT DATANG! Apakah Anda ingin naik pesawat yang bertebaran di pesawat yang berhenti di Juno dan Rachel?"
 
 # if (select("Board the Airship to Juno/Rachel.", "Cancel.") == 1) {
 #: npc/airports/izlude.txt
 msgctxt "::Airship_Staff_izlude"
 msgid "Board the Airship to Juno/Rachel."
-msgstr ""
+msgstr "Papan kapal ke Juno / Rachel."
 
 # if (select("Board the Airship to Juno/Rachel.", "Cancel.") == 1) {
 #: npc/airports/izlude.txt
 msgctxt "::Airship_Staff_izlude"
 msgid "Cancel."
-msgstr ""
+msgstr "Membatalkan"
 
 # mes("The boarding fee is\r"
 #: npc/airports/izlude.txt
@@ -2932,115 +2961,116 @@ msgctxt "::Airship_Staff_izlude"
 msgid ""
 "The boarding fee is\r1,200 zeny. However, this\rcharged is waived if you use\ra Free Ticket for Airship. Now,\rwould "
 "you still like to board?"
-msgstr ""
+msgstr "Biaya asrama adalah zeny. Namun, ini dibebastugaskan jika Anda menggunakan Tiket Gratis untuk Pesawat. Sekarang,
+"Kamu masih suka naik?"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/izlude.txt
 msgctxt "::Airship_Staff_izlude"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/izlude.txt
 msgctxt "::Airship_Staff_izlude"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("I'm sorry, but you don't\r"
 #: npc/airports/izlude.txt
 msgctxt "::Airship_Staff_izlude"
 msgid "I'm sorry, but you don't\rhave 1,200 zeny to pay\rfor the boarding fee."
-msgstr ""
+msgstr "Maaf, tapi Anda tidak punya 1.200 zeny untuk membayar biaya asrama."
 
 # mes("Thank you and\r"
 #: npc/airports/izlude.txt
 msgctxt "::Airship_Staff_izlude"
 msgid "Thank you and\rplease come again."
-msgstr ""
+msgstr "Terima kasih dan tolong datang lagi."
 
 # mes("Have a good day~");
 #: npc/airports/izlude.txt
 msgctxt "::Airship_Staff_izlude"
 msgid "Have a good day~"
-msgstr ""
+msgstr "Semoga harimu menyenangkan ~"
 
 # mes("[Airport Staff]");
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "[Airport Staff]"
-msgstr ""
+msgstr "[Staf Bandara]"
 
 # mes("Welcome to the\r"
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Welcome to the\rLighthalzen Airport,\rwhere we offer nonstop\rflights to Einbroch, Juno and Hugel."
-msgstr ""
+msgstr "Selamat datang di Bandara Lighthalzen, di mana kami menawarkan penerbangan tanpa henti ke Einbroch, Juno dan Hugel."
 
 # if (select("Board the Airship.", "Cancel.") == 1) {
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Board the Airship."
-msgstr ""
+msgstr "Papan kapal."
 
 # if (select("Board the Airship.", "Cancel.") == 1) {
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Cancel."
-msgstr ""
+msgstr "Membatalkan"
 
 # mes("The boarding fee is\r"
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "The boarding fee is\r1,200 zeny, but you can\rwaive the fee if you redeem\ra Free Ticket for Airship."
-msgstr ""
+msgstr "Biaya asrama adalah \ r1,200 zeny, tapi Anda bisa membayar biaya jika Anda menukarkan Tiket Gratis untuk Pesawat."
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("[Airship Staff]");
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "[Airship Staff]"
-msgstr ""
+msgstr "[Staf Angkatan Udara]"
 
 # mes("I'm sorry, but you don't\r"
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "I'm sorry, but you don't\rhave 1,200 zeny to pay\rfor the boarding fee."
-msgstr ""
+msgstr "Maaf, tapi Anda tidak punya 1.200 zeny untuk membayar biaya asrama."
 
 # mes("Thank you and\r"
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Thank you and\rplease come again."
-msgstr ""
+msgstr "Terima kasih dan tolong datang lagi"
 
 # mes("Have a good day~");
 #: npc/airports/lighthalzen.txt
 msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
 msgid "Have a good day~"
-msgstr ""
+msgstr "Semoga harimu menyenangkan ~"
 
 # mes("[Arrival Staff]");
 #: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "[Arrival Staff]"
-msgstr ""
+msgstr "[Staf Kedatangan]"
 
 # mes("Welcome to Lighthalzen Airport.");
 #: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "Welcome to Lighthalzen Airport."
-msgstr ""
+msgstr "Selamat Datang di Lighthalzen Airport."
 
 # mes("Please let me guide you to the\r"
 #: npc/airports/lighthalzen.txt
@@ -3048,19 +3078,20 @@ msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid ""
 "Please let me guide you to the\rmain terminal if you are arriving from your flight. Otherwise, please\rboard the "
 "departing Airship to reach your intended destination."
-msgstr ""
+msgstr "Tolong biarkan saya membimbing Anda ke terminal darurat jika Anda tiba dari penerbangan Anda. Jika tidak, silahkan "
+"Berangkat Airship untuk mencapai tujuan yang Anda inginkan."
 
 # if (select("Exit to main terminal.", "Cancel.") == 1) {
 #: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "Exit to main terminal."
-msgstr ""
+msgstr "Keluar ke terminal utama."
 
 # if (select("Exit to main terminal.", "Cancel.") == 1) {
 #: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "Cancel."
-msgstr ""
+msgstr "Membatalkan"
 
 # mes("Once you're in the main terminal, you will need to pay the fee again\r"
 #: npc/airports/lighthalzen.txt
@@ -3068,73 +3099,74 @@ msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid ""
 "Once you're in the main terminal, you will need to pay the fee again\rto board an Airship. You should\ronly exit if "
 "Lighthalzen is your intended destination. Shall we\rproceed to the main terminal?"
-msgstr ""
+msgstr "Begitu Anda berada di terminal utama, Anda perlu membayar biaya lagi untuk naik pesawat. Anda harus keluar jika "
+"Lighthalzen adalah tujuan yang Anda inginkan. Bisakah kita maju ke terminal utama?"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("Alright, thank you\r"
 #: npc/airports/lighthalzen.txt
 msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
 msgid "Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant flight~"
-msgstr ""
+msgstr "Baiklah, terima kasih atas patronase Anda \ dan semoga Anda memiliki penerbangan yang menyenangkan ~"
 
 # mes("To use the airship, you are required to pay 1,200 zeny or a Free Airship Ticket.");
 #: npc/airports/rachel.txt
 msgctxt "toairplane#rachel"
 msgid "To use the airship, you are required to pay 1,200 zeny or a Free Airship Ticket."
-msgstr ""
+msgstr "Untuk menggunakan pesawat terbang, Anda diharuskan membayar 1.200 zeny atau Tiket Pesawat Gratis."
 
 # mes("Would you like to use the service?");
 #: npc/airports/rachel.txt
 msgctxt "toairplane#rachel"
 msgid "Would you like to use the service?"
-msgstr ""
+msgstr "Apakah Anda ingin menggunakan layanan ini?"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/rachel.txt
 msgctxt "toairplane#rachel"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/rachel.txt
 msgctxt "toairplane#rachel"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("I am sorry, but you do not have enough money.");
 #: npc/airports/rachel.txt
 msgctxt "toairplane#rachel"
 msgid "I am sorry, but you do not have enough money."
-msgstr ""
+msgstr "Saya minta maaf, tapi Anda tidak punya cukup uang."
 
 # mes("Please remember, you are required to pay 1,200 zeny to use the service.");
 #: npc/airports/rachel.txt
 msgctxt "toairplane#rachel"
 msgid "Please remember, you are required to pay 1,200 zeny to use the service."
-msgstr ""
+msgstr "Harap diingat, Anda diminta membayar 1.200 zeny untuk menggunakan layanan ini."
 
 # mes("Thank you, please come again.");
 #: npc/airports/rachel.txt
 msgctxt "toairplane#rachel"
 msgid "Thank you, please come again."
-msgstr ""
+msgstr "Terima kasih, tolong datang lagi"
 
 # mes("[Airport Staff]");
 #: npc/airports/yuno.txt
 msgctxt "Airport Staff#y_air1a::y_airport1"
 msgid "[Airport Staff]"
-msgstr ""
+msgstr "[Staf Bandara]"
 
 # mes("Welcome to Juno Airport where we offer domestic flights to Einbroch, Lighthalzen and Hugel,\r"
 #: npc/airports/yuno.txt
@@ -3142,25 +3174,26 @@ msgctxt "Airport Staff#y_air1a::y_airport1"
 msgid ""
 "Welcome to Juno Airport where we offer domestic flights to Einbroch, Lighthalzen and Hugel,\rand international "
 "flights to Izlude and Rachel."
-msgstr ""
+msgstr "Selamat datang di Bandara Juno tempat kami menawarkan penerbangan domestik ke Einbroch, Lighthalzen and Hugel, \ rand international "
+"Penerbangan ke Izlude dan Rachel."
 
 # mes("How may I be of service?");
 #: npc/airports/yuno.txt
 msgctxt "Airport Staff#y_air1a::y_airport1"
 msgid "How may I be of service?"
-msgstr ""
+msgstr "Bagaimana mungkin saya melayani?"
 
 # if (select("Board the Airship.", "Cancel.") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "Airport Staff#y_air1a::y_airport1"
 msgid "Board the Airship."
-msgstr ""
+msgstr "Papan kapal."
 
 # if (select("Board the Airship.", "Cancel.") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "Airport Staff#y_air1a::y_airport1"
 msgid "Cancel."
-msgstr ""
+msgstr "Membatalkan"
 
 # mes("The boarding fee for all\r"
 #: npc/airports/yuno.txt
@@ -3168,37 +3201,38 @@ msgctxt "Airport Staff#y_air1a::y_airport1"
 msgid ""
 "The boarding fee for all\rflights is 1,200 zeny. If you\ruse a Free Ticket for Airship,\rthe boarding fee will be "
 "waived.So would you like to depart?"
-msgstr ""
+msgstr "Biaya asrama untuk semua lampu kilat adalah 1.200 zeny. Jika Anda menggunakan Tiket Gratis untuk Pesawat, biaya asrama akan menjadi "
+"Waived.So maukah kamu berangkat?"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "Airport Staff#y_air1a::y_airport1"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "Airport Staff#y_air1a::y_airport1"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("I'm sorry, but you don't\r"
 #: npc/airports/yuno.txt
 msgctxt "Airport Staff#y_air1a::y_airport1"
 msgid "I'm sorry, but you don't\rhave 1,200 zeny to pay\rfor the boarding fee."
-msgstr ""
+msgstr "Maaf, tapi Anda tidak punya 1.200 zeny untuk membayar biaya asrama."
 
 # mes("Thank you and\r"
 #: npc/airports/yuno.txt
 msgctxt "Airport Staff#y_air1a::y_airport1"
 msgid "Thank you and\rhave a nice day."
-msgstr ""
+msgstr "Terima kasih dan semoga harimu menyenangkan."
 
 # mes("[Airport Staff]");
 #: npc/airports/yuno.txt
 msgctxt "Arrival Staff#y_air2a::y_airport2"
 msgid "[Airport Staff]"
-msgstr ""
+msgstr "[Staf Bandara]"
 
 # mes("Welcome to Juno Airport. If you've just arrived from your\r"
 #: npc/airports/yuno.txt
@@ -3206,19 +3240,20 @@ msgctxt "Arrival Staff#y_air2a::y_airport2"
 msgid ""
 "Welcome to Juno Airport. If you've just arrived from your\rflight, let me guide you to the main terminal. Otherwise, "
 "please\rboard the departing Airship to reach your intended destination."
-msgstr ""
+msgstr ""Selamat Datang di Bandara Juno Jika Anda baru saja tiba dari penerbangan Anda, biarkan saya membimbing Anda ke terminal utama Jika tidak,"
+"Tolong naik pesawat terbang untuk mencapai tujuan yang Anda inginkan."
 
 # if (select("Exit to main terminal", "Cancel") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "Arrival Staff#y_air2a::y_airport2"
 msgid "Exit to main terminal"
-msgstr ""
+msgstr "Keluar ke terminal utama"
 
 # if (select("Exit to main terminal", "Cancel") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "Arrival Staff#y_air2a::y_airport2"
 msgid "Cancel"
-msgstr ""
+msgstr "Membatalkan"
 
 # mes("Once you're in the main terminal, you must pay the fee once again\r"
 #: npc/airports/yuno.txt
@@ -3226,31 +3261,32 @@ msgctxt "Arrival Staff#y_air2a::y_airport2"
 msgid ""
 "Once you're in the main terminal, you must pay the fee once again\rto board a departing Airship. You should only "
 "exit if your intended\rdestination is Juno. Proceed to\rexit to the main terminal?"
-msgstr ""
+msgstr "Begitu Anda berada di terminal utama, Anda harus membayar biaya sekali lagi untuk naik pesawat terbang. Anda seharusnya hanya "
+"Keluar jika tujuan yang dimaksud adalah Juno. Lanjutkan ke \ rexit ke terminal utama?"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "Arrival Staff#y_air2a::y_airport2"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "Arrival Staff#y_air2a::y_airport2"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("Alright, thank you\r"
 #: npc/airports/yuno.txt
 msgctxt "Arrival Staff#y_air2a::y_airport2"
 msgid "Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant flight~"
-msgstr ""
+msgstr "Baiklah, terima kasih atas patronase Anda \ dan semoga Anda memiliki penerbangan yang menyenangkan ~"
 
 # mes("[Boarding Staff]");
 #: npc/airports/yuno.txt
 msgctxt "Domestic Boarding"
 msgid "[Boarding Staff]"
-msgstr ""
+msgstr "[Staf Asrama]"
 
 # mes("Would you like to board the\r"
 #: npc/airports/yuno.txt
@@ -3258,85 +3294,86 @@ msgctxt "Domestic Boarding"
 msgid ""
 "Would you like to board the\rAirship that flies to Einbroch,\rLighthalzen and Hugel? If so,\rplease let me guide you "
 "to that\rAirship's boarding area."
-msgstr ""
+msgstr "Apakah Anda ingin naik ke kapal perang yang terbang ke Einbroch, \ rLighthalzen dan Hugel? Jika ya, mohon biarkan saya membimbing Anda "
+"Ke area pesantren itu."
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "Domestic Boarding"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "Domestic Boarding"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("Very well, then.");
 #: npc/airports/yuno.txt
 msgctxt "Domestic Boarding"
 msgid "Very well, then."
-msgstr ""
+msgstr "Baiklah kalau begitu."
 
 # mes("Thank you for your\r"
 #: npc/airports/yuno.txt
 msgctxt "Domestic Boarding"
 msgid "Thank you for your\rpatronage, and I hope\ryou enjoy your travels~"
-msgstr ""
+msgstr "Terima kasih atas keberanianmu, dan kuharap kau menikmati perjalananmu ~"
 
 # mes("[Boarding Staff]");
 #: npc/airports/yuno.txt
 msgctxt "International Boarding"
 msgid "[Boarding Staff]"
-msgstr ""
+msgstr "[Staf Asrama]"
 
 # mes("Would you like to board\r"
 #: npc/airports/yuno.txt
 msgctxt "International Boarding"
 msgid "Would you like to board\rthe Airship which flies to\rJuno, Izlude and Rachel?"
-msgstr ""
+msgstr "Apakah Anda ingin naik ke pesawat yang terbang ke \ rJuno, Izlude dan Rachel?"
 
 # mes("If so, let me guide\r"
 #: npc/airports/yuno.txt
 msgctxt "International Boarding"
 msgid "If so, let me guide\ryou to the boarding area."
-msgstr ""
+msgstr "Jika ya, izinkan saya memandu Anda ke area asrama."
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "International Boarding"
 msgid "Yes"
-msgstr ""
+msgstr "Iya nih"
 
 # if (select("Yes", "No") == 1) {
 #: npc/airports/yuno.txt
 msgctxt "International Boarding"
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 # mes("Alright, then.");
 #: npc/airports/yuno.txt
 msgctxt "International Boarding"
 msgid "Alright, then."
-msgstr ""
+msgstr "Baik-baik saja maka."
 
 # mes("Thank you for flying\r"
 #: npc/airports/yuno.txt
 msgctxt "International Boarding"
 msgid "Thank you for flying\rwith us, and I hope you\renjoy your travels on our\rstate of the art Airships."
-msgstr ""
+msgstr "Terima kasih telah terbang \ bersama kami, dan semoga Anda meniru perjalanan Anda dengan kendaraan air seni kami."
 
 # mes("[Airship Staff]");
 #: npc/airports/yuno.txt
 msgctxt "Airship Staff#yuno01"
 msgid "[Airship Staff]"
-msgstr ""
+msgstr "[Staf Angkatan Udara]"
 
 # mes("Welcome to Juno Airport.");
 #: npc/airports/yuno.txt
 msgctxt "Airship Staff#yuno01"
 msgid "Welcome to Juno Airport."
-msgstr ""
+msgstr "Selamat Datang di Juno Airport."
 
 # mes("Please use this door to\r"
 #: npc/airports/yuno.txt
@@ -3344,7 +3381,8 @@ msgctxt "Airship Staff#yuno01"
 msgid ""
 "Please use this door to\rboard the Airship that will\rbe flying all the way to Izlude\rin the Rune-Midgarts Kingdom,"
 "\rand to Rachel in the Arunafeltz\rRepublic."
-msgstr ""
+msgstr "Silakan gunakan pintu ini untuk mengangkut Pesawat yang akan terbang sepanjang perjalanan ke Izlude di Kerajaan Rune-Midgarts, "
+"Rachel ke Arunafeltz \ rRubublik."
 
 # mes("Otherwise, if Juno is\r"
 #: npc/airports/yuno.txt
@@ -3352,19 +3390,20 @@ msgctxt "Airship Staff#yuno01"
 msgid ""
 "Otherwise, if Juno is\ryour intended destination,\rplease head down the stairs\rand ask the Arrival Staff to lead"
 "\ryou to the main terminal. Thank\ryou, and enjoy your travels."
-msgstr ""
+msgstr "Jika tidak, jika Juno adalah tujuan yang Anda maksudkan, silakan naik ke bawah tangga dan mintalah Staf Kedatangan untuk memimpin "
+"Anda ke terminal utama, terima kasih, dan nikmati perjalanan Anda."
 
 # mes("[Airship Staff]");
 #: npc/airports/yuno.txt
 msgctxt "Airship Staff#yuno02"
 msgid "[Airship Staff]"
-msgstr ""
+msgstr "[Staf Angkatan Udara]"
 
 # mes("Welcome to Juno Airport.");
 #: npc/airports/yuno.txt
 msgctxt "Airship Staff#yuno02"
 msgid "Welcome to Juno Airport."
-msgstr ""
+msgstr "Selamat Datang di Juno Airport."
 
 # mes("Please use this door to\r"
 #: npc/airports/yuno.txt
@@ -3372,7 +3411,8 @@ msgctxt "Airship Staff#yuno02"
 msgid ""
 "Please use this door to\rboard the Airship which stops\rover Einbroch, Lighthalzen and\rHugel in the Schwaltzvalt "
 "Republic."
-msgstr ""
+msgstr "Silakan gunakan pintu ini untuk mengangkut pesawat yang menghentikan peramal Einbroch, Lighthalzen dan \ rHugel di Schwaltzvalt "
+"Republik."
 
 # mes("Otherwise, if Juno is\r"
 #: npc/airports/yuno.txt
@@ -3380,61 +3420,62 @@ msgctxt "Airship Staff#yuno02"
 msgid ""
 "Otherwise, if Juno is\ryour intended destination,\rplease head down the stairs\rand ask the Arrival Staff to lead"
 "\ryou to the main terminal. Thank\ryou, and enjoy your travels."
-msgstr ""
+msgstr "Jika tidak, jika Juno adalah tujuan yang Anda maksudkan, silakan naik ke bawah tangga dan mintalah Staf Kedatangan untuk memimpin "
+"Anda ke terminal utama, terima kasih, dan nikmati perjalanan Anda."
 
 # mes("- Wait a minute !! -");
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "- Wait a minute !! -"
-msgstr ""
+msgstr "- Tunggu sebentar !! -"
 
 # mes("- Currently you're carrying -");
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "- Currently you're carrying -"
-msgstr ""
+msgstr "- Saat ini kamu membawa -"
 
 # mes("- too many items with you. -");
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "- too many items with you. -"
-msgstr ""
+msgstr "- terlalu banyak barang denganmu -"
 
 # mes("- Please try again -");
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "- Please try again -"
-msgstr ""
+msgstr "- Silakan coba lagi -"
 
 # mes("- after you loose some weight. -");
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "- after you loose some weight. -"
-msgstr ""
+msgstr "- setelah Anda menurunkan berat badan. -"
 
 # mes("[Guillaume Army Officer]");
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "[Guillaume Army Officer]"
-msgstr ""
+msgstr "[Guillaume Army Officer]"
 
 # mes("Let's show the power of the Guillaume Army to those stinky Croixs!");
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "Let's show the power of the Guillaume Army to those stinky Croixs!"
-msgstr ""
+msgstr "Mari tunjukkan kekuatan Angkatan Darat Guillaume kepada para Croix yang bau itu!"
 
 # switch(select("I want to join your army!", "End Conversation")) {
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "I want to join your army!"
-msgstr ""
+msgstr "Saya ingin bergabung dengan tentara Anda!"
 
 # switch(select("I want to join your army!", "End Conversation")) {
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "End Conversation"
-msgstr ""
+msgstr "Akhiri Percakapan"
 
 # mes("I'm very pleased that you want to join us and fight the Croix Army, but I'm sorry: I can't send a rookie like you to die on the cruel battlefield.");
 #: npc/battleground/flavius/flavius_enter.txt
@@ -3442,19 +3483,20 @@ msgctxt "Flavius Officer#01a"
 msgid ""
 "I'm very pleased that you want to join us and fight the Croix Army, but I'm sorry: I can't send a rookie like you to "
 "die on the cruel battlefield."
-msgstr ""
+msgstr "Saya sangat senang bahwa Anda ingin bergabung dengan kami dan melawan Angkatan Darat Croix, tapi saya menyesal: Saya tidak dapat mengirim seorang rookie seperti Anda untuk "
+"Mati di medan perang yang kejam."
 
 # mes("You seem to have just returned from the battlefield.");
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "You seem to have just returned from the battlefield."
-msgstr ""
+msgstr "Anda sepertinya baru kembali dari medan perang."
 
 # mes("It's too early for you to go back. Go rest, and leave the enemies to us!");
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01a"
 msgid "It's too early for you to go back. Go rest, and leave the enemies to us!"
-msgstr ""
+msgstr "Masih terlalu dini bagimu untuk kembali. Istirahatlah, dan tinggalkan musuh kepada kita!"
 
 # mes("I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Croixs already.");
 #: npc/battleground/flavius/flavius_enter.txt
@@ -3462,7 +3504,8 @@ msgctxt "Flavius Officer#01a"
 msgid ""
 "I've received a report informing me that an elite corps has been dispatched to the battlefield fighting the Croixs "
 "already."
-msgstr ""
+msgstr "Saya telah menerima sebuah laporan yang menginformasikan kepada saya bahwa korps elit telah dikirim ke medan perang untuk melawan Croix "
+"sudah."
 
 # mes("Why don't you go wait for a while? I suggest you sharpen your weapons and prepare your supplies until then.");
 #: npc/battleground/flavius/flavius_enter.txt
