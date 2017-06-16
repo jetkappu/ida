@@ -3547,7 +3547,7 @@ msgstr ""
 #: npc/battleground/flavius/flavius_enter.txt
 msgctxt "Flavius Officer#01b"
 msgid "- Wait a minute !! -"
-msgstr ""
+msgstr "- Tunggu sebentar !! -"
 
 # mes("- Currently you're carrying -");
 #: npc/battleground/flavius/flavius_enter.txt
